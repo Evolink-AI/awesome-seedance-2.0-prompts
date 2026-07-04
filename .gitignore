@@ -1,0 +1,8 @@
+__pycache__/
+.DS_Store
+scripts/
+result/
+seedance-prompt-update/
+seedance_2_prompt.json
+.env
+*.mp4
