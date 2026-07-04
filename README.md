@@ -1,6 +1,5 @@
 <div align="center">
 
-<a href="https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.5-prompts"><img src="./public/banner.jpg" alt="Awesome Seedance 2.5 Prompts banner"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![Prompts](https://img.shields.io/badge/Prompts-163_Curated_Cases-111111)](README.md)
@@ -79,7 +78,6 @@ Related repositories:
 - [Install the Seedance 2.0 OpenClaw skill](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
 - [Read the complete Seedance 2.0 guide](https://github.com/EvoLinkAI/awesome-seedance-2.5-guide)
 
-<a href='https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.5-prompts'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25" alt="Get Seedance 2.5 Early Access"></a>
 
 ## 📑 Menu
 
@@ -461,7 +459,6 @@ Japanese anime. Dialogue in Japanese. Flowing clouds. A girl walks, jumps cutely
 
 | Output |
 | :----: |
-| <a href="https://x.com/ZikinArt/status/2040006818953322644"><img src="./public/seedance_2_prompt_images/058.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -572,7 +569,6 @@ A daring aerial rogue diving on a bio-mechanical glider through a chaotic floati
 
 | Output |
 | :----: |
-| <a href="https://x.com/Dheepanratnam/status/2044338893764383111"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/ofW5CfXPYCWpNX7M.jpg" width="300" alt="Preview image"></a> |
 
 **Prompt:**
 
@@ -661,7 +657,6 @@ SHOT 07 (13-15s) wide aerial — jet exits frame at insane speed, heat haze trai
 
 | Output |
 | :----: |
-| <a href="https://x.com/john87445528/status/2039348028574744685"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/110.jpg" width="300" alt="Preview image"></a> |
 
 **Prompt:**
 
@@ -811,7 +806,6 @@ Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drip
 
 | Output |
 | :----: |
-| <a href="https://x.com/john87445528/status/2041000256930763046"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/2041000256930763046.jpg" width="300" alt="Preview image"></a> |
 
 **Prompt:**
 
@@ -887,7 +881,6 @@ No BGM. No subtitles. Only environmental sounds, radio, wind, fire, and people's
 
 | Output |
 | :----: |
-| <a href="https://x.com/Dheepanratnam/status/2039982273076810119"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/073.jpg" width="300" alt="Preview image"></a> |
 
 **Prompt:**
 
@@ -904,7 +897,6 @@ No BGM. No subtitles. Only environmental sounds, radio, wind, fire, and people's
 
 | Output |
 | :----: |
-| <a href="https://x.com/ChrisTheNerv/status/2040043939109953944"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/075.jpg" width="300" alt="Preview image"></a> |
 
 **Prompt:**
 
@@ -942,7 +934,6 @@ First-person, drone-like, body-mounted, and immersion-first prompts built around
 
 | Output |
 | :----: |
-| <a href="https://x.com/genel_ai/status/2039538309790404797"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/004.jpg" width="300" alt="Preview image"></a> |
 
 **Prompt:**
 
@@ -1335,7 +1326,6 @@ Camera holds briefly as car exits frame
 
 | Output |
 | :----: |
-| <a href="https://x.com/Yuupapa_free/status/2039329682492121547"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/113.jpg" width="300" alt="Preview image"></a> |
 
 **Prompt:**
 
@@ -1723,7 +1713,6 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 
 | Output |
 | :----: |
-| <a href="https://x.com/IamEmily2050/status/2040213294443847933"><img src="./public/seedance_2_prompt_images/070.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -1736,7 +1725,6 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 
 | Output |
 | :----: |
-| <a href="https://x.com/ChrisTheNerv/status/2040043939109953944"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/075.jpg" width="300" alt="Preview image"></a> |
 
 **Prompt:**
 
@@ -2120,7 +2108,6 @@ Timeline:
 
 | Output |
 | :----: |
-| <a href="https://x.com/applete77191758/status/2040450526819807277"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/015.jpg" width="300" alt="Preview image"></a> |
 
 **Prompt:**
 
@@ -2326,7 +2313,6 @@ Color and tonality: Hollywood teal-and-orange tone, low saturation. Generate the
 
 | Output |
 | :----: |
-| <a href="https://x.com/YaReYaRu30Life/status/2039971048305930643"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/059.jpg" width="300" alt="Preview image"></a> |
 
 **Prompt:**
 
@@ -2370,7 +2356,6 @@ Use `real-zasuko-2.0-character-sheet-dx.png` as the character reference. Start w
 
 | Output |
 | :----: |
-| <a href="https://x.com/john87445528/status/2039496153641660508"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/088.jpg" width="300" alt="Preview image"></a> |
 
 **Prompt:**
 
@@ -2640,7 +2625,6 @@ Lighting: balanced, high-end studio look, crisp shadows, premium finish.
 
 | Output |
 | :----: |
-| <a href="https://x.com/pan_soramame_da/status/2040921171059752988"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/2040921171059752988.jpg" width="300" alt="Preview image"></a> |
 
 **Prompt:**
 
@@ -2850,7 +2834,6 @@ Diegetic prismatic dimensional light reflecting through fractured architecture a
 
 | Output |
 | :----: |
-| <a href="https://x.com/Dheepanratnam/status/2039796932562838010"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/096.jpg" width="300" alt="Preview image"></a> |
 
 **Prompt:**
 
@@ -2865,7 +2848,6 @@ Rainy Underground Alley Merge
 
 | Output |
 | :----: |
-| <a href="https://x.com/Dheepanratnam/status/2039651240909435242"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/097.jpg" width="300" alt="Preview image"></a> |
 
 **Prompt:**
 
@@ -3281,7 +3263,6 @@ SUBJECTS: First-person cyclist, handlebars and front wheel flashing low in frame
 
 | Output |
 | :----: |
-| <a href="https://x.com/Just_sharon7/status/2039725656393875580"><img src="./public/seedance_2_prompt_images/094.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -3308,7 +3289,6 @@ SUBJECTS: First-person cyclist, handlebars and front wheel flashing low in frame
 
 | Output |
 | :----: |
-| <a href="https://x.com/Dheepanratnam/status/2039568902481387645"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/098.jpg" width="300" alt="Preview image"></a> |
 
 **Prompt:**
 
@@ -3591,7 +3571,6 @@ Background music: soft instrumental music (piano + bamboo flute), slow rhythm, e
 
 | Output |
 | :----: |
-| <a href="https://x.com/TingFengAIAI/status/2038904225548149011"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/002.jpg" width="300" alt="Preview image"></a> |
 
 **Prompt:**
 
@@ -3753,7 +3732,6 @@ A girl falls rapidly through a digital tunnel. The girl is panicking and flailin
 
 | Output |
 | :----: |
-| <a href="https://x.com/TechTalkNAVI/status/2040100728627454339"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/060.jpg" width="300" alt="Preview image"></a> |
 
 **Prompt:**
 
@@ -3999,7 +3977,6 @@ Scene: Black stand-up stage, strong spotlight illuminating the person, blurred s
 
 | Output |
 | :----: |
-| <a href="https://x.com/john87445528/status/2039496153641660508"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-seedance-2.0-prompts/main/public/seedance_2_prompt_images/088.jpg" width="300" alt="Preview image"></a> |
 
 **Prompt:**
 
