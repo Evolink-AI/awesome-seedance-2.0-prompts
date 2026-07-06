@@ -29,7 +29,7 @@ Convert a reusable Seedance 2.0 prompt into a video generation task:
 <p align="center">
   <a href="https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-prompts"><strong>Model Page</strong></a> &nbsp;·&nbsp;
   <a href="https://docs.evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-prompts"><strong>Docs</strong></a> &nbsp;·&nbsp;
-  <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-prompts"><strong>API Key</strong></a> &nbsp;·&nbsp;
+  <a href="https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-prompts&utm_content=api_key"><strong>API Key</strong></a> &nbsp;·&nbsp;
   <a href="https://github.com/EvoLinkAI/Seedance-2.5-Gateway-Service"><strong>API Examples</strong></a> &nbsp;·&nbsp;
   <a href="https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw"><strong>Skill</strong></a> &nbsp;·&nbsp;
   <a href="https://github.com/EvoLinkAI/awesome-seedance-2.5-guide"><strong>Seedance Guide</strong></a>
