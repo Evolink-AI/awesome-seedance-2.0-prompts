@@ -28,9 +28,9 @@ Uma coleção curada de prompts Seedance 2.0 de alta qualidade para geração de
 
 Idioma: **Português**
 
-- Documentação da API: [`EvoLinkAI/Seedance-2.5-Gateway-Service`](https://github.com/EvoLinkAI/Seedance-2.5-Gateway-Service)
-- Skill do OpenClaw: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
-- Guia completo: [`EvoLinkAI/awesome-seedance-2.5-guide`](https://github.com/EvoLinkAI/awesome-seedance-2.5-guide)
+- Documentação da API: [`EvoLinkAI/Seedance-2.5-Gateway-Service`](https://github.com/Evolink-AI/Seedance-2.0-Gateway-Service)
+- Skill do OpenClaw: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/Evolink-AI/Seedance-2.0-Gateway-Service)
+- Guia completo: [`EvoLinkAI/awesome-seedance-2.5-guide`](https://github.com/Evolink-AI/awesome-seedance-2.5-guide)
 
 ## 📑 Menu
 
@@ -230,6 +230,7 @@ Idioma: **Português**
 4. Mantenha tokens internos do prompt como `@image1` ou `<<<Image1>>>` quando fizerem parte da sintaxe pretendida.
 5. Use títulos, categorias e links de fonte como os principais pontos de navegação dentro do dataset limpo.
 
+<a id="action--fantasy"></a>
 ## ⚔️ Action / Fantasy
 
 Combat, chase, anime, wuxia, creature, and large-scale cinematic spectacle prompts.
@@ -398,7 +399,7 @@ Japanese anime. Dialogue in Japanese. Flowing clouds. A girl walks, jumps cutely
 ```
 
 <!-- Case 11: 15-Second Original Elemental Battle Short Film (by @ZikinArt) -->
-### Case 11: [15-Second Original Elemental Battle Short Film](https://x.com/ZikinArt/status/2040006818953322644) (by [@ZikinArt](https://x.com/ZikinArt))
+### Case 11: [15-Second Original Elemental Battle Short Film](https://web.archive.org/web/*/https://x.com/ZikinArt/status/2040006818953322644) (by [@ZikinArt](https://x.com/ZikinArt))
 
 | Output |
 | :----: |
@@ -784,6 +785,7 @@ Seedance 2.0 prompt 👇
 [00:00-00:01] 镜头1：粒子化解体（Particle Dissolve） 中景，明亮居家走廊。女性居中站立直视镜头，身穿深蓝色短袖与黑色短裤。 一道耀眼红色魔法光环从脚底升起，由下至上急速包裹全身（Red Magic Ring FX）。光环扫过之处，身体瞬间碎裂为极速旋转的红色光辉粒子（Particle Burst），整个人化作一团高速旋转的红色粒子球体。 [00:01-00:04] 镜头2：九尾狐凝形（Fox Materialization） 红色粒子球体从走廊门口飞速穿梭进入昏暗客厅（Particle Travel），拖出一条红色光尾轨迹。 粒子撞上深色丝绒沙发表面，炸开后迅速向内收缩聚拢，光影汇聚凝实，幻化为一只巨大的暗黑色九尾狐趴卧于沙发之上。 狐狸周身燃烧红紫相间的魔法火焰（Realistic Fire Simulation），火焰贴着毛发翻涌。体表金色发光符文缓慢流转明灭。九条蓬松巨尾自然散开，尾尖带红色微光。镜头缓推至狐狸面部，琥珀色瞳孔在暗光中发亮。 [00:04-00:12] 镜头3：狐灵化人（Slow Dolly In） 九尾狐全身泛起金色光芒，化作漫天金色火光粒子向上消散（Golden Dissolve FX）。金光散尽，沙发上丝滑显现侧卧的女性身影。 双丸子头发型，身穿紫红色抹胸紧身裙，外搭黑色薄纱披肩。赤足，白皙肤色，深红唇妆，眼神冷艳凌厉直视镜头。 冷色侧光（Cold Side Lighting），一侧明一侧暗。镜头从中景极缓推进至面部特写（Ultra Slow Dolly In），最终定格于双眼，瞳孔中隐约映出一丝残留的红色火光。
 ```
 
+<a id="cinematic-realism"></a>
 ## 🎞️ Cinematic Realism
 
 Grounded live-action prompts focused on mood, body language, practical light, and believable camera behavior.
@@ -851,6 +853,7 @@ Real light and shadow, visible skin texture on the face before transformation, v
 Layered progression from the scream activation to the explosive mechanical eruption, escalating to the takeoff point explosion and the sonic boom of the supersonic charge, finally cutting abruptly to silence. The entire sequence exudes absolute power. Generate sound effects only, no music.
 ```
 
+<a id="pov--fpv"></a>
 ## 🥽 POV / FPV
 
 First-person, drone-like, body-mounted, and immersion-first prompts built around camera momentum.
@@ -1291,6 +1294,7 @@ cinematic, heavy action blockbuster film, Japanese city center, collapsed main s
 extreme macro FPV tracking shot, camera tightly attached to the fairy's back, synchronized with wing flapping frequency
 ```
 
+<a id="commercial--product"></a>
 ## 🏷️ Commercial / Product
 
 Advertising, fashion, lifestyle, product, and premium brand-style prompts.
@@ -1602,7 +1606,7 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 ```
 
 <!-- Case 18: 00:00-00:04 Shot 1: Follow shot (by @IamEmily2050) -->
-### Case 18: [00:00-00:04 Shot 1: Follow shot](https://x.com/IamEmily2050/status/2040213294443847933) (by [@IamEmily2050](https://x.com/IamEmily2050))
+### Case 18: [00:00-00:04 Shot 1: Follow shot](https://web.archive.org/web/*/https://x.com/IamEmily2050/status/2040213294443847933) (by [@IamEmily2050](https://x.com/IamEmily2050))
 
 | Output |
 | :----: |
@@ -1703,7 +1707,7 @@ Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drip
 ```
 
 <!-- Case 21: Prompt 98 (by @ImperfectEngel) -->
-### Case 21: [Prompt 98](https://x.com/ImperfectEngel/status/2039796558238286329) (by [@ImperfectEngel](https://x.com/ImperfectEngel))
+### Case 21: [Prompt 98](https://web.archive.org/web/*/https://x.com/ImperfectEngel/status/2039796558238286329) (by [@ImperfectEngel](https://web.archive.org/web/*/https://x.com/ImperfectEngel))
 
 | Output |
 | :----: |
@@ -1957,6 +1961,7 @@ prompt 👇
 中景。女主手持一杯蓝黄渐变的精致鸡尾酒，杯中气泡缓缓上升。她轻抿一口，眉眼舒展露出满意的微醺神情，随后对镜头开心挥手，定格。
 ```
 
+<a id="reference-driven"></a>
 ## 🖼️ Reference-Driven
 
 Prompts that rely on image references, character consistency, or frame-to-frame control.
@@ -2583,6 +2588,7 @@ Smooth, high frame consistency
 Bright autu
 ```
 
+<a id="surreal--vfx"></a>
 ## 🌀 Surreal / VFX
 
 Abstract, impossible, stylized, or effect-heavy prompts driven by transformation and spectacle.
@@ -2849,6 +2855,7 @@ Seedance 2.0 prompt 👇
 生成一段15秒的高质量实拍风格特效短片，核心展示一位年轻女性通过滑动悬浮UI色环，实现场景与服装的无缝丝滑切换。注意分镜编排与转场节奏，画面需具备极佳的景深效果（Depth of field），人物面部始终保持清晰且光影立体。 【人物特征锁定】 全程锁定核心人物特征：年轻女性，标志性的金黄色短发，佩戴圆形金属边框眼镜。 【分镜与动作设计】 00:00-00:05：室内卧室夜景，背景有暖黄色的星星形状散景氛围灯串。人物头发微微扎起，穿浅米色长袖家居睡衣坐在床上。画面正前方悬浮着完整的半透明渐变彩色色环（UI交互元素）。人物微笑着看向镜头，伸出手自然地触碰并向右滑动发光的色环。 00:05-00:07：随着色环转动，无缝转场至明亮的室内窗边日景，阳光温暖。人物短发自然散落，瞬间换上鲜艳的亮橙色无袖紧身上衣和白色休闲裤，单手托腮，笑容灿烂。色环悬浮在画面右侧，光标高亮显示黄橙色区域。 00:07-00:09：无缝转场至户外公园日景，背景是高曝光的明亮绿树。人物靠在粗壮树干旁，换上薄荷绿色方领泡泡袖露脐短上衣和浅色高腰短裤，右手戴黑色半截皮手套，对着镜头俏皮眨眼，手指轻触嘴唇。色环悬浮右侧，光标高亮亮绿色。 00:09-00:11：无缝转场至户外开阔草地，背景蓝天白云。人物靠在灰白水泥矮墙上，穿简约深蓝紫色细吊带上衣，单手托下巴，表情慵懒清冷。色环移至画面左侧，光标高亮深紫色。 00:11-00:13：无缝转场至阳光明媚的户外樱花林，背景满是盛开的粉色樱花。人物换粉色细吊带上衣，单手轻轻撩动头顶头发，展现甜美治愈微笑。色环悬浮左侧，光标高亮粉红色。 00:13-00:15：无缝转场至户外传统中式建筑前，背景有虚化的红色柱子和古建飞檐。人物穿深红色偏焦糖色的露肩改良版中式旗袍上衣（带传统盘扣），姿态端庄优雅，单手放于锁骨处，眼神微垂看向镜头。色环悬浮左侧，光标高亮红色。 【特殊控制指令】 必须保证场景与服装的每次切换平滑无跳切感（丝滑转场），保持人物动作的延续性。每次切换时，人物的情绪微表情必须与当前的服装色彩氛围完美契合。配合画面色彩切换，可自动生成带有轻巧科技感UI音效及动感节奏的BGM。
 ```
 
+<a id="templates--structured-formats"></a>
 ## 📐 Templates & Structured Formats
 
 Reusable prompt skeletons, JSON-style specs, and highly structured prompt formats.
@@ -3111,7 +3118,7 @@ SUBJECTS: First-person cyclist, handlebars and front wheel flashing low in frame
 ```
 
 <!-- Case 11: Prompt (by @Just_sharon7) -->
-### Case 11: [Prompt](https://x.com/Just_sharon7/status/2039725656393875580) (by [@Just_sharon7](https://x.com/Just_sharon7))
+### Case 11: [Prompt](https://web.archive.org/web/*/https://x.com/Just_sharon7/status/2039725656393875580) (by [@Just_sharon7](https://x.com/Just_sharon7))
 
 | Output |
 | :----: |
@@ -3383,6 +3390,7 @@ seamless transformation flow
 "SUBJECTS: A female warrior with shoulder-length hair, the ends naturally flipping outward, pressed backward and slightly disheveled by air resistance during high-speed movement. She wears a dark, form-fitting tactical suit combining real fabric and worn metal elements, with visible water stains, dust, and signs of use. A dual mechanical grappling hook system mounted on her back, capable of firing steel cables that retract to generate pulling force. The hook tips are metal impact heads used for attaching to or striking solid structures. The cable only triggers when support is lost or during a fall, and must latch onto a solid object before generating tension. Movement relies on: sliding, stepping, grappling pull, swinging, contact, and displacement through reaction forces. A massive stone hand connected to a giant’s body (not severed, the arm extending upward into the clouds), descending vertically into frame from the cloud layer. Enormous in scale, with a weathered, rough surface, no glow, no regular structure. Each downward press carries clear weight, acceleration, air compression, and impact inertia. ENVIRONMENT: A high-altitude fractured bridge structure with wet, slippery concrete surfaces, showing water traces, cracks, and scattered debris. The bridge is heavily damaged, with irregular टूट sections, exposed and bent rebar, and hanging steel cables. Below the bridge is an empty abyss, swallowed by fog, with no visible ground. A distant city appears low and ruined, with r
 ```
 
+<a id="general-cinematic"></a>
 ## 🎬 General Cinematic
 
 Useful prompts that do not fit the tighter buckets above but remain strong general-purpose references.
@@ -4103,7 +4111,7 @@ This repository was inspired by excellent open prompt collections and community-
 
 Thanks to the creators and contributors who shared their work publicly and made this case collection possible. The prompt sources are preserved with attribution links on every entry.
 
-[@liyue_ai](https://x.com/liyue_ai), [@TingFengAIAI](https://x.com/TingFengAIAI), [@anson7956](https://x.com/anson7956), [@genel_ai](https://x.com/genel_ai), [@Adam38363368936](https://x.com/Adam38363368936), [@Just_sharon7](https://x.com/Just_sharon7), [@BarlowHakusyaku](https://x.com/BarlowHakusyaku), [@ShadeLurk](https://x.com/ShadeLurk), [@ZaraIrahh](https://x.com/ZaraIrahh), [@drjoetw](https://x.com/drjoetw), [@johnAGI168](https://x.com/johnAGI168), [@tea_story_hoshi](https://x.com/tea_story_hoshi), [@MiraMusic_AI](https://x.com/MiraMusic_AI), [@aigeboku](https://x.com/aigeboku), [@applete77191758](https://x.com/applete77191758), [@mikeymansta](https://x.com/mikeymansta), [@CharaspowerAI](https://x.com/CharaspowerAI), [@TechTalkNAVI](https://x.com/TechTalkNAVI), [@Viafin23](https://x.com/Viafin23), [@songguoxiansen](https://x.com/songguoxiansen), [@JiahaoYang_art](https://x.com/JiahaoYang_art), [@techhalla](https://x.com/techhalla), [@craftian_keskin](https://x.com/craftian_keskin), [@AITalesNBH](https://x.com/AITalesNBH), [@nopinduoduo](https://x.com/nopinduoduo), [@gkxspace](https://x.com/gkxspace), [@ChiakiAkagi](https://x.com/ChiakiAkagi), [@xingsthatmatter](https://x.com/xingsthatmatter), [@tebasaki3D](https://x.com/tebasaki3D), [@starks_arq](https://x.com/starks_arq), [@simple__dev](https://x.com/simple__dev), [@sebatheepan](https://x.com/sebatheepan), [@sailorv321](https://x.com/sailorv321), [@roco_kn_roco](https://x.com/roco_kn_roco), [@maxescu](https://x.com/maxescu), [@kuranoayashi](https://x.com/kuranoayashi), [@itsPixieVerse](https://x.com/itsPixieVerse), [@chaosdotjpg](https://x.com/chaosdotjpg), [@aisavvy1](https://x.com/aisavvy1), [@aimikoda](https://x.com/aimikoda), [@aiehon_aya](https://x.com/aiehon_aya), [@adrianaia_](https://x.com/adrianaia_), [@_3912657840](https://x.com/_3912657840), [@ZikinArt](https://x.com/ZikinArt), [@YaReYaRu30Life](https://x.com/YaReYaRu30Life), [@ShamiWeb3](https://x.com/ShamiWeb3), [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN), [@Rufus87078959](https://x.com/Rufus87078959), [@Mayz1169](https://x.com/Mayz1169), [@LudovicCreator](https://x.com/LudovicCreator), [@IamEmily2050](https://x.com/IamEmily2050), [@Gwsubsa](https://x.com/Gwsubsa), [@Dheepanratnam](https://x.com/Dheepanratnam), [@David_eficaz](https://x.com/David_eficaz), [@ChrisTheNerv](https://x.com/ChrisTheNerv), [@Artedeingenio](https://x.com/Artedeingenio), [@Alin_Reaper05](https://x.com/Alin_Reaper05), [@AIARTGALLARY](https://x.com/AIARTGALLARY), [@0xbisc](https://x.com/0xbisc), [@zasuko_michiksa](https://x.com/zasuko_michiksa), [@naoyuki_okada](https://x.com/naoyuki_okada), [@john87445528](https://x.com/john87445528), [@cdexsta](https://x.com/cdexsta), [@NimEshed](https://x.com/NimEshed), [@ImperfectEngel](https://x.com/ImperfectEngel), [@BrennanErbz](https://x.com/BrennanErbz), [@AskVenice](https://x.com/AskVenice), [@AngelNwoha](https://x.com/AngelNwoha), [@umitsuru_fire](https://x.com/umitsuru_fire), [@Yuupapa_free](https://x.com/Yuupapa_free), [@ChrisGwinnLA](https://x.com/ChrisGwinnLA), [@vladimircherner](https://x.com/vladimircherner), [@patchworkfilmuk](https://x.com/patchworkfilmuk), [@sravs_AI_labs](https://x.com/sravs_AI_labs), [@iX00AI](https://x.com/iX00AI), [@ivanka_humeniuk](https://x.com/ivanka_humeniuk), [@crayon1267](https://x.com/crayon1267), [@pan_soramame_da](https://x.com/pan_soramame_da), [@kinopioai_ai](https://x.com/kinopioai_ai), [@a_shimanski](https://x.com/a_shimanski), [@noman23761](https://x.com/noman23761), [@SPEEDAI07](https://x.com/SPEEDAI07), [@lynneatyoumind](https://x.com/lynneatyoumind), [@EHuanglu](https://x.com/EHuanglu), [@tanabe_fragm](https://x.com/tanabe_fragm), [@Reiria123](https://x.com/Reiria123), [@TomaAIbijo](https://x.com/TomaAIbijo)
+[@liyue_ai](https://x.com/liyue_ai), [@TingFengAIAI](https://x.com/TingFengAIAI), [@anson7956](https://x.com/anson7956), [@genel_ai](https://x.com/genel_ai), [@Adam38363368936](https://x.com/Adam38363368936), [@Just_sharon7](https://x.com/Just_sharon7), [@BarlowHakusyaku](https://x.com/BarlowHakusyaku), [@ShadeLurk](https://x.com/ShadeLurk), [@ZaraIrahh](https://x.com/ZaraIrahh), [@drjoetw](https://x.com/drjoetw), [@johnAGI168](https://x.com/johnAGI168), [@tea_story_hoshi](https://x.com/tea_story_hoshi), [@MiraMusic_AI](https://x.com/MiraMusic_AI), [@aigeboku](https://x.com/aigeboku), [@applete77191758](https://x.com/applete77191758), [@mikeymansta](https://x.com/mikeymansta), [@CharaspowerAI](https://x.com/CharaspowerAI), [@TechTalkNAVI](https://x.com/TechTalkNAVI), [@Viafin23](https://x.com/Viafin23), [@songguoxiansen](https://x.com/songguoxiansen), [@JiahaoYang_art](https://x.com/JiahaoYang_art), [@techhalla](https://x.com/techhalla), [@craftian_keskin](https://x.com/craftian_keskin), [@AITalesNBH](https://x.com/AITalesNBH), [@nopinduoduo](https://x.com/nopinduoduo), [@gkxspace](https://x.com/gkxspace), [@ChiakiAkagi](https://x.com/ChiakiAkagi), [@xingsthatmatter](https://x.com/xingsthatmatter), [@tebasaki3D](https://x.com/tebasaki3D), [@starks_arq](https://x.com/starks_arq), [@simple__dev](https://x.com/simple__dev), [@sebatheepan](https://x.com/sebatheepan), [@sailorv321](https://x.com/sailorv321), [@roco_kn_roco](https://x.com/roco_kn_roco), [@maxescu](https://x.com/maxescu), [@kuranoayashi](https://x.com/kuranoayashi), [@itsPixieVerse](https://x.com/itsPixieVerse), [@chaosdotjpg](https://x.com/chaosdotjpg), [@aisavvy1](https://x.com/aisavvy1), [@aimikoda](https://x.com/aimikoda), [@aiehon_aya](https://x.com/aiehon_aya), [@adrianaia_](https://x.com/adrianaia_), [@_3912657840](https://x.com/_3912657840), [@ZikinArt](https://x.com/ZikinArt), [@YaReYaRu30Life](https://x.com/YaReYaRu30Life), [@ShamiWeb3](https://x.com/ShamiWeb3), [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN), [@Rufus87078959](https://x.com/Rufus87078959), [@Mayz1169](https://x.com/Mayz1169), [@LudovicCreator](https://x.com/LudovicCreator), [@IamEmily2050](https://x.com/IamEmily2050), [@Gwsubsa](https://x.com/Gwsubsa), [@Dheepanratnam](https://x.com/Dheepanratnam), [@David_eficaz](https://x.com/David_eficaz), [@ChrisTheNerv](https://x.com/ChrisTheNerv), [@Artedeingenio](https://x.com/Artedeingenio), [@Alin_Reaper05](https://x.com/Alin_Reaper05), [@AIARTGALLARY](https://x.com/AIARTGALLARY), [@0xbisc](https://x.com/0xbisc), [@zasuko_michiksa](https://x.com/zasuko_michiksa), [@naoyuki_okada](https://x.com/naoyuki_okada), [@john87445528](https://x.com/john87445528), [@cdexsta](https://x.com/cdexsta), [@NimEshed](https://x.com/NimEshed), [@ImperfectEngel](https://web.archive.org/web/*/https://x.com/ImperfectEngel), [@BrennanErbz](https://x.com/BrennanErbz), [@AskVenice](https://x.com/AskVenice), [@AngelNwoha](https://x.com/AngelNwoha), [@umitsuru_fire](https://x.com/umitsuru_fire), [@Yuupapa_free](https://x.com/Yuupapa_free), [@ChrisGwinnLA](https://x.com/ChrisGwinnLA), [@vladimircherner](https://x.com/vladimircherner), [@patchworkfilmuk](https://x.com/patchworkfilmuk), [@sravs_AI_labs](https://x.com/sravs_AI_labs), [@iX00AI](https://x.com/iX00AI), [@ivanka_humeniuk](https://x.com/ivanka_humeniuk), [@crayon1267](https://x.com/crayon1267), [@pan_soramame_da](https://x.com/pan_soramame_da), [@kinopioai_ai](https://x.com/kinopioai_ai), [@a_shimanski](https://x.com/a_shimanski), [@noman23761](https://x.com/noman23761), [@SPEEDAI07](https://x.com/SPEEDAI07), [@lynneatyoumind](https://x.com/lynneatyoumind), [@EHuanglu](https://x.com/EHuanglu), [@tanabe_fragm](https://x.com/tanabe_fragm), [@Reiria123](https://x.com/Reiria123), [@TomaAIbijo](https://x.com/TomaAIbijo)
 
 *We cannot guarantee that every case is attributed to the original creator. If anything needs to be corrected, please contact us and we will update it.*
 
@@ -4125,5 +4133,4 @@ This repository curates Seedance 2.0 prompt examples from public web sources.
 - This repository is intended for learning, prompt research, and workflow reference.
 - Copyright for the original prompt text remains with the original authors.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/awesome-seedance-2.5-prompts&type=Date)](https://www.star-history.com/#EvoLinkAI/awesome-seedance-2.5-prompts&Date)
 - If any entry should be updated or removed, open an issue or submit a pull request with the relevant source link.

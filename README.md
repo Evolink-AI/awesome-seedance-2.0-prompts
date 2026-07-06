@@ -30,9 +30,9 @@ Convert a reusable Seedance 2.0 prompt into a video generation task:
   <a href="https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-prompts"><strong>Model Page</strong></a> &nbsp;·&nbsp;
   <a href="https://docs.evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-prompts"><strong>Docs</strong></a> &nbsp;·&nbsp;
   <a href="https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-prompts&utm_content=api_key"><strong>API Key</strong></a> &nbsp;·&nbsp;
-  <a href="https://github.com/EvoLinkAI/Seedance-2.5-Gateway-Service"><strong>API Examples</strong></a> &nbsp;·&nbsp;
-  <a href="https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw"><strong>Skill</strong></a> &nbsp;·&nbsp;
-  <a href="https://github.com/EvoLinkAI/awesome-seedance-2.5-guide"><strong>Seedance Guide</strong></a>
+  <a href="https://github.com/Evolink-AI/Seedance-2.0-Gateway-Service"><strong>API Examples</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/Evolink-AI/Seedance-2.0-Gateway-Service"><strong>Skill</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/Evolink-AI/awesome-seedance-2.5-guide"><strong>Seedance Guide</strong></a>
 </p>
 
 > [!NOTE]
@@ -74,9 +74,9 @@ If you find this useful, consider giving it a star. ⭐
 Related repositories:
 
 - [Get Seedance 2.5 Early Access](https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.5-prompts)
-- [Go to Seedance 2.0 API docs and examples](https://github.com/EvoLinkAI/Seedance-2.5-Gateway-Service)
-- [Install the Seedance 2.0 OpenClaw skill](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
-- [Read the complete Seedance 2.0 guide](https://github.com/EvoLinkAI/awesome-seedance-2.5-guide)
+- [Go to Seedance 2.0 API docs and examples](https://github.com/Evolink-AI/Seedance-2.0-Gateway-Service)
+- [Install the Seedance 2.0 OpenClaw skill](https://github.com/Evolink-AI/Seedance-2.0-Gateway-Service)
+- [Read the complete Seedance 2.0 guide](https://github.com/Evolink-AI/awesome-seedance-2.5-guide)
 
 
 ## 📑 Menu
@@ -277,6 +277,7 @@ Related repositories:
 4. Keep prompt-internal tokens such as `@image1` or `<<<Image1>>>` when they are part of the intended syntax.
 5. Use titles, categories, and source links as the main navigation anchors inside the cleaned dataset.
 
+<a id="action--fantasy"></a>
 ## ⚔️ Action / Fantasy
 
 Combat, chase, anime, wuxia, creature, and large-scale cinematic spectacle prompts.
@@ -286,7 +287,7 @@ Combat, chase, anime, wuxia, creature, and large-scale cinematic spectacle promp
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/541df943-58b6-4e38-b681-d48761994748" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -299,7 +300,7 @@ Combat, chase, anime, wuxia, creature, and large-scale cinematic spectacle promp
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/af56e832-727d-4e60-b4d5-27c1bfb69cef" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -312,7 +313,7 @@ Combat, chase, anime, wuxia, creature, and large-scale cinematic spectacle promp
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/e8d06a23-41ac-4fad-9235-9206cccbccaf" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -345,7 +346,7 @@ Special Effects Spectacle: The blue water dragon and the golden lightning instan
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/1b35b80f-143e-4e08-9a91-d8b355b166c1" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -359,7 +360,7 @@ Anime high-speed cut test — 20 hard cuts in 10 seconds (0.5 seconds per cut, n
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/c84d5e19-9580-4b3a-81bc-ec834eef88d1" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -377,7 +378,7 @@ From rusty disaster to purring monster in seconds.
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/6b3ee158-2a64-4254-bee7-1050df01bd64" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -391,7 +392,7 @@ The first half is a fierce battle on a battlefield covered in mud and flames. Th
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/e810f4dd-240a-4bad-b88f-3b324a93a78b" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -404,7 +405,7 @@ Stylized 3D animation with exaggerated proportions, sharp kung-fu-soccer choreog
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/b4344516-4458-421e-948f-63f3664820ae" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -423,7 +424,7 @@ Camera: fast cuts, whip pans, strong motion blur, 0.6–1.2s pacing, ending in s
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/e24e8e78-f61d-44b3-a396-83037aa8a79f" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -446,7 +447,7 @@ Visual Style:
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/2d1a36c4-bc73-46fb-a17c-f633a74a9d65" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -455,7 +456,7 @@ Japanese anime. Dialogue in Japanese. Flowing clouds. A girl walks, jumps cutely
 ```
 
 <!-- Case 11: 15-Second Original Elemental Battle Short Film (by @ZikinArt) -->
-### Case 11: [15-Second Original Elemental Battle Short Film](https://x.com/ZikinArt/status/2040006818953322644) (by [@ZikinArt](https://x.com/ZikinArt))
+### Case 11: [15-Second Original Elemental Battle Short Film](https://web.archive.org/web/*/https://x.com/ZikinArt/status/2040006818953322644) (by [@ZikinArt](https://x.com/ZikinArt))
 
 | Output |
 | :----: |
@@ -471,7 +472,7 @@ Japanese anime. Dialogue in Japanese. Flowing clouds. A girl walks, jumps cutely
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/e7b3c2f7-be43-4ace-b33b-4faf5631a22e" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -484,7 +485,7 @@ Highly detailed cinematic 4K animated video, precious enchanted Faberge-style Ea
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/e3582b08-2c82-45af-a634-48c4dc2b0c39" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -497,7 +498,7 @@ Original 15-second short film about an elemental battle: In a volcanic mountain 
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/396caacc-ba29-4e06-9051-b7a805ad23ee" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -521,7 +522,7 @@ Ultra realistic, high-end cinematic action, precise choreography, glowing energy
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/9679c151-8f62-4e1e-ba42-9bb0a263dd74" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -543,7 +544,7 @@ Dense forest → cliff edge → open valley
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/503d4bb0-7861-404c-bf13-5527524b4a7a" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -556,7 +557,7 @@ A lone samurai stands on a cliff overlooking cherry blossom mountains at sunset,
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/3ad8a0db-47d3-4ff1-aa7f-c50ee946f98f" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -601,7 +602,7 @@ SHOT 15: WS, 50mm pull-out / L-cut with a match from the targeting screen close 
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/5b02e907-dca3-44a6-bf6e-3960466f3426" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -615,7 +616,7 @@ Two dragons, one blue and one red, are flying high above the clouds. They are fl
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/6d589f8e-3c07-438a-ace8-1167a96707e6" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -628,7 +629,7 @@ Two dragons, one blue and one red, are flying high above the clouds. They are fl
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/e6153d0b-1f6f-4559-b0f4-2a1ed64e42dd" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -669,7 +670,7 @@ A 15-second hyper-realistic epic war blockbuster. Style: rugged realism, 35mm ha
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/d2c60b58-6d7f-4eba-9d59-ea3f009b9fcd" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -682,7 +683,7 @@ Office Coffee Break Gone WrongShot 1: Tired office worker in a button-up shirt s
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/0de462a3-11f6-44ad-87c1-ad11d1a4dfeb" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -700,7 +701,7 @@ Weighty creature movement, believable scale,
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/1b4cd53d-3a7a-4cc3-8d46-d7d3bb39d620" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -726,7 +727,7 @@ The crowd erupts in thunderous cheers. The Black Swan slowly settles her stance,
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/44609de1-cac8-49e6-8d68-c5e67aa0234e" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -749,7 +750,7 @@ The crowd erupts in thunderous cheers. The Black Swan slowly settles her stance,
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/e6b3e463-547f-42c9-bbac-ffa18b9729a5" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -828,7 +829,7 @@ Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drip
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/a4526502-66f4-4861-ac21-a964e17703ad" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -843,7 +844,7 @@ Cinematic 10-second epic fantasy battle sequence in the style of Lord of the Rin
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/695c26d9-bf1b-4389-8ce7-af0e5d9a8356" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -857,6 +858,7 @@ Seedance 2.0 prompt 👇
 [00:00-00:01] 镜头1：粒子化解体（Particle Dissolve） 中景，明亮居家走廊。女性居中站立直视镜头，身穿深蓝色短袖与黑色短裤。 一道耀眼红色魔法光环从脚底升起，由下至上急速包裹全身（Red Magic Ring FX）。光环扫过之处，身体瞬间碎裂为极速旋转的红色光辉粒子（Particle Burst），整个人化作一团高速旋转的红色粒子球体。 [00:01-00:04] 镜头2：九尾狐凝形（Fox Materialization） 红色粒子球体从走廊门口飞速穿梭进入昏暗客厅（Particle Travel），拖出一条红色光尾轨迹。 粒子撞上深色丝绒沙发表面，炸开后迅速向内收缩聚拢，光影汇聚凝实，幻化为一只巨大的暗黑色九尾狐趴卧于沙发之上。 狐狸周身燃烧红紫相间的魔法火焰（Realistic Fire Simulation），火焰贴着毛发翻涌。体表金色发光符文缓慢流转明灭。九条蓬松巨尾自然散开，尾尖带红色微光。镜头缓推至狐狸面部，琥珀色瞳孔在暗光中发亮。 [00:04-00:12] 镜头3：狐灵化人（Slow Dolly In） 九尾狐全身泛起金色光芒，化作漫天金色火光粒子向上消散（Golden Dissolve FX）。金光散尽，沙发上丝滑显现侧卧的女性身影。 双丸子头发型，身穿紫红色抹胸紧身裙，外搭黑色薄纱披肩。赤足，白皙肤色，深红唇妆，眼神冷艳凌厉直视镜头。 冷色侧光（Cold Side Lighting），一侧明一侧暗。镜头从中景极缓推进至面部特写（Ultra Slow Dolly In），最终定格于双眼，瞳孔中隐约映出一丝残留的红色火光。
 ```
 
+<a id="cinematic-realism"></a>
 ## 🎞️ Cinematic Realism
 
 Grounded live-action prompts focused on mood, body language, practical light, and believable camera behavior.
@@ -866,7 +868,7 @@ Grounded live-action prompts focused on mood, body language, practical light, an
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/8932d394-fd35-4d24-98f8-a2206b839f5d" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -925,6 +927,7 @@ Real light and shadow, visible skin texture on the face before transformation, v
 Layered progression from the scream activation to the explosive mechanical eruption, escalating to the takeoff point explosion and the sonic boom of the supersonic charge, finally cutting abruptly to silence. The entire sequence exudes absolute power. Generate sound effects only, no music.
 ```
 
+<a id="pov--fpv"></a>
 ## 🥽 POV / FPV
 
 First-person, drone-like, body-mounted, and immersion-first prompts built around camera momentum.
@@ -957,7 +960,7 @@ The camera remains in a low, fetal position on the final bar, shaking from the a
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/477e9711-1d52-4bf0-bdda-0c0bbdf93a9a" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -982,7 +985,7 @@ Mood: energetic, futuristic, premium, fast-paced. Combine wide city views with f
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/5af0eb61-3bc6-4174-80af-6f40aa602863" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -995,7 +998,7 @@ Strictly follow the reference character’s face, hairstyle, outfit silhouette, 
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/93944843-fd86-4dca-b73e-42b883b26531" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1016,7 +1019,7 @@ Shot 8: Wide epic drone pull-back. Wukong stands silhouett
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/4a8faa66-0ad4-4a5c-ba05-1bb08e7698c2" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1052,7 +1055,7 @@ A rapid crane rise opens the entire pool party in golden-hour warm light, full o
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/0f1287b2-7156-455b-a756-626a127de908" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1067,7 +1070,7 @@ The camera bursts out from inside image1, the Tesla card, as the card spins forw
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/db3b143b-f0fc-4d6e-8aa5-9589838da446" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1139,7 +1142,7 @@ Freeze frame → dramatic music abruptly cuts.
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/073b65e0-40a2-426a-8080-122c217307fc" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1158,7 +1161,7 @@ Fast, smooth, continuous movement. No flying device, shadow, or reflection. Cine
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/45a53345-07e9-4309-99c2-1b94e7ad2a1b" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1193,7 +1196,7 @@ Photorealistic fire simulation, volumetric smoke, cinematic sunset lighting, rea
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/3f062168-22c1-4599-b63b-819d33236924" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1218,7 +1221,7 @@ Macro drink environment POV, carbonation bubble storms, melting ice transformati
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/73d371c6-dd8f-4caa-b092-b5650e53569e" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1231,7 +1234,7 @@ Gritty, raw handheld 35mm film aesthetic with natural film grain. Bright early-m
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/e555486a-74bb-47bd-a462-67fc196b2f81" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1244,7 +1247,7 @@ Gritty, raw handheld 35mm film aesthetic with natural film grain. Bright early-m
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/69f35065-5f67-4553-bc64-241d55cf26bc" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1257,7 +1260,7 @@ A super futuristic megacity after the apocalypse awakens in a storm. Dark clouds
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/8175b4b3-c633-49d8-901b-20b755fde804" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1338,7 +1341,7 @@ cinematic, heavy action blockbuster film, Japanese city center, collapsed main s
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/a141e8c4-0dcd-42fa-b099-480209501c16" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1360,7 +1363,7 @@ cinematic, heavy action blockbuster film, Japanese city center, collapsed main s
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/c042f41d-52ad-47d9-a4ad-074c59d573c2" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1373,7 +1376,7 @@ cinematic, heavy action blockbuster film, Japanese city center, collapsed main s
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/1a1089b9-98e9-4aed-8212-99a6b9785542" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1381,6 +1384,7 @@ cinematic, heavy action blockbuster film, Japanese city center, collapsed main s
 extreme macro FPV tracking shot, camera tightly attached to the fairy's back, synchronized with wing flapping frequency
 ```
 
+<a id="commercial--product"></a>
 ## 🏷️ Commercial / Product
 
 Advertising, fashion, lifestyle, product, and premium brand-style prompts.
@@ -1390,7 +1394,7 @@ Advertising, fashion, lifestyle, product, and premium brand-style prompts.
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/10ece9bd-dd8d-4c1c-a094-b0d8c85dec01" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1408,7 +1412,7 @@ Three anime girls perform Perfume-style formation dance on an illuminated stage.
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/ca91b7f8-d3ea-4ed0-a3b4-697e72e6e5db" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1421,7 +1425,7 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/95dc5dc9-ebb4-4423-8384-f2806e049005" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1437,7 +1441,7 @@ A strong hook within the first 2 seconds, followed by a stable and cohesive prog
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/8308c1cd-64ac-42eb-a795-629d618fcd09" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1457,7 +1461,7 @@ Shot 5 (3s): Close-up of the new snack package. Narration: "It's out! New releas
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/7fcb7e15-6170-4eb5-9477-6b29920051f1" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1481,7 +1485,7 @@ Ultra realistic, high-end martial arts film choreography, precise body mechanics
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/dbe90116-bba0-47dd-a4ab-25231720910e" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1501,7 +1505,7 @@ Maintain stable temporal continuity. Avoid unnatural frame interpolation. No exa
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/4e3bb308-ba70-43b2-9fdd-898a62ad3858" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1520,7 +1524,7 @@ Character identity is maintained throughout, real subtle head tilts, eye movemen
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/e4051b2b-abd0-4156-9e22-6d7f62c01023" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1533,7 +1537,7 @@ Character identity is maintained throughout, real subtle head tilts, eye movemen
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/374c6ee4-2486-4cd5-a7a1-13bd594d40fd" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1572,7 +1576,7 @@ Highest image quality: 8K.
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/18a1c5a9-6c7f-4222-806a-e91aa246540e" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1587,7 +1591,7 @@ Original Hot-Blooded Duel Anime Short Film: Two top warriors launch their final 
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/f7da95e3-bbc5-407d-b221-572299d9ee2b" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1600,7 +1604,7 @@ Original Hot-Blooded Duel Anime Short Film: Two top warriors launch their final 
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/d0f36d24-4ee2-4435-a6d4-9b1abc4a7aa5" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1636,7 +1640,7 @@ Atmosphere: Steam slowly rises against the backlight, the scene is so quiet you 
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/99789166-adfc-4ad3-bd7b-8fd2ffcb41bc" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1661,7 +1665,7 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/f5c6469b-298c-4985-ac86-934c10fa7e28" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1674,7 +1678,7 @@ Generate a visual blockbuster featuring an Asian supermodel and luxury sports ca
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/2b199d58-e903-4f0e-acba-3b36918ce368" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1687,7 +1691,7 @@ An android girl malfunctions and proceeds to destroy an evil research lab one af
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/08de775d-642c-404c-ba56-8201f75cf7e0" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1700,7 +1704,7 @@ Positive Prompt: Original action game concept trailer. The protagonist travels t
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/2f37da25-0603-408d-9097-2565b4b3e34f" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1709,7 +1713,7 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 ```
 
 <!-- Case 18: 00:00-00:04 Shot 1: Follow shot (by @IamEmily2050) -->
-### Case 18: [00:00-00:04 Shot 1: Follow shot](https://x.com/IamEmily2050/status/2040213294443847933) (by [@IamEmily2050](https://x.com/IamEmily2050))
+### Case 18: [00:00-00:04 Shot 1: Follow shot](https://web.archive.org/web/*/https://x.com/IamEmily2050/status/2040213294443847933) (by [@IamEmily2050](https://x.com/IamEmily2050))
 
 | Output |
 | :----: |
@@ -1758,7 +1762,7 @@ Layered progression from the scream activation to the explosive mechanical erupt
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/e6b3e463-547f-42c9-bbac-ffa18b9729a5" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1811,11 +1815,11 @@ Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drip
 ```
 
 <!-- Case 21: Prompt 98 (by @ImperfectEngel) -->
-### Case 21: [Train-Top Tactical Fight Sequence](https://x.com/ImperfectEngel/status/2039796558238286329) (by [@ImperfectEngel](https://x.com/ImperfectEngel))
+### Case 21: [Train-Top Tactical Fight Sequence](https://web.archive.org/web/*/https://x.com/ImperfectEngel/status/2039796558238286329) (by [@ImperfectEngel](https://web.archive.org/web/*/https://x.com/ImperfectEngel))
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/f4a97fd1-d6c1-41e3-8203-9da8f2c0ed07" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1828,7 +1832,7 @@ Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drip
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/f55ccbba-2d16-415d-b2fa-8f7593bed849" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1845,7 +1849,7 @@ The open-plan office hall of a luxurious securities company in Manhattan, USA, i
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/13401970-1a18-47a8-8cd0-0f699be26f40" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1859,7 +1863,7 @@ A crime wave has hit the city and the cops can't seem to get it together. Detect
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/de746ef6-c5f8-40df-a818-3577884c6b5b" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1884,7 +1888,7 @@ Requirements: Fast pace, tight transitions, high-end fashion, youthful energy, n
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/341e9b9e-acc6-465b-be58-b18233bcb4d1" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1925,7 +1929,7 @@ SHOT 15: WS, 50mm pull-out / L-cut with a match from the floor to the bed. The m
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/374c6ee4-2486-4cd5-a7a1-13bd594d40fd" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1964,7 +1968,7 @@ Highest image quality: 8K.
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/de746ef6-c5f8-40df-a818-3577884c6b5b" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -1989,7 +1993,7 @@ Requirements: Fast pace, tight transitions, high-end fashion, youthful energy, n
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/7f486efd-713c-4aa0-9d98-d3aa4a2992e1" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -2038,7 +2042,7 @@ prompt 👇
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/8b823a0d-f1b2-4f87-adc6-6f135311baf6" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -2074,6 +2078,7 @@ prompt 👇
 中景。女主手持一杯蓝黄渐变的精致鸡尾酒，杯中气泡缓缓上升。她轻抿一口，眉眼舒展露出满意的微醺神情，随后对镜头开心挥手，定格。
 ```
 
+<a id="reference-driven"></a>
 ## 🖼️ Reference-Driven
 
 Prompts that rely on image references, character consistency, or frame-to-frame control.
@@ -2083,7 +2088,7 @@ Prompts that rely on image references, character consistency, or frame-to-frame 
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/d9aed4e0-babd-4e27-806f-89596026d093" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -2184,7 +2189,7 @@ Motion blur + light streaks
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/6d4fe7b1-0a0c-4a5d-90c2-6e37fa621320" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -2263,7 +2268,7 @@ Notes:
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/6037b604-6551-4dc0-b7dc-4cb25c7f8278" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -2296,7 +2301,7 @@ Color and tonality: Hollywood teal-and-orange tone, low saturation. Generate the
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/b5463748-011f-4c63-92da-1a2ca8254025" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -2330,7 +2335,7 @@ Constant full-speed forward
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/c841acf4-1b3b-4d9f-a7dd-297e839a2698" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -2343,7 +2348,7 @@ Ray tracing, Unreal Engine render, small town in heavy rain. @image1 character w
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/3b249776-465f-4b3d-8285-f70ab8a178da" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -2372,7 +2377,7 @@ Chapter 3 (0-15 seconds): AITO M7 Transforms -> Becomes an F-14 -> Protagonist S
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/1b4cd53d-3a7a-4cc3-8d46-d7d3bb39d620" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -2464,7 +2469,7 @@ low cinematic pulse builds cuts abruptly at end
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/35622287-f25f-4a2b-a0b9-4cf15e214326" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -2496,7 +2501,7 @@ Shot Breakdown (15 shots in 15 seconds):
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/3eb2eef0-7e63-4f83-beb8-c0b3489df780" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -2511,7 +2516,7 @@ SUBJECTS: A lone sword-bearing woman in weathered fur and leather fights a massi
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/8083ab95-0eca-4710-9c55-44f9e1d582dc" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -2584,7 +2589,7 @@ seamless transformation flow
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/ee10e663-1267-471e-a106-56cd1e2741fc" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -2663,7 +2668,7 @@ Lighting: balanced, high-end studio look, crisp shadows, premium finish.
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/e0186556-2d35-4cb7-91be-48a8ddce31f0" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -2712,6 +2717,7 @@ Smooth, high frame consistency
 Bright autu
 ```
 
+<a id="surreal--vfx"></a>
 ## 🌀 Surreal / VFX
 
 Abstract, impossible, stylized, or effect-heavy prompts driven by transformation and spectacle.
@@ -2721,7 +2727,7 @@ Abstract, impossible, stylized, or effect-heavy prompts driven by transformation
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/186ca757-d676-48d5-99d6-2e8a814742d8" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -2766,7 +2772,7 @@ She regains balance, floating motionless as the scene holds on a final frame.
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/49d5f2db-ec04-4feb-ba76-ab468aa5e2c0" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -2780,7 +2786,7 @@ Aerial shot: skyline,
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/8a41cb99-af50-461c-9cad-acb4ef50a1e9" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -2793,7 +2799,7 @@ A diver floats motionless in pitch-black ocean depth, a single beam of light cut
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/1cf9b540-10d4-4254-ae3e-20945f84f54a" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -2866,7 +2872,7 @@ Cinematic 15-second high-budget sci-fi horror sequence on a rain-slicked downtow
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/e1ad7221-b9ca-4619-91df-826d915f013a" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -2893,7 +2899,7 @@ ultra detailed anime style, cinematic lighting, high contrast, no cartoon exagge
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/6483544e-dd68-43d3-b682-d2cd6cabe1e0" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -2922,7 +2928,7 @@ Photorealistic fire simulation, volumetric storm clouds, ray-traced lava glow, c
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/2d4912be-9040-4dd6-99d7-a88607ddb70e" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -2962,7 +2968,7 @@ FINAL: one last snap → seamless loop back to white studio, identical opening s
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/589502cd-8805-4f47-be1b-de1129ace578" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -2975,7 +2981,7 @@ FINAL: one last snap → seamless loop back to white studio, identical opening s
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/421a741c-b2fc-4784-be9b-0df768709759" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -2987,6 +2993,7 @@ Seedance 2.0 prompt 👇
 生成一段15秒的高质量实拍风格特效短片，核心展示一位年轻女性通过滑动悬浮UI色环，实现场景与服装的无缝丝滑切换。注意分镜编排与转场节奏，画面需具备极佳的景深效果（Depth of field），人物面部始终保持清晰且光影立体。 【人物特征锁定】 全程锁定核心人物特征：年轻女性，标志性的金黄色短发，佩戴圆形金属边框眼镜。 【分镜与动作设计】 00:00-00:05：室内卧室夜景，背景有暖黄色的星星形状散景氛围灯串。人物头发微微扎起，穿浅米色长袖家居睡衣坐在床上。画面正前方悬浮着完整的半透明渐变彩色色环（UI交互元素）。人物微笑着看向镜头，伸出手自然地触碰并向右滑动发光的色环。 00:05-00:07：随着色环转动，无缝转场至明亮的室内窗边日景，阳光温暖。人物短发自然散落，瞬间换上鲜艳的亮橙色无袖紧身上衣和白色休闲裤，单手托腮，笑容灿烂。色环悬浮在画面右侧，光标高亮显示黄橙色区域。 00:07-00:09：无缝转场至户外公园日景，背景是高曝光的明亮绿树。人物靠在粗壮树干旁，换上薄荷绿色方领泡泡袖露脐短上衣和浅色高腰短裤，右手戴黑色半截皮手套，对着镜头俏皮眨眼，手指轻触嘴唇。色环悬浮右侧，光标高亮亮绿色。 00:09-00:11：无缝转场至户外开阔草地，背景蓝天白云。人物靠在灰白水泥矮墙上，穿简约深蓝紫色细吊带上衣，单手托下巴，表情慵懒清冷。色环移至画面左侧，光标高亮深紫色。 00:11-00:13：无缝转场至阳光明媚的户外樱花林，背景满是盛开的粉色樱花。人物换粉色细吊带上衣，单手轻轻撩动头顶头发，展现甜美治愈微笑。色环悬浮左侧，光标高亮粉红色。 00:13-00:15：无缝转场至户外传统中式建筑前，背景有虚化的红色柱子和古建飞檐。人物穿深红色偏焦糖色的露肩改良版中式旗袍上衣（带传统盘扣），姿态端庄优雅，单手放于锁骨处，眼神微垂看向镜头。色环悬浮左侧，光标高亮红色。 【特殊控制指令】 必须保证场景与服装的每次切换平滑无跳切感（丝滑转场），保持人物动作的延续性。每次切换时，人物的情绪微表情必须与当前的服装色彩氛围完美契合。配合画面色彩切换，可自动生成带有轻巧科技感UI音效及动感节奏的BGM。
 ```
 
+<a id="templates--structured-formats"></a>
 ## 📐 Templates & Structured Formats
 
 Reusable prompt skeletons, JSON-style specs, and highly structured prompt formats.
@@ -2996,7 +3003,7 @@ Reusable prompt skeletons, JSON-style specs, and highly structured prompt format
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/cdc965b0-424e-4098-9051-a88c7b280f0e" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3013,7 +3020,7 @@ Seedance 2.0 text-to-video prompt below:
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/7629f680-ef76-4158-bccb-0a5bb42473bc" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3041,7 +3048,7 @@ Seedance 2.0 text-to-video prompt below:
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/61011b1e-ddf6-4129-bee0-b1065c4694c6" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3105,7 +3112,7 @@ Seedance 2.0 text-to-video prompt below:
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/3b2d45d3-bf02-4a03-b40c-acd7c4f6c9d3" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3140,7 +3147,7 @@ TIMELINE:
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/7af834d5-b52b-4df7-a94a-aec20c17eb42" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3156,7 +3163,7 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/a141e8c4-0dcd-42fa-b099-480209501c16" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3178,7 +3185,7 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/b5d5c11b-bdc1-4790-b76b-3b78ac783f02" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3200,7 +3207,7 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/f8b1d659-8654-47aa-90ad-13048bd5bbf1" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3231,7 +3238,7 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/0f21afb1-9713-4540-bdbe-e4e55b1b57d1" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3248,7 +3255,7 @@ Style: Painterly 3D, stylized on real human anatomy
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/4c0a562e-9467-4a69-9278-b9f7219fa1dc" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3259,7 +3266,7 @@ SUBJECTS: First-person cyclist, handlebars and front wheel flashing low in frame
 ```
 
 <!-- Case 11: Prompt (by @Just_sharon7) -->
-### Case 11: [Food and Character Motion Template](https://x.com/Just_sharon7/status/2039725656393875580) (by [@Just_sharon7](https://x.com/Just_sharon7))
+### Case 11: [Food and Character Motion Template](https://web.archive.org/web/*/https://x.com/Just_sharon7/status/2039725656393875580) (by [@Just_sharon7](https://x.com/Just_sharon7))
 
 | Output |
 | :----: |
@@ -3303,7 +3310,7 @@ Shot 01 (0:00–2:00): Camera starts at floor level on anti-slip
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/9c6c98d5-aebc-4c13-875d-ee4b243045e7" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3348,7 +3355,7 @@ Shot 01 (0:00–2:00): Camera starts at floor level on anti-slip
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/5ddf8aa7-073e-4342-a714-c6dce87cad6c" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3361,7 +3368,7 @@ FORMAT: 15s / handheld close + slow cuts / 5 beats / sci-fi drama — astronaut'
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/5777ebe2-6737-46fd-ba7a-e84c6883940f" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3376,7 +3383,7 @@ Subject 2: Golden Retriever, large head, broad chest, thick, fluffy fur; overall
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/c9b84414-e12a-4969-adf7-a9ad5f5681ad" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3443,7 +3450,7 @@ Subject 2: Golden Retriever, large head, broad chest, thick, fluffy fur; overall
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/2b470120-3ef3-4902-9876-28fe1a6d2f90" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3457,7 +3464,7 @@ Subject 1: First-person perspective hands (rendered in Monet impressionist oil p
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/8083ab95-0eca-4710-9c55-44f9e1d582dc" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3530,7 +3537,7 @@ seamless transformation flow
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/f25bb7f2-56d0-4de0-a89a-14e5918806d5" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3538,6 +3545,7 @@ seamless transformation flow
 "SUBJECTS: A female warrior with shoulder-length hair, the ends naturally flipping outward, pressed backward and slightly disheveled by air resistance during high-speed movement. She wears a dark, form-fitting tactical suit combining real fabric and worn metal elements, with visible water stains, dust, and signs of use. A dual mechanical grappling hook system mounted on her back, capable of firing steel cables that retract to generate pulling force. The hook tips are metal impact heads used for attaching to or striking solid structures. The cable only triggers when support is lost or during a fall, and must latch onto a solid object before generating tension. Movement relies on: sliding, stepping, grappling pull, swinging, contact, and displacement through reaction forces. A massive stone hand connected to a giant’s body (not severed, the arm extending upward into the clouds), descending vertically into frame from the cloud layer. Enormous in scale, with a weathered, rough surface, no glow, no regular structure. Each downward press carries clear weight, acceleration, air compression, and impact inertia. ENVIRONMENT: A high-altitude fractured bridge structure with wet, slippery concrete surfaces, showing water traces, cracks, and scattered debris. The bridge is heavily damaged, with irregular टूट sections, exposed and bent rebar, and hanging steel cables. Below the bridge is an empty abyss, swallowed by fog, with no visible ground. A distant city appears low and ruined, with r
 ```
 
+<a id="general-cinematic"></a>
 ## 🎬 General Cinematic
 
 Useful prompts that do not fit the tighter buckets above but remain strong general-purpose references.
@@ -3547,7 +3555,7 @@ Useful prompts that do not fit the tighter buckets above but remain strong gener
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/27a1213b-ce63-4720-bfc0-5c39ff07760b" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3589,7 +3597,7 @@ Beauty beat-sync sequence:
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/22e91a4c-51bc-4bff-8604-1ce6adfe2f73" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3607,7 +3615,7 @@ This is a thrilling, heart-pounding video packed with near escapes. The setting 
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/e64a4dc1-3969-4672-9458-7ec9c4a8e43f" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3620,7 +3628,7 @@ Raw mobile phone footage, vertical handheld shot, shaky cam, grainy texture. At 
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/d478b2d7-bcbf-43e1-b135-c122514cde11" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3633,7 +3641,7 @@ The firefighter is entering the house, at the 3-second mark the firefighter is w
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/bdec0be7-c556-4f55-8135-f10baa527b7c" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3653,7 +3661,7 @@ Seedance 2.0 all-purpose reference prompt below:
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/a5fac48c-304c-4f75-a33b-060e5318c7b2" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3672,7 +3680,7 @@ The female ninja's punch sends the ninja flying, crashing into a neon sign high 
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/d3673a31-f7f4-42fd-ae9f-8439ee72640e" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3687,7 +3695,7 @@ stories of a hopper.
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/694ce015-7458-4b39-a9fa-2a8e2dd70fe5" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3703,7 +3711,7 @@ Protagonist: Hiromu, Age 19
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/a3216e80-4863-42a2-8dc6-e8711e8a02c8" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3719,7 +3727,7 @@ aesthetic: phone held up in the middle of a packed crowd on the deck of a fishin
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/f1e96310-93da-41f3-a806-65380b9bffb1" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3754,7 +3762,7 @@ Lighting/Color: Cold white, purple discharge. Contrast between silence and roar.
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/7004745e-5296-4427-a424-52c129d47b9c" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3767,7 +3775,7 @@ A Hollywood movie trailer. A Marvel-style action movie where an ordinary America
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/e611045a-eeb1-42b3-bb61-a2a6d5ad22ed" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3780,7 +3788,7 @@ Cinematic vertical 9:16 video. Two versions of Rapunzel from Tangled walk side b
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/762e995a-f8f4-4e8e-9a57-5d1ae2443e78" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3801,7 +3809,7 @@ Glacier collapse megaflood, iceberg destruction chaos, cinematic polar disaster 
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/8fed20e4-b312-4ced-b8c4-1d3fc0b9adec" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3823,7 +3831,7 @@ The cat crashes into the keyboard section, causing a chaotic musical explosion. 
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/7f788cbc-4e13-4daa-98c7-7b75eac38872" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3844,7 +3852,7 @@ A small animal character walking through a quiet meadow.
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/00718cc0-83fb-4275-b75d-d9b4ea649786" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3857,7 +3865,7 @@ Victorian-era flying airships with brass gears and giant propellers battling ove
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/42332ec4-e4c8-4f32-ae2c-7641a18d8ce9" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3873,7 +3881,7 @@ timeline:
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/1e699893-1aed-4114-bddc-7b49d563db6c" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3887,7 +3895,7 @@ Exterior of an ancient temple in the deep mountains. The camera overlooks the te
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/d73a24a2-58a8-4460-9600-7656d0a080f5" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3916,7 +3924,7 @@ Fast cinematic cuts, smooth micro camera movements per shot (push, pan, slide, t
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/f59e086d-7832-47e3-b4b4-973f07d43eed" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3935,7 +3943,7 @@ Quick cut: Ottoman cannon
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/b82f5027-b0c8-477e-acc0-dfd40c373f91" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3955,7 +3963,7 @@ TIMELINE: 0-3s:
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/0c23ae95-ea4b-434c-b689-f6ccd25faf7e" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -3993,7 +4001,7 @@ Chapter 3 (0-15 seconds): AITO M7 Transforms -> Becomes an F-14 -> Protagonist S
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/dcfb93d9-0e93-4066-9d49-9dbfd24025f2" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -4028,7 +4036,7 @@ her boyfriend full of regret, ending with a low background music and whispers ar
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/4e3bb308-ba70-43b2-9fdd-898a62ad3858" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -4047,7 +4055,7 @@ Character identity is maintained throughout, real subtle head tilts, eye movemen
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/87393a6a-abd5-4a9f-8184-5718fad9bcd7" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -4067,7 +4075,7 @@ Seedance2.0提示词
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/954db689-f5ff-4265-8116-65baaa585040" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -4091,7 +4099,7 @@ Seedance2.0提示词
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/bdac91b2-4676-4a23-b6bb-5c49e2241261" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -4122,7 +4130,7 @@ Seedance2.0提示词
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/353b498c-96e4-4b15-8e0e-e0fe9e7c9372" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -4158,7 +4166,7 @@ You have to explicitly define energy levels
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/4a14e9d7-bcc0-4b84-85b6-5a710586498e" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -4179,7 +4187,7 @@ Same structure, completely different feeling.
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/d9dc324f-de1b-474c-beb1-1c8bf90c8b53" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -4192,7 +4200,7 @@ Same structure, completely different feeling.
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/3e46bea0-8d44-45e9-b07b-3bdaeb52c9d2" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -4207,7 +4215,7 @@ Pixar 3D animated forest clearing. Sunny day, god rays through trees, green gras
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/e2733bab-afbe-4c05-bf7f-9c6ba55040ae" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -4220,7 +4228,7 @@ prompt: A cute kitten secretly eating snacks under the covers in bed at night. H
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/6a6688ed-8cf3-4771-9234-4d98a041b72b" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -4240,7 +4248,7 @@ Seedance 2.0はとにかくプロンプト依存が強いモデルですね📝
 
 | Output |
 | :----: |
-| <video src="https://github.com/user-attachments/assets/49eacf92-0c8a-47dc-8fac-c9d259aca464" width="300" controls></video> |
+| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
 
 **Prompt:**
 
@@ -4292,7 +4300,7 @@ This repository was inspired by excellent open prompt collections and community-
 
 Thanks to the creators and contributors who shared their work publicly and made this case collection possible. The prompt sources are preserved with attribution links on every entry.
 
-[@liyue_ai](https://x.com/liyue_ai), [@TingFengAIAI](https://x.com/TingFengAIAI), [@anson7956](https://x.com/anson7956), [@genel_ai](https://x.com/genel_ai), [@Adam38363368936](https://x.com/Adam38363368936), [@Just_sharon7](https://x.com/Just_sharon7), [@BarlowHakusyaku](https://x.com/BarlowHakusyaku), [@ShadeLurk](https://x.com/ShadeLurk), [@ZaraIrahh](https://x.com/ZaraIrahh), [@drjoetw](https://x.com/drjoetw), [@johnAGI168](https://x.com/johnAGI168), [@tea_story_hoshi](https://x.com/tea_story_hoshi), [@MiraMusic_AI](https://x.com/MiraMusic_AI), [@aigeboku](https://x.com/aigeboku), [@applete77191758](https://x.com/applete77191758), [@mikeymansta](https://x.com/mikeymansta), [@CharaspowerAI](https://x.com/CharaspowerAI), [@TechTalkNAVI](https://x.com/TechTalkNAVI), [@Viafin23](https://x.com/Viafin23), [@songguoxiansen](https://x.com/songguoxiansen), [@JiahaoYang_art](https://x.com/JiahaoYang_art), [@techhalla](https://x.com/techhalla), [@craftian_keskin](https://x.com/craftian_keskin), [@AITalesNBH](https://x.com/AITalesNBH), [@nopinduoduo](https://x.com/nopinduoduo), [@gkxspace](https://x.com/gkxspace), [@ChiakiAkagi](https://x.com/ChiakiAkagi), [@xingsthatmatter](https://x.com/xingsthatmatter), [@tebasaki3D](https://x.com/tebasaki3D), [@starks_arq](https://x.com/starks_arq), [@simple__dev](https://x.com/simple__dev), [@sebatheepan](https://x.com/sebatheepan), [@sailorv321](https://x.com/sailorv321), [@roco_kn_roco](https://x.com/roco_kn_roco), [@maxescu](https://x.com/maxescu), [@kuranoayashi](https://x.com/kuranoayashi), [@itsPixieVerse](https://x.com/itsPixieVerse), [@chaosdotjpg](https://x.com/chaosdotjpg), [@aisavvy1](https://x.com/aisavvy1), [@aimikoda](https://x.com/aimikoda), [@aiehon_aya](https://x.com/aiehon_aya), [@adrianaia_](https://x.com/adrianaia_), [@_3912657840](https://x.com/_3912657840), [@ZikinArt](https://x.com/ZikinArt), [@YaReYaRu30Life](https://x.com/YaReYaRu30Life), [@ShamiWeb3](https://x.com/ShamiWeb3), [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN), [@Rufus87078959](https://x.com/Rufus87078959), [@Mayz1169](https://x.com/Mayz1169), [@LudovicCreator](https://x.com/LudovicCreator), [@IamEmily2050](https://x.com/IamEmily2050), [@Gwsubsa](https://x.com/Gwsubsa), [@Dheepanratnam](https://x.com/Dheepanratnam), [@David_eficaz](https://x.com/David_eficaz), [@ChrisTheNerv](https://x.com/ChrisTheNerv), [@Artedeingenio](https://x.com/Artedeingenio), [@Alin_Reaper05](https://x.com/Alin_Reaper05), [@AIARTGALLARY](https://x.com/AIARTGALLARY), [@0xbisc](https://x.com/0xbisc), [@zasuko_michiksa](https://x.com/zasuko_michiksa), [@naoyuki_okada](https://x.com/naoyuki_okada), [@john87445528](https://x.com/john87445528), [@cdexsta](https://x.com/cdexsta), [@NimEshed](https://x.com/NimEshed), [@ImperfectEngel](https://x.com/ImperfectEngel), [@BrennanErbz](https://x.com/BrennanErbz), [@AskVenice](https://x.com/AskVenice), [@AngelNwoha](https://x.com/AngelNwoha), [@umitsuru_fire](https://x.com/umitsuru_fire), [@Yuupapa_free](https://x.com/Yuupapa_free), [@ChrisGwinnLA](https://x.com/ChrisGwinnLA), [@vladimircherner](https://x.com/vladimircherner), [@patchworkfilmuk](https://x.com/patchworkfilmuk), [@sravs_AI_labs](https://x.com/sravs_AI_labs), [@iX00AI](https://x.com/iX00AI), [@ivanka_humeniuk](https://x.com/ivanka_humeniuk), [@crayon1267](https://x.com/crayon1267), [@pan_soramame_da](https://x.com/pan_soramame_da), [@kinopioai_ai](https://x.com/kinopioai_ai), [@a_shimanski](https://x.com/a_shimanski), [@noman23761](https://x.com/noman23761), [@SPEEDAI07](https://x.com/SPEEDAI07), [@lynneatyoumind](https://x.com/lynneatyoumind), [@EHuanglu](https://x.com/EHuanglu), [@tanabe_fragm](https://x.com/tanabe_fragm), [@Reiria123](https://x.com/Reiria123), [@TomaAIbijo](https://x.com/TomaAIbijo)
+[@liyue_ai](https://x.com/liyue_ai), [@TingFengAIAI](https://x.com/TingFengAIAI), [@anson7956](https://x.com/anson7956), [@genel_ai](https://x.com/genel_ai), [@Adam38363368936](https://x.com/Adam38363368936), [@Just_sharon7](https://x.com/Just_sharon7), [@BarlowHakusyaku](https://x.com/BarlowHakusyaku), [@ShadeLurk](https://x.com/ShadeLurk), [@ZaraIrahh](https://x.com/ZaraIrahh), [@drjoetw](https://x.com/drjoetw), [@johnAGI168](https://x.com/johnAGI168), [@tea_story_hoshi](https://x.com/tea_story_hoshi), [@MiraMusic_AI](https://x.com/MiraMusic_AI), [@aigeboku](https://x.com/aigeboku), [@applete77191758](https://x.com/applete77191758), [@mikeymansta](https://x.com/mikeymansta), [@CharaspowerAI](https://x.com/CharaspowerAI), [@TechTalkNAVI](https://x.com/TechTalkNAVI), [@Viafin23](https://x.com/Viafin23), [@songguoxiansen](https://x.com/songguoxiansen), [@JiahaoYang_art](https://x.com/JiahaoYang_art), [@techhalla](https://x.com/techhalla), [@craftian_keskin](https://x.com/craftian_keskin), [@AITalesNBH](https://x.com/AITalesNBH), [@nopinduoduo](https://x.com/nopinduoduo), [@gkxspace](https://x.com/gkxspace), [@ChiakiAkagi](https://x.com/ChiakiAkagi), [@xingsthatmatter](https://x.com/xingsthatmatter), [@tebasaki3D](https://x.com/tebasaki3D), [@starks_arq](https://x.com/starks_arq), [@simple__dev](https://x.com/simple__dev), [@sebatheepan](https://x.com/sebatheepan), [@sailorv321](https://x.com/sailorv321), [@roco_kn_roco](https://x.com/roco_kn_roco), [@maxescu](https://x.com/maxescu), [@kuranoayashi](https://x.com/kuranoayashi), [@itsPixieVerse](https://x.com/itsPixieVerse), [@chaosdotjpg](https://x.com/chaosdotjpg), [@aisavvy1](https://x.com/aisavvy1), [@aimikoda](https://x.com/aimikoda), [@aiehon_aya](https://x.com/aiehon_aya), [@adrianaia_](https://x.com/adrianaia_), [@_3912657840](https://x.com/_3912657840), [@ZikinArt](https://x.com/ZikinArt), [@YaReYaRu30Life](https://x.com/YaReYaRu30Life), [@ShamiWeb3](https://x.com/ShamiWeb3), [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN), [@Rufus87078959](https://x.com/Rufus87078959), [@Mayz1169](https://x.com/Mayz1169), [@LudovicCreator](https://x.com/LudovicCreator), [@IamEmily2050](https://x.com/IamEmily2050), [@Gwsubsa](https://x.com/Gwsubsa), [@Dheepanratnam](https://x.com/Dheepanratnam), [@David_eficaz](https://x.com/David_eficaz), [@ChrisTheNerv](https://x.com/ChrisTheNerv), [@Artedeingenio](https://x.com/Artedeingenio), [@Alin_Reaper05](https://x.com/Alin_Reaper05), [@AIARTGALLARY](https://x.com/AIARTGALLARY), [@0xbisc](https://x.com/0xbisc), [@zasuko_michiksa](https://x.com/zasuko_michiksa), [@naoyuki_okada](https://x.com/naoyuki_okada), [@john87445528](https://x.com/john87445528), [@cdexsta](https://x.com/cdexsta), [@NimEshed](https://x.com/NimEshed), [@ImperfectEngel](https://web.archive.org/web/*/https://x.com/ImperfectEngel), [@BrennanErbz](https://x.com/BrennanErbz), [@AskVenice](https://x.com/AskVenice), [@AngelNwoha](https://x.com/AngelNwoha), [@umitsuru_fire](https://x.com/umitsuru_fire), [@Yuupapa_free](https://x.com/Yuupapa_free), [@ChrisGwinnLA](https://x.com/ChrisGwinnLA), [@vladimircherner](https://x.com/vladimircherner), [@patchworkfilmuk](https://x.com/patchworkfilmuk), [@sravs_AI_labs](https://x.com/sravs_AI_labs), [@iX00AI](https://x.com/iX00AI), [@ivanka_humeniuk](https://x.com/ivanka_humeniuk), [@crayon1267](https://x.com/crayon1267), [@pan_soramame_da](https://x.com/pan_soramame_da), [@kinopioai_ai](https://x.com/kinopioai_ai), [@a_shimanski](https://x.com/a_shimanski), [@noman23761](https://x.com/noman23761), [@SPEEDAI07](https://x.com/SPEEDAI07), [@lynneatyoumind](https://x.com/lynneatyoumind), [@EHuanglu](https://x.com/EHuanglu), [@tanabe_fragm](https://x.com/tanabe_fragm), [@Reiria123](https://x.com/Reiria123), [@TomaAIbijo](https://x.com/TomaAIbijo)
 
 *We cannot guarantee that every case is attributed to the original creator. If anything needs to be corrected, please contact us and we will update it.*
 
@@ -4314,5 +4322,4 @@ This repository curates Seedance 2.0 prompt examples from public web sources.
 - This repository is intended for learning, prompt research, and workflow reference.
 - Copyright for the original prompt text remains with the original authors.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/awesome-seedance-2.5-prompts&type=Date)](https://www.star-history.com/#EvoLinkAI/awesome-seedance-2.5-prompts&Date)
 - If any entry should be updated or removed, open an issue or submit a pull request with the relevant source link.
