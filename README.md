@@ -276,6 +276,7 @@ Related repositories:
 3. Reuse the structure first. In Seedance, shot progression and motion control often matter more than swapping nouns.
 4. Keep prompt-internal tokens such as `@image1` or `<<<Image1>>>` when they are part of the intended syntax.
 5. Use titles, categories, and source links as the main navigation anchors inside the cleaned dataset.
+6. Click any preview frame to open the Seedance 2.0 prompt gallery on EvoLink.
 
 <a id="action--fantasy"></a>
 ## ⚔️ Action / Fantasy
@@ -287,7 +288,7 @@ Combat, chase, anime, wuxia, creature, and large-scale cinematic spectacle promp
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/021.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -300,7 +301,7 @@ Combat, chase, anime, wuxia, creature, and large-scale cinematic spectacle promp
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/031.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -313,7 +314,7 @@ Combat, chase, anime, wuxia, creature, and large-scale cinematic spectacle promp
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/035.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -346,7 +347,7 @@ Special Effects Spectacle: The blue water dragon and the golden lightning instan
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/039.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -360,7 +361,7 @@ Anime high-speed cut test — 20 hard cuts in 10 seconds (0.5 seconds per cut, n
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/041.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -378,7 +379,7 @@ From rusty disaster to purring monster in seconds.
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/042.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -392,7 +393,7 @@ The first half is a fierce battle on a battlefield covered in mud and flames. Th
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/047.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -405,7 +406,7 @@ Stylized 3D animation with exaggerated proportions, sharp kung-fu-soccer choreog
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/050.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -424,7 +425,7 @@ Camera: fast cuts, whip pans, strong motion blur, 0.6–1.2s pacing, ending in s
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/OPGJe_kwdEgXZcfi.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -447,7 +448,7 @@ Visual Style:
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/056.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -460,7 +461,7 @@ Japanese anime. Dialogue in Japanese. Flowing clouds. A girl walks, jumps cutely
 
 | Output |
 | :----: |
-
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/058.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 **Prompt:**
 
 ```
@@ -472,7 +473,7 @@ Japanese anime. Dialogue in Japanese. Flowing clouds. A girl walks, jumps cutely
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/064.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -485,7 +486,7 @@ Highly detailed cinematic 4K animated video, precious enchanted Faberge-style Ea
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/074.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -498,7 +499,7 @@ Original 15-second short film about an elemental battle: In a volcanic mountain 
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/076.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -522,7 +523,7 @@ Ultra realistic, high-end cinematic action, precise choreography, glowing energy
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/078.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -544,7 +545,7 @@ Dense forest → cliff edge → open valley
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/079.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -557,7 +558,7 @@ A lone samurai stands on a cliff overlooking cherry blossom mountains at sunset,
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/085.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -570,7 +571,7 @@ A daring aerial rogue diving on a bio-mechanical glider through a chaotic floati
 
 | Output |
 | :----: |
-
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/ofW5CfXPYCWpNX7M.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 **Prompt:**
 
 ```
@@ -602,7 +603,7 @@ SHOT 15: WS, 50mm pull-out / L-cut with a match from the targeting screen close 
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/086.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -616,7 +617,7 @@ Two dragons, one blue and one red, are flying high above the clouds. They are fl
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/091.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -629,7 +630,7 @@ Two dragons, one blue and one red, are flying high above the clouds. They are fl
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/RpLzRvgpJopkYzwc.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -658,7 +659,7 @@ SHOT 07 (13-15s) wide aerial — jet exits frame at insane speed, heat haze trai
 
 | Output |
 | :----: |
-
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/110.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 **Prompt:**
 
 ```
@@ -670,7 +671,7 @@ A 15-second hyper-realistic epic war blockbuster. Style: rugged realism, 35mm ha
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/117.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -683,7 +684,7 @@ Office Coffee Break Gone WrongShot 1: Tired office worker in a button-up shirt s
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/119.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -701,7 +702,7 @@ Weighty creature movement, believable scale,
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/iILeAyierBn5imMB.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -727,7 +728,7 @@ The crowd erupts in thunderous cheers. The Black Swan slowly settles her stance,
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/JnftRXbRJtRUNj2a.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -750,7 +751,7 @@ The crowd erupts in thunderous cheers. The Black Swan slowly settles her stance,
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/081.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -807,7 +808,7 @@ Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drip
 
 | Output |
 | :----: |
-
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/2041000256930763046.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 **Prompt:**
 
 ```
@@ -829,7 +830,7 @@ Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drip
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/2041431226507051027.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -844,7 +845,7 @@ Cinematic 10-second epic fantasy battle sequence in the style of Lord of the Rin
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/2041146946681721113.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -868,7 +869,7 @@ Grounded live-action prompts focused on mood, body language, practical light, an
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/045.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -883,7 +884,7 @@ No BGM. No subtitles. Only environmental sounds, radio, wind, fire, and people's
 
 | Output |
 | :----: |
-
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/073.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 **Prompt:**
 
 ```
@@ -899,7 +900,7 @@ No BGM. No subtitles. Only environmental sounds, radio, wind, fire, and people's
 
 | Output |
 | :----: |
-
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/075.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 **Prompt:**
 
 ```
@@ -937,7 +938,7 @@ First-person, drone-like, body-mounted, and immersion-first prompts built around
 
 | Output |
 | :----: |
-
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/004.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 **Prompt:**
 
 ```
@@ -960,7 +961,7 @@ The camera remains in a low, fetal position on the final bar, shaking from the a
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/005.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -985,7 +986,7 @@ Mood: energetic, futuristic, premium, fast-paced. Combine wide city views with f
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/006.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -998,7 +999,7 @@ Strictly follow the reference character’s face, hairstyle, outfit silhouette, 
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/009.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1019,7 +1020,7 @@ Shot 8: Wide epic drone pull-back. Wukong stands silhouett
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/010.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1055,7 +1056,7 @@ A rapid crane rise opens the entire pool party in golden-hour warm light, full o
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/038.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1070,7 +1071,7 @@ The camera bursts out from inside image1, the Tesla card, as the card spins forw
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/049.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1142,7 +1143,7 @@ Freeze frame → dramatic music abruptly cuts.
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/052.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1161,7 +1162,7 @@ Fast, smooth, continuous movement. No flying device, shadow, or reflection. Cine
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/069.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1196,7 +1197,7 @@ Photorealistic fire simulation, volumetric smoke, cinematic sunset lighting, rea
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/093.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1221,7 +1222,7 @@ Macro drink environment POV, carbonation bubble storms, melting ice transformati
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/102.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1234,7 +1235,7 @@ Gritty, raw handheld 35mm film aesthetic with natural film grain. Bright early-m
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/105.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1247,7 +1248,7 @@ Gritty, raw handheld 35mm film aesthetic with natural film grain. Bright early-m
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/108.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1260,7 +1261,7 @@ A super futuristic megacity after the apocalypse awakens in a storm. Dark clouds
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/111.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1329,7 +1330,7 @@ Camera holds briefly as car exits frame
 
 | Output |
 | :----: |
-
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/113.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 **Prompt:**
 
 ```
@@ -1341,7 +1342,7 @@ cinematic, heavy action blockbuster film, Japanese city center, collapsed main s
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/061.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1363,7 +1364,7 @@ cinematic, heavy action blockbuster film, Japanese city center, collapsed main s
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/2040826411783762286.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1376,7 +1377,7 @@ cinematic, heavy action blockbuster film, Japanese city center, collapsed main s
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/2041132328655954201.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1394,7 +1395,7 @@ Advertising, fashion, lifestyle, product, and premium brand-style prompts.
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/007.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1412,7 +1413,7 @@ Three anime girls perform Perfume-style formation dance on an illuminated stage.
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/008.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1425,7 +1426,7 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/012.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1441,7 +1442,7 @@ A strong hook within the first 2 seconds, followed by a stable and cohesive prog
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/014.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1461,7 +1462,7 @@ Shot 5 (3s): Close-up of the new snack package. Narration: "It's out! New releas
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/017.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1485,7 +1486,7 @@ Ultra realistic, high-end martial arts film choreography, precise body mechanics
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/020.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1505,7 +1506,7 @@ Maintain stable temporal continuity. Avoid unnatural frame interpolation. No exa
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/022.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1524,7 +1525,7 @@ Character identity is maintained throughout, real subtle head tilts, eye movemen
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/025.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1537,7 +1538,7 @@ Character identity is maintained throughout, real subtle head tilts, eye movemen
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/030.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1576,7 +1577,7 @@ Highest image quality: 8K.
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/032.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1591,7 +1592,7 @@ Original Hot-Blooded Duel Anime Short Film: Two top warriors launch their final 
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/033.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1604,7 +1605,7 @@ Original Hot-Blooded Duel Anime Short Film: Two top warriors launch their final 
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/034.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1640,7 +1641,7 @@ Atmosphere: Steam slowly rises against the backlight, the scene is so quiet you 
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/036.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1665,7 +1666,7 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/046.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1678,7 +1679,7 @@ Generate a visual blockbuster featuring an Asian supermodel and luxury sports ca
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/054.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1691,7 +1692,7 @@ An android girl malfunctions and proceeds to destroy an evil research lab one af
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/055.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1704,7 +1705,7 @@ Positive Prompt: Original action game concept trailer. The protagonist travels t
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/066.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1717,7 +1718,7 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 
 | Output |
 | :----: |
-
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/070.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 **Prompt:**
 
 ```
@@ -1729,7 +1730,7 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 
 | Output |
 | :----: |
-
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/075.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 **Prompt:**
 
 ```
@@ -1762,7 +1763,7 @@ Layered progression from the scream activation to the explosive mechanical erupt
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/081.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1819,7 +1820,7 @@ Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drip
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/095.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1832,7 +1833,7 @@ Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drip
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/109.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1849,7 +1850,7 @@ The open-plan office hall of a luxurious securities company in Manhattan, USA, i
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/118.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1863,7 +1864,7 @@ A crime wave has hit the city and the cops can't seem to get it together. Detect
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/121.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1888,7 +1889,7 @@ Requirements: Fast pace, tight transitions, high-end fashion, youthful energy, n
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/sAVFzyGI01SXuQGa.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1929,7 +1930,7 @@ SHOT 15: WS, 50mm pull-out / L-cut with a match from the floor to the bed. The m
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/030.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1968,7 +1969,7 @@ Highest image quality: 8K.
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/121.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1993,7 +1994,7 @@ Requirements: Fast pace, tight transitions, high-end fashion, youthful energy, n
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/2040767631213363656.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2042,7 +2043,7 @@ prompt 👇
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/2041374063243800793.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2088,7 +2089,7 @@ Prompts that rely on image references, character consistency, or frame-to-frame 
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/011.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2113,7 +2114,7 @@ Timeline:
 
 | Output |
 | :----: |
-
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/015.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 **Prompt:**
 
 ```
@@ -2189,7 +2190,7 @@ Motion blur + light streaks
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/019.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2268,7 +2269,7 @@ Notes:
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/028.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2301,7 +2302,7 @@ Color and tonality: Hollywood teal-and-orange tone, low saturation. Generate the
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/048.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2318,7 +2319,7 @@ Color and tonality: Hollywood teal-and-orange tone, low saturation. Generate the
 
 | Output |
 | :----: |
-
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/059.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 **Prompt:**
 
 ```
@@ -2335,7 +2336,7 @@ Constant full-speed forward
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/071.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2348,7 +2349,7 @@ Ray tracing, Unreal Engine render, small town in heavy rain. @image1 character w
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/084.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2361,7 +2362,7 @@ Use `real-zasuko-2.0-character-sheet-dx.png` as the character reference. Start w
 
 | Output |
 | :----: |
-
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/088.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 **Prompt:**
 
 ```
@@ -2377,7 +2378,7 @@ Chapter 3 (0-15 seconds): AITO M7 Transforms -> Becomes an F-14 -> Protagonist S
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/TfQ7cL05pwwcaq06.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2469,7 +2470,7 @@ low cinematic pulse builds cuts abruptly at end
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/103.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2501,7 +2502,7 @@ Shot Breakdown (15 shots in 15 seconds):
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/112.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2516,7 +2517,7 @@ SUBJECTS: A lone sword-bearing woman in weathered fur and leather fights a massi
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/114.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2589,7 +2590,7 @@ seamless transformation flow
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/K1jRd7vJAePuYplT.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2630,7 +2631,7 @@ Lighting: balanced, high-end studio look, crisp shadows, premium finish.
 
 | Output |
 | :----: |
-
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/2040921171059752988.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 **Prompt:**
 
 ```
@@ -2668,7 +2669,7 @@ Lighting: balanced, high-end studio look, crisp shadows, premium finish.
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/2041118339393826933.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2727,7 +2728,7 @@ Abstract, impossible, stylized, or effect-heavy prompts driven by transformation
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/013.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2772,7 +2773,7 @@ She regains balance, floating motionless as the scene holds on a final frame.
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/051.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2786,7 +2787,7 @@ Aerial shot: skyline,
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/082.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2799,7 +2800,7 @@ A diver floats motionless in pitch-black ocean depth, a single beam of light cut
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/092.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2840,7 +2841,7 @@ Diegetic prismatic dimensional light reflecting through fractured architecture a
 
 | Output |
 | :----: |
-
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/096.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 **Prompt:**
 
 ```
@@ -2854,7 +2855,7 @@ Rainy Underground Alley Merge
 
 | Output |
 | :----: |
-
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/097.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 **Prompt:**
 
 ```
@@ -2872,7 +2873,7 @@ Cinematic 15-second high-budget sci-fi horror sequence on a rain-slicked downtow
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/106.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2899,7 +2900,7 @@ ultra detailed anime style, cinematic lighting, high contrast, no cartoon exagge
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/116.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2928,7 +2929,7 @@ Photorealistic fire simulation, volumetric storm clouds, ray-traced lava glow, c
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/KmTYi8555NBQZpyJ.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2968,7 +2969,7 @@ FINAL: one last snap → seamless loop back to white studio, identical opening s
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/2041050710721339521.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2981,7 +2982,7 @@ FINAL: one last snap → seamless loop back to white studio, identical opening s
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/2041001869435158629.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3003,7 +3004,7 @@ Reusable prompt skeletons, JSON-style specs, and highly structured prompt format
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/016.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3020,7 +3021,7 @@ Seedance 2.0 text-to-video prompt below:
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/018.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3048,7 +3049,7 @@ Seedance 2.0 text-to-video prompt below:
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/024.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3112,7 +3113,7 @@ Seedance 2.0 text-to-video prompt below:
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/027.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3147,7 +3148,7 @@ TIMELINE:
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/053.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3163,7 +3164,7 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/061.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3185,7 +3186,7 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/062.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3207,7 +3208,7 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/063.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3238,7 +3239,7 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/083.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3255,7 +3256,7 @@ Style: Painterly 3D, stylized on real human anatomy
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/090.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3270,7 +3271,7 @@ SUBJECTS: First-person cyclist, handlebars and front wheel flashing low in frame
 
 | Output |
 | :----: |
-
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/094.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 **Prompt:**
 
 ```
@@ -3296,7 +3297,7 @@ SUBJECTS: First-person cyclist, handlebars and front wheel flashing low in frame
 
 | Output |
 | :----: |
-
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/098.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 **Prompt:**
 
 ```
@@ -3310,7 +3311,7 @@ Shot 01 (0:00–2:00): Camera starts at floor level on anti-slip
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/099.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3355,7 +3356,7 @@ Shot 01 (0:00–2:00): Camera starts at floor level on anti-slip
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/100.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3368,7 +3369,7 @@ FORMAT: 15s / handheld close + slow cuts / 5 beats / sci-fi drama — astronaut'
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/104.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3383,7 +3384,7 @@ Subject 2: Golden Retriever, large head, broad chest, thick, fluffy fur; overall
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/115.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3450,7 +3451,7 @@ Subject 2: Golden Retriever, large head, broad chest, thick, fluffy fur; overall
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/122.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3464,7 +3465,7 @@ Subject 1: First-person perspective hands (rendered in Monet impressionist oil p
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/114.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3537,7 +3538,7 @@ seamless transformation flow
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/2041406971484815564.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3555,7 +3556,7 @@ Useful prompts that do not fit the tighter buckets above but remain strong gener
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/001.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3579,7 +3580,7 @@ Background music: soft instrumental music (piano + bamboo flute), slow rhythm, e
 
 | Output |
 | :----: |
-
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/002.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 **Prompt:**
 
 ```
@@ -3597,7 +3598,7 @@ Beauty beat-sync sequence:
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/003.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3615,7 +3616,7 @@ This is a thrilling, heart-pounding video packed with near escapes. The setting 
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/023.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3628,7 +3629,7 @@ Raw mobile phone footage, vertical handheld shot, shaky cam, grainy texture. At 
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/026.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3641,7 +3642,7 @@ The firefighter is entering the house, at the 3-second mark the firefighter is w
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/029.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3661,7 +3662,7 @@ Seedance 2.0 all-purpose reference prompt below:
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/037.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3680,7 +3681,7 @@ The female ninja's punch sends the ninja flying, crashing into a neon sign high 
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/040.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3695,7 +3696,7 @@ stories of a hopper.
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/043.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3711,7 +3712,7 @@ Protagonist: Hiromu, Age 19
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/044.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3727,7 +3728,7 @@ aesthetic: phone held up in the middle of a packed crowd on the deck of a fishin
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/057.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3740,7 +3741,7 @@ A girl falls rapidly through a digital tunnel. The girl is panicking and flailin
 
 | Output |
 | :----: |
-
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/060.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 **Prompt:**
 
 ```
@@ -3762,7 +3763,7 @@ Lighting/Color: Cold white, purple discharge. Contrast between silence and roar.
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/065.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3775,7 +3776,7 @@ A Hollywood movie trailer. A Marvel-style action movie where an ordinary America
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/067.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3788,7 +3789,7 @@ Cinematic vertical 9:16 video. Two versions of Rapunzel from Tangled walk side b
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/068.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3809,7 +3810,7 @@ Glacier collapse megaflood, iceberg destruction chaos, cinematic polar disaster 
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/072.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3831,7 +3832,7 @@ The cat crashes into the keyboard section, causing a chaotic musical explosion. 
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/077.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3852,7 +3853,7 @@ A small animal character walking through a quiet meadow.
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/080.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3865,7 +3866,7 @@ Victorian-era flying airships with brass gears and giant propellers battling ove
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/087.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3881,7 +3882,7 @@ timeline:
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/089.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3895,7 +3896,7 @@ Exterior of an ancient temple in the deep mountains. The camera overlooks the te
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/urrfA6BwbCGtYgie.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3924,7 +3925,7 @@ Fast cinematic cuts, smooth micro camera movements per shot (push, pan, slide, t
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/101.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3943,7 +3944,7 @@ Quick cut: Ottoman cannon
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/107.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3963,7 +3964,7 @@ TIMELINE: 0-3s:
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/120.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3985,7 +3986,7 @@ Scene: Black stand-up stage, strong spotlight illuminating the person, blurred s
 
 | Output |
 | :----: |
-
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/088.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 **Prompt:**
 
 ```
@@ -4001,7 +4002,7 @@ Chapter 3 (0-15 seconds): AITO M7 Transforms -> Becomes an F-14 -> Protagonist S
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/KT84c2TqktCYBHye.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -4036,7 +4037,7 @@ her boyfriend full of regret, ending with a low background music and whispers ar
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/022.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -4055,7 +4056,7 @@ Character identity is maintained throughout, real subtle head tilts, eye movemen
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/2040980673851506798.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -4075,7 +4076,7 @@ Seedance2.0提示词
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/2041068828457877598.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -4099,7 +4100,7 @@ Seedance2.0提示词
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/2040814307487916415.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -4130,7 +4131,7 @@ Seedance2.0提示词
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/2041409914954973216.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -4166,7 +4167,7 @@ You have to explicitly define energy levels
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/2041408928215408931.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -4187,7 +4188,7 @@ Same structure, completely different feeling.
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/2041405260762419692.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -4200,7 +4201,7 @@ Same structure, completely different feeling.
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/2041393724622795014.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -4215,7 +4216,7 @@ Pixar 3D animated forest clearing. Sunny day, god rays through trees, green gras
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/2041334660173852807.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -4228,7 +4229,7 @@ prompt: A cute kitten secretly eating snacks under the covers in bed at night. H
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/2041328307267088580.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -4248,7 +4249,7 @@ Seedance 2.0はとにかくプロンプト依存が強いモデルですね📝
 
 | Output |
 | :----: |
-| <em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em> |
+| <a href="https://evolink.ai/seedance-2-0-prompts"><img src="./public/seedance_2_prompt_images/2041409381162689021.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
