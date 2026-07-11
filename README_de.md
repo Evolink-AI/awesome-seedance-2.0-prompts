@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.0-prompts&utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/banner/seedance-2-prompts-banner-ebb6d878.png" width="900" alt="Awesome Seedance 2 prompts banner powered by EvoLink"></a>
+<a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.0-prompts&utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/banner/seedance-2-prompts-banner-893ce3ae.png" width="900" alt="Awesome Seedance 2 prompts banner powered by EvoLink"></a>
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Try Seedance 2.0 on EvoLink](https://img.shields.io/badge/Try_Seedance_2.0_on-EvoLink-black)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts&utm_content=top_badge)
