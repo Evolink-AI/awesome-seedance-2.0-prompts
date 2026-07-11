@@ -18,7 +18,8 @@ R2_PREFIX = 'https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-med
 CAMPAIGN = 'awesome-seedance-2.0-prompts'
 CASE_RE = re.compile(r'^### Case (\d+): \[([^]]+)\]\(([^)]+)\) \(by \[@([^]]+)\]\(([^)]+)\)\)', re.M)
 PROMPT_RE = re.compile(r'(?ms)\*\*Prompt:\*\*\n\n```\n(.*?)\n```')
-IMAGE_RE = re.compile(r'<img src="([^"]+)"')
+BANNER_IMAGE_RE = re.compile(r'<img src="([^"]+)" width="900"')
+CASE_IMAGE_RE = re.compile(r'<img src="([^"]+)" width="300"')
 HTTP_RE = re.compile(r'https?://[^\s)>"]+')
 
 errors: list[str] = []
@@ -38,19 +39,22 @@ def main() -> int:
     expected_sources = None
     expected_prompts = None
     expected_images = None
+    expected_banner = None
     english_cases = None
     for name, text in texts.items():
         cases = CASE_RE.findall(text)
         sources = [case[2] for case in cases]
         prompts = PROMPT_RE.findall(text)
-        all_images = [url for url in IMAGE_RE.findall(text) if '/seedance_2_prompt_images/' in url]
-        images = all_images[1:]  # the first matching image is the first-screen banner
+        banners = BANNER_IMAGE_RE.findall(text)
+        images = CASE_IMAGE_RE.findall(text)
         anchors = re.findall(r'<a id="([a-z0-9-]+-case-\d+)"></a>', text)
         menu_links = re.findall(r'^  - \[Case \d+: .*?\]\(#([a-z0-9-]+-case-\d+)\)$', text, re.M)
 
         check(len(cases) == 155, f'{name}: expected 155 cases, got {len(cases)}')
         check(len(set(sources)) == 155, f'{name}: sources are not unique')
         check(len(prompts) == 155, f'{name}: expected 155 prompt blocks, got {len(prompts)}')
+        check(len(banners) == 1, f'{name}: expected one first-screen banner, got {len(banners)}')
+        check(all(url.startswith(R2_PREFIX) for url in banners), f'{name}: non-R2 banner found')
         check(len(images) == 155, f'{name}: expected 155 case images, got {len(images)}')
         check(all(url.startswith(R2_PREFIX) for url in images), f'{name}: non-R2 case media found')
         check(len(anchors) == 155 and anchors == menu_links, f'{name}: Menu/case anchor mismatch')
@@ -69,11 +73,13 @@ def main() -> int:
 
         if expected_sources is None:
             expected_sources, expected_prompts, expected_images = sources, prompts, images
+            expected_banner = banners
             english_cases = cases
         else:
             check(sources == expected_sources, f'{name}: source order differs from English')
             check(prompts == expected_prompts, f'{name}: prompt blocks differ from English')
             check(images == expected_images, f'{name}: media order differs from English')
+            check(banners == expected_banner, f'{name}: banner differs from English')
 
         for url in HTTP_RE.findall(text):
             parsed = urlparse(url.rstrip('.,;'))
