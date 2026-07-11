@@ -2,56 +2,37 @@
 
 ## Scope
 
-This repository is a curated Seedance 2.0 prompt library. Contributions should improve prompt quality, source attribution, and repository consistency.
+This repository is a curated Seedance 2.0 prompt library. Contributions should improve prompt quality, source attribution, media evidence, localization, or repository consistency.
 
-## What qualifies as a valid entry
+## What qualifies
 
-Keep entries that are actually usable as prompts:
+Valid entries include direct video-generation prompts, reusable prompt templates, structured prompt formats, and reference-driven prompts whose media tokens are part of the public prompt.
 
-- direct video-generation prompts
-- reusable prompt templates
-- structured JSON prompts when the structure is part of the usable prompt format
-- reference-driven prompts that rely on tokens such as `@image1`, `<<<Image1>>>`, or first/last-frame instructions
+Do not submit commentary, repost captions, marketing copy, unsupported fragments, duplicate source URLs, private material, or generated prompts presented as creator originals.
 
-Do not add entries that are mostly:
+## Required evidence
 
-- commentary about prompts
-- repost captions or marketing copy
-- discussion replies or opinions
-- fragments too short to be actionable
-- social chatter where the usable prompt is missing
+Every proposed case needs:
 
-## Cleaning rules
+- a public source URL
+- an author profile URL
+- the exact reusable prompt boundary
+- one existing category
+- public preview evidence
 
-- Remove social-handle mentions like `@username` when they are not part of the prompt logic.
-- Preserve prompt-internal reference syntax such as `@image1` when it is required by the prompt.
-- Keep the source link in metadata, not inside the prompt body.
-- Do not silently rewrite a prompt's meaning. Cleaning should remove noise, not alter intent.
+Keep prompt-internal media references such as `@image1` when they are required. Remove social mentions only when they are surrounding noise rather than prompt logic.
 
-## Attribution rules
+## Repository synchronization
 
-Each entry should preserve:
+Update English first, then all localized READMEs. Preserve prompt blocks, source/author URLs, handles, model IDs, commands, media URLs, and UTM parameters across languages. Update `data/ingested_sources.json`, Menu links, category counts, and the 155-case badge in the same change.
 
-- original source link
-- original language
-- original publication date when available
+## Pull request gate
 
-## README consistency rules
+Before opening a pull request, run:
 
-When the dataset changes, update the README in the same change set:
+```bash
+python3 tools/verify_repo.py
+git diff --check
+```
 
-- regenerate prompt counts
-- regenerate latest source date
-- keep numbering aligned with the cleaned dataset order
-- remove stale entries from `Featured Prompts` or `All Prompts`
-- do not leave links to missing localized README files
-
-## Pull request checklist
-
-Before opening a PR, verify:
-
-- the new or edited entry is a real prompt
-- numbering is still correct
-- statistics still match the cleaned dataset
-- source links work
-- formatting remains GitHub-readable
+Use the pull request checklist to record source metadata, localization, R2 media, validation, and the boundary between this prompt repository and the adjacent API/skill repository.

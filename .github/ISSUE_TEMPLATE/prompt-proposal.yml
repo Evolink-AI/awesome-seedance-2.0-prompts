@@ -1,0 +1,46 @@
+name: Prompt proposal
+description: Propose a source-backed Seedance 2.0 prompt case.
+title: "[Prompt]: "
+labels: [prompt]
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Public source URL
+    validations:
+      required: true
+  - type: input
+    id: author
+    attributes:
+      label: Author profile URL
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Public prompt text
+      description: Copy the exact reusable prompt boundary; do not add generated text.
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Action / Fantasy
+        - Cinematic Realism
+        - POV / FPV
+        - Commercial / Product
+        - Reference-Driven
+        - Surreal / VFX
+        - Templates & Structured Formats
+        - General Cinematic
+    validations:
+      required: true
+  - type: textarea
+    id: media
+    attributes:
+      label: Preview evidence
+      description: Link the public image or video frame that demonstrates the prompt result.
+    validations:
+      required: true

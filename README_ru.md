@@ -1,12 +1,10 @@
 <div align="center">
 
+<a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.0-prompts&utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/108.jpg" width="900" alt="Seedance 2.0 cinematic video prompt library preview"></a>
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![Prompts](https://img.shields.io/badge/Prompts-163_Curated_Cases-111111)](README.md)
-[![Get Seedance 2.5 Early Access](https://img.shields.io/badge/Try_it_on-Evolink-black)](https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.5-prompts)
-[![Website](https://img.shields.io/badge/Website-Live-orange)](https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.5-prompts)
-[![Docs](https://img.shields.io/badge/Docs-Read-blue)](https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.5-prompts)
-[![Model](https://img.shields.io/badge/Model-Explore-purple)](https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.5-prompts)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
+[![Try Seedance 2.0 on EvoLink](https://img.shields.io/badge/Try_Seedance_2.0_on-EvoLink-black)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts&utm_content=top_badge)
+[![Prompts](https://img.shields.io/badge/Prompts-155_Unique_Cases-111111)](README.md)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -22,224 +20,225 @@
 
 </div>
 
-## 🍌 Introduction
+<a id="introduction"></a>
+## 🍌 Введение
 
-Курируемая коллекция высококачественных промптов Seedance 2.0 для кинематографической генерации видео — очищенная от публичных постов сообщества, переведенная на English для удобства чтения README и организованная для быстрой GitHub-native навигации.
+Добро пожаловать в Awesome Seedance 2.0 Prompts! 🤗
 
-Язык: **Русский**
+**Репозиторий содержит 155 уникальных промптов Seedance 2.0 с указанием источников для кинематографической генерации видео.**
 
-- Документация API: [`EvoLinkAI/Seedance-2.5-Gateway-Service`](https://github.com/Evolink-AI/Seedance-2.0-Gateway-Service)
-- Skill для OpenClaw: [`EvoLinkAI/seedance2-video-gen-skill-for-openclaw`](https://github.com/Evolink-AI/Seedance-2.0-Gateway-Service)
-- Полный гайд: [`EvoLinkAI/awesome-seedance-2.5-guide`](https://github.com/Evolink-AI/awesome-seedance-2.5-guide)
+Промпты отобраны из публичных публикаций авторов и сохранены как повторно используемые материалы.
 
-## 📑 Menu
+[Попробовать промпты Seedance 2.0 в EvoLink](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts&utm_content=introduction_cta)
 
-- [🍌 Introduction](#-introduction)
-- [📑 Menu](#-menu)
-- [Statistics](#statistics)
-- [How to Use This Repository](#how-to-use-this-repository)
-- [⚔️ Action / Fantasy](#action--fantasy) (30)
-  - [Case 1: Prompt 23 (by @songguoxiansen)](#case-1-prompt-23-by-songguoxiansen)
-  - [Case 2: Black Cat Desert Martial-Arts Duel (by @nopinduoduo)](#case-2-black-cat-desert-martial-arts-duel-by-nopinduoduo)
-  - [Case 3: 【Core Focus】 (by @johnAGI168)](#case-3-core-focus-by-johnagi168)
-  - [Case 4: Anime high-speed cut test — 20 hard cuts in 10 seconds (0 (by @tebasaki3D)](#case-4-anime-high-speed-cut-test--20-hard-cuts-in-10-seconds-0-by-tebasaki3d)
-  - [Case 5: Watch a grease-stained mechanic fix (by @sebatheepan)](#case-5-watch-a-grease-stained-mechanic-fix-by-sebatheepan)
-  - [Case 6: Prompt 45 (by @sailorv321)](#case-6-prompt-45-by-sailorv321)
-  - [Case 7: Prompt 50 (by @johnAGI168)](#case-7-prompt-50-by-johnagi168)
-  - [Case 8: Dialogue (Overlapping) (by @drjoetw)](#case-8-dialogue-overlapping-by-drjoetw)
-  - [Case 9: Giant Ninja Tokusatsu Battle (by @EarthGigantea)](#case-9-giant-ninja-tokusatsu-battle-by-earthgigantea)
-  - [Case 10: Japanese anime (by @_3912657840)](#case-10-japanese-anime-by-_3912657840)
-  - [Case 11: 15-Second Original Elemental Battle Short Film (by @ZikinArt)](#case-11-15-second-original-elemental-battle-short-film-by-zikinart)
-  - [Case 12: Faberge Fantasy Egg Animation (by @ShamiWeb3)](#case-12-faberge-fantasy-egg-animation-by-shamiweb3)
-  - [Case 13: Prompt 77 (by @David_eficaz)](#case-13-prompt-77-by-david_eficaz)
-  - [Case 14: Prompt 79 (by @CharaspowerAI)](#case-14-prompt-79-by-charaspowerai)
-  - [Case 15: 15-second continuous single-shot action sequence (by @Artedeingenio)](#case-15-15-second-continuous-single-shot-action-sequence-by-artedeingenio)
-  - [Case 16: Prompt 82 (by @Alin_Reaper05)](#case-16-prompt-82-by-alin_reaper05)
-  - [Case 17: Prompt 88 (by @sebatheepan)](#case-17-prompt-88-by-sebatheepan)
-  - [Case 18: Zero-G Mech Scramble Sequence (by @Dheepanratnam)](#case-18-zero-g-mech-scramble-sequence-by-dheepanratnam)
-  - [Case 19: A super high-speed flight action scene of a girl riding a dragon (by @naoyuki_okada)](#case-19-a-super-high-speed-flight-action-scene-of-a-girl-riding-a-dragon-by-naoyuki_okada)
-  - [Case 20: 15-Second Original Desert Martial Arts Short Film (by @NimEshed)](#case-20-15-second-original-desert-martial-arts-short-film-by-nimeshed)
-  - [Case 21: Canyon Airstrike Sequence (by @Mr_TuanDoan)](#case-21-canyon-airstrike-sequence-by-mr_tuandoan)
-  - [Case 22: A 15-second hyper-realistic epic war blockbuster (by @john87445528)](#case-22-a-15-second-hyper-realistic-epic-war-blockbuster-by-john87445528)
-  - [Case 23: Office Coffee Break Gone Wrongshot 1 (by @Dheepanratnam)](#case-23-office-coffee-break-gone-wrongshot-1-by-dheepanratnam)
-  - [Case 24: 15-second continuous single-shot action sequence (by @Artedeingenio)](#case-24-15-second-continuous-single-shot-action-sequence-by-artedeingenio)
-  - [Case 25: Black Swan vs Boxer (by @KanaWorks_AI)](#case-25-black-swan-vs-boxer-by-kanaworks_ai)
-  - [Case 26: Ground Crack Superman Launch (by @techprophett)](#case-26-ground-crack-superman-launch-by-techprophett)
-  - [Case 27: Cloud Cave Sword Shadow (by @Adam38363368936)](#case-27-cloud-cave-sword-shadow-by-adam38363368936)
-  - [Case 28: City of Gods — One-Take Oriental Fantasy Flight (by @john87445528)](#case-28-city-of-gods--one-take-oriental-fantasy-flight-by-john87445528)
-  - [Case 29: Epic Fantasy Battle — Cinematic 10-Second Sequence (by @a_shimanski)](#case-29-epic-fantasy-battle--cinematic-10-second-sequence-by-a_shimanski)
-  - [Case 30: Dark Fantasy Transformation — Eastern Style (by @johnAGI168)](#case-30-dark-fantasy-transformation--eastern-style-by-johnagi168)
-- [🎞️ Cinematic Realism](#cinematic-realism) (3)
-  - [Case 1: Modern Japan (by @kuranoayashi)](#case-1-modern-japan-by-kuranoayashi)
-  - [Case 2: Prompt 76 (by @Dheepanratnam)](#case-2-prompt-76-by-dheepanratnam)
-  - [Case 3: Meteor Awakening War Heroine (by @ChrisTheNerv)](#case-3-meteor-awakening-war-heroine-by-christhenerv)
-- [🥽 POV / FPV](#pov--fpv) (18)
-  - [Case 1: Chest-Mounted Camouflage Chase Sequence (by @genel_ai)](#case-1-chest-mounted-camouflage-chase-sequence-by-genel_ai)
-  - [Case 2: Shanghai Cyberpunk City Sizzle Reel (by @Adam38363368936)](#case-2-shanghai-cyberpunk-city-sizzle-reel-by-adam38363368936)
-  - [Case 3: Cursed Samurai Consistency Action Prompt (by @Just_sharon7)](#case-3-cursed-samurai-consistency-action-prompt-by-just_sharon7)
-  - [Case 4: Sun Wukong Battlefield Divine Rescue (by @drjoetw)](#case-4-sun-wukong-battlefield-divine-rescue-by-drjoetw)
-  - [Case 5: Y2K Pool Party Camcorder Montage (by @johnAGI168)](#case-5-y2k-pool-party-camcorder-montage-by-johnagi168)
-  - [Case 6: Prompt 40 (by @xingsthatmatter)](#case-6-prompt-40-by-xingsthatmatter)
-  - [Case 7: Extreme Close-Up (by @drjoetw)](#case-7-extreme-close-up-by-drjoetw)
-  - [Case 8: Create A Fast, Seamless 16 (by @aisavvy1)](#case-8-create-a-fast-seamless-16-by-aisavvy1)
-  - [Case 9: Environment (by @LudovicCreator)](#case-9-environment-by-ludoviccreator)
-  - [Case 10: First-person POV of an ice cube dropped into a glass of soda (by @LudovicCreator)](#case-10-first-person-pov-of-an-ice-cube-dropped-into-a-glass-of-soda-by-ludoviccreator)
-  - [Case 11: Gritty, raw handheld 35mm film aesthetic with natural film grain (by @AngelNwoha)](#case-11-gritty-raw-handheld-35mm-film-aesthetic-with-natural-film-grain-by-angelnwoha)
-  - [Case 12: 10-second photorealistic cinematic POV video (by @umitsuru_fire)](#case-12-10-second-photorealistic-cinematic-pov-video-by-umitsuru_fire)
-  - [Case 13: A super futuristic megacity after the apocalypse awakens in a storm (by @johnAGI168)](#case-13-a-super-futuristic-megacity-after-the-apocalypse-awakens-in-a-storm-by-johnagi168)
-  - [Case 14: Style: Ultra-realistic industrial timelapse (by @craftian_keskin)](#case-14-style-ultra-realistic-industrial-timelapse-by-craftian_keskin)
-  - [Case 15: Prompt 116 (by @Yuupapa_free)](#case-15-prompt-116-by-yuupapa_free)
-  - [Case 16: Tokyo POV Rollercoaster (by @TechTalkNAVI)](#case-16-tokyo-pov-rollercoaster-by-techtalknavi)
-  - [Case 17: Cinematic Beijing Cultural Ad — 8K First-Person (by @crayon1267)](#case-17-cinematic-beijing-cultural-ad--8k-first-person-by-crayon1267)
-  - [Case 18: Extreme Macro FPV — Fairy Wing Tracking Shot (by @EHuanglu)](#case-18-extreme-macro-fpv--fairy-wing-tracking-shot-by-ehuanglu)
-- [🏷️ Commercial / Product](#commercial--product) (29)
-  - [Case 1: Perfume-Style Anime Trio Dance Stage (by @ShadeLurk)](#case-1-perfume-style-anime-trio-dance-stage-by-shadelurk)
-  - [Case 2: Dark Fantasy Church Duel (by @ZaraIrahh)](#case-2-dark-fantasy-church-duel-by-zarairahh)
-  - [Case 3: Dark Fantasy Shrine Hall Duel (by @MiraMusic_AI)](#case-3-dark-fantasy-shrine-hall-duel-by-miramusic_ai)
-  - [Case 4: Japanese Snack Commercial Punchline (by @aigeboku)](#case-4-japanese-snack-commercial-punchline-by-aigeboku)
-  - [Case 5: Cinematic Martial Art Sequence for Seedance 2 (by @CharaspowerAI)](#case-5-cinematic-martial-art-sequence-for-seedance-2-by-charaspowerai)
-  - [Case 6: I asked Grok to produce the same video, but the result wasn't convincing (by @Viafin23)](#case-6-i-asked-grok-to-produce-the-same-video-but-the-result-wasnt-convincing-by-viafin23)
-  - [Case 7: Japanese Classroom Whisper Romance (by @JiahaoYang_art)](#case-7-japanese-classroom-whisper-romance-by-jiahaoyang_art)
-  - [Case 8: Recommended Settings Mode (by @MiraMusic_AI)](#case-8-recommended-settings-mode-by-miramusic_ai)
-  - [Case 9: LaFerrari Commercial Storyboard (by @Adam38363368936)](#case-9-laferrari-commercial-storyboard-by-adam38363368936)
-  - [Case 10: Hot-Blooded Anime Final Duel (by @gkxspace)](#case-10-hot-blooded-anime-final-duel-by-gkxspace)
-  - [Case 11: Prompt 35 (by @johnAGI168)](#case-11-prompt-35-by-johnagi168)
-  - [Case 12: Character (by @johnAGI168)](#case-12-character-by-johnagi168)
-  - [Case 13: Camera (by @CharaspowerAI)](#case-13-camera-by-charaspowerai)
-  - [Case 14: Prompt 49 (by @johnAGI168)](#case-14-prompt-49-by-johnagi168)
-  - [Case 15: Prompt 57 (by @aiehon_aya)](#case-15-prompt-57-by-aiehon_aya)
-  - [Case 16: Positive Prompt (by @adrianaia_)](#case-16-positive-prompt-by-adrianaia_)
-  - [Case 17: Original Dark Fantasy Action Short Film (by @Rufus87078959)](#case-17-original-dark-fantasy-action-short-film-by-rufus87078959)
-  - [Case 18: 00:00-00:04 Shot 1: Follow shot (by @IamEmily2050)](#case-18-0000-0004-shot-1-follow-shot-by-iamemily2050)
-  - [Case 19: Meteor Awakening War Heroine (by @ChrisTheNerv)](#case-19-meteor-awakening-war-heroine-by-christhenerv)
-  - [Case 20: Cloud Cave Sword Shadow (by @Adam38363368936)](#case-20-cloud-cave-sword-shadow-by-adam38363368936)
-  - [Case 21: Prompt 98 (by @ImperfectEngel)](#case-21-prompt-98-by-imperfectengel)
-  - [Case 22: Prompt 112 (by @johnAGI168)](#case-22-prompt-112-by-johnagi168)
-  - [Case 23: (Poliziottesco Wednesday) (by @ChrisGwinnLA)](#case-23-poliziottesco-wednesday-by-chrisgwinnla)
-  - [Case 24: Foldable Smartphone Fashion Ad (by @Adam38363368936)](#case-24-foldable-smartphone-fashion-ad-by-adam38363368936)
-  - [Case 25: Travel Suitcase Buddy Montage (by @ChaseAIx)](#case-25-travel-suitcase-buddy-montage-by-chaseaix)
-  - [Case 26: LaFerrari Commercial Storyboard (by @Adam38363368936)](#case-26-laferrari-commercial-storyboard-by-adam38363368936)
-  - [Case 27: Foldable Smartphone Fashion Ad (by @Adam38363368936)](#case-27-foldable-smartphone-fashion-ad-by-adam38363368936)
-  - [Case 28: Top-Down Fashion Lookbook — Outfit Change Sequence (by @johnAGI168)](#case-28-top-down-fashion-lookbook--outfit-change-sequence-by-johnagi168)
-  - [Case 29: Premium Lifestyle Commercial — Vlog Selfie Style (by @johnAGI168)](#case-29-premium-lifestyle-commercial--vlog-selfie-style-by-johnagi168)
-- [🖼️ Reference-Driven](#reference-driven) (16)
-  - [Case 1: Skeleton Pianist Miniature Diorama Performance (by @tea_story_hoshi)](#case-1-skeleton-pianist-miniature-diorama-performance-by-tea_story_hoshi)
-  - [Case 2: Storm Ship Princess vs Kraken (by @applete77191758)](#case-2-storm-ship-princess-vs-kraken-by-applete77191758)
-  - [Case 3: Maid Blade Dance: Mei vs Coco (by @MiraMusic_AI)](#case-3-maid-blade-dance-mei-vs-coco-by-miramusic_ai)
-  - [Case 4: Apocalyptic Rooftop Piano Farewell (by @liyue_ai)](#case-4-apocalyptic-rooftop-piano-farewell-by-liyue_ai)
-  - [Case 5: CINEMATIC 8mm Fisheye lens, FPV racing drone camera, hyper-fluid motion (by @itsPixieVerse)](#case-5-cinematic-8mm-fisheye-lens-fpv-racing-drone-camera-hyper-fluid-motion-by-itspixieverse)
-  - [Case 6: Subject (by @YaReYaRu30Life)](#case-6-subject-by-yareyaru30life)
-  - [Case 7: Ray tracing, Unreal Engine render, small town in heavy rain (by @Gwsubsa)](#case-7-ray-tracing-unreal-engine-render-small-town-in-heavy-rain-by-gwsubsa)
-  - [Case 8: Moon Convenience Store Night Shift (by @zasuko_michiksa)](#case-8-moon-convenience-store-night-shift-by-zasuko_michiksa)
-  - [Case 9: Rooftop Awakening to F-14 Transformation (by @john87445528)](#case-9-rooftop-awakening-to-f-14-transformation-by-john87445528)
-  - [Case 10: Armor Assembly Street Counterattack (by @egeberkina)](#case-10-armor-assembly-street-counterattack-by-egeberkina)
-  - [Case 11: Character reference @Image 1, convert to real-person live-action style (by @Adam38363368936)](#case-11-character-reference-image-1-convert-to-real-person-live-action-style-by-adam38363368936)
-  - [Case 12: Format (by @aimikoda)](#case-12-format-by-aimikoda)
-  - [Case 13: Seven-Image Seamless Morphing Sequence (by @YaReYaRu30Life)](#case-13-seven-image-seamless-morphing-sequence-by-yareyaru30life)
-  - [Case 14: Stridex Sneaker Commercial (by @ShamsAmin56)](#case-14-stridex-sneaker-commercial-by-shamsamin56)
-  - [Case 15: Image-Driven Prompt with Singing Cat (by @pan_soramame_da)](#case-15-image-driven-prompt-with-singing-cat-by-pan_soramame_da)
-  - [Case 16: Character Reference Anime Prompt (by @Reiria123)](#case-16-character-reference-anime-prompt-by-reiria123)
-- [🌀 Surreal / VFX](#surreal--vfx) (11)
-  - [Case 1: Zero-Gravity Katana Combat (by @MiraMusic_AI)](#case-1-zero-gravity-katana-combat-by-miramusic_ai)
-  - [Case 2: Aerial Shot (by @chaosdotjpg)](#case-2-aerial-shot-by-chaosdotjpg)
-  - [Case 3: Prompt 85 (by @AIARTGALLARY)](#case-3-prompt-85-by-aiartgallary)
-  - [Case 4: Reality splits (by @LudovicCreator)](#case-4-reality-splits-by-ludoviccreator)
-  - [Case 5: Rainy Underground Alley Merge (by @Dheepanratnam)](#case-5-rainy-underground-alley-merge-by-dheepanratnam)
-  - [Case 6: Video prompt (by @Dheepanratnam)](#case-6-video-prompt-by-dheepanratnam)
-  - [Case 7: the eye suddenly opens (by @roco_kn_roco)](#case-7-the-eye-suddenly-opens-by-roco_kn_roco)
-  - [Case 8: They clash mid-air above a floating lava river (by @LudovicCreator)](#case-8-they-clash-mid-air-above-a-floating-lava-river-by-ludoviccreator)
-  - [Case 9: Creative Director Dimension Walk (by @lukasersil)](#case-9-creative-director-dimension-walk-by-lukasersil)
-  - [Case 10: Abyssal Entity Altar Inscription — Dark Fantasy (by @Adam38363368936)](#case-10-abyssal-entity-altar-inscription--dark-fantasy-by-adam38363368936)
-  - [Case 11: Floating UI Color Wheel Scene Transformation (by @johnAGI168)](#case-11-floating-ui-color-wheel-scene-transformation-by-johnagi168)
-- [📐 Templates & Structured Formats](#templates--structured-formats) (19)
-  - [Case 1: Supercarrier Catastrophic Sinking (by @johnAGI168)](#case-1-supercarrier-catastrophic-sinking-by-johnagi168)
-  - [Case 2: Reconstruction of Memory Shards (by @TechTalkNAVI)](#case-2-reconstruction-of-memory-shards-by-techtalknavi)
-  - [Case 3: Blueprint to Reality – Single-Story House Transformation (by @craftian_keskin)](#case-3-blueprint-to-reality--single-story-house-transformation-by-craftian_keskin)
-  - [Case 4: Martial-Arts Haute Couture Tailor (by @Adam38363368936)](#case-4-martial-arts-haute-couture-tailor-by-adam38363368936)
-  - [Case 5: Format (by @aimikoda)](#case-5-format-by-aimikoda)
-  - [Case 6: Location (by @TechTalkNAVI)](#case-6-location-by-techtalknavi)
-  - [Case 7: Location (by @TechTalkNAVI)](#case-7-location-by-techtalknavi)
-  - [Case 8: Starlight Shadow / Stardust Silhouette (by @TechTalkNAVI)](#case-8-starlight-shadow--stardust-silhouette-by-techtalknavi)
-  - [Case 9: Subjects (by @0xbisc)](#case-9-subjects-by-0xbisc)
-  - [Case 10: Format (by @aimikoda)](#case-10-format-by-aimikoda)
-  - [Case 11: Prompt (by @Just_sharon7)](#case-11-prompt-by-just_sharon7)
-  - [Case 12: Format (by @Dheepanratnam)](#case-12-format-by-dheepanratnam)
-  - [Case 13: Composition (by @CharaspowerAI)](#case-13-composition-by-charaspowerai)
-  - [Case 14: Format (by @BrennanErbz)](#case-14-format-by-brennanerbz)
-  - [Case 15: Subjects (by @0xbisc)](#case-15-subjects-by-0xbisc)
-  - [Case 16: Stylized 3D Barbershop Transformation Sequence (by @ShamiWeb3)](#case-16-stylized-3d-barbershop-transformation-sequence-by-shamiweb3)
-  - [Case 17: Subjects (by @0xbisc)](#case-17-subjects-by-0xbisc)
-  - [Case 18: Seven-Image Seamless Morphing Sequence (by @YaReYaRu30Life)](#case-18-seven-image-seamless-morphing-sequence-by-yareyaru30life)
-  - [Case 19: Female Warrior — Structured Subject Prompt (by @noman23761)](#case-19-female-warrior--structured-subject-prompt-by-noman23761)
-- [🎬 General Cinematic](#general-cinematic) (37)
-  - [Case 1: Spring Wind Memory Poem (by @liyue_ai)](#case-1-spring-wind-memory-poem-by-liyue_ai)
-  - [Case 2: High-Heel Beat Sync Fashion Close-Up (by @TingFengAIAI)](#case-2-high-heel-beat-sync-fashion-close-up-by-tingfengaiai)
-  - [Case 3: Mini Skateboard Escape in a Child Bedroom (by @anson7956)](#case-3-mini-skateboard-escape-in-a-child-bedroom-by-anson7956)
-  - [Case 4: Prompt 25 (by @techhalla)](#case-4-prompt-25-by-techhalla)
-  - [Case 5: Prompt 28 (by @AITalesNBH)](#case-5-prompt-28-by-aitalesnbh)
-  - [Case 6: Ancient Costume Transformation Showcase (by @johnAGI168)](#case-6-ancient-costume-transformation-showcase-by-johnagi168)
-  - [Case 7: Ginza at night, future cyberpunk (by @ChiakiAkagi)](#case-7-ginza-at-night-future-cyberpunk-by-chiakiakagi)
-  - [Case 8: stories of a hopper (by @starks_arq)](#case-8-stories-of-a-hopper-by-starks_arq)
-  - [Case 9: A suspicious man stands in the center of Shibuya scramble crossing (by @roco_kn_roco)](#case-9-a-suspicious-man-stands-in-the-center-of-shibuya-scramble-crossing-by-roco_kn_roco)
-  - [Case 10: Aesthetic (by @maxescu)](#case-10-aesthetic-by-maxescu)
-  - [Case 11: A girl falls rapidly through a digital tunnel (by @_3912657840)](#case-11-a-girl-falls-rapidly-through-a-digital-tunnel-by-_3912657840)
-  - [Case 12: Visuals (by @TechTalkNAVI)](#case-12-visuals-by-techtalknavi)
-  - [Case 13: A Hollywood movie trailer (by @SSSS_CRYPTOMAN)](#case-13-a-hollywood-movie-trailer-by-ssss_cryptoman)
-  - [Case 14: Cinematic Vertical 9 (by @Mayz1169)](#case-14-cinematic-vertical-9-by-mayz1169)
-  - [Case 15: A giant glacier wall collapses into a fjord beside a coastal city (by @LudovicCreator)](#case-15-a-giant-glacier-wall-collapses-into-a-fjord-beside-a-coastal-city-by-ludoviccreator)
-  - [Case 16: A moonlit piano chase where the mouse (by @Dheepanratnam)](#case-16-a-moonlit-piano-chase-where-the-mouse-by-dheepanratnam)
-  - [Case 17: 15-second continuous single-shot cartoon sequence (by @Artedeingenio)](#case-17-15-second-continuous-single-shot-cartoon-sequence-by-artedeingenio)
-  - [Case 18: Prompt 83 (by @Alin_Reaper05)](#case-18-prompt-83-by-alin_reaper05)
-  - [Case 19: Aesthetic (by @maxescu)](#case-19-aesthetic-by-maxescu)
-  - [Case 20: Exterior of an ancient temple in the deep mountains (by @cdexsta)](#case-20-exterior-of-an-ancient-temple-in-the-deep-mountains-by-cdexsta)
-  - [Case 21: Statue of Liberty Sunrise Storyboard (by @MrDasOnX)](#case-21-statue-of-liberty-sunrise-storyboard-by-mrdasonx)
-  - [Case 22: Historical scene with dramatic lighting (by @AskVenice)](#case-22-historical-scene-with-dramatic-lighting-by-askvenice)
-  - [Case 23: ROCKET SURF (by @maxescu)](#case-23-rocket-surf-by-maxescu)
-  - [Case 24: Dialogue (by @Adam38363368936)](#case-24-dialogue-by-adam38363368936)
-  - [Case 25: Rooftop Awakening to F-14 Transformation (by @john87445528)](#case-25-rooftop-awakening-to-f-14-transformation-by-john87445528)
-  - [Case 26: Birthday Betrayal Restaurant Drama (by @Lighterkissan33)](#case-26-birthday-betrayal-restaurant-drama-by-lighterkissan33)
-  - [Case 27: Japanese Classroom Whisper Romance (by @JiahaoYang_art)](#case-27-japanese-classroom-whisper-romance-by-jiahaoyang_art)
-  - [Case 28: Ancient Parkour Costume-Change Sequence (by @Adam38363368936)](#case-28-ancient-parkour-costume-change-sequence-by-adam38363368936)
-  - [Case 29: Engine Internals — Piston Mechanical Detail (by @YaReYaRu30Life)](#case-29-engine-internals--piston-mechanical-detail-by-yareyaru30life)
-  - [Case 30: 90s Japanese Romance Sim — Cel Animation Style (by @kinopioai_ai)](#case-30-90s-japanese-romance-sim--cel-animation-style-by-kinopioai_ai)
-  - [Case 31: Cinematic Directing Techniques — Multi-Shot Prompt (by @noman23761)](#case-31-cinematic-directing-techniques--multi-shot-prompt-by-noman23761)
-  - [Case 32: East Asian Woman Portrait — Natural Smile (by @noman23761)](#case-32-east-asian-woman-portrait--natural-smile-by-noman23761)
-  - [Case 33: Post-Apocalyptic Survival — Cinematic Setup (by @noman23761)](#case-33-post-apocalyptic-survival--cinematic-setup-by-noman23761)
-  - [Case 34: Pixar Forest Clearing — 3D Animated Scene (by @SPEEDAI07)](#case-34-pixar-forest-clearing--3d-animated-scene-by-speedai07)
-  - [Case 35: Kitten Sneaking Snacks Under Covers (by @lynneatyoumind)](#case-35-kitten-sneaking-snacks-under-covers-by-lynneatyoumind)
-  - [Case 36: Seedance 2.0 T2V Natural Speech Test (by @tanabe_fragm)](#case-36-seedance-20-t2v-natural-speech-test-by-tanabe_fragm)
-  - [Case 37: Paper Puppet Horror Animation (by @TomaAIbijo)](#case-37-paper-puppet-horror-animation-by-tomaaibijo)
-- [🙏 Acknowledge](#-acknowledge)
-- [Contributing](#contributing)
-- [License](#license)
-- [Copyright Notice](#copyright-notice)
+> [!NOTE]
+> Блоки промптов остаются идентичными во всех языках. Заголовки из источников могут сохранять оригинальную формулировку, чтобы не размывать границы промпта.
 
-## Statistics
+<a id="quick-start"></a>
+## 🚀 Быстрый старт
 
-| Metric | Value |
-| --- | --- |
-| Всего промптов | 163 |
-| Языки источников | 4 |
-| Дата последнего источника | `17 апр 2026` |
+1. [Открыть рабочую область промптов Seedance 2.0](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-seedance-2.0-prompts&utm_content=model_link).
+2. [Получить API-ключ EvoLink](https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-seedance-2.0-prompts&utm_content=api_key).
+3. [Открыть примеры API Seedance 2.0](https://github.com/Evolink-AI/Seedance-2.0-Gateway-Service) или [Установить skill Seedance 2.0](https://github.com/Evolink-AI/Seedance-2.0-Gateway-Service).
+4. [Открыть документацию API EvoLink](https://docs.evolink.ai?utm_source=github&utm_medium=docs&utm_campaign=awesome-seedance-2.0-prompts&utm_content=docs_link).
 
-## How to Use This Repository
+<a id="statistics"></a>
+## 📊 Статистика
 
-1. Start with the category list below and open a section that matches your use case.
-2. Compare промпты by камера logic, timing, environment design, and consistency instructions — not only by subject matter.
-3. Reuse the structure first. In Seedance, shot progression and motion control often matter more than swapping nouns.
-4. Keep промпт-internal tokens such as `@image1` or `<<<Image1>>>` when they are part of the intended syntax.
-5. Use titles, categories, and source links as the main navigation anchors inside the cleaned dataset.
+155 уникальных примеров в 8 категориях, синхронизированных в 11 файлах README.
 
-<a id="action--fantasy"></a>
-## ⚔️ Action / Fantasy
+<a id="how-to-use"></a>
+## 🧭 Как пользоваться репозиторием
 
-Combat, chase, anime, wuxia, creature, and large-scale cinematic spectacle prompts.
+Выберите категорию, откройте пример с источником, скопируйте промпт и замените только нужный объект или медиассылки.
 
+<a id="menu"></a>
+## 📑 Меню
+
+- [Введение](#introduction)
+- [Быстрый старт](#quick-start)
+- [Статистика](#statistics)
+- [Как пользоваться репозиторием](#how-to-use)
+- [Меню](#menu)
+- [⚔️ Экшен / Фэнтези](#action-fantasy) (30)
+  - [Case 1: Prompt 23 (by @songguoxiansen)](#action-fantasy-case-1)
+  - [Case 2: Black Cat Desert Martial-Arts Duel (by @nopinduoduo)](#action-fantasy-case-2)
+  - [Case 3: 【Core Focus】 (by @johnAGI168)](#action-fantasy-case-3)
+  - [Case 4: Anime high-speed cut test — 20 hard cuts in 10 seconds (0 (by @tebasaki3D)](#action-fantasy-case-4)
+  - [Case 5: Watch a grease-stained mechanic fix (by @sebatheepan)](#action-fantasy-case-5)
+  - [Case 6: Prompt 45 (by @sailorv321)](#action-fantasy-case-6)
+  - [Case 7: Prompt 50 (by @johnAGI168)](#action-fantasy-case-7)
+  - [Case 8: Dialogue (Overlapping) (by @drjoetw)](#action-fantasy-case-8)
+  - [Case 9: Giant Ninja Tokusatsu Battle (by @EarthGigantea)](#action-fantasy-case-9)
+  - [Case 10: Japanese anime (by @_3912657840)](#action-fantasy-case-10)
+  - [Case 11: 15-Second Original Elemental Battle Short Film (by @ZikinArt)](#action-fantasy-case-11)
+  - [Case 12: Faberge Fantasy Egg Animation (by @ShamiWeb3)](#action-fantasy-case-12)
+  - [Case 13: Prompt 77 (by @David_eficaz)](#action-fantasy-case-13)
+  - [Case 14: Prompt 79 (by @CharaspowerAI)](#action-fantasy-case-14)
+  - [Case 15: 15-second continuous single-shot action sequence (by @Artedeingenio)](#action-fantasy-case-15)
+  - [Case 16: Prompt 82 (by @Alin_Reaper05)](#action-fantasy-case-16)
+  - [Case 17: Prompt 88 (by @sebatheepan)](#action-fantasy-case-17)
+  - [Case 18: Zero-G Mech Scramble Sequence (by @Dheepanratnam)](#action-fantasy-case-18)
+  - [Case 19: A super high-speed flight action scene of a girl riding a dragon (by @naoyuki_okada)](#action-fantasy-case-19)
+  - [Case 20: 15-Second Original Desert Martial Arts Short Film (by @NimEshed)](#action-fantasy-case-20)
+  - [Case 21: Canyon Airstrike Sequence (by @Mr_TuanDoan)](#action-fantasy-case-21)
+  - [Case 22: A 15-second hyper-realistic epic war blockbuster (by @john87445528)](#action-fantasy-case-22)
+  - [Case 23: Office Coffee Break Gone Wrongshot 1 (by @Dheepanratnam)](#action-fantasy-case-23)
+  - [Case 24: 15-second continuous single-shot action sequence (by @Artedeingenio)](#action-fantasy-case-24)
+  - [Case 25: Black Swan vs Boxer (by @KanaWorks_AI)](#action-fantasy-case-25)
+  - [Case 26: Ground Crack Superman Launch (by @techprophett)](#action-fantasy-case-26)
+  - [Case 27: Cloud Cave Sword Shadow (by @Adam38363368936)](#action-fantasy-case-27)
+  - [Case 28: City of Gods — One-Take Oriental Fantasy Flight (by @john87445528)](#action-fantasy-case-28)
+  - [Case 29: Epic Fantasy Battle — Cinematic 10-Second Sequence (by @a_shimanski)](#action-fantasy-case-29)
+  - [Case 30: Dark Fantasy Transformation — Eastern Style (by @johnAGI168)](#action-fantasy-case-30)
+- [🎞️ Кинематографический реализм](#cinematic-realism) (3)
+  - [Case 1: Modern Japan (by @kuranoayashi)](#cinematic-realism-case-1)
+  - [Case 2: Prompt 76 (by @Dheepanratnam)](#cinematic-realism-case-2)
+  - [Case 3: Meteor Awakening War Heroine (by @ChrisTheNerv)](#cinematic-realism-case-3)
+- [🥽 POV / FPV](#pov-fpv) (18)
+  - [Case 1: Chest-Mounted Camouflage Chase Sequence (by @genel_ai)](#pov-fpv-case-1)
+  - [Case 2: Shanghai Cyberpunk City Sizzle Reel (by @Adam38363368936)](#pov-fpv-case-2)
+  - [Case 3: Cursed Samurai Consistency Action Prompt (by @Just_sharon7)](#pov-fpv-case-3)
+  - [Case 4: Sun Wukong Battlefield Divine Rescue (by @drjoetw)](#pov-fpv-case-4)
+  - [Case 5: Y2K Pool Party Camcorder Montage (by @johnAGI168)](#pov-fpv-case-5)
+  - [Case 6: Prompt 40 (by @xingsthatmatter)](#pov-fpv-case-6)
+  - [Case 7: Extreme Close-Up (by @drjoetw)](#pov-fpv-case-7)
+  - [Case 8: Create A Fast, Seamless 16 (by @aisavvy1)](#pov-fpv-case-8)
+  - [Case 9: Environment (by @LudovicCreator)](#pov-fpv-case-9)
+  - [Case 10: First-person POV of an ice cube dropped into a glass of soda (by @LudovicCreator)](#pov-fpv-case-10)
+  - [Case 11: Gritty, raw handheld 35mm film aesthetic with natural film grain (by @AngelNwoha)](#pov-fpv-case-11)
+  - [Case 12: 10-second photorealistic cinematic POV video (by @umitsuru_fire)](#pov-fpv-case-12)
+  - [Case 13: A super futuristic megacity after the apocalypse awakens in a storm (by @johnAGI168)](#pov-fpv-case-13)
+  - [Case 14: Style: Ultra-realistic industrial timelapse (by @craftian_keskin)](#pov-fpv-case-14)
+  - [Case 15: Prompt 116 (by @Yuupapa_free)](#pov-fpv-case-15)
+  - [Case 16: Tokyo POV Rollercoaster (by @TechTalkNAVI)](#pov-fpv-case-16)
+  - [Case 17: Cinematic Beijing Cultural Ad — 8K First-Person (by @crayon1267)](#pov-fpv-case-17)
+  - [Case 18: Extreme Macro FPV — Fairy Wing Tracking Shot (by @EHuanglu)](#pov-fpv-case-18)
+- [🏷️ Реклама / Продукт](#commercial-product) (25)
+  - [Case 1: Perfume-Style Anime Trio Dance Stage (by @ShadeLurk)](#commercial-product-case-1)
+  - [Case 2: Dark Fantasy Church Duel (by @ZaraIrahh)](#commercial-product-case-2)
+  - [Case 3: Dark Fantasy Shrine Hall Duel (by @MiraMusic_AI)](#commercial-product-case-3)
+  - [Case 4: Japanese Snack Commercial Punchline (by @aigeboku)](#commercial-product-case-4)
+  - [Case 5: Cinematic Martial Art Sequence for Seedance 2 (by @CharaspowerAI)](#commercial-product-case-5)
+  - [Case 6: I asked Grok to produce the same video, but the result wasn't convincing (by @Viafin23)](#commercial-product-case-6)
+  - [Case 7: Japanese Classroom Whisper Romance (by @JiahaoYang_art)](#commercial-product-case-7)
+  - [Case 8: Recommended Settings Mode (by @MiraMusic_AI)](#commercial-product-case-8)
+  - [Case 9: LaFerrari Commercial Storyboard (by @Adam38363368936)](#commercial-product-case-9)
+  - [Case 10: Hot-Blooded Anime Final Duel (by @gkxspace)](#commercial-product-case-10)
+  - [Case 11: Prompt 35 (by @johnAGI168)](#commercial-product-case-11)
+  - [Case 12: Character (by @johnAGI168)](#commercial-product-case-12)
+  - [Case 13: Camera (by @CharaspowerAI)](#commercial-product-case-13)
+  - [Case 14: Prompt 49 (by @johnAGI168)](#commercial-product-case-14)
+  - [Case 15: Prompt 57 (by @aiehon_aya)](#commercial-product-case-15)
+  - [Case 16: Positive Prompt (by @adrianaia_)](#commercial-product-case-16)
+  - [Case 17: Original Dark Fantasy Action Short Film (by @Rufus87078959)](#commercial-product-case-17)
+  - [Case 18: 00:00-00:04 Shot 1: Follow shot (by @IamEmily2050)](#commercial-product-case-18)
+  - [Case 19: Prompt 98 (by @ImperfectEngel)](#commercial-product-case-19)
+  - [Case 20: Prompt 112 (by @johnAGI168)](#commercial-product-case-20)
+  - [Case 21: (Poliziottesco Wednesday) (by @ChrisGwinnLA)](#commercial-product-case-21)
+  - [Case 22: Foldable Smartphone Fashion Ad (by @Adam38363368936)](#commercial-product-case-22)
+  - [Case 23: Travel Suitcase Buddy Montage (by @ChaseAIx)](#commercial-product-case-23)
+  - [Case 24: Top-Down Fashion Lookbook — Outfit Change Sequence (by @johnAGI168)](#commercial-product-case-24)
+  - [Case 25: Premium Lifestyle Commercial — Vlog Selfie Style (by @johnAGI168)](#commercial-product-case-25)
+- [🖼️ На основе референсов](#reference-driven) (16)
+  - [Case 1: Skeleton Pianist Miniature Diorama Performance (by @tea_story_hoshi)](#reference-driven-case-1)
+  - [Case 2: Storm Ship Princess vs Kraken (by @applete77191758)](#reference-driven-case-2)
+  - [Case 3: Maid Blade Dance: Mei vs Coco (by @MiraMusic_AI)](#reference-driven-case-3)
+  - [Case 4: Apocalyptic Rooftop Piano Farewell (by @liyue_ai)](#reference-driven-case-4)
+  - [Case 5: CINEMATIC 8mm Fisheye lens, FPV racing drone camera, hyper-fluid motion (by @itsPixieVerse)](#reference-driven-case-5)
+  - [Case 6: Subject (by @YaReYaRu30Life)](#reference-driven-case-6)
+  - [Case 7: Ray tracing, Unreal Engine render, small town in heavy rain (by @Gwsubsa)](#reference-driven-case-7)
+  - [Case 8: Moon Convenience Store Night Shift (by @zasuko_michiksa)](#reference-driven-case-8)
+  - [Case 9: Rooftop Awakening to F-14 Transformation (by @john87445528)](#reference-driven-case-9)
+  - [Case 10: Armor Assembly Street Counterattack (by @egeberkina)](#reference-driven-case-10)
+  - [Case 11: Character reference @Image 1, convert to real-person live-action style (by @Adam38363368936)](#reference-driven-case-11)
+  - [Case 12: Format (by @aimikoda)](#reference-driven-case-12)
+  - [Case 13: Seven-Image Seamless Morphing Sequence (by @YaReYaRu30Life)](#reference-driven-case-13)
+  - [Case 14: Stridex Sneaker Commercial (by @ShamsAmin56)](#reference-driven-case-14)
+  - [Case 15: Image-Driven Prompt with Singing Cat (by @pan_soramame_da)](#reference-driven-case-15)
+  - [Case 16: Character Reference Anime Prompt (by @Reiria123)](#reference-driven-case-16)
+- [🌀 Сюрреализм / VFX](#surreal-vfx) (11)
+  - [Case 1: Zero-Gravity Katana Combat (by @MiraMusic_AI)](#surreal-vfx-case-1)
+  - [Case 2: Aerial Shot (by @chaosdotjpg)](#surreal-vfx-case-2)
+  - [Case 3: Prompt 85 (by @AIARTGALLARY)](#surreal-vfx-case-3)
+  - [Case 4: Reality splits (by @LudovicCreator)](#surreal-vfx-case-4)
+  - [Case 5: Rainy Underground Alley Merge (by @Dheepanratnam)](#surreal-vfx-case-5)
+  - [Case 6: Video prompt (by @Dheepanratnam)](#surreal-vfx-case-6)
+  - [Case 7: the eye suddenly opens (by @roco_kn_roco)](#surreal-vfx-case-7)
+  - [Case 8: They clash mid-air above a floating lava river (by @LudovicCreator)](#surreal-vfx-case-8)
+  - [Case 9: Creative Director Dimension Walk (by @lukasersil)](#surreal-vfx-case-9)
+  - [Case 10: Abyssal Entity Altar Inscription — Dark Fantasy (by @Adam38363368936)](#surreal-vfx-case-10)
+  - [Case 11: Floating UI Color Wheel Scene Transformation (by @johnAGI168)](#surreal-vfx-case-11)
+- [📐 Шаблоны и структурированные форматы](#templates-structured) (17)
+  - [Case 1: Supercarrier Catastrophic Sinking (by @johnAGI168)](#templates-structured-case-1)
+  - [Case 2: Reconstruction of Memory Shards (by @TechTalkNAVI)](#templates-structured-case-2)
+  - [Case 3: Blueprint to Reality – Single-Story House Transformation (by @craftian_keskin)](#templates-structured-case-3)
+  - [Case 4: Martial-Arts Haute Couture Tailor (by @Adam38363368936)](#templates-structured-case-4)
+  - [Case 5: Format (by @aimikoda)](#templates-structured-case-5)
+  - [Case 6: Location (by @TechTalkNAVI)](#templates-structured-case-6)
+  - [Case 7: Starlight Shadow / Stardust Silhouette (by @TechTalkNAVI)](#templates-structured-case-7)
+  - [Case 8: Subjects (by @0xbisc)](#templates-structured-case-8)
+  - [Case 9: Format (by @aimikoda)](#templates-structured-case-9)
+  - [Case 10: Prompt (by @Just_sharon7)](#templates-structured-case-10)
+  - [Case 11: Format (by @Dheepanratnam)](#templates-structured-case-11)
+  - [Case 12: Composition (by @CharaspowerAI)](#templates-structured-case-12)
+  - [Case 13: Format (by @BrennanErbz)](#templates-structured-case-13)
+  - [Case 14: Subjects (by @0xbisc)](#templates-structured-case-14)
+  - [Case 15: Stylized 3D Barbershop Transformation Sequence (by @ShamiWeb3)](#templates-structured-case-15)
+  - [Case 16: Subjects (by @0xbisc)](#templates-structured-case-16)
+  - [Case 17: Female Warrior — Structured Subject Prompt (by @noman23761)](#templates-structured-case-17)
+- [🎬 Общая кинематография](#general-cinematic) (35)
+  - [Case 1: Spring Wind Memory Poem (by @liyue_ai)](#general-cinematic-case-1)
+  - [Case 2: High-Heel Beat Sync Fashion Close-Up (by @TingFengAIAI)](#general-cinematic-case-2)
+  - [Case 3: Mini Skateboard Escape in a Child Bedroom (by @anson7956)](#general-cinematic-case-3)
+  - [Case 4: Prompt 25 (by @techhalla)](#general-cinematic-case-4)
+  - [Case 5: Prompt 28 (by @AITalesNBH)](#general-cinematic-case-5)
+  - [Case 6: Ancient Costume Transformation Showcase (by @johnAGI168)](#general-cinematic-case-6)
+  - [Case 7: Ginza at night, future cyberpunk (by @ChiakiAkagi)](#general-cinematic-case-7)
+  - [Case 8: stories of a hopper (by @starks_arq)](#general-cinematic-case-8)
+  - [Case 9: A suspicious man stands in the center of Shibuya scramble crossing (by @roco_kn_roco)](#general-cinematic-case-9)
+  - [Case 10: Aesthetic (by @maxescu)](#general-cinematic-case-10)
+  - [Case 11: A girl falls rapidly through a digital tunnel (by @_3912657840)](#general-cinematic-case-11)
+  - [Case 12: Visuals (by @TechTalkNAVI)](#general-cinematic-case-12)
+  - [Case 13: A Hollywood movie trailer (by @SSSS_CRYPTOMAN)](#general-cinematic-case-13)
+  - [Case 14: Cinematic Vertical 9 (by @Mayz1169)](#general-cinematic-case-14)
+  - [Case 15: A giant glacier wall collapses into a fjord beside a coastal city (by @LudovicCreator)](#general-cinematic-case-15)
+  - [Case 16: A moonlit piano chase where the mouse (by @Dheepanratnam)](#general-cinematic-case-16)
+  - [Case 17: 15-second continuous single-shot cartoon sequence (by @Artedeingenio)](#general-cinematic-case-17)
+  - [Case 18: Prompt 83 (by @Alin_Reaper05)](#general-cinematic-case-18)
+  - [Case 19: Aesthetic (by @maxescu)](#general-cinematic-case-19)
+  - [Case 20: Exterior of an ancient temple in the deep mountains (by @cdexsta)](#general-cinematic-case-20)
+  - [Case 21: Statue of Liberty Sunrise Storyboard (by @MrDasOnX)](#general-cinematic-case-21)
+  - [Case 22: Historical scene with dramatic lighting (by @AskVenice)](#general-cinematic-case-22)
+  - [Case 23: ROCKET SURF (by @maxescu)](#general-cinematic-case-23)
+  - [Case 24: Dialogue (by @Adam38363368936)](#general-cinematic-case-24)
+  - [Case 25: Birthday Betrayal Restaurant Drama (by @Lighterkissan33)](#general-cinematic-case-25)
+  - [Case 26: Ancient Parkour Costume-Change Sequence (by @Adam38363368936)](#general-cinematic-case-26)
+  - [Case 27: Engine Internals — Piston Mechanical Detail (by @YaReYaRu30Life)](#general-cinematic-case-27)
+  - [Case 28: 90s Japanese Romance Sim — Cel Animation Style (by @kinopioai_ai)](#general-cinematic-case-28)
+  - [Case 29: Cinematic Directing Techniques — Multi-Shot Prompt (by @noman23761)](#general-cinematic-case-29)
+  - [Case 30: East Asian Woman Portrait — Natural Smile (by @noman23761)](#general-cinematic-case-30)
+  - [Case 31: Post-Apocalyptic Survival — Cinematic Setup (by @noman23761)](#general-cinematic-case-31)
+  - [Case 32: Pixar Forest Clearing — 3D Animated Scene (by @SPEEDAI07)](#general-cinematic-case-32)
+  - [Case 33: Kitten Sneaking Snacks Under Covers (by @lynneatyoumind)](#general-cinematic-case-33)
+  - [Case 34: Seedance 2.0 T2V Natural Speech Test (by @tanabe_fragm)](#general-cinematic-case-34)
+  - [Case 35: Paper Puppet Horror Animation (by @TomaAIbijo)](#general-cinematic-case-35)
+- [Связанные репозитории](#related-repositories)
+- [Участие](#contributing)
+- [Лицензия](#license)
+- [Уведомление об авторских правах](#copyright-notice)
+- [Благодарности](#acknowledge)
+
+<a id="action-fantasy"></a>
+## ⚔️ Экшен / Фэнтези
+
+<a id="action-fantasy-case-1"></a>
 <!-- Case 1: Prompt 23 (by @songguoxiansen) -->
 ### Case 1: [Prompt 23](https://x.com/songguoxiansen/status/2033175478765289598) (by [@songguoxiansen](https://x.com/songguoxiansen))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-1"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/021.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -247,11 +246,13 @@ Combat, chase, anime, wuxia, creature, and large-scale cinematic spectacle promp
 16:9 horizontal screen, street rap MV style, neon purple and blue cool tones, explosive cool and fierce atmosphere. 0-3 seconds: Medium shot push-in, city street night scene with flashing neon lights, an 80-year-old silver-haired woman stands in front of a graffiti wall, short silver-white hair styled in a neat slick-back, distinct square face contour, sword-like eyebrows slanting towards the temples, eyes sharp like electricity, wrinkles at the corners of her eyes like badges of time, a confident smile on the corner of her mouth, wearing a black leather jacket over a white printed T-shirt (large black letters "YOLO" on the chest) + black cargo pants + white high-top sneakers, a thick gold chain necklace around her neck, silver bracelet on her wrist, holding up a microphone with both hands, strong drum beats of the BGM start, the old woman's eyes sharpen, and her lips open to start Rap. 3-7 seconds: Medium shot + close-up switch, the old woman starts rapping, with an extremely strong sense of rhythm, her silver hair flying with her head-nodding movements, one hand holding the microphone, the other hand making gestures to match the rhythm—index finger pointing at the camera, palm cutting the rhythm up and down, making hip-hop gestures, movements are smooth and flowing, eyes sharp and looking directly at the camera, wrinkles vividly jumping with her expression, lips opening and closing rapidly to spit out lyrics: [Rap Lyrics] "Eighty-year-old legs, can jump better than you! Silver hair flowing, this is my pride! Don't call me old, my Flow is better than yours, when you were playing rap, I was listening to disco!" (Fast speed, strong rhythm, fierce attitude) Quick cuts: facial close-ups, hand movements, full-body swaying, side silhouettes, synchronized with the BGM beat. 7-11 seconds: Dance segment, the camera pulls back to show the full body, the old woman starts dancing—first the classic hip-hop bounce, then a neat street dance freeze, followed by a body wave transmitting from the shoulders to the toes, and then a quick footwork workout, movements are clean and sharp, silver hair flies under the neon lights, the leather jacket flutters in the air, she continues to Rap while dancing: [Rap Lyrics] "Legs and feet are nimble, speed is not slow, my lyrics are carved in time! You play with phones, I play with beats, eighty years of life, written into this verse!" (Faster rhythm, stronger tone) Low-angle upward shot + 360-degree surrounding shot, capturing the old woman's cool and fierce dance moves. 11-15 seconds: Climax ending, the old woman makes a cool turn, her silver hair arcs in the air, she faces the camera and makes a "shush" gesture with her finger, then her lips move closer to the microphone, singing the last line in a low, magnetic voice: [Reality Lyrics] "Time never defeats a beauty, I just changed the way I experience youth..." (Slow rhythm, deep emotion, lingering finish) The camera slowly pushes in for a close-up of the old woman's eyes, the wrinkles at the corners of her eyes are all stories, her gaze is still sharp yet with a hint of kindness, the BGM abruptly stops at the climax, the frame freezes on the old woman's cool yet slightly gentle smile, vignetting + neon purple light halo.
 ```
 
+<a id="action-fantasy-case-2"></a>
 <!-- Case 2: Black Cat Desert Martial-Arts Duel (by @nopinduoduo) -->
 ### Case 2: [Black Cat Desert Martial-Arts Duel](https://x.com/nopinduoduo/status/2039915824216261101) (by [@nopinduoduo](https://x.com/nopinduoduo))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-2"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/031.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -259,11 +260,13 @@ Combat, chase, anime, wuxia, creature, and large-scale cinematic spectacle promp
 15-second Original Desert Martial Arts Short Film: A black cat warrior in light armor stands alone in a desert where yellow sand is flying all over the sky, facing the pursuers. The shots combine slow motion and fast editing; under backlight, the yellow sand rolls like ink mist. The character's movements are elegant yet ferocious, with tattered but flowing robes. Holding a short weapon, he shuttles and counterattacks at high speed. The overall tone is cold, lonely and oppressive, with high-end colors and obvious shallow depth of field, just like a high-quality oriental martial arts movie.
 ```
 
+<a id="action-fantasy-case-3"></a>
 <!-- Case 3: 【Core Focus】 (by @johnAGI168) -->
 ### Case 3: [【Core Focus】](https://x.com/johnAGI168/status/2021610292979876208) (by [@johnAGI168](https://x.com/johnAGI168))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-3"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/035.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -291,11 +294,13 @@ Action: The two swords violently collide in the center of the frame.
 Special Effects Spectacle: The blue water dragon and the golden lightning instantly explode, forming a massive water-thunder energy storm that spreads outwards. The surrounding large trees are snapped in half by the energy wave, and mud and light obscure the camera. The scene ends in an extremely dazzling blue, yellow, and white light.
 ```
 
+<a id="action-fantasy-case-4"></a>
 <!-- Case 4: Anime high-speed cut test — 20 hard cuts in 10 seconds (0 (by @tebasaki3D) -->
 ### Case 4: [Anime high-speed cut test — 20 hard cuts in 10 seconds (0](https://x.com/tebasaki3D/status/2039903531415552048) (by [@tebasaki3D](https://x.com/tebasaki3D))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/039.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -304,11 +309,13 @@ Anime high-speed cut test — 20 hard cuts in 10 seconds (0.5 seconds per cut, n
 [0.0 seconds to 0.5 seconds]: Cut 1 — Close-up. Anime Girl A: Long crimson hair, vivid green eyes. Winks at the camera.
 ```
 
+<a id="action-fantasy-case-5"></a>
 <!-- Case 5: Watch a grease-stained mechanic fix (by @sebatheepan) -->
 ### Case 5: [Watch a grease-stained mechanic fix](https://x.com/sebatheepan/status/2040079840754205010) (by [@sebatheepan](https://x.com/sebatheepan))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-5"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/041.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -321,11 +328,13 @@ Wrenches flying, spark plugs thrown like knives, hood slammed with a thunderous 
 From rusty disaster to purring monster in seconds.
 ```
 
+<a id="action-fantasy-case-6"></a>
 <!-- Case 6: Prompt 45 (by @sailorv321) -->
 ### Case 6: [Prompt 45](https://x.com/sailorv321/status/2040127822908596305) (by [@sailorv321](https://x.com/sailorv321))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-6"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/042.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -334,11 +343,13 @@ A short film about a samurai who loses his life on a burning battlefield and wak
 The first half is a fierce battle on a battlefield covered in mud and flames. The young samurai challenges his final duel, seems to win for a moment, but is ultimately cut down and falls. His vision tilts low, and his consciousness fades as he is enveloped in fire and smoke.
 ```
 
+<a id="action-fantasy-case-7"></a>
 <!-- Case 7: Prompt 50 (by @johnAGI168) -->
 ### Case 7: [Prompt 50](https://x.com/johnAGI168/status/2039924160567058725) (by [@johnAGI168](https://x.com/johnAGI168))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-7"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/047.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -346,11 +357,13 @@ The first half is a fierce battle on a battlefield covered in mud and flames. Th
 Stylized 3D animation with exaggerated proportions, sharp kung-fu-soccer choreography, and controlled rhythmic energy. CHARACTERS - Football master: an impeccably focused martial-arts soccer prodigy in a fitted training top, wrapped wrists, tapered athletic pants, and classic football boots. Piercing gaze. Every movement follows a precise rhythm: pause -> burst -> lock. Theatrical, hypnotic, absolute master of the field. - Opponent goalkeeper: tense, exhausted, intimidated, standing before the goal line under immense pressure. ENVIRONMENT Futuristic night football stadium with glowing floodlights, wet grass, drifting mist, roaring crowd silhouettes, dramatic contrast. MOOD Aggressive precision. Football master = total control. Goalkeeper = anxious, overwhelmed. TIMELINE 0:00-0:02 (Close-up) The ball rests at the player's feet. He taps it lightly once, then rolls his ankle and snaps into a low martial stance, one hand extended, one foot pinning the ball, energy coiling before release. 0:02-0:05 (Action sequence) He flicks the ball high into the air. Launching upward, he strikes it in mid-air with a flurry of kung-fu kicks and spinning leg strikes, each impact perfectly controlled. The ball accelerates, glowing with spiraling energy trails like a dragon sphere. 0:05-0:08 (Tracking shot) He lands and sprints forward with impossible precision footwork, dribbling through multiple defenders in braided arcs, body feints, sweeping turns, and explosive step-overs. The camera tracks low and fast as the glowing ball never leaves his control. 0:08-0:11 He plants his foot, twists his waist, and unleashes a violent, rhythmic power shot. The kick lands with a percussive burst, grass and mist exploding outward, the ball becoming a blazing comet with frosted vapor and shockwave ripples. 0:11-0:13 The goalkeeper dives desperately as the ball curves through the air in a smoking arc, slicing through the frame with dragon-fire energy, then smashes into the top corner of the net. 0:13-0:15 FINAL REVEAL The net whips violently. Smoke and light dissipate. The glowing ball settles in the goal. The goalkeeper lies stunned. The football master stands in silence, turns away calmly, and flicks his wrist as the crowd erupts. Epic, ultra-detailed, cinematic, premium animation, powerful lighting, heroic finish.
 ```
 
+<a id="action-fantasy-case-8"></a>
 <!-- Case 8: Dialogue (Overlapping) (by @drjoetw) -->
 ### Case 8: [Dialogue (Overlapping)](https://x.com/drjoetw/status/2039905967597613558) (by [@drjoetw](https://x.com/drjoetw))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-8"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/050.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -364,11 +377,13 @@ Suddenly, the cat slams the desk and shouts, “ENOUGH!!” He stands up and kic
 Camera: fast cuts, whip pans, strong motion blur, 0.6–1.2s pacing, ending in slow motion. Tone: absurd, exaggerated, high-energy comedy.
 ```
 
+<a id="action-fantasy-case-9"></a>
 <!-- Case 9: Giant Ninja Tokusatsu Battle (by @EarthGigantea) -->
 ### Case 9: [Giant Ninja Tokusatsu Battle](https://x.com/EarthGigantea/status/2044026356984623194) (by [@EarthGigantea](https://x.com/EarthGigantea))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-9"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/OPGJe_kwdEgXZcfi.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -386,11 +401,13 @@ Visual Style:
 1980s film aesthetic, 35mm film grain, vibrant retro colors. The movement has the weight and physics of suit-actors performing on a miniature set. Dramatic pyrotechnic sparks fly on impact. Clear blue sky with soft, old-school studio lighting. Close-up on the Blue Ninja's face at the end, showing his red eyes and single horn.
 ```
 
+<a id="action-fantasy-case-10"></a>
 <!-- Case 10: Japanese anime (by @_3912657840) -->
 ### Case 10: [Japanese anime](https://x.com/_3912657840/status/2040018529441730815) (by [@_3912657840](https://x.com/_3912657840))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-10"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/056.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -398,11 +415,13 @@ Visual Style:
 Japanese anime. Dialogue in Japanese. Flowing clouds. A girl walks, jumps cutely, and hits a red switch. At the moment of the explosion, it briefly becomes black and white high contrast, then flame-colored high contrast. The tower in the background explodes violently, creating a flame backlight high contrast. The girl says, "Haa~!?" Surprised by the explosion.
 ```
 
+<a id="action-fantasy-case-11"></a>
 <!-- Case 11: 15-Second Original Elemental Battle Short Film (by @ZikinArt) -->
 ### Case 11: [15-Second Original Elemental Battle Short Film](https://web.archive.org/web/*/https://x.com/ZikinArt/status/2040006818953322644) (by [@ZikinArt](https://x.com/ZikinArt))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-11"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/058.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -410,11 +429,13 @@ Japanese anime. Dialogue in Japanese. Flowing clouds. A girl walks, jumps cutely
 15-second Original Elemental Battle Short Film: On an ice-covered volcanic mountain range, a warrior in lava obsidian armor collides head-on with an opponent who controls cold crystal power. Under their feet are snow-covered cracked lava; in the air, there are simultaneous flame roars, ice crystal shatters, steam eruptions and storm howls. The camera quickly switches between close-ups of armor textures, ice crystals, ground cracks and the ultimate collision moment, and finally ends with a steam explosion engulfing the screen, featuring a strong "fire vs. ice" visual conflict.
 ```
 
+<a id="action-fantasy-case-12"></a>
 <!-- Case 12: Faberge Fantasy Egg Animation (by @ShamiWeb3) -->
 ### Case 12: [Faberge Fantasy Egg Animation](https://x.com/ShamiWeb3/status/2040096061835059412) (by [@ShamiWeb3](https://x.com/ShamiWeb3))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-12"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/064.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -422,11 +443,13 @@ Japanese anime. Dialogue in Japanese. Flowing clouds. A girl walks, jumps cutely
 Highly detailed cinematic 4K animated video, precious enchanted Faberge-style Easter eggs floating in a dreamy ethereal space, ornate golden filigree and glowing runes on creamy porcelain and jewel-toned shells, semi-transparent eggs revealing intricate animated miniature fantasy
 ```
 
+<a id="action-fantasy-case-13"></a>
 <!-- Case 13: Prompt 77 (by @David_eficaz) -->
 ### Case 13: [Prompt 77](https://x.com/David_eficaz/status/2039966320414937236) (by [@David_eficaz](https://x.com/David_eficaz))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-13"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/074.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -434,11 +457,13 @@ Highly detailed cinematic 4K animated video, precious enchanted Faberge-style Ea
 Original 15-second short film about an elemental battle: In a volcanic mountain range covered in ice, a warrior in volcanic obsidian armor clashes head-on with an opponent who controls the power of cold crystal. Cracked, snow-covered lava stretches beneath their feet; in the air, flames roar, ice crystals shatter, steam erupts, and storms howl. The camera rapidly alternates close-ups of the armor textures, ice crystals, cracks in the ground, and the culminating moment of the clash, finally ending with an explosion of steam that floods the screen, creating a strong visual conflict between fire and ice.
 ```
 
+<a id="action-fantasy-case-14"></a>
 <!-- Case 14: Prompt 79 (by @CharaspowerAI) -->
 ### Case 14: [Prompt 79](https://x.com/CharaspowerAI/status/2040013966986957144) (by [@CharaspowerAI](https://x.com/CharaspowerAI))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-14"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/076.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -457,11 +482,13 @@ Open landscape under bright daylight, minimal clutter, ground reacting to impact
 Ultra realistic, high-end cinematic action, precise choreography, glowing energy blade effects, strong contrast lighting, fluid motion, intense speed, epic scale, no distortion, no stretching
 ```
 
+<a id="action-fantasy-case-15"></a>
 <!-- Case 15: 15-second continuous single-shot action sequence (by @Artedeingenio) -->
 ### Case 15: [15-second continuous single-shot action sequence](https://x.com/Artedeingenio/status/2039997977897435190) (by [@Artedeingenio](https://x.com/Artedeingenio))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-15"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/078.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -478,11 +505,13 @@ Dense forest → cliff edge → open valley
 0–3s —
 ```
 
+<a id="action-fantasy-case-16"></a>
 <!-- Case 16: Prompt 82 (by @Alin_Reaper05) -->
 ### Case 16: [Prompt 82](https://x.com/Alin_Reaper05/status/2040042931172655384) (by [@Alin_Reaper05](https://x.com/Alin_Reaper05))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-16"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/079.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -490,11 +519,13 @@ Dense forest → cliff edge → open valley
 A lone samurai stands on a cliff overlooking cherry blossom mountains at sunset, wind blowing petals around him, he slowly draws his katana for the last time, single tear on his face, slow cinematic crane shot rising above him as sun sets, emotional widescreen, ultra-realistic, like Ghost of Tsushima + The Last Samurai, warm golden tones, heartbreaking moment
 ```
 
+<a id="action-fantasy-case-17"></a>
 <!-- Case 17: Prompt 88 (by @sebatheepan) -->
 ### Case 17: [Prompt 88](https://x.com/sebatheepan/status/2039723026124575231) (by [@sebatheepan](https://x.com/sebatheepan))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-17"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/085.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -502,11 +533,13 @@ A lone samurai stands on a cliff overlooking cherry blossom mountains at sunset,
 A daring aerial rogue diving on a bio-mechanical glider through a chaotic floating-island bazaar, weaving effortlessly through airborne merchants, dodging passing airships, flocking griffins, and tethered trading posts. He plummets past crumbling stone arches, busy rope bridges, and cascading waterfalls, barrel-rolling through narrow gaps with precision and style. Cinematic tracking shots follow his descent, enhanced by dynamic motion blur and ethereal dappled sunlight reflecting off crystal formations and mist. The sky-city pulses with an energetic fantasy vibe—flapping wings, shouting vendors, and nonstop vertical motion. Ultra-realistic detail with an epic high-fantasy action aesthetic, capturing speed, agility, and fearless momentum through the clouds.
 ```
 
+<a id="action-fantasy-case-18"></a>
 <!-- Case 18: Zero-G Mech Scramble Sequence (by @Dheepanratnam) -->
 ### Case 18: [Zero-G Mech Scramble Sequence](https://x.com/Dheepanratnam/status/2044338893764383111) (by [@Dheepanratnam](https://x.com/Dheepanratnam))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-18"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/ofW5CfXPYCWpNX7M.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -534,11 +567,13 @@ SHOT 14: OTS, 35mm handheld / Rhythmic cut into targeting reticles locking, warn
 SHOT 15: WS, 50mm pull-out / L-cut with a match from the targeting screen close to the berth re-entry as the pressure suit drops, helmet rolls across the deck, and the pilot floats backward in thermal wear, collapsing into the netting in the opening frame shape. / SFX: airlock hiss, heavy thud, deep exhale, room tone.
 ```
 
+<a id="action-fantasy-case-19"></a>
 <!-- Case 19: A super high-speed flight action scene of a girl riding a dragon (by @naoyuki_okada) -->
 ### Case 19: [A super high-speed flight action scene of a girl riding a dragon](https://x.com/naoyuki_okada/status/2039573038392614995) (by [@naoyuki_okada](https://x.com/naoyuki_okada))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-19"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/086.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -547,11 +582,13 @@ A super high-speed flight action scene of a girl riding a dragon. High number of
 Two dragons, one blue and one red, are flying high above the clouds. They are flying faster than 100 km/h, cutting through the wind and passing between the clouds. A sense of freedom, liberation from anything that might interfere, and speed.
 ```
 
+<a id="action-fantasy-case-20"></a>
 <!-- Case 20: 15-Second Original Desert Martial Arts Short Film (by @NimEshed) -->
 ### Case 20: [15-Second Original Desert Martial Arts Short Film](https://x.com/NimEshed/status/2039816152222949829) (by [@NimEshed](https://x.com/NimEshed))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-20"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/091.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -559,11 +596,13 @@ Two dragons, one blue and one red, are flying high above the clouds. They are fl
 15-second Original Desert Martial Arts Short Film: A black cat warrior in light armor stands alone in a desert where yellow sand is flying all over the sky, facing the pursuers. The shots combine slow motion and fast editing; under backlight, the yellow sand rolls like ink mist. The character’s movements are elegant yet ferocious, with tattered but flowing robes. Holding a short weapon, he shuttles and counterattacks at high speed. The overall tone is cold, lonely and oppressive, with high-end colors and obvious shallow depth of field, just like a high-quality oriental martial arts movie.
 ```
 
+<a id="action-fantasy-case-21"></a>
 <!-- Case 21: Canyon Airstrike Sequence (by @Mr_TuanDoan) -->
 ### Case 21: [Canyon Airstrike Sequence](https://x.com/Mr_TuanDoan/status/2044750468849729604) (by [@Mr_TuanDoan](https://x.com/Mr_TuanDoan))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-21"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/RpLzRvgpJopkYzwc.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -587,11 +626,13 @@ SHOT 06 (11-13s) impact — massive grounded explosion shockwave kicks dust outw
 SHOT 07 (13-15s) wide aerial — jet exits frame at insane speed, heat haze trailing smoke column rising from canyon camera: slow pull-back, scale emphasized SFX: jet fades... wind + distant crackling debris
 ```
 
+<a id="action-fantasy-case-22"></a>
 <!-- Case 22: A 15-second hyper-realistic epic war blockbuster (by @john87445528) -->
 ### Case 22: [A 15-second hyper-realistic epic war blockbuster](https://x.com/john87445528/status/2039348028574744685) (by [@john87445528](https://x.com/john87445528))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-22"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/110.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -599,11 +640,13 @@ SHOT 07 (13-15s) wide aerial — jet exits frame at insane speed, heat haze trai
 A 15-second hyper-realistic epic war blockbuster. Style: rugged realism, 35mm handheld film aesthetic, natural grain, subtle shake. Xiang Yu, the Hegemon-King of Western Chu, wearing the armor from Image 2, riding the horse from Image 1, holding a 13-foot 7-inch Overlord Spear, in a famous scene of slaughter on an ancient battlefield, leading a small number of soldiers against thousands of enemy troops in a display of lonely bravery. Scene 1: One-shot, low-angle ground-level slow follow of the horse's hooves, panning up to a close-up of Xiang Yu's face, showing bloodstains, resolute eyes, and a roaring expression as he shouts: “Zhai Xiaoniao,” give me back my money; Scene 2: Low-angle follow shot of Xiang Yu charging on horseback, leading the way; Generate only fighting sound effects and environmental sounds, no background music.
 ```
 
+<a id="action-fantasy-case-23"></a>
 <!-- Case 23: Office Coffee Break Gone Wrongshot 1 (by @Dheepanratnam) -->
 ### Case 23: [Office Coffee Break Gone Wrongshot 1](https://x.com/Dheepanratnam/status/2039387346706001941) (by [@Dheepanratnam](https://x.com/Dheepanratnam))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-23"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/117.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -611,11 +654,13 @@ A 15-second hyper-realistic epic war blockbuster. Style: rugged realism, 35mm ha
 Office Coffee Break Gone WrongShot 1: Tired office worker in a button-up shirt sips coffee at his desk in a modern open-plan office. Calm medium shot, fluorescent lights, papers everywhere.Shot 2: He spills a drop — the coffee suddenly animates into a hyper-caffeinated coffee monster with espresso eyes and foam tentacles.Shot 3: Low-angle shot: The monster rampages across desks, flinging staplers and keyboards in realistic arcs while the worker dodges in panic.Shot 4: Fast-paced tracking shot through the office as coworkers scream and dive under tables, papers flying like confetti with accurate physics.Shot 5: Climax: Worker grabs a fire extinguisher and blasts the monster, turning it back into harmless foam. He sits exhausted, now covered in foam, as everyone claps slowly
 ```
 
+<a id="action-fantasy-case-24"></a>
 <!-- Case 24: 15-second continuous single-shot action sequence (by @Artedeingenio) -->
 ### Case 24: [15-second continuous single-shot action sequence](https://x.com/Artedeingenio/status/2039333445403287777) (by [@Artedeingenio](https://x.com/Artedeingenio))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-24"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/119.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -628,11 +673,13 @@ Cinematic fantasy realism, large-scale creature animation, fire simulation, smok
 Weighty creature movement, believable scale,
 ```
 
+<a id="action-fantasy-case-25"></a>
 <!-- Case 25: Black Swan vs Boxer (by @KanaWorks_AI) -->
 ### Case 25: [Black Swan vs Boxer](https://x.com/KanaWorks_AI/status/2045098229847716305) (by [@KanaWorks_AI](https://x.com/KanaWorks_AI))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-25"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/iILeAyierBn5imMB.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -653,11 +700,13 @@ K.O.
 The crowd erupts in thunderous cheers. The Black Swan slowly settles her stance, standing at the center of the spotlight. She gracefully bows like a noble black swan.
 ```
 
+<a id="action-fantasy-case-26"></a>
 <!-- Case 26: Ground Crack Superman Launch (by @techprophett) -->
 ### Case 26: [Ground Crack Superman Launch](https://x.com/techprophett/status/2045091209417249026) (by [@techprophett](https://x.com/techprophett))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-26"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/JnftRXbRJtRUNj2a.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -675,11 +724,13 @@ The crowd erupts in thunderous cheers. The Black Swan slowly settles her stance,
 [STYLE] Cinematic. Photoreal. 4K. Natural lighting. Grounded and raw. No energy beams, no glowing effects. Gravity and weight drive everything.
 ```
 
+<a id="action-fantasy-case-27"></a>
 <!-- Case 27: Cloud Cave Sword Shadow (by @Adam38363368936) -->
 ### Case 27: [Cloud Cave Sword Shadow](https://x.com/Adam38363368936/status/2039865857179013318) (by [@Adam38363368936](https://x.com/Adam38363368936))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-27"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/081.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -731,11 +782,13 @@ Action: He performs a sword flourish and sheathes the sword, placing it on his b
 Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drips from the edge of the bamboo hat, tracing his jawline. His eyes are sharp as lightning, with the vast landscape in the background.
 ```
 
+<a id="action-fantasy-case-28"></a>
 <!-- Case 28: City of Gods — One-Take Oriental Fantasy Flight (by @john87445528) -->
 ### Case 28: [City of Gods — One-Take Oriental Fantasy Flight](https://x.com/john87445528/status/2041000256930763046) (by [@john87445528](https://x.com/john87445528))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-28"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041000256930763046.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -753,11 +806,13 @@ Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drip
 无剪辑、不可思议的镜头运动、无缝衔接，充满东方神秘、史诗宏大、极具电影感。8K高清画质，高品质影像素材。
 ```
 
+<a id="action-fantasy-case-29"></a>
 <!-- Case 29: Epic Fantasy Battle — Cinematic 10-Second Sequence (by @a_shimanski) -->
 ### Case 29: [Epic Fantasy Battle — Cinematic 10-Second Sequence](https://x.com/a_shimanski/status/2041431226507051027) (by [@a_shimanski](https://x.com/a_shimanski))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-29"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041431226507051027.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -767,11 +822,13 @@ Prompt👇
 Cinematic 10-second epic fantasy battle sequence in the style of Lord of the Rings, opening with a sweeping aerial crane shot pulling back over a massive ruined battlefield where thousands of armored Norse warriors charge through ash and smoke toward three colossal stone giants crackling with blue lightning, then cutting to a low ground-level tracking shot racing between the boots of sprinting soldiers as a giant's massive stone foot slams into the earth sending warriors flying in slow motion through dust and embers, then cutting to a medium dutch angle shot of a purple-robed female mage and a male sorcerer unleashing violet and blue arc lightning into the giants faces lit dramatically from below, then a whip pan over-the-shoulder shot from the giant's perspective as his enormous clawed hand sweeps across the battlefield scattering warriors like leaves with fire exploding to the right, finally ending on an extreme slow-motion close-up of a blood-soaked Norse warrior's determined face raising his sword and charging directly at the camera before the frame freezes in a blinding white lightning flash and smashes to black, desaturated steel blue and volcanic orange color grade, photorealistic, 8K, cinematic motion blur, epic orchestral atmosphere
 ```
 
+<a id="action-fantasy-case-30"></a>
 <!-- Case 30: Dark Fantasy Transformation — Eastern Style (by @johnAGI168) -->
 ### Case 30: [Dark Fantasy Transformation — Eastern Style](https://x.com/johnAGI168/status/2041146946681721113) (by [@johnAGI168](https://x.com/johnAGI168))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-30"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041146946681721113.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -786,15 +843,17 @@ Seedance 2.0 prompt 👇
 ```
 
 <a id="cinematic-realism"></a>
-## 🎞️ Cinematic Realism
 
-Grounded live-action prompts focused on mood, body language, practical light, and believable camera behavior.
+<a id="cinematic-realism"></a>
+## 🎞️ Кинематографический реализм
 
+<a id="cinematic-realism-case-1"></a>
 <!-- Case 1: Modern Japan (by @kuranoayashi) -->
 ### Case 1: [Modern Japan](https://x.com/kuranoayashi/status/2040055299835650266) (by [@kuranoayashi](https://x.com/kuranoayashi))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-realism-case-1"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/045.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -804,11 +863,13 @@ No BGM. No subtitles. Only environmental sounds, radio, wind, fire, and people's
 ---
 ```
 
+<a id="cinematic-realism-case-2"></a>
 <!-- Case 2: Prompt 76 (by @Dheepanratnam) -->
 ### Case 2: [Prompt 76](https://x.com/Dheepanratnam/status/2039982273076810119) (by [@Dheepanratnam](https://x.com/Dheepanratnam))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-realism-case-2"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/073.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -820,11 +881,13 @@ No BGM. No subtitles. Only environmental sounds, radio, wind, fire, and people's
 [10-15s] A rapid whip-pan and macro snap-zoom abruptly shifts the camera down to street level for an ultra-realistic extreme close-up of the longboard's vibrant polyurethane wheels executing a heavy sideways drift. Thick, volumetric white friction smoke billows from the wheels as they violently grind against the highly textured, sun-baked granular black asphalt, highlighting raw kinetic energy and photorealistic surface materiality.
 ```
 
+<a id="cinematic-realism-case-3"></a>
 <!-- Case 3: Meteor Awakening War Heroine (by @ChrisTheNerv) -->
 ### Case 3: [Meteor Awakening War Heroine](https://x.com/ChrisTheNerv/status/2040043939109953944) (by [@ChrisTheNerv](https://x.com/ChrisTheNerv))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-realism-case-3"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/075.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -854,15 +917,17 @@ Layered progression from the scream activation to the explosive mechanical erupt
 ```
 
 <a id="pov--fpv"></a>
+
+<a id="pov-fpv"></a>
 ## 🥽 POV / FPV
 
-First-person, drone-like, body-mounted, and immersion-first prompts built around camera momentum.
-
+<a id="pov-fpv-case-1"></a>
 <!-- Case 1: Chest-Mounted Camouflage Chase Sequence (by @genel_ai) -->
 ### Case 1: [Chest-Mounted Camouflage Chase Sequence](https://x.com/genel_ai/status/2039538309790404797) (by [@genel_ai](https://x.com/genel_ai))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-1"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/004.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -881,11 +946,13 @@ Jump 5: A final, explosive long-distance jump to a swaying metal platform. He la
 The camera remains in a low, fetal position on the final bar, shaking from the adrenaline. No dialogue. The audio is a visceral layer of the aggressive 'Hyuo' wind, his intense, ragg
 ```
 
+<a id="pov-fpv-case-2"></a>
 <!-- Case 2: Shanghai Cyberpunk City Sizzle Reel (by @Adam38363368936) -->
 ### Case 2: [Shanghai Cyberpunk City Sizzle Reel](https://x.com/Adam38363368936/status/2039498800801398911) (by [@Adam38363368936](https://x.com/Adam38363368936))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-2"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/005.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -905,11 +972,13 @@ Requirements: extremely dynamic camera movement, FPV aerial motion, macro cinema
 Mood: energetic, futuristic, premium, fast-paced. Combine wide city views with fine details to emphasize the city's pulse and a commercial-advertising texture. 4K, realistic style, smooth motion.
 ```
 
+<a id="pov-fpv-case-3"></a>
 <!-- Case 3: Cursed Samurai Consistency Action Prompt (by @Just_sharon7) -->
 ### Case 3: [Cursed Samurai Consistency Action Prompt](https://x.com/Just_sharon7/status/2040685931858907646) (by [@Just_sharon7](https://x.com/Just_sharon7))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-3"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/006.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -917,11 +986,13 @@ Mood: energetic, futuristic, premium, fast-paced. Combine wide city views with f
 Strictly follow the reference character’s face, hairstyle, outfit silhouette, and body proportions. Do not change identity or facial structure. Fixed appearance: glowing dark eyes, torn black samurai kimono, traditional katana, black cursed smoke slowly leaking from the body, flowing shadow energy aura, calm but cruel expression, supernatural high-speed movement, consistent identity and physical appearance throughout the entire scene. Strictly follow the reference character’s face, hairstyle, outfit silhouette, and body proportions. Do not change identity or facial structure. Fixed appearance: glowing dark eyes, torn black samurai kimono, traditional katana, black cursed smoke slowly leaking from the body, flowing shadow energy aura, calm but cruel expression, supernatural high-speed movement, consistent identity and physical appearance throughout the entire scene. Hyper-realistic cinematic action, Unreal Engine quality, fast-paced 12s sequence. Cursed lone samurai (strict consistency: female Japanese, long tied black hair, pale skin, glowing dark eyes, torn black kimono armor, katana, black cursed smoke, shadow aura, calm ruthless expression). Environment: abandoned temple shrine at night, broken torii gates, shattered statues, debris, moonlight + dim lanterns, dust and wind, dozens of enemies, dark gritty tone. Camera: aggressive tracking, whip pans, blade POV, high-speed motion, no slow motion. Action: 0–3s: Samurai stands surrounded → instant iaijutsu draw → dark energy slash cuts multiple enemies. 3–6s: High-speed dashes, shadow afterimages, rapid slashes, enemies fall, debris flying. 6–9s: Close combat, parries, teleport-like strikes, circular slashes clearing groups. 9–12s: Final spinning slash → massive dark wave → enemies freeze then collapse → silence, smoke fading.
 ```
 
+<a id="pov-fpv-case-4"></a>
 <!-- Case 4: Sun Wukong Battlefield Divine Rescue (by @drjoetw) -->
 ### Case 4: [Sun Wukong Battlefield Divine Rescue](https://x.com/drjoetw/status/2040661051948323129) (by [@drjoetw](https://x.com/drjoetw))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/009.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -937,11 +1008,13 @@ Shot 7: Ultra-fast sequence of disintegration shots. The skeletal army is instan
 Shot 8: Wide epic drone pull-back. Wukong stands silhouett
 ```
 
+<a id="pov-fpv-case-5"></a>
 <!-- Case 5: Y2K Pool Party Camcorder Montage (by @johnAGI168) -->
 ### Case 5: [Y2K Pool Party Camcorder Montage](https://x.com/johnAGI168/status/2040628800422322359) (by [@johnAGI168](https://x.com/johnAGI168))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-5"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/010.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -972,11 +1045,13 @@ Push in from behind the DJ's shoulder. In the foreground, fingers press the silv
 A rapid crane rise opens the entire pool party in golden-hour warm light, full of people and inflatable toys, with the water shimmering like broken gold. Overlay a DV timestamp reading "08/15/2000 PM 5:47" and freeze the frame with a flickering VHS pause effect.
 ```
 
+<a id="pov-fpv-case-6"></a>
 <!-- Case 6: Prompt 40 (by @xingsthatmatter) -->
 ### Case 6: [Prompt 40](https://x.com/xingsthatmatter/status/2040190310043812035) (by [@xingsthatmatter](https://x.com/xingsthatmatter))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-6"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/038.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -986,11 +1061,13 @@ Cinematic CG ad quality, ultra-realistic, first-person POV, high-speed one-take 
 The camera bursts out from inside image1, the Tesla card, as the card spins forward at high speed. The camera stays tight to its edge, tracking it through city
 ```
 
+<a id="pov-fpv-case-7"></a>
 <!-- Case 7: Extreme Close-Up (by @drjoetw) -->
 ### Case 7: [Extreme Close-Up](https://x.com/drjoetw/status/2040036596897222773) (by [@drjoetw](https://x.com/drjoetw))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-7"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/049.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1057,11 +1134,13 @@ White tiger casually adjusts sunglasses while sitting on him.
 Freeze frame → dramatic music abruptly cuts.
 ```
 
+<a id="pov-fpv-case-8"></a>
 <!-- Case 8: Create A Fast, Seamless 16 (by @aisavvy1) -->
 ### Case 8: [Create A Fast, Seamless 16](https://x.com/aisavvy1/status/2040054688054382972) (by [@aisavvy1](https://x.com/aisavvy1))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-8"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/052.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1075,11 +1154,13 @@ Shot 5: Continue through the circular opening into a Mediterranean cliffside vil
 Fast, smooth, continuous movement. No flying device, shadow, or reflection. Cinematic.
 ```
 
+<a id="pov-fpv-case-9"></a>
 <!-- Case 9: Environment (by @LudovicCreator) -->
 ### Case 9: [Environment](https://x.com/LudovicCreator/status/2039983776206344231) (by [@LudovicCreator](https://x.com/LudovicCreator))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-9"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/069.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1109,11 +1190,13 @@ Fast aerial predator POV weaving through the skyline, banking sharply between to
 Photorealistic fire simulation, volumetric smoke, cinematic sunset lighting, realistic wing turbulence and debris physics, 8K resolution.
 ```
 
+<a id="pov-fpv-case-10"></a>
 <!-- Case 10: First-person POV of an ice cube dropped into a glass of soda (by @LudovicCreator) -->
 ### Case 10: [First-person POV of an ice cube dropped into a glass of soda](https://x.com/LudovicCreator/status/2039623813080416486) (by [@LudovicCreator](https://x.com/LudovicCreator))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-10"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/093.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1133,11 +1216,13 @@ Finally the cube slides toward a straw vortex and disappears.
 Macro drink environment POV, carbonation bubble storms, melting ice transformation, cinematic macro realism, 4K.
 ```
 
+<a id="pov-fpv-case-11"></a>
 <!-- Case 11: Gritty, raw handheld 35mm film aesthetic with natural film grain (by @AngelNwoha) -->
 ### Case 11: [Gritty, raw handheld 35mm film aesthetic with natural film grain](https://x.com/AngelNwoha/status/2039792884841591009) (by [@AngelNwoha](https://x.com/AngelNwoha))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-11"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/102.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1145,11 +1230,13 @@ Macro drink environment POV, carbonation bubble storms, melting ice transformati
 Gritty, raw handheld 35mm film aesthetic with natural film grain. Bright early-morning sunlight streaming through windows, creating sharp indoor shadows. Controlled handheld tracking shot (3rd person POV, over-the-shoulder), stabilized cinematic motion with subtle natural shake.
 ```
 
+<a id="pov-fpv-case-12"></a>
 <!-- Case 12: 10-second photorealistic cinematic POV video (by @umitsuru_fire) -->
 ### Case 12: [10-second photorealistic cinematic POV video](https://x.com/umitsuru_fire/status/2039295650039554051) (by [@umitsuru_fire](https://x.com/umitsuru_fire))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-12"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/105.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1157,11 +1244,13 @@ Gritty, raw handheld 35mm film aesthetic with natural film grain. Bright early-m
 10-second photorealistic cinematic POV video. A Japanese woman in her early 20s with a black short bob hairstyle, straight hair, natural refined makeup, and a white blouse sits inside a Ferris wheel gondola at night near the top. Outside the window is a beautiful city nightscape
 ```
 
+<a id="pov-fpv-case-13"></a>
 <!-- Case 13: A super futuristic megacity after the apocalypse awakens in a storm (by @johnAGI168) -->
 ### Case 13: [A super futuristic megacity after the apocalypse awakens in a storm](https://x.com/johnAGI168/status/2039380975801471305) (by [@johnAGI168](https://x.com/johnAGI168))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-13"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/108.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1169,11 +1258,13 @@ Gritty, raw handheld 35mm film aesthetic with natural film grain. Bright early-m
 A super futuristic megacity after the apocalypse awakens in a storm. Dark clouds press down on the city. Giant battleships slowly descend from the sky, piercing through thunderclouds. The city's high-rise buildings are interwoven with neon lights and fire. Countless drones and armored vehicles shuttle rapidly through the streets. A distant energy tower erupts with dazzling blue electric arcs. The camera dives from high altitude into the city canyon, then rapidly pushes through falling debris and flames, finally settling on the back of a lonely hero wearing a black trench coat, standing on the edge of a skyscraper overlooking the entire burning city. Cinematic lighting, IMAX epic feel, ultra-high detail, stunning composition, strong volumetric light, realistic explosion smoke and dust, epic disaster movie atmosphere, extreme realism, top Hollywood visual effects.
 ```
 
+<a id="pov-fpv-case-14"></a>
 <!-- Case 14: Style: Ultra-realistic industrial timelapse (by @craftian_keskin) -->
 ### Case 14: [Style: Ultra-realistic industrial timelapse](https://x.com/craftian_keskin/status/2039415621960499603) (by [@craftian_keskin](https://x.com/craftian_keskin))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-14"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/111.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1237,11 +1328,13 @@ End moment:
 Camera holds briefly as car exits frame
 ```
 
+<a id="pov-fpv-case-15"></a>
 <!-- Case 15: Prompt 116 (by @Yuupapa_free) -->
 ### Case 15: [Prompt 116](https://x.com/Yuupapa_free/status/2039329682492121547) (by [@Yuupapa_free](https://x.com/Yuupapa_free))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-15"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/113.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1249,11 +1342,13 @@ Camera holds briefly as car exits frame
 cinematic, heavy action blockbuster film, Japanese city center, collapsed main street at dusk. A giant monster is knocking down buildings, dust, sparks, rubble, and black smoke are flying, and a Japanese high school girl in a uniform is desperately running towards the camera. Cut 1 (0.0s-2.5s): low angle tracking shot following the high school girl from the front as she retreats. Her hair and skirt are violently fluttering, the ground shakes from the monster's footsteps behind her, cars overturn, and window glass shatters. Her face shows determination amidst fear. Cut 2 (2.5s-3.7s): close-up of her feet. With every step she runs, black metal frames and pink glowing lines deploy onto her legs, rapidly equipping from her thighs to her shins and boots. Sparks and fine energy particles, mechanical transformation. Cut 3 (3.7s-4.8s): close-up of her hands. As she swings her arms, armor forms around her forearms, wrists, and fingertips, with pink light strips running through the gaps in the black armor. Cut 4 (4.8s-6.0s): close-up of her abdomen and chest. Abdominal inner wear, chest armor, and shoulder units lock sequentially, and the central core pulses pink with her breathing. Rack focus shows the detail of the armor. Cut 5 (6.0s-7.0s): close-up of her head. As her hair flies, a helmet deploys from the sides and back, enveloping her face line, and finally the visor closes while glowing. eyes visible through translucent visor. whip pan completes the transformation. Cut 6 (7.0s-8.8s): wide shot. After running a few steps at high speed, the transformed girl skids to a halt, scattering sparks and fragments, twists her body, and faces the monster. She thrusts one hand forward, and a pink spherical energy vortex converges on the device on the back of her hand, drawing in surrounding rubble. Cut 7 (8.8s-10.5s): over-the-shoulder shot capturing the monster, and she silently fires an energy blast all at once. A thick pink shockwave runs straight through, piercing the monster's chest. Cut 8 (10.5s-12.0s): super large explosion. The monster is blown to smithereens, fragments and smoke fly into the sky, and the giant body collapses. The final shot is a hero shot, the high school girl in a black and pink powered suit standing with the explosion behind her. dramatic backlight, debris, heat haze, high contrast, realistic destruction, dynamic motion blur, no BGM, no dialogue
 ```
 
+<a id="pov-fpv-case-16"></a>
 <!-- Case 16: Tokyo POV Rollercoaster (by @TechTalkNAVI) -->
 ### Case 16: [Tokyo POV Rollercoaster](https://x.com/TechTalkNAVI/status/2039941029265355123) (by [@TechTalkNAVI](https://x.com/TechTalkNAVI))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-16"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/061.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1270,11 +1365,13 @@ cinematic, heavy action blockbuster film, Japanese city center, collapsed main s
 }
 ```
 
+<a id="pov-fpv-case-17"></a>
 <!-- Case 17: Cinematic Beijing Cultural Ad — 8K First-Person (by @crayon1267) -->
 ### Case 17: [Cinematic Beijing Cultural Ad — 8K First-Person](https://x.com/crayon1267/status/2040826411783762286) (by [@crayon1267](https://x.com/crayon1267))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-17"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2040826411783762286.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1282,11 +1379,13 @@ cinematic, heavy action blockbuster film, Japanese city center, collapsed main s
 电影级国风城市文化创意广告，超写实 8K，第一人称舒缓追随镜头，丝滑慢节奏运镜，北京古都氛围浓厚，治愈人文感，强代入感，建筑与自然细节清晰真实。整片时长 15 秒内，整体节奏放缓，镜头停留更从容，核心主体为一朵带晨露的白色蒲公英，镜头始终轻柔追随绒球。全程无背景音乐，仅保留环境拟音 + 极简地点旁白。 【0-4s】晨雾中的北京胡同，蒲公英被清风托起，镜头轻柔掠过瓦顶、院门与晨练残影。旁白：胡同 【4-8s】蒲公英缓缓飘行，掠过故宫角楼、天坛祈年殿。旁白：故宫、天坛 【8-12s】蒲公英继续轻飘，掠过颐和园十七孔桥、八达岭长城。旁白：颐和园、长城 【12-15s】蒲公英轻落什刹海湖面，镜头缓缓拉出城市全景。旁白（提前 1 秒出现）：风过北京，万物有灵。画面定格治愈收尾，不拖尾。 音效设计 全程无背景音乐，仅保留微风声、环境自然音、蒲公英飘飞轻响，旁白清晰干净，无多余嘈杂音效。
 ```
 
+<a id="pov-fpv-case-18"></a>
 <!-- Case 18: Extreme Macro FPV — Fairy Wing Tracking Shot (by @EHuanglu) -->
 ### Case 18: [Extreme Macro FPV — Fairy Wing Tracking Shot](https://x.com/EHuanglu/status/2041132328655954201) (by [@EHuanglu](https://x.com/EHuanglu))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-18"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041132328655954201.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1295,15 +1394,17 @@ extreme macro FPV tracking shot, camera tightly attached to the fairy's back, sy
 ```
 
 <a id="commercial--product"></a>
-## 🏷️ Commercial / Product
 
-Advertising, fashion, lifestyle, product, and premium brand-style prompts.
+<a id="commercial-product"></a>
+## 🏷️ Реклама / Продукт
 
+<a id="commercial-product-case-1"></a>
 <!-- Case 1: Perfume-Style Anime Trio Dance Stage (by @ShadeLurk) -->
 ### Case 1: [Perfume-Style Anime Trio Dance Stage](https://x.com/ShadeLurk/status/2040671186984796632) (by [@ShadeLurk](https://x.com/ShadeLurk))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-1"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/007.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1316,11 +1417,13 @@ prompt:
 Three anime girls perform Perfume-style formation dance on an illuminated stage. Each girl performs different assigned choreography, but all movements are locked to the exact same beat with mechanical precision. The camera cuts rapidly between full shots and medium shots every 0.7-1.0 seconds, occasionally switching to side angles and overhead angles. The structure follows a call-and-response pattern between the three dancers. The choreography ranges from sharp upright arm work to low crouching floor sweeps. Blue-white spotlights carve through purple haze. LED panels pulse with blue-to-purple gradients. Triangular formation.
 ```
 
+<a id="commercial-product-case-2"></a>
 <!-- Case 2: Dark Fantasy Church Duel (by @ZaraIrahh) -->
 ### Case 2: [Dark Fantasy Church Duel](https://x.com/ZaraIrahh/status/2040667542390190245) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-2"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/008.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1328,11 +1431,13 @@ Three anime girls perform Perfume-style formation dance on an illuminated stage.
 Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-clad warrior and a black-armored opponent launch their final battle amid an atmosphere like a chorus. Stained glass shatters, moonlight penetrates the smoke and dust, and benches are overturned. The camera switches between high-angle overhead shots and low-angle upward shots, focusing on showing the sense of space of the religious building, the sense of oppression of the characters, and the temperament of a fateful decisive battle, just like the climax segment of an original fantasy animated film. A strong hook in the first 2 seconds, stable main body, coherent actions, movie-level composition, real light and shadow, epic sense, strong emotion, high-definition details, suitable for social media communication, avoiding copyrighted characters, avoiding brand logos, and completely original design.
 ```
 
+<a id="commercial-product-case-3"></a>
 <!-- Case 3: Dark Fantasy Shrine Hall Duel (by @MiraMusic_AI) -->
 ### Case 3: [Dark Fantasy Shrine Hall Duel](https://x.com/MiraMusic_AI/status/2040595365096034700) (by [@MiraMusic_AI](https://x.com/MiraMusic_AI))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-3"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/012.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1343,11 +1448,13 @@ The camera alternates between high-angle overhead shots and low-angle upward per
 A strong hook within the first 2 seconds, followed by a stable and cohesive progression. Fluid, continuous action with cinematic composition, realistic lighting and shadow, an epic atmosphere, intense emotional weight, and high-definition detail. Designed for social media engagement. Avoids copyrighted characters and brand logos, ensuring a completely original creation.
 ```
 
+<a id="commercial-product-case-4"></a>
 <!-- Case 4: Japanese Snack Commercial Punchline (by @aigeboku) -->
 ### Case 4: [Japanese Snack Commercial Punchline](https://x.com/aigeboku/status/2040562471027782017) (by [@aigeboku](https://x.com/aigeboku))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/014.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1362,11 +1469,13 @@ Shot 4 (3s): The man rushes into a Japanese convenience store. The clerk says, "
 Shot 5 (3s): Close-up of the new snack package. Narration: "It's out! New release!"
 ```
 
+<a id="commercial-product-case-5"></a>
 <!-- Case 5: Cinematic Martial Art Sequence for Seedance 2 (by @CharaspowerAI) -->
 ### Case 5: [Cinematic Martial Art Sequence for Seedance 2](https://x.com/CharaspowerAI/status/2040376349504815467) (by [@CharaspowerAI](https://x.com/CharaspowerAI))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-5"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/017.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1385,11 +1494,13 @@ Traditional Japanese environment, open landscape with temples, wooden structures
 Ultra realistic, high-end martial arts film choreography, precise body mechanics, cinematic slow motion, strong contrast lighting, volumetric atmosphere, fluid transitions, intense but controlled physical interaction, no distortion, no stretching
 ```
 
+<a id="commercial-product-case-6"></a>
 <!-- Case 6: I asked Grok to produce the same video, but the result wasn't convincing (by @Viafin23) -->
 ### Case 6: [I asked Grok to produce the same video, but the result wasn't convincing](https://x.com/Viafin23/status/2025901411221774788) (by [@Viafin23](https://x.com/Viafin23))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-6"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/020.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1404,11 +1515,13 @@ Maintain stable temporal continuity. Avoid unnatural frame interpolation. No exa
 #Seedance2_0
 ```
 
+<a id="commercial-product-case-7"></a>
 <!-- Case 7: Japanese Classroom Whisper Romance (by @JiahaoYang_art) -->
 ### Case 7: [Japanese Classroom Whisper Romance](https://x.com/JiahaoYang_art/status/2033119940216344616) (by [@JiahaoYang_art](https://x.com/JiahaoYang_art))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-7"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/022.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1422,11 +1535,13 @@ Overall Sound Effects: Distant summer cicada chirping faintly, the soft scratchi
 Character identity is maintained throughout, real subtle head tilts, eye movements, and breathing synchronization, no text, watermarks, or subtitles, pure Japanese style youth secret crush heart-fluttering suspense.
 ```
 
+<a id="commercial-product-case-8"></a>
 <!-- Case 8: Recommended Settings Mode (by @MiraMusic_AI) -->
 ### Case 8: [Recommended Settings Mode](https://x.com/MiraMusic_AI/status/2039096342749016145) (by [@MiraMusic_AI](https://x.com/MiraMusic_AI))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-8"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/025.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1434,11 +1549,13 @@ Character identity is maintained throughout, real subtle head tilts, eye movemen
 [Recommended Settings] Mode: Standard | Resolution: 720p | Duration: 15 seconds. 100% real-person animation. Bright daytime. City square. Fast lighting. High energy. Explosive atmosphere. Strong rhythm. High-energy version of three-person street dance. Fast dancing. Show-off moves. Quick rhythm. Full participation. Jumps and rolls. Explosive power. Intense three-person performance. [0-1s: Overhead view, quick cut-in] Camera: Fast shot. Full view of the square. Three people in the center. Strong music explosion. Dynamic shot. [1-4s: Medium shot, quick circling] Camera: Fast rotating circle. High-energy basic moves. Quick rhythm starts. Fast switching between high and low angles. [4-7s: Multi-angle low angle] Camera: Rapid switching of multiple angles. Knee-high ↔ wide angle. Fast footwork. Complex high-difficulty stepping. [7-9s: Character 1 burst] Camera: Fast zoom. Close-up of the face. Character 1 intense solo. Explosive power. Fast rotation. [9-11s: Character 2 burst] Camera: Fast angle switch. Close-up of the face. Character 2 intense solo. Show-off moves. High energy. [11-13s: Character 3 burst] Camera: Ultra-fast shot. Close-up of the face. Character 3 intense solo. Highest energy. Jumps and rolls. [13-15s: Wide shot, explosive ending] Camera: Fast zoom out. Full view of the square. Three people synchronize explosively. Climax. Music climax. Freeze-frame smile. [Features] Fast rhythm. Multi-angle rapid switching. High-energy music. Explosive power. Excited audience. Suitable for a party.
 ```
 
+<a id="commercial-product-case-9"></a>
 <!-- Case 9: LaFerrari Commercial Storyboard (by @Adam38363368936) -->
 ### Case 9: [LaFerrari Commercial Storyboard](https://x.com/Adam38363368936/status/2039932977287979053) (by [@Adam38363368936](https://x.com/Adam38363368936))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-9"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/030.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1472,11 +1589,13 @@ No people should appear in the frame.
 Highest image quality: 8K.
 ```
 
+<a id="commercial-product-case-10"></a>
 <!-- Case 10: Hot-Blooded Anime Final Duel (by @gkxspace) -->
 ### Case 10: [Hot-Blooded Anime Final Duel](https://x.com/gkxspace/status/2039894982434111716) (by [@gkxspace](https://x.com/gkxspace))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-10"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/032.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1486,11 +1605,13 @@ Tested it:
 Original Hot-Blooded Duel Anime Short Film: Two top warriors launch their final duel against the backdrop of aerial ruins and thunderstorms. The camera emphasizes extreme speed, intense energy collisions and a sense of oppression from the characters. When moves are released, the surrounding buildings, clouds and debris are simultaneously affected by the force. The actions are like the top-level battle animation of TV anime, with theater-level color grading and lens language, focusing on highlighting the "highly intense, exciting, and blockbuster-like" vibe. A strong hook in the first 2 seconds, with a stable main body, coherent actions, movie-level composition and light and shadow, real texture, epic sense, strong emotion, high-definition details, suitable for social media communication. Completely original characters, worldview, costumes, weapons and moves, no copyright risks, and no use of well-known IPs, celebrity faces, brand logos or existing elements.
 ```
 
+<a id="commercial-product-case-11"></a>
 <!-- Case 11: Prompt 35 (by @johnAGI168) -->
 ### Case 11: [Prompt 35](https://x.com/johnAGI168/status/2025849650654122348) (by [@johnAGI168](https://x.com/johnAGI168))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-11"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/033.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1498,11 +1619,13 @@ Original Hot-Blooded Duel Anime Short Film: Two top warriors launch their final 
 [Style] Hollywood Haute Couture Fantasy blockbuster, 8K ultra-clear, Photorealistic, High-fashion Editorial Style, Unreal Engine 5 fluid rendering, visual illusion. [Duration] 15 seconds. [Scene] An endless, real-life Salar de Uyuni (Sky Mirror) salt flat. The sky is filled with oppressive dark clouds, and the ground perfectly reflects everything like a mirror, with the overall picture presenting a minimalist, cool tone. [00:00-00:05] Shot 1: Haute Couture Entrance and Porcelain Skin. Camera position: Extremely low-angle upward shot, ultra-telephoto lens zoom-in. Action: An Asian female model with a highly recognizable, high-fashion face walks coolly on the water surface. Effect: She is wearing not fabric, but a long dress made of flowing, real Liquid Blue-and-White Porcelain. As she walks, the skirt makes a crisp collision sound like real ceramic, with a flowing luster on the surface. The traditional blue-and-white patterns move across the white porcelain-textured skirt as if alive. [00:05-00:10] Shot 2: Physical Shattering and Ink-wash Descent. Camera position: Extreme close-up of the face, focus rapidly pulls back. Action: The model suddenly stops, stares coldly at the camera, and snaps her fingers crisply. Effect: The moment the fingers snap, her blue-and-white porcelain dress does not fall, but instantly explodes into thousands of extremely photorealistic Ink-wash Swallows. These swallows carry real water droplets and ink marks, dragging black fluid afterimages in the air, spinning frantically around her. [00:10-00:15] Shot 3: Dimensional Dissolution and Abyss Reflection. Camera position: High-altitude overhead shot, camera rapidly rotates and descends. Action: The swarm of ink-wash swallows plunges into the mirrored lake water beneath the model's feet. Effect: The surface tension of the originally solid salt lake instantly disappears. The entire extremely realistic world begins to violently bleed and dissolve like concentrated ink dropped into clear water. The real dark clouds and the model's figure transform entirely into an extremely grand 3D Fluid Ink Vortex, completely swallowing the camera into a black and white interwoven abyss.
 ```
 
+<a id="commercial-product-case-12"></a>
 <!-- Case 12: Character (by @johnAGI168) -->
 ### Case 12: [Character](https://x.com/johnAGI168/status/2021818021354848258) (by [@johnAGI168](https://x.com/johnAGI168))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-12"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/034.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1533,11 +1656,13 @@ Action: A delicate home-cooked dish is placed on the wooden long table in the ya
 Atmosphere: Steam slowly rises against the backlight, the scene is so quiet you can almost hear the wind, showcasing the ultimate sense of relaxation modern people yearn for.
 ```
 
+<a id="commercial-product-case-13"></a>
 <!-- Case 13: Camera (by @CharaspowerAI) -->
 ### Case 13: [Camera](https://x.com/CharaspowerAI/status/2039651574297792688) (by [@CharaspowerAI](https://x.com/CharaspowerAI))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-13"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/036.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1557,11 +1682,13 @@ Dense urban night environment, wet asphalt reflecting neon lights, tunnel passag
 Ultra realistic, fast and furious inspired energy, photorealistic lighting, intense motion blur, high contrast neon reflections, cinematic depth of field, extreme sense of speed, fluid transitions, no distortion, no stretching
 ```
 
+<a id="commercial-product-case-14"></a>
 <!-- Case 14: Prompt 49 (by @johnAGI168) -->
 ### Case 14: [Prompt 49](https://x.com/johnAGI168/status/2039984306085327298) (by [@johnAGI168](https://x.com/johnAGI168))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-14"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/046.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1569,11 +1696,13 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 Generate a visual blockbuster featuring an Asian supermodel and luxury sports cars with top-tier commercial quality, requiring director-level storyboard arrangement and a fast-paced, high-end rhythm. 0-2 seconds: [Macro to Micro] The opening uses an extreme push-in shot, instantly cutting from the sharp headlights of the sports car with delayed afterimages to a close-up of the pupils of the top Asian supermodel, showcasing the ultimate Oriental charm. 2-5 seconds: [LOCKED-ON SHOT] The camera locks onto the model's profile, tracking her with a lateral pan (Tracking Shot) as she walks confidently and elegantly. The model wears a high-fashion silk evening gown, her hair slightly moving in the wind, against a background of a blurred neon urban viaduct. 5-8 seconds: [360-degree Orbit Shot] The model stands at the center intersection of three sports cars, and the camera quickly orbits around her at a low angle. Use slow motion (slow-motion processing) to capture her cold, stunning glance back, with eyes possessing strong aggression and high-end appeal. 8-10 seconds: [Low-angle Hero Shot] The camera quickly pulls back from a ground perspective to a full view. The model stands proudly in the center of the luxury car cluster. The composition presents perfect symmetrical aesthetics, with light focusing on the face, displaying queen-like dominance. Visual Style: Extreme cinematic realism, 2.35:1 widescreen. The overall color tone leans towards cool Teal & Orange, with natural film grain and soft highlights. The character's skin texture is delicate and natural, possessing the makeup and styling quality of a top luxury magazine. Sound Design: Heavy bass electronic ambient music. Sound effects must sync with the camera cuts (Swish sound effects), and the visual rhythm should breathe with the music beats. Control Instructions: Lock the facial features and high-end makeup of the Asian model, ensuring character consistency across various shots; action transitions must be smooth without stuttering; light and shadow should produce real-time physical reflections as the model moves.
 ```
 
+<a id="commercial-product-case-15"></a>
 <!-- Case 15: Prompt 57 (by @aiehon_aya) -->
 ### Case 15: [Prompt 57](https://x.com/aiehon_aya/status/2040187587889905861) (by [@aiehon_aya](https://x.com/aiehon_aya))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-15"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/054.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1581,11 +1710,13 @@ Generate a visual blockbuster featuring an Asian supermodel and luxury sports ca
 An android girl malfunctions and proceeds to destroy an evil research lab one after another. The evil boss, a doctor with a bad face, chases the girl, shouting, "Waaah! Stop it! Please stop it!!" but the girl doesn't stop and continues to destroy things while laughing. In the end, there is a big explosion, and the lab is destroyed without a trace. The girl yawns and says, "Job complete," and falls asleep right there. The doctor kneels down, utterly dejected.
 ```
 
+<a id="commercial-product-case-16"></a>
 <!-- Case 16: Positive Prompt (by @adrianaia_) -->
 ### Case 16: [Positive Prompt](https://x.com/adrianaia_/status/2039972811067031657) (by [@adrianaia_](https://x.com/adrianaia_))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-16"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/055.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1593,11 +1724,13 @@ An android girl malfunctions and proceeds to destroy an evil research lab one af
 Positive Prompt: Original action game concept trailer. The protagonist travels through a neon ruined city, where the debris by the road emits faulty advertising lights, and mechanical guards fall from the faults of high-rise buildings. After dodging with a slide, the protagonist pulls out a folding energy blade. The camera is like an AAA game debut trailer, with third-person follow, rapid switching between close-up and ultra-wide shots, strong rhythm and distinct scene layers. It finally stops at the silhouette of the boss's appearance, creating a strong feeling of "wanting to play this game". Negative Restrictions: No Cyberpunk 2077 logos, no well-known game UI, no existing game character outlines. A strong hook in the first 2 seconds, stable main body, coherent actions, movie-level composition, real light and shadow, epic sense, strong emotion, high-definition details, suitable for social media communication, avoiding copyrighted characters, avoiding brand logos, and completely original design.
 ```
 
+<a id="commercial-product-case-17"></a>
 <!-- Case 17: Original Dark Fantasy Action Short Film (by @Rufus87078959) -->
 ### Case 17: [Original Dark Fantasy Action Short Film](https://x.com/Rufus87078959/status/2039949879607197828) (by [@Rufus87078959](https://x.com/Rufus87078959))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-17"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/066.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1605,11 +1738,13 @@ Positive Prompt: Original action game concept trailer. The protagonist travels t
 Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-clad warrior and a black-armored opponent launch their final battle amid an atmosphere like a chorus. Stained glass shatters, moonlight penetrates the smoke and dust, and benches are overturned. The camera switches between high-angle overhead shots and low-angle upward shots, focusing on showing the sense of space of the religious building, the sense of oppression of the characters, and the temperament of a fateful decisive battle, just like the climax segment of an original fantasy animated film. A strong hook in the first 2 seconds, stable main body, coherent actions, movie-level composition, real light and shadow, epic sense, strong emotion, high-definition details, suitable for social media communication, avoiding copyrighted characters, avoiding brand logos, and completely original design.
 ```
 
+<a id="commercial-product-case-18"></a>
 <!-- Case 18: 00:00-00:04 Shot 1: Follow shot (by @IamEmily2050) -->
 ### Case 18: [00:00-00:04 Shot 1: Follow shot](https://web.archive.org/web/*/https://x.com/IamEmily2050/status/2040213294443847933) (by [@IamEmily2050](https://x.com/IamEmily2050))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-18"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/070.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1617,100 +1752,13 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 [00:00-00:04] Shot 1: Follow shot. In a smoky underground rave club, a female cyborg with an exposed red mechanical spine walks through the crowd. She suddenly turns around, her delicate white porcelain face beginning to convulse violently. [00:04-00:10] Shot 2: Close-up to mid-shot. The cyborg's porcelain face doesn't just split; it is violently shattered from the inside like an eggshell. A massive amount of thick, black viscous fluid erupts outward as an alien head with rusted metallic fangs and multiple mandibles forces its way out of her neck. Simultaneously, her red mechanical spine violently tears through her back, mutating into a giant, multi-jointed metallic scorpion tail dripping with corrosive acid. [00:10-00:15] Shot 3: Wide shot. The club's lighting turns a sickly fluorescent green. The alien tail violently impales the dance floor, suspending the cyborg's ruined body in mid-air as it emits an ear-piercing, non-human shriek. The surrounding crowd is paralyzed with absolute terror, pinned against the walls by webs of black organic matter. Extreme biomechanical horror, terrifying VFX mixing flesh and metal.
 ```
 
-<!-- Case 19: Meteor Awakening War Heroine (by @ChrisTheNerv) -->
-### Case 19: [Meteor Awakening War Heroine](https://x.com/ChrisTheNerv/status/2040043939109953944) (by [@ChrisTheNerv](https://x.com/ChrisTheNerv))
+<a id="commercial-product-case-19"></a>
+<!-- Case 19: Prompt 98 (by @ImperfectEngel) -->
+### Case 19: [Prompt 98](https://web.archive.org/web/*/https://x.com/ImperfectEngel/status/2039796558238286329) (by [@ImperfectEngel](https://web.archive.org/web/*/https://x.com/ImperfectEngel))
 
 | Output |
 | :----: |
-
-**Prompt:**
-
-```
-100% real-life shooting texture, Hollywood IMAX blockbuster quality, natural light and shadow, cold documentary style, natural light on a cloudy day, handheld one-shot throughout, breathing shake, random focus shift, 16:9 widescreen.
-【Scene Environment】
-A destroyed city street extending into the distance. On both sides are ruined concrete buildings, exposed rebar, shattered windows, and some buildings are still burning, with orange flames and black smoke rising. Abandoned cars are scattered on the cracked asphalt road, several of which are burning. The sky is gloomy gray, with smoke and dust suspended in the air. Multiple meteorites streak across the sky with long trails of fire and dense smoke. In the background, terrified civilians scatter among the ruins, some falling, others dragging the injured.
-【Main Character】
-Chinese beauty, deep red hair tied in a loose, messy bun, with a few strands hanging by her face. Fair skin, sharp features, defined jawline, natural makeup, detailed eye makeup. Attire: Black long leather trench coat over a black vest, black denim mini skirt, black flat combat boots, no belt, wearing black futuristic gauntlets on both hands. Expression is tense and restrained, slightly painful, with slightly furrowed brows—eyes filled with despair and strong will.
-【15-Second One-Shot · Awakening Strike Version】
-0-2 seconds · Awakening
-Low-angle shot, framing her upper body and face, looking up at her standing alone in the center of the destroyed street. The wind blows her black leather trench coat. She opens her lips and screams in Japanese: "Kakusei shiro!" She suddenly opens her right hand, and the black futuristic gauntlet crackles. Purple crystal-textured electric arcs burst from her arm and gauntlet. Air compresses inward, and space warps and distorts. The shockwave emits a low sonic boom. Purple rune lines appear and circulate around her body.
-2-5 seconds · Eruption
-The camera begins to orbit around her. Dark gold cracks burst from her chest, and thick golden liquid oozes out like blood. She screams in pain. Purple mist and fine electric arcs shoot outward. All her clothing tears open and explodes from the inside, burning into ash—leaving nothing. Organic armor fragments shoot outward, then retract unnaturally to reattach to her body. Purple patterns symmetrically spread across her face. A crack opens on her cheek, revealing pulsating purple light underneath. Simultaneously, multiple mechanical arm-like appendages violently burst from her back—dark metallic texture, blade-shaped, spreading outward like devil's wings. Sparks, blue electric arcs, and golden energy particles explode from the eruption point. The camera captures the complete unfolding from behind—her silhouette outlined against the gray sky, mechanical appendages spread like a fan. The eruption sound is like tearing metal mixed with arc discharge.
-5-8 seconds · Growth
-Organic matter seeps from her body, the surface shimmering with iridescent light. White armor plates collide and fuse, leaving burn marks. The armor extends downward, completely engulfing and replacing her flat combat boots, forming white and dark purple interwoven armored boots, locking into place with tiny sparks. She grits her teeth and lets out a painful roar. The core in her chest flickers like embers. Purple-black metal spreads over her face, forming an uneven mask, the left eye covered before the right. Compound eyes begin to form, irregularly flashing with liquid light medium. The camera continues to orbit around her.
-8-12 seconds · Completion
-The camera continues to slowly orbit her. The mask completely seals. Horn-like structures grow upward from the top of her head, burning with purple-gold flames. One compound eye glows steadily, the other flickers with unstable current. The armor is interwoven with white and dark purple, uneven and covered in battle damage, with glowing purple cracks oozing light fluid. Mechanical appendages sway slightly behind her. Each armor plate emits a crisp metallic click when locked, followed by distinct mechanical reset sounds. She slowly lowers her head to examine her hands—the knuckles of the white and dark purple interwoven armored gauntlets seep purple light. She slowly raises her head to look straight ahead, and the compound eyes suddenly glow fully.
-12-15 seconds · Supersonic Charge
-The camera rapidly retreats. She pushes off the ground with her feet, and the asphalt instantly explodes into a deep crater. A violent purple energy explosion spreads outward from the takeoff point, sending gravel and asphalt fragments flying into the air. She shoots into the air at supersonic speed, charging directly towards the camera—a conical sonic boom cloud forms behind her, the mechanical appendages are flattened backward by the airflow, and the image generates strong dynamic blur. Her figure grows larger and closer, filling the entire frame. A purple energy trail drags behind her. In the final frame, her armored faceplate almost hits the lens, the compound eyes glow scarlet red, and the screen suddenly cuts to black.
-【Ambient Sound】
-Low sonic boom during awakening, tearing metal and arc discharge sounds, painful screams, crisp metallic clicks, heavy metal sounds of mechanical appendages unfolding, crackling sounds of burning in the background and distant explosions, the final supersonic charge accompanied by the sound of the takeoff explosion, sonic boom impact, and rapidly approaching wind pressure. Everything falls silent the moment the screen cuts to black.
-【Physical Texture Enhancement】
-Real light and shadow, visible skin texture on the face before transformation, visible real wear and tear on the leather trench coat before transformation. Mechanical appendages possess physical weight and inertia—they sway slightly after unfolding, not rigidly fixed. The armor plates are interwoven with white and dark purple, with visible scratches, welding marks, and uneven edges—not clean and smooth. All movements are steady and powerful, full of pain but resolute—she awakens while enduring. Occasional slight camera shake, pure handheld follow-shot feel.
-【Sound Design】
-Layered progression from the scream activation to the explosive mechanical eruption, escalating to the takeoff point explosion and the sonic boom of the supersonic charge, finally cutting abruptly to silence. The entire sequence exudes absolute power. Generate sound effects only, no music.
-```
-
-<!-- Case 20: Cloud Cave Sword Shadow (by @Adam38363368936) -->
-### Case 20: [Cloud Cave Sword Shadow](https://x.com/Adam38363368936/status/2039865857179013318) (by [@Adam38363368936](https://x.com/Adam38363368936))
-
-| Output |
-| :----: |
-
-**Prompt:**
-
-```
-[Cloud Cave Sword Shadow · Heavenly Gate Bloody Battle]
-— One-shot sequence at Tianmen Mountain, Zhangjiajie
-Core Style: Tsui Hark's new style Wuxia blockbuster, one-shot sequence, high frame rate, 4K ultra-clear.
-
-Tone: Tsui Hark's bright tone, “Cold Jade Blue-Black + Amber Flowing Light.” High contrast, mountain mist acts as a soft light filter, sharpening character outlines, DaVinci industrial-grade color grading.
-
-Scene: Tianmen Mountain, Zhangjiajie (Wacky terrain of Western Hunan. Tianmen Cave opens, swallowing clouds and mist; 999 steps of the Heavenly Ladder hang vertically on the cliff, like a path to heaven; stone forests and pillars cluster like sharp swords, plank roads are faintly visible amidst surging clouds, birds do not cross).
-
-Camera Movement Trajectory:
-Low-angle upward shot (emphasizing the natural danger) → Rapid push toward the cave entrance → 180° horizontal pan (showing intense fight on the plank road) → Dive down → Slowly pull back to center → Backlit close-up.
-
-Shot Script:
-0-4 seconds [Opening Stance · Heavenly Gate Cloud Surge]:
-
-Movement: Extreme low-angle upward shot, the camera rapidly swoops up and over the Heavenly Ladder from the bottom.
-
-Visuals: Character face reference @[Image 1] Wuxia swordsman attire (white clothes like snow, low-pressed bamboo hat, holding a long sword) stands alone in the center of the 999 steps.
-
-Action: Strong winds whip up the surrounding clouds and mist. [Image 1] holds the sword hilt with the right hand, and the left hand forms a sword-finger gesture across the bridge of the nose. The camera pulls back to show the Tianmen Cave behind him, resembling a giant eye of the heavens.
-
-4-8 seconds [Fierce Battle · Suspended Ladder Interception]:
-
-Movement: 180° orbiting pan.
-
-Visuals: More than ten assassins in tight suits swing down from both sides, clinging to the cliff like monkeys.
-
-Action: [Image 1] touches the steps with his toes, his body spinning upside down. (Tsui Hark-style slow-motion dynamics) The sword remains sheathed, using the sheath as a stick to point, parry, and strike. The air current shakes the rainwater on the steps into mist. The camera rapidly orbits, capturing afterimages and the sparks of metal impact.
-
-8-11 seconds [Breaking the Formation · Traversing the Stone Forest]:
-
-Movement: The camera follows the character diving, passing through a stone archway into the cliffside plank road.
-
-Visuals: Assassins set up a steel wire trap.
-
-Action: [Image 1]'s long sword finally unsheathes (the blade reflects amber sunlight), executing a sweeping strike. The sword energy transforms into a blue-black arc of light, cutting the steel wires. The snapping wires rebound and shatter cliff rocks. He dodges and weaves on the narrow plank road, his figure intersecting with the stone pillars, blending virtual and real.
-
-11-15 seconds [Closing Stance · Mist Dissipates on the Lonely Peak]:
-
-Movement: The camera slowly pulls out from the cave entrance, widening the view to reveal the abyss.
-
-Visuals: Paper talismans (or dead leaves) flutter in the wind. [Image 1] stands at the edge of the Tianmen Cave, with a sea of clouds below his feet.
-
-Action: He performs a sword flourish and sheathes the sword, placing it on his back. Sunlight streams through the Tianmen Cave, creating a massive Tyndall effect.
-
-Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drips from the edge of the bamboo hat, tracing his jawline. His eyes are sharp as lightning, with the vast landscape in the background.
-```
-
-<!-- Case 21: Prompt 98 (by @ImperfectEngel) -->
-### Case 21: [Prompt 98](https://web.archive.org/web/*/https://x.com/ImperfectEngel/status/2039796558238286329) (by [@ImperfectEngel](https://web.archive.org/web/*/https://x.com/ImperfectEngel))
-
-| Output |
-| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-19"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/095.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1718,11 +1766,13 @@ Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drip
 "Dramatic low-angle tracking shot speeding along rain-slicked train tracks through a narrow mountain gorge. Dark rocky cliff walls rise on both sides, with overhead bridges and power lines crossing above. Moody overcast sky. The camera rushes forward at high speed. Two women — one with pink hair in all-black tactical gear, the other in a white bodysuit — fight on top of the moving train, exchanging martial arts blows as sparks fly. Dynamic action choreography, dark teal-grey color grade, cinematic speed and motion blur, sci-fi action film aesthetic."
 ```
 
-<!-- Case 22: Prompt 112 (by @johnAGI168) -->
-### Case 22: [Prompt 112](https://x.com/johnAGI168/status/2039277115690877430) (by [@johnAGI168](https://x.com/johnAGI168))
+<a id="commercial-product-case-20"></a>
+<!-- Case 20: Prompt 112 (by @johnAGI168) -->
+### Case 20: [Prompt 112](https://x.com/johnAGI168/status/2039277115690877430) (by [@johnAGI168](https://x.com/johnAGI168))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-20"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/109.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1734,11 +1784,13 @@ The open-plan office hall of a luxurious securities company in Manhattan, USA, i
 00:09-00:15 The protagonist single-handedly pounds his chest, raising his other fist high, saying the last sentence in a low, forceful voice: "This is who we are." The camera suddenly pulls back from the close-up to a panoramic view—the hundreds of people in the hall erupt in the highest climax of shouting at the same moment. Ribbons pour down, the camera slightly tilts up to capture the protagonist's silhouette standing against the light at the top of the crowd, freezing in that high-energy moment where heroism and madness coexist.
 ```
 
-<!-- Case 23: (Poliziottesco Wednesday) (by @ChrisGwinnLA) -->
-### Case 23: [(Poliziottesco Wednesday)](https://x.com/ChrisGwinnLA/status/2039456415111393356) (by [@ChrisGwinnLA](https://x.com/ChrisGwinnLA))
+<a id="commercial-product-case-21"></a>
+<!-- Case 21: (Poliziottesco Wednesday) (by @ChrisGwinnLA) -->
+### Case 21: [(Poliziottesco Wednesday)](https://x.com/ChrisGwinnLA/status/2039456415111393356) (by [@ChrisGwinnLA](https://x.com/ChrisGwinnLA))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-21"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/118.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1747,11 +1799,13 @@ The open-plan office hall of a luxurious securities company in Manhattan, USA, i
 A crime wave has hit the city and the cops can't seem to get it together. Detective Rossi has had enough of the bureaucracy and the politicians tying his men's hands (and freeing the criminals to terrorize the city again!) - but can one hardnosed cop make a difference in a world gone mad? Maybe this nosey journalist can become an important ally!
 ```
 
-<!-- Case 24: Foldable Smartphone Fashion Ad (by @Adam38363368936) -->
-### Case 24: [Foldable Smartphone Fashion Ad](https://x.com/Adam38363368936/status/2039157138002780202) (by [@Adam38363368936](https://x.com/Adam38363368936))
+<a id="commercial-product-case-22"></a>
+<!-- Case 22: Foldable Smartphone Fashion Ad (by @Adam38363368936) -->
+### Case 22: [Foldable Smartphone Fashion Ad](https://x.com/Adam38363368936/status/2039157138002780202) (by [@Adam38363368936](https://x.com/Adam38363368936))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-22"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/121.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1771,11 +1825,13 @@ Quality: 4K high definition, commercial advertisement quality, smooth dynamics, 
 Requirements: Fast pace, tight transitions, high-end fashion, youthful energy, no people appearing.
 ```
 
-<!-- Case 25: Travel Suitcase Buddy Montage (by @ChaseAIx) -->
-### Case 25: [Travel Suitcase Buddy Montage](https://x.com/ChaseAIx/status/2045080469533057252) (by [@ChaseAIx](https://x.com/ChaseAIx))
+<a id="commercial-product-case-23"></a>
+<!-- Case 23: Travel Suitcase Buddy Montage (by @ChaseAIx) -->
+### Case 23: [Travel Suitcase Buddy Montage](https://x.com/ChaseAIx/status/2045080469533057252) (by [@ChaseAIx](https://x.com/ChaseAIx))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-23"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/sAVFzyGI01SXuQGa.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1811,73 +1867,13 @@ SHOT 14: OTS, 35mm handheld / Rhythmic cut into the man kicking off his boots an
 SHOT 15: WS, 50mm pull-out / L-cut with a match from the floor to the bed. The man collapses onto the mattress; the suitcase "collapses" right next to him on the pillows. He flings an arm over the suitcase like a spouse. Lights fade. / SFX: mattress groan, collective exhale, silence.
 ```
 
-<!-- Case 26: LaFerrari Commercial Storyboard (by @Adam38363368936) -->
-### Case 26: [LaFerrari Commercial Storyboard](https://x.com/Adam38363368936/status/2039932977287979053) (by [@Adam38363368936](https://x.com/Adam38363368936))
+<a id="commercial-product-case-24"></a>
+<!-- Case 24: Top-Down Fashion Lookbook — Outfit Change Sequence (by @johnAGI168) -->
+### Case 24: [Top-Down Fashion Lookbook — Outfit Change Sequence](https://x.com/johnAGI168/status/2040767631213363656) (by [@johnAGI168](https://x.com/johnAGI168))
 
 | Output |
 | :----: |
-
-**Prompt:**
-
-```
-Supercar commercial cinematography storyboard
-
-Shot 1 (1.5s): Opening frame on the supercar from the front, showcasing its signature aggressive face.
-
-Shot 2 (1s): Close shot. The virtual camera slowly orbits around the emblem without spinning in a full circle, emphasizing the Ferrari prancing-horse logo.
-
-Shot 3 (1.5s): Close shot, angled view of the LaFerrari's distinctive butterfly door from the side of the car, with a slow orbiting move that emphasizes the body lines.
-
-Shot 4 (1s): Camera moves to the rear for a close shot, then slowly pulls backward using a Hitchcock dolly-zoom effect for visual impact.
-
-Shot 5 (1s): Close shot of the car's side mirror with a slow orbiting move.
-
-Shot 6 (1s): Camera slowly pushes forward using a low-angle advancing move. The car remains still, showing strong perspective, shifting light and shadow, professional automotive cinematography, deep background, cinematic composition, stable visual center, and high-definition live-action quality.
-
-Shot 7 (1s): Lateral track move. The camera sweeps parallel across the LaFerrari body. The car stays completely still as the frame glides smoothly. Side lighting traces the waistline, includes wheel close-ups, delicate reflections, a premium feel, cinematic movement, and clean composition.
-
-Shot 8 (1s): Top-down angle. The camera slowly descends. Static supercar, perfect body proportions, top-light texture, clean ground reflections, aerial-feel movement, the car remains still, symmetrical composition, luxurious texture, 8K ultra-realistic, advertising-grade image.
-
-Shot 9 (1s): Slow push-in close-up from the full car toward the headlights / wheel / waistline. The car remains still. Macro detail, shifting light and shadow, cinematic shallow depth of field, premium texture, sharp detail, commercial photography.
-
-Notes:
-
-No transitions are needed between shots.
-
-No people should appear in the frame.
-
-Highest image quality: 8K.
-```
-
-<!-- Case 27: Foldable Smartphone Fashion Ad (by @Adam38363368936) -->
-### Case 27: [Foldable Smartphone Fashion Ad](https://x.com/Adam38363368936/status/2039157138002780202) (by [@Adam38363368936](https://x.com/Adam38363368936))
-
-| Output |
-| :----: |
-
-**Prompt:**
-
-```
-Product: Color-shifting gradient foldable smartphone (e.g., light purple to ice blue gradient)
-
-Style: Trendy fashion, energetic fast pace, high-end texture, no people, minimalist light and shadow, fashionable trend style
-Tones: High-saturation contrasting colors, light purple gradient frosted glass texture, clean and bright, cinematic light and shadow
-Camera Language: Macro close-up, fast rotating camera movement, orbiting camera movement, handheld dynamic camera movement, push-pull quick cuts, smooth transitions
-Tempo: 15 seconds tight quick cut, beat-synced editing, sharp transitions
-
-Visual Content:
-The light purple gradient foldable phone rapidly rotates against a pure black background, with light flowing across the body; macro close-ups of the ultra-thin hinge structure, the glass texture of the outer screen, the brushed metal close-up of the camera module, and the extremely thin side bezel; quick cuts showing the moment the phone unfolds from folded state, the visual impact of the inner screen's ultra-narrow bezel; paired with simple trendy scenes such as a minimalist office desk, an art gallery corner, late-night city neon, or a trendy collectible display case; fashionable and energetic. No models throughout, focusing only on the product.
-
-Sound Effects: Trendy electronic drum beats, metallic clinks, mechanical click sound of the screen unfolding, beat-synced sound effects
-Quality: 4K high definition, commercial advertisement quality, smooth dynamics, vibrant colors
-Requirements: Fast pace, tight transitions, high-end fashion, youthful energy, no people appearing.
-```
-
-<!-- Case 28: Top-Down Fashion Lookbook — Outfit Change Sequence (by @johnAGI168) -->
-### Case 28: [Top-Down Fashion Lookbook — Outfit Change Sequence](https://x.com/johnAGI168/status/2040767631213363656) (by [@johnAGI168](https://x.com/johnAGI168))
-
-| Output |
-| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-24"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2040767631213363656.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1921,11 +1917,13 @@ prompt 👇
 红黑印花复古无袖短款旗袍，左侧发际别一朵红花，黑色过膝长筒袜。右手持半开黑色折扇置于胸前，右侧地板摆红色高跟鞋。红黑配色收束全片。
 ```
 
-<!-- Case 29: Premium Lifestyle Commercial — Vlog Selfie Style (by @johnAGI168) -->
-### Case 29: [Premium Lifestyle Commercial — Vlog Selfie Style](https://x.com/johnAGI168/status/2041374063243800793) (by [@johnAGI168](https://x.com/johnAGI168))
+<a id="commercial-product-case-25"></a>
+<!-- Case 25: Premium Lifestyle Commercial — Vlog Selfie Style (by @johnAGI168) -->
+### Case 25: [Premium Lifestyle Commercial — Vlog Selfie Style](https://x.com/johnAGI168/status/2041374063243800793) (by [@johnAGI168](https://x.com/johnAGI168))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-25"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041374063243800793.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1962,15 +1960,17 @@ prompt 👇
 ```
 
 <a id="reference-driven"></a>
-## 🖼️ Reference-Driven
 
-Prompts that rely on image references, character consistency, or frame-to-frame control.
+<a id="reference-driven"></a>
+## 🖼️ На основе референсов
 
+<a id="reference-driven-case-1"></a>
 <!-- Case 1: Skeleton Pianist Miniature Diorama Performance (by @tea_story_hoshi) -->
 ### Case 1: [Skeleton Pianist Miniature Diorama Performance](https://x.com/tea_story_hoshi/status/2040614786933887043) (by [@tea_story_hoshi](https://x.com/tea_story_hoshi))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-1"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/011.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -1990,11 +1990,13 @@ Timeline:
 [00:03-00:07] Shot 3: Slight tracking close-up focused on her face and the piano keys. She ends the performance with a dramatic finale and lifts her hands from the keys as the ghosts glow more brightly in the warm light. She turns toward the camera and gives a gentle nod. Audio: the final elegant piano chord re
 ```
 
+<a id="reference-driven-case-2"></a>
 <!-- Case 2: Storm Ship Princess vs Kraken (by @applete77191758) -->
 ### Case 2: [Storm Ship Princess vs Kraken](https://x.com/applete77191758/status/2040450526819807277) (by [@applete77191758](https://x.com/applete77191758))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-2"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/015.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2066,11 +2068,13 @@ Clean, sharp "slash" feeling / impact frame
 Motion blur + light streaks
 ```
 
+<a id="reference-driven-case-3"></a>
 <!-- Case 3: Maid Blade Dance: Mei vs Coco (by @MiraMusic_AI) -->
 ### Case 3: [Maid Blade Dance: Mei vs Coco](https://x.com/MiraMusic_AI/status/2040281710957666770) (by [@MiraMusic_AI](https://x.com/MiraMusic_AI))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-3"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/019.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2144,11 +2148,13 @@ Notes:
 - "Moonlight and shoji screens reinforce the Japanese duel atmosphere."
 ```
 
+<a id="reference-driven-case-4"></a>
 <!-- Case 4: Apocalyptic Rooftop Piano Farewell (by @liyue_ai) -->
 ### Case 4: [Apocalyptic Rooftop Piano Farewell](https://x.com/liyue_ai/status/2040062803076341872) (by [@liyue_ai](https://x.com/liyue_ai))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/028.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2176,11 +2182,13 @@ Simulated equipment: IMAX film camera with Panavision C-series lenses, including
 Color and tonality: Hollywood teal-and-orange tone, low saturation. Generate the footage in a realistic visual style.
 ```
 
+<a id="reference-driven-case-5"></a>
 <!-- Case 5: CINEMATIC 8mm Fisheye lens, FPV racing drone camera, hyper-fluid motion (by @itsPixieVerse) -->
 ### Case 5: [CINEMATIC 8mm Fisheye lens, FPV racing drone camera, hyper-fluid motion](https://x.com/itsPixieVerse/status/2040030453298811099) (by [@itsPixieVerse](https://x.com/itsPixieVerse))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-5"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/048.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2192,11 +2200,13 @@ Color and tonality: Hollywood teal-and-orange tone, low saturation. Generate the
 10-15s: [Impact & rapid pull-back] [@Image 1] lands flawlessly, wheels smoking. The camera snaps backward in a rapid reverse-dolly motion, showcasing the majestic landscape as [@Image 1] speeds away.
 ```
 
+<a id="reference-driven-case-6"></a>
 <!-- Case 6: Subject (by @YaReYaRu30Life) -->
 ### Case 6: [Subject](https://x.com/YaReYaRu30Life/status/2039971048305930643) (by [@YaReYaRu30Life](https://x.com/YaReYaRu30Life))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-6"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/059.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2209,11 +2219,13 @@ Movement Rule:
 Constant full-speed forward
 ```
 
+<a id="reference-driven-case-7"></a>
 <!-- Case 7: Ray tracing, Unreal Engine render, small town in heavy rain (by @Gwsubsa) -->
 ### Case 7: [Ray tracing, Unreal Engine render, small town in heavy rain](https://x.com/Gwsubsa/status/2040193631341174792) (by [@Gwsubsa](https://x.com/Gwsubsa))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-7"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/071.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2221,11 +2233,13 @@ Constant full-speed forward
 Ray tracing, Unreal Engine render, small town in heavy rain. @image1 character with identical hairstyle, outfit, realistic skin, dim lighting, IMAX cinematic, 35mm lens, 4:3 ratio, grey-blue low saturation, film grain, soft god-rays, cold expression, smooth motion, glowing sword trail. 1–3s: Camera tilts up from feet to full body; rain splashes burst under steps. 3–6s: Close-up feet stepping forward, blue shockwave spreads; world desaturates, rain freezes mid-air; camera pulls back, blue aura flows from body. 6–9s: Upper-body close-up; hands gather at chest, suspended rain forms water sword; blue light converges, droplets create massive sphere. 9–12s: Side face close-up; faint blue glow, slash upward; sword dissolves, arc energy explodes with rain; camera follows sky cut, clouds split; golden dragon and fire dragon emerge flying.
 ```
 
+<a id="reference-driven-case-8"></a>
 <!-- Case 8: Moon Convenience Store Night Shift (by @zasuko_michiksa) -->
 ### Case 8: [Moon Convenience Store Night Shift](https://x.com/zasuko_michiksa/status/2039650311212872036) (by [@zasuko_michiksa](https://x.com/zasuko_michiksa))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-8"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/084.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2233,11 +2247,13 @@ Ray tracing, Unreal Engine render, small town in heavy rain. @image1 character w
 Use `real-zasuko-2.0-character-sheet-dx.png` as the character reference. Start with a wide cinematic shot of the lonely convenience store on the moon before cutting inside. Create a photorealistic 15-second surreal live-action video of Michikusa Zasuko working a night shift at a convenience store.
 ```
 
+<a id="reference-driven-case-9"></a>
 <!-- Case 9: Rooftop Awakening to F-14 Transformation (by @john87445528) -->
 ### Case 9: [Rooftop Awakening to F-14 Transformation](https://x.com/john87445528/status/2039496153641660508) (by [@john87445528](https://x.com/john87445528))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-9"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/088.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2249,11 +2265,13 @@ Chapter 2 (0-15 seconds): Freefall · Purple AITO M7 Enters the Frame. Style: ru
 Chapter 3 (0-15 seconds): AITO M7 Transforms -> Becomes an F-14 -> Protagonist Stands on the Aircraft Back and Takes Off. Style: rugged realism, 35mm handheld film aesthetic, natural grain, subtle shake. Camera: multi-angle follow coverage including ground tracking, low angle close to the ground, aircraft side view, and protagonist first-person view, all following the aircraft tightly throughout the transformation. Transformation details must remain clearly visible. Atmosphere: light smoke and heat haze drift across the Chongqing road. Cyber blue-purple light refracts between buildings. Noon sunlight produces dazzling reflections and strong shadows across the metal surfaces. Sound effects: engine roar surges -> metal skin bursts and folds -> deep hydraulic tremor as the wings unfold -> metallic gripping sound as the protagonist climbs the exterior -> cockpit seal pops and is immediately drowned by wind noise -> explosive ignition of twin engines -> piercing shriek as the F-14 takes off and breaks the air -> powerful high-altitude wind overtakes the entire soundscape. [Visual Reference / Description] The purple AITO M7 completes a full transformation while driving on the Chongqing road, changing from a car into an F-14 fighter jet, as shown in Image 2. During the transformation, the protagonist clings to and climbs along the aircraft exterior in a dangerous and exposed position. She finally stands centered on the back of the F-14, legs slightly apart to stabilize her balance. Her white suit and ponytail whip violently in the extreme airflow. The F-14 takes off directly from the Chongqing road, and the protagonist remains standing firmly on its back. [Timeline per Second] 0-4s: [Road Acceleration · Transformation Start] The AITO M7 accelerates rapidly along the Chongqing road. Body panels burst open one after another and unfold. The hood rolls upward and becomes mechanical structure. The doors fold outward. The metal skin cracks along structural lines, revealing the cold mechanical interior. The protagonist climbs dangerously toward the top of the aircraft while gripping the transforming metal skeleton. She jumps and shifts position in sync with the aircraft's changing shape. The camera tracks every detail from close to the side of the aircraft. 4-6s: [Wings Unfold · Engines Fully Reassemble] The F-14's iconic swept wings snap open from the folded state and lock into place. The camera captures a low-angle near-ground full view of the wing deployment. Heat haze and dust are blasted up by the airflow from the wings. The twin engine nacelles violently reassemble into jet structures, emitting blue-purple thrust flames. The exhaust scorches the road surface. By now, the protagonist has climbed to the center of the aircraft's back, feet planted firmly, standing upright as the transformation completes. 6-8s: [Protagonist Stands on Aircraft Back · Takes Off] The instant the transformation completes, the protagonist stands fully upright on the back of the F-14. The hem of her white suit flies up in the strong airflow, and her ponytail extends horizontally. The silver mechanical parts reflect the noon sun intensely. The F-14's twin engines ignite at full power. The aircraft surges forward, the front wheel lifts, and the rear wheels leave the asphalt at the last possible moment. The nose pitches upward, carrying the protagonist into the Chongqing sky while she remains standing on its back. 8-15s: [Takeoff and Low City Skim · Protagonist Holds Position] The F-14 climbs vertically, then abruptly lowers its nose and skims over Chongqing at ultra-low altitude.
 ```
 
+<a id="reference-driven-case-10"></a>
 <!-- Case 10: Armor Assembly Street Counterattack (by @egeberkina) -->
 ### Case 10: [Armor Assembly Street Counterattack](https://x.com/egeberkina/status/2044809303878693242) (by [@egeberkina](https://x.com/egeberkina))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-10"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/TfQ7cL05pwwcaq06.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2340,11 +2358,13 @@ Music
 low cinematic pulse builds cuts abruptly at end
 ```
 
+<a id="reference-driven-case-11"></a>
 <!-- Case 11: Character reference @Image 1, convert to real-person live-action style (by @Adam38363368936) -->
 ### Case 11: [Character reference @Image 1, convert to real-person live-action style](https://x.com/Adam38363368936/status/2039646077230698743) (by [@Adam38363368936](https://x.com/Adam38363368936))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-11"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/103.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2371,11 +2391,13 @@ Shot Breakdown (15 shots in 15 seconds):
 00:14 | Shot 15: Handheld full body freeze frame, girl turns her back to the camera looking at the city, mixing ease and sadness; foreground is the back view of the flowing skirt, background is the vast dusk and river of cars, ending with negative space.
 ```
 
+<a id="reference-driven-case-12"></a>
 <!-- Case 12: Format (by @aimikoda) -->
 ### Case 12: [Format](https://x.com/aimikoda/status/2039380910278115454) (by [@aimikoda](https://x.com/aimikoda))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-12"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/112.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2385,11 +2407,13 @@ FORMAT: 15s / free rhythm / 1 MATCH CUT / CONTINUOUS MOVE UNTIL MATCH CUT + IMME
 SUBJECTS: A lone sword-bearing woman in weathered fur and leather fights a massive polar bear with desperate,
 ```
 
+<a id="reference-driven-case-13"></a>
 <!-- Case 13: Seven-Image Seamless Morphing Sequence (by @YaReYaRu30Life) -->
 ### Case 13: [Seven-Image Seamless Morphing Sequence](https://x.com/YaReYaRu30Life/status/2039474680235741681) (by [@YaReYaRu30Life](https://x.com/YaReYaRu30Life))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-13"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/114.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2457,11 +2481,13 @@ consistent subject identity
 seamless transformation flow
 ```
 
+<a id="reference-driven-case-14"></a>
 <!-- Case 14: Stridex Sneaker Commercial (by @ShamsAmin56) -->
 ### Case 14: [Stridex Sneaker Commercial](https://x.com/ShamsAmin56/status/2045084636695650511) (by [@ShamsAmin56](https://x.com/ShamsAmin56))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-14"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/K1jRd7vJAePuYplT.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2497,11 +2523,13 @@ Logo appears cleanly (fade or subtle scale-in, no flashy effects)
 Lighting: balanced, high-end studio look, crisp shadows, premium finish.
 ```
 
+<a id="reference-driven-case-15"></a>
 <!-- Case 15: Image-Driven Prompt with Singing Cat (by @pan_soramame_da) -->
 ### Case 15: [Image-Driven Prompt with Singing Cat](https://x.com/pan_soramame_da/status/2040921171059752988) (by [@pan_soramame_da](https://x.com/pan_soramame_da))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-15"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2040921171059752988.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2535,11 +2563,13 @@ Lighting: balanced, high-end studio look, crisp shadows, premium finish.
 ――――――――――
 ```
 
+<a id="reference-driven-case-16"></a>
 <!-- Case 16: Character Reference Anime Prompt (by @Reiria123) -->
 ### Case 16: [Character Reference Anime Prompt](https://x.com/Reiria123/status/2041118339393826933) (by [@Reiria123](https://x.com/Reiria123))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-16"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041118339393826933.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2589,15 +2619,17 @@ Bright autu
 ```
 
 <a id="surreal--vfx"></a>
-## 🌀 Surreal / VFX
 
-Abstract, impossible, stylized, or effect-heavy prompts driven by transformation and spectacle.
+<a id="surreal-vfx"></a>
+## 🌀 Сюрреализм / VFX
 
+<a id="surreal-vfx-case-1"></a>
 <!-- Case 1: Zero-Gravity Katana Combat (by @MiraMusic_AI) -->
 ### Case 1: [Zero-Gravity Katana Combat](https://x.com/MiraMusic_AI/status/2040584525781364874) (by [@MiraMusic_AI](https://x.com/MiraMusic_AI))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-1"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/013.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2637,11 +2669,13 @@ Figures drift slowly in silence.
 She regains balance, floating motionless as the scene holds on a final frame.
 ```
 
+<a id="surreal-vfx-case-2"></a>
 <!-- Case 2: Aerial Shot (by @chaosdotjpg) -->
 ### Case 2: [Aerial Shot](https://x.com/chaosdotjpg/status/2040203827249398086) (by [@chaosdotjpg](https://x.com/chaosdotjpg))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-2"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/051.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2650,11 +2684,13 @@ Whale in the Clouds — A cinematic surreal epic short film, ultra-realistic mag
 Aerial shot: skyline,
 ```
 
+<a id="surreal-vfx-case-3"></a>
 <!-- Case 3: Prompt 85 (by @AIARTGALLARY) -->
 ### Case 3: [Prompt 85](https://x.com/AIARTGALLARY/status/2039964736419479576) (by [@AIARTGALLARY](https://x.com/AIARTGALLARY))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-3"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/082.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2662,11 +2698,13 @@ Aerial shot: skyline,
 A diver floats motionless in pitch-black ocean depth, a single beam of light cutting through the dark. Bioluminescent veins begin threading across their body in accelerated time, skin shifting to iridescent obsidian scales, limbs fusing into massive finned appendages. The figure swells to monstrous proportions, displacing water in shockwave pulses. Final shot: a colossal sea creature dissolving into the abyss. WETA-level underwater VFX, deep teal and void-black tones.
 ```
 
+<a id="surreal-vfx-case-4"></a>
 <!-- Case 4: Reality splits (by @LudovicCreator) -->
 ### Case 4: [Reality splits](https://x.com/LudovicCreator/status/2039768597241725132) (by [@LudovicCreator](https://x.com/LudovicCreator))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/092.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2702,11 +2740,13 @@ The dimensional entity stands between them.
 Diegetic prismatic dimensional light reflecting through fractured architecture and overlapping skylines, cinematic multiverse distortion effects, particle fragments of shattered reality, 4K.
 ```
 
+<a id="surreal-vfx-case-5"></a>
 <!-- Case 5: Rainy Underground Alley Merge (by @Dheepanratnam) -->
 ### Case 5: [Rainy Underground Alley Merge](https://x.com/Dheepanratnam/status/2039796932562838010) (by [@Dheepanratnam](https://x.com/Dheepanratnam))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-5"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/096.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2716,11 +2756,13 @@ Rainy Underground Alley Merge
 [0-1.5s] Shot 1: Wide tracking shot, young woman in black leather jacket walks cautiously through rain, breath visible,
 ```
 
+<a id="surreal-vfx-case-6"></a>
 <!-- Case 6: Video prompt (by @Dheepanratnam) -->
 ### Case 6: [Video prompt](https://x.com/Dheepanratnam/status/2039651240909435242) (by [@Dheepanratnam](https://x.com/Dheepanratnam))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-6"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/097.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2734,11 +2776,13 @@ Cinematic 15-second high-budget sci-fi horror sequence on a rain-slicked downtow
 [0-1.5s] Shot 1: Epic wide crane
 ```
 
+<a id="surreal-vfx-case-7"></a>
 <!-- Case 7: the eye suddenly opens (by @roco_kn_roco) -->
 ### Case 7: [the eye suddenly opens](https://x.com/roco_kn_roco/status/2039323186127630710) (by [@roco_kn_roco](https://x.com/roco_kn_roco))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-7"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/106.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2760,11 +2804,13 @@ camera continues slow push-in, reflections in the eye show impossible space (lik
 ultra detailed anime style, cinematic lighting, high contrast, no cartoon exaggeration, elegant and mysterious, no text
 ```
 
+<a id="surreal-vfx-case-8"></a>
 <!-- Case 8: They clash mid-air above a floating lava river (by @LudovicCreator) -->
 ### Case 8: [They clash mid-air above a floating lava river](https://x.com/LudovicCreator/status/2039258991809773666) (by [@LudovicCreator](https://x.com/LudovicCreator))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-8"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/116.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2788,11 +2834,13 @@ Fast aerial tracking through lava-lit clouds, briefly passing behind a floating 
 Photorealistic fire simulation, volumetric storm clouds, ray-traced lava glow, cinematic lightning illumination, stable geometry, 8K.
 ```
 
+<a id="surreal-vfx-case-9"></a>
 <!-- Case 9: Creative Director Dimension Walk (by @lukasersil) -->
 ### Case 9: [Creative Director Dimension Walk](https://x.com/lukasersil/status/2045070342553493833) (by [@lukasersil](https://x.com/lukasersil))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-9"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/KmTYi8555NBQZpyJ.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2827,11 +2875,13 @@ START: white photography infinity studio, already mid-stride, looks directly int
 FINAL: one last snap → seamless loop back to white studio, identical opening shot
 ```
 
+<a id="surreal-vfx-case-10"></a>
 <!-- Case 10: Abyssal Entity Altar Inscription — Dark Fantasy (by @Adam38363368936) -->
 ### Case 10: [Abyssal Entity Altar Inscription — Dark Fantasy](https://x.com/Adam38363368936/status/2041050710721339521) (by [@Adam38363368936](https://x.com/Adam38363368936))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-10"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041050710721339521.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2839,11 +2889,13 @@ FINAL: one last snap → seamless loop back to white studio, identical opening s
 提示词 (Prompt)： 0-3s · 异界铭刻 低角度仰拍。深渊实体右手嵌入（Embedded）祭坛，暗黑脉络呈分形几何状（Fractal Geometry）在石板上疯狂寄生。裂缝喷涌出粘稠血肉触须，地面如肺部般大幅度搏动。背景宗门古建筑随之发生视觉上的横向位移震颤。 3-6s · 骨质畸变 环绕升降镜头。实体的脊椎如连锁反应般炸裂扭曲，黑曜石角冠从颅骨深处穿出。双臂缠绕液态黑烟，所经之处空气产生高温电弧感，悬挂灯笼因能量过载瞬间发生视觉坍塌式爆裂。 6-9s · 物质解构 拉远镜头。实体表皮呈现瓷器般的碎裂纹路，内部是蠕动的暗物质核心。指尖异化为长达半米的影刃，触碰木柱瞬间引发超速风化（Accelerated Decay），建筑结构化为黑烟升腾。 9-12s · 影潮吞噬 高空俯拍。实体振臂，身后黑暗塌缩后猛然爆发，形成千米级的黑红浪潮（Corrupted Tsunami）。阴影洪流所过之处，青石板路、石狮、楼阁全部被像素化撕裂并吞噬。 12-15s · 虚空终焉 脸部特写。背景中巨大的山门在黑洞引力下向中心拧麻花状折断。实体在死寂中缓步走近，瞳孔内是旋转的星云（Void Nebula）。它凝视镜头，画面产生强烈的胶片烧灼感与信号故障感（Glitch），最终归于绝对黑暗。
 ```
 
+<a id="surreal-vfx-case-11"></a>
 <!-- Case 11: Floating UI Color Wheel Scene Transformation (by @johnAGI168) -->
 ### Case 11: [Floating UI Color Wheel Scene Transformation](https://x.com/johnAGI168/status/2041001869435158629) (by [@johnAGI168](https://x.com/johnAGI168))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-11"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041001869435158629.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2856,15 +2908,17 @@ Seedance 2.0 prompt 👇
 ```
 
 <a id="templates--structured-formats"></a>
-## 📐 Templates & Structured Formats
 
-Reusable prompt skeletons, JSON-style specs, and highly structured prompt formats.
+<a id="templates-structured"></a>
+## 📐 Шаблоны и структурированные форматы
 
+<a id="templates-structured-case-1"></a>
 <!-- Case 1: Supercarrier Catastrophic Sinking (by @johnAGI168) -->
 ### Case 1: [Supercarrier Catastrophic Sinking](https://x.com/johnAGI168/status/2040432247094870343) (by [@johnAGI168](https://x.com/johnAGI168))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-1"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/016.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2876,11 +2930,13 @@ Seedance 2.0 text-to-video prompt below:
 {"lang":"en","prompt":"Style and atmosphere: apocalyptic naval destruction, with low-saturation steel blue and gunmetal gray as the primary palette. Amber explosions and aviation-fuel flames tear through the gray field. Towering storm cumulonimbus clouds are lit from within by lightning. Rain lines cut across every surface. Telephoto compression layers destruction on top of destruction. Live-action brutal aesthetics--no clean CG gloss, only grit, weight, and mass. Motion description: an extreme long aerial drone pullback shows a supercarrier catastrophically listing to port in monstrous waves, with the flight deck tilted beyond forty-five degrees and seawater washing across it as a white sheet of surf. Three fighter jets break free of their tie-down chains at the same time, sliding sideways across the slick steel deck. Their landing gear scrapes metal and throws long chains of sparks, and the first jet flips over the deck edge into the churning gray sea. Hard cut to a handheld medium low-angle shot from water level looking upward--the carrier's hull towers overhead like a collapsing skyscraper. Barnacle-covered steel plates groan and bend, rivets eject one after another like automatic gunfire, and a structural crack splits open from the middle of the hull, with shockwaves rippling across the metal skin. Seawater pours through the widening rupture. Cut to a stable circling wide tracking shot--the carrier breaks in two at the fracture point, the bow plunging forward into a giant swell while the stern rises toward the sky, exposing propellers still spinning in the air. Tons of seawater cascade off the lifted stern like a cluster of waterfalls. Aviation fuel ignites on the sea surface--flames spread outward in a widening ring across the water, and twisted black smoke columns rise into the storm. An abnormal twenty-meter wave surges in from the left side of frame and slams head-on into the tilting bow. White spray explodes sixty meters into the air and swallows the entire forward structure. Static description: catastrophic structural failure of a Nimitz-class supercarrier. North Atlantic storm conditions--fifteen-meter swells, horizontal rain, and sixty-knot winds blowing the wave crests into mist. Thundercloud base at three hundred meters with internal lightning illumination. The flight deck is littered with loose aircraft, broken tie-down chains, and seawater. The hull is split open at the center, exposing interior deck layers. Aviation fuel burns on the sea surface. An abnormal giant wave approaches from port."}
 ```
 
+<a id="templates-structured-case-2"></a>
 <!-- Case 2: Reconstruction of Memory Shards (by @TechTalkNAVI) -->
 ### Case 2: [Reconstruction of Memory Shards](https://x.com/TechTalkNAVI/status/2040327899606306840) (by [@TechTalkNAVI](https://x.com/TechTalkNAVI))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-2"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/018.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2903,11 +2959,13 @@ Seedance 2.0 text-to-video prompt below:
 #CapCutSeedance2
 ```
 
+<a id="templates-structured-case-3"></a>
 <!-- Case 3: Blueprint to Reality – Single-Story House Transformation (by @craftian_keskin) -->
 ### Case 3: [Blueprint to Reality – Single-Story House Transformation](https://x.com/craftian_keskin/status/2039053365666037902) (by [@craftian_keskin](https://x.com/craftian_keskin))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-3"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/024.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -2966,11 +3024,13 @@ Seedance 2.0 text-to-video prompt below:
  "action": "Walls begin extruding upward from the 2D plan — all interior walls rise simultaneously, preserving exact footprint. Garage walls, bedroom walls, k
 ```
 
+<a id="templates-structured-case-4"></a>
 <!-- Case 4: Martial-Arts Haute Couture Tailor (by @Adam38363368936) -->
 ### Case 4: [Martial-Arts Haute Couture Tailor](https://x.com/Adam38363368936/status/2037359552849666514) (by [@Adam38363368936](https://x.com/Adam38363368936))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/027.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3000,11 +3060,13 @@ TIMELINE:
 0:12-0:15: stable POV. Dust settles. She lifts the finished gown with one hand and snaps it open in front of the camera. The lens focuses on the exquisite embroidery at the collar. She flicks a button with her nail--the button vibrates. She then turns and walks into the shadows, leaving only her back as the frame is completely covered by an expensive perfume mist that rises and fades out cleanly.
 ```
 
+<a id="templates-structured-case-5"></a>
 <!-- Case 5: Format (by @aimikoda) -->
 ### Case 5: [Format](https://x.com/aimikoda/status/2040200435986817039) (by [@aimikoda](https://x.com/aimikoda))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-5"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/053.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3015,32 +3077,13 @@ SUBJECT: @[image1].
 WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trousers, and lace-up shoes outside.
 ```
 
+<a id="templates-structured-case-6"></a>
 <!-- Case 6: Location (by @TechTalkNAVI) -->
-### Case 6: [Location](https://x.com/TechTalkNAVI/status/2039941029265355123) (by [@TechTalkNAVI](https://x.com/TechTalkNAVI))
+### Case 6: [Location](https://x.com/TechTalkNAVI/status/2039928267323658399) (by [@TechTalkNAVI](https://x.com/TechTalkNAVI))
 
 | Output |
 | :----: |
-
-**Prompt:**
-
-```
-{
- "location": "Tokyo Cityscape (Night)",
- "duration": "10s",
- "prompt": "A cinematic POV shot riding an invisible rollercoaster through Tokyo at night. A glowing neon rail 'creates itself' milliseconds before the camera hits it, weaving through the steel structures of Tokyo Tower and nearby buildings. As the camera passes, each building it touches instantly transforms into a stack of glowing cubes that rotate and re-assemble. The shot ends with the camera diving straight down into a sea of neon lights, which turns into a giant QR code or a logo just before the screen goes black.",
- "vfx_focus": [
- "Procedural rail generation",
- "Dynamic environment transformation (Geometry nodes style)",
- "Extremely high-speed camera motion with light streaks"
- ]
-}
-```
-
-<!-- Case 7: Location (by @TechTalkNAVI) -->
-### Case 7: [Location](https://x.com/TechTalkNAVI/status/2039928267323658399) (by [@TechTalkNAVI](https://x.com/TechTalkNAVI))
-
-| Output |
-| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-6"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/062.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3057,11 +3100,13 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 }
 ```
 
-<!-- Case 8: Starlight Shadow / Stardust Silhouette (by @TechTalkNAVI) -->
-### Case 8: [Starlight Shadow / Stardust Silhouette](https://x.com/TechTalkNAVI/status/2039904725639037110) (by [@TechTalkNAVI](https://x.com/TechTalkNAVI))
+<a id="templates-structured-case-7"></a>
+<!-- Case 7: Starlight Shadow / Stardust Silhouette (by @TechTalkNAVI) -->
+### Case 7: [Starlight Shadow / Stardust Silhouette](https://x.com/TechTalkNAVI/status/2039904725639037110) (by [@TechTalkNAVI](https://x.com/TechTalkNAVI))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-7"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/063.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3087,11 +3132,13 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 }
 ```
 
-<!-- Case 9: Subjects (by @0xbisc) -->
-### Case 9: [Subjects](https://x.com/0xbisc/status/2040041171460968728) (by [@0xbisc](https://x.com/0xbisc))
+<a id="templates-structured-case-8"></a>
+<!-- Case 8: Subjects (by @0xbisc) -->
+### Case 8: [Subjects](https://x.com/0xbisc/status/2040041171460968728) (by [@0xbisc](https://x.com/0xbisc))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-8"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/083.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3103,11 +3150,13 @@ Main Subject: A parkour expert in POV perspective, defined by visible arms, hand
 Style: Painterly 3D, stylized on real human anatomy
 ```
 
-<!-- Case 10: Format (by @aimikoda) -->
-### Case 10: [Format](https://x.com/aimikoda/status/2039827756083540361) (by [@aimikoda](https://x.com/aimikoda))
+<a id="templates-structured-case-9"></a>
+<!-- Case 9: Format (by @aimikoda) -->
+### Case 9: [Format](https://x.com/aimikoda/status/2039827756083540361) (by [@aimikoda](https://x.com/aimikoda))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-9"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/090.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3117,11 +3166,13 @@ FORMAT: 15s / 180 BPM / ONE CONTINUOUS SHOT / 360 POV downhill stair run, viral 
 SUBJECTS: First-person cyclist, handlebars and front wheel flashing low in frame during drops and hard turns. Vendors, laundry, scooters, dogs, chickens, cars, and
 ```
 
-<!-- Case 11: Prompt (by @Just_sharon7) -->
-### Case 11: [Prompt](https://web.archive.org/web/*/https://x.com/Just_sharon7/status/2039725656393875580) (by [@Just_sharon7](https://x.com/Just_sharon7))
+<a id="templates-structured-case-10"></a>
+<!-- Case 10: Prompt (by @Just_sharon7) -->
+### Case 10: [Prompt](https://web.archive.org/web/*/https://x.com/Just_sharon7/status/2039725656393875580) (by [@Just_sharon7](https://x.com/Just_sharon7))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-10"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/094.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3143,11 +3194,13 @@ SUBJECTS: First-person cyclist, handlebars and front wheel flashing low in frame
 }
 ```
 
-<!-- Case 12: Format (by @Dheepanratnam) -->
-### Case 12: [Format](https://x.com/Dheepanratnam/status/2039568902481387645) (by [@Dheepanratnam](https://x.com/Dheepanratnam))
+<a id="templates-structured-case-11"></a>
+<!-- Case 11: Format (by @Dheepanratnam) -->
+### Case 11: [Format](https://x.com/Dheepanratnam/status/2039568902481387645) (by [@Dheepanratnam](https://x.com/Dheepanratnam))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-11"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/098.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3157,11 +3210,13 @@ FORMAT: 15s / single continuous impossible camera move / no dialogue STYLE: High
 Shot 01 (0:00–2:00): Camera starts at floor level on anti-slip
 ```
 
-<!-- Case 13: Composition (by @CharaspowerAI) -->
-### Case 13: [Composition](https://x.com/CharaspowerAI/status/2039704453784191201) (by [@CharaspowerAI](https://x.com/CharaspowerAI))
+<a id="templates-structured-case-12"></a>
+<!-- Case 12: Composition (by @CharaspowerAI) -->
+### Case 12: [Composition](https://x.com/CharaspowerAI/status/2039704453784191201) (by [@CharaspowerAI](https://x.com/CharaspowerAI))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-12"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/099.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3201,11 +3256,13 @@ Shot 01 (0:00–2:00): Camera starts at floor level on anti-slip
 }
 ```
 
-<!-- Case 14: Format (by @BrennanErbz) -->
-### Case 14: [Format](https://x.com/BrennanErbz/status/2039579736301781215) (by [@BrennanErbz](https://x.com/BrennanErbz))
+<a id="templates-structured-case-13"></a>
+<!-- Case 13: Format (by @BrennanErbz) -->
+### Case 13: [Format](https://x.com/BrennanErbz/status/2039579736301781215) (by [@BrennanErbz](https://x.com/BrennanErbz))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-13"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/100.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3213,11 +3270,13 @@ Shot 01 (0:00–2:00): Camera starts at floor level on anti-slip
 FORMAT: 15s / handheld close + slow cuts / 5 beats / sci-fi drama — astronaut's first spacewalk, orbital silence SUBJECTS: An astronaut, 40s, in a white EVA suit with a gold-visored helmet, tethered to the exterior of a space station, performing the first moments of a spacewalk.
 ```
 
-<!-- Case 15: Subjects (by @0xbisc) -->
-### Case 15: [Subjects](https://x.com/0xbisc/status/2039673040787956123) (by [@0xbisc](https://x.com/0xbisc))
+<a id="templates-structured-case-14"></a>
+<!-- Case 14: Subjects (by @0xbisc) -->
+### Case 14: [Subjects](https://x.com/0xbisc/status/2039673040787956123) (by [@0xbisc](https://x.com/0xbisc))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-14"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/104.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3227,11 +3286,13 @@ Subject 1: Adult male, Western casual everyday home and outing attire, short jac
 Subject 2: Golden Retriever, large head, broad chest, thick, fluffy fur; overall short and round
 ```
 
-<!-- Case 16: Stylized 3D Barbershop Transformation Sequence (by @ShamiWeb3) -->
-### Case 16: [Stylized 3D Barbershop Transformation Sequence](https://x.com/ShamiWeb3/status/2039372124079669655) (by [@ShamiWeb3](https://x.com/ShamiWeb3))
+<a id="templates-structured-case-15"></a>
+<!-- Case 15: Stylized 3D Barbershop Transformation Sequence (by @ShamiWeb3) -->
+### Case 15: [Stylized 3D Barbershop Transformation Sequence](https://x.com/ShamiWeb3/status/2039372124079669655) (by [@ShamiWeb3](https://x.com/ShamiWeb3))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-15"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/115.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3293,11 +3354,13 @@ Subject 2: Golden Retriever, large head, broad chest, thick, fluffy fur; overall
 }
 ```
 
-<!-- Case 17: Subjects (by @0xbisc) -->
-### Case 17: [Subjects](https://x.com/0xbisc/status/2039332336643248317) (by [@0xbisc](https://x.com/0xbisc))
+<a id="templates-structured-case-16"></a>
+<!-- Case 16: Subjects (by @0xbisc) -->
+### Case 16: [Subjects](https://x.com/0xbisc/status/2039332336643248317) (by [@0xbisc](https://x.com/0xbisc))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-16"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/122.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3306,83 +3369,13 @@ SUBJECTS:
 Subject 1: First-person perspective hands (rendered in Monet impressionist oil painting brushwork, soft skin tones with no hard edges; both hands continuously hold the oar and perform extremely slow and even rowing motions, with stretched rhythm and natural pauses)
 ```
 
-<!-- Case 18: Seven-Image Seamless Morphing Sequence (by @YaReYaRu30Life) -->
-### Case 18: [Seven-Image Seamless Morphing Sequence](https://x.com/YaReYaRu30Life/status/2039474680235741681) (by [@YaReYaRu30Life](https://x.com/YaReYaRu30Life))
+<a id="templates-structured-case-17"></a>
+<!-- Case 17: Female Warrior — Structured Subject Prompt (by @noman23761) -->
+### Case 17: [Female Warrior — Structured Subject Prompt](https://x.com/noman23761/status/2041406971484815564) (by [@noman23761](https://x.com/noman23761))
 
 | Output |
 | :----: |
-
-**Prompt:**
-
-```
-[Basic Settings]
-structure: Single continuous shot (no cuts)
-progression: Morphing 7 images sequentially
-visibility: Each image is clearly recognizable for only an instant (no stopping required)
-transition: Always smooth and continuous
-style: Cinematic, high-definition, dynamic, no flicker
-[Prompt Body]
-Start from <<<Image1>>>.
-The footage proceeds in a completely seamless single shot, continuously transforming in the order of <<<Image1>>> -> <<<Image2>>> -> <<<Image3>>> -> <<<Image4>>> -> <<<Image5>>> -> <<<Image6>>> -> <<<Image7>>>.
-The overall scene is not static; morphing occurs within a dynamic video where the camera is constantly moving.
-However, the recognizability of the subject is maintained, and the composition is controlled to prevent collapse.
-Each image has a peak state where it is clearly visible for an instant within the flow, but there is no stopping or holding.
-Everything is expressed as a continuous "evolution within motion."
-[Transformation Logic (Fixed order, no duplication)]
-<<<Image1>>> -> <<<Image2>>>:
-The camera begins transformation while smoothly pushing in forward
-Gradual change in the order of outline -> parts -> color -> texture
-Fine particle decomposition -> reconstruction
-<<<Image2>>> -> <<<Image3>>>:
-Tracking movement where the camera flows horizontally
-The structure is rewritten by light scanning
-Emitting lines flow, and the shape continuously changes
-* Particle expression is prohibited
-<<<Image3>>> -> <<<Image4>>>:
-Orbit movement where the camera circles around the subject
-The shape is stretched and transformed by spatial distortion and lens warp
-<<<Image4>>> -> <<<Image5>>>:
-The camera slightly pulls back and changes perspective (light dolly out + angle change)
-The subject melts like liquid and is reformed while flowing
-<<<Image5>>> -> <<<Image6>>>:
-The camera accelerates momentarily, adding momentum to the movement
-The subject fragments, scatters in space, and then reassembles into a new form
-<<<Image6>>> -> <<<Image7>>>:
-The camera stabilizes while converging back toward the center
-Energy converges at the center and integrates into the final form through light and waves
-[Camera Behavior (Important)]
-- Always moving but controlled movement
-- Allowed:
-  - Push-in / Pull-out
-  - Horizontal tracking
-  - Orbit (circling)
-  - Light perspective change
-- Prohibited:
-  - Sudden blur
-  - Loss of subject
-  - Unnatural jumps
-[Constraints (Important)]
-- Cut editing prohibited (complete single shot)
-- Reuse of the same effect prohibited
-- Flicker, noise, and breakdown prohibited
-- Subject position / scale should not be significantly disrupted
-- Each image must achieve a clearly visible state at least once
-- All changes must be continuous and meaningful structural transformations
-[Enhancement Keywords]
-dynamic camera movement
-cinematic motion flow
-smooth continuous morphing
-temporal coherence
-high detail preservation
-consistent subject identity
-seamless transformation flow
-```
-
-<!-- Case 19: Female Warrior — Structured Subject Prompt (by @noman23761) -->
-### Case 19: [Female Warrior — Structured Subject Prompt](https://x.com/noman23761/status/2041406971484815564) (by [@noman23761](https://x.com/noman23761))
-
-| Output |
-| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-17"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041406971484815564.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3391,15 +3384,17 @@ seamless transformation flow
 ```
 
 <a id="general-cinematic"></a>
-## 🎬 General Cinematic
 
-Useful prompts that do not fit the tighter buckets above but remain strong general-purpose references.
+<a id="general-cinematic"></a>
+## 🎬 Общая кинематография
 
+<a id="general-cinematic-case-1"></a>
 <!-- Case 1: Spring Wind Memory Poem (by @liyue_ai) -->
 ### Case 1: [Spring Wind Memory Poem](https://x.com/liyue_ai/status/2038993496225591731) (by [@liyue_ai](https://x.com/liyue_ai))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-1"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/001.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3418,11 +3413,13 @@ Background music: soft instrumental music (piano + bamboo flute), slow rhythm, e
 10. Close-up. At the center of the screen, neat and elegant Song-style Chinese text appears: "If the spring breeze still pities the flowers, could it allow me to be young again?" The text remains as the frame freezes. Text fades in. No sound effect. End on the text.
 ```
 
+<a id="general-cinematic-case-2"></a>
 <!-- Case 2: High-Heel Beat Sync Fashion Close-Up (by @TingFengAIAI) -->
 ### Case 2: [High-Heel Beat Sync Fashion Close-Up](https://x.com/TingFengAIAI/status/2038904225548149011) (by [@TingFengAIAI](https://x.com/TingFengAIAI))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-2"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/002.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3436,11 +3433,13 @@ Beauty beat-sync sequence:
 --ar 16:9 --motion 8, soft-focus white light + glow, extremely premium look with strong control.
 ```
 
+<a id="general-cinematic-case-3"></a>
 <!-- Case 3: Mini Skateboard Escape in a Child Bedroom (by @anson7956) -->
 ### Case 3: [Mini Skateboard Escape in a Child Bedroom](https://x.com/anson7956/status/2038846411253657939) (by [@anson7956](https://x.com/anson7956))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-3"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/003.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3453,11 +3452,13 @@ In the third stage, she bursts through the gap between the pages of a picture bo
 This is a thrilling, heart-pounding video packed with near escapes. The setting is a realistic child's room, using a miniature perspective to create an immersive, theme-ride-like experience that fully exploits giant obstacles and tiny gaps.
 ```
 
+<a id="general-cinematic-case-4"></a>
 <!-- Case 4: Prompt 25 (by @techhalla) -->
 ### Case 4: [Prompt 25](https://x.com/techhalla/status/2039114930461549008) (by [@techhalla](https://x.com/techhalla))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/023.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3465,11 +3466,13 @@ This is a thrilling, heart-pounding video packed with near escapes. The setting 
 Raw mobile phone footage, vertical handheld shot, shaky cam, grainy texture. At the legendary Rucker Park basketball court at dusk, a heavy-set elderly woman in a floral dress and sneakers is dribbling a basketball against
 ```
 
+<a id="general-cinematic-case-5"></a>
 <!-- Case 5: Prompt 28 (by @AITalesNBH) -->
 ### Case 5: [Prompt 28](https://x.com/AITalesNBH/status/2039072522650423445) (by [@AITalesNBH](https://x.com/AITalesNBH))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-5"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/026.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3477,11 +3480,13 @@ Raw mobile phone footage, vertical handheld shot, shaky cam, grainy texture. At 
 The firefighter is entering the house, at the 3-second mark the firefighter is walking inside the house with furniture in fire around him, at the 5-second mark a burning tree piece falls in front of him, at the 8-second mark he finds a 3 old baby in a baby bed, the baby is coughing, the firefighter lifts the baby and hugs it, the firefighter gets out of the house, he gives the baby to an ambulance personnel
 ```
 
+<a id="general-cinematic-case-6"></a>
 <!-- Case 6: Ancient Costume Transformation Showcase (by @johnAGI168) -->
 ### Case 6: [Ancient Costume Transformation Showcase](https://x.com/johnAGI168/status/2040058721158467975) (by [@johnAGI168](https://x.com/johnAGI168))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-6"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/029.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3496,11 +3501,13 @@ Seedance 2.0 all-purpose reference prompt below:
 [Section 4: High-frequency glamour] Time: 11-15 seconds. Framing and camera: static medium shot. Female styling and costume: rapidly cycle through three outfits: 1. deep red strapless long dress with a red-and-gold waist belt; 2. pure white wide-sleeved plain robe with a white belt; 3. pink-and-white split-color dress with light-blue bird embroidery on the chest. Movement and expression: both hands swing up and down in stacked motion with urgent drum hits, larger movement range, full commanding presence. Sound: ancient-style transformation BGM. Effects and environment: ultra-fast beat-synced outfit switching. Multiple colors hit in rapid succession, pushing visual extravagance to a climax.
 ```
 
+<a id="general-cinematic-case-7"></a>
 <!-- Case 7: Ginza at night, future cyberpunk (by @ChiakiAkagi) -->
 ### Case 7: [Ginza at night, future cyberpunk](https://x.com/ChiakiAkagi/status/2040232705477255363) (by [@ChiakiAkagi](https://x.com/ChiakiAkagi))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-7"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/037.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3514,11 +3521,13 @@ They fight moving at high speed with motion blur and afterimages.
 The female ninja's punch sends the ninja flying, crashing into a neon sign high above.
 ```
 
+<a id="general-cinematic-case-8"></a>
 <!-- Case 8: stories of a hopper (by @starks_arq) -->
 ### Case 8: [stories of a hopper](https://x.com/starks_arq/status/2040036602018451721) (by [@starks_arq](https://x.com/starks_arq))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-8"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/040.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3528,11 +3537,13 @@ stories of a hopper.
 1 astronaut that's able to hop from location to location, anytime he wants.
 ```
 
+<a id="general-cinematic-case-9"></a>
 <!-- Case 9: A suspicious man stands in the center of Shibuya scramble crossing (by @roco_kn_roco) -->
 ### Case 9: [A suspicious man stands in the center of Shibuya scramble crossing](https://x.com/roco_kn_roco/status/2039962871149584691) (by [@roco_kn_roco](https://x.com/roco_kn_roco))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-9"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/043.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3543,11 +3554,13 @@ Used Prompt 2
 Protagonist: Hiromu, Age 19
 ```
 
+<a id="general-cinematic-case-10"></a>
 <!-- Case 10: Aesthetic (by @maxescu) -->
 ### Case 10: [Aesthetic](https://x.com/maxescu/status/2040095139511636166) (by [@maxescu](https://x.com/maxescu))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-10"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/044.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3558,11 +3571,13 @@ aesthetic: phone held up in the middle of a packed crowd on the deck of a fishin
  - "0-5s: Phone camera on the deck of a fishing boat at sea. Golden hour. The deck is PACKED
 ```
 
+<a id="general-cinematic-case-11"></a>
 <!-- Case 11: A girl falls rapidly through a digital tunnel (by @_3912657840) -->
 ### Case 11: [A girl falls rapidly through a digital tunnel](https://x.com/_3912657840/status/2039911660656484590) (by [@_3912657840](https://x.com/_3912657840))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-11"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/057.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3570,11 +3585,13 @@ aesthetic: phone held up in the middle of a packed crowd on the deck of a fishin
 A girl falls rapidly through a digital tunnel. The girl is panicking and flailing. She passes through a tunnel that twists and turns up, down, left, and right, then falls straight down. She lands softly on a rainbow cloud in a fancy world overflowing with light. She looks up and sees a large, rainbow-shining sun glowing in the sky. Backlight.
 ```
 
+<a id="general-cinematic-case-12"></a>
 <!-- Case 12: Visuals (by @TechTalkNAVI) -->
 ### Case 12: [Visuals](https://x.com/TechTalkNAVI/status/2040100728627454339) (by [@TechTalkNAVI](https://x.com/TechTalkNAVI))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-12"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/060.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3592,11 +3609,13 @@ Final Stage: Firing. A pillar of light pierces the stratosphere, forming a giant
 Lighting/Color: Cold white, purple discharge. Contrast between silence and roar.
 ```
 
+<a id="general-cinematic-case-13"></a>
 <!-- Case 13: A Hollywood movie trailer (by @SSSS_CRYPTOMAN) -->
 ### Case 13: [A Hollywood movie trailer](https://x.com/SSSS_CRYPTOMAN/status/2040217171918516475) (by [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-13"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/065.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3604,11 +3623,13 @@ Lighting/Color: Cold white, purple discharge. Contrast between silence and roar.
 A Hollywood movie trailer. A Marvel-style action movie where an ordinary American high school student transforms into a hero and fights. I want to create various scenes with multi-cuts. The title is CRYPTOMAN
 ```
 
+<a id="general-cinematic-case-14"></a>
 <!-- Case 14: Cinematic Vertical 9 (by @Mayz1169) -->
 ### Case 14: [Cinematic Vertical 9](https://x.com/Mayz1169/status/2039982387703296044) (by [@Mayz1169](https://x.com/Mayz1169))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-14"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/067.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3616,11 +3637,13 @@ A Hollywood movie trailer. A Marvel-style action movie where an ordinary America
 Cinematic vertical 9:16 video. Two versions of Rapunzel from Tangled walk side by side toward the camera on a forest dirt path. On the LEFT: the original Disney 3D animated Rapunzel — large expressive cartoon eyes, stylized face with Disney animation proportions, luminous long
 ```
 
+<a id="general-cinematic-case-15"></a>
 <!-- Case 15: A giant glacier wall collapses into a fjord beside a coastal city (by @LudovicCreator) -->
 ### Case 15: [A giant glacier wall collapses into a fjord beside a coastal city](https://x.com/LudovicCreator/status/2040100791822721300) (by [@LudovicCreator](https://x.com/LudovicCreator))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-15"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/068.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3636,11 +3659,13 @@ Icebergs smash through streets as the city floods.
 Glacier collapse megaflood, iceberg destruction chaos, cinematic polar disaster scale, 4K.
 ```
 
+<a id="general-cinematic-case-16"></a>
 <!-- Case 16: A moonlit piano chase where the mouse (by @Dheepanratnam) -->
 ### Case 16: [A moonlit piano chase where the mouse](https://x.com/Dheepanratnam/status/2040060221733609969) (by [@Dheepanratnam](https://x.com/Dheepanratnam))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-16"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/072.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3657,11 +3682,13 @@ The cat gets nearly caught by the closing lid. Inside the piano, the mouse runs 
 The cat crashes into the keyboard section, causing a chaotic musical explosion. Final gag: the mouse presses one neat final note while the cat pops out wearing sheet music on its head.
 ```
 
+<a id="general-cinematic-case-17"></a>
 <!-- Case 17: 15-second continuous single-shot cartoon sequence (by @Artedeingenio) -->
 ### Case 17: [15-second continuous single-shot cartoon sequence](https://x.com/Artedeingenio/status/2040054705183723711) (by [@Artedeingenio](https://x.com/Artedeingenio))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-17"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/077.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3677,11 +3704,13 @@ Scene:
 A small animal character walking through a quiet meadow.
 ```
 
+<a id="general-cinematic-case-18"></a>
 <!-- Case 18: Prompt 83 (by @Alin_Reaper05) -->
 ### Case 18: [Prompt 83](https://x.com/Alin_Reaper05/status/2040017612105556403) (by [@Alin_Reaper05](https://x.com/Alin_Reaper05))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-18"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/080.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3689,11 +3718,13 @@ A small animal character walking through a quiet meadow.
 Victorian-era flying airships with brass gears and giant propellers battling over a cloudy mountain range at sunset, cannons firing, pirates swinging on ropes between ships, intricate mechanical details, sweeping aerial tracking shot with parallax, warm steampunk color palette, ultra-detailed, like Howl’s Moving Castle meets Pirates of the Caribbean, epic action.
 ```
 
+<a id="general-cinematic-case-19"></a>
 <!-- Case 19: Aesthetic (by @maxescu) -->
 ### Case 19: [Aesthetic](https://x.com/maxescu/status/2039639805592502504) (by [@maxescu](https://x.com/maxescu))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-19"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/087.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3704,11 +3735,13 @@ timeline:
 - 0-3s: Normal guy in baggy cargo shorts and flip flops is standing perfectly
 ```
 
+<a id="general-cinematic-case-20"></a>
 <!-- Case 20: Exterior of an ancient temple in the deep mountains (by @cdexsta) -->
 ### Case 20: [Exterior of an ancient temple in the deep mountains](https://x.com/cdexsta/status/2039559243284844649) (by [@cdexsta](https://x.com/cdexsta))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-20"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/089.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3717,11 +3750,13 @@ timeline:
 Exterior of an ancient temple in the deep mountains. The camera overlooks the temple roof amidst surging clouds, with mottled tiles and rising mist. The scene cuts to the interior, where a middle-aged monk sits cross-legged, with an ancient Buddha statue and flickering candlelight behind him. The camera slowly rotates 360 degrees, panning from the monk's side to a front close-up, capturing his slightly closed eyes and calm breathing.
 ```
 
+<a id="general-cinematic-case-21"></a>
 <!-- Case 21: Statue of Liberty Sunrise Storyboard (by @MrDasOnX) -->
 ### Case 21: [Statue of Liberty Sunrise Storyboard](https://x.com/MrDasOnX/status/2045065813628186733) (by [@MrDasOnX](https://x.com/MrDasOnX))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-21"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/urrfA6BwbCGtYgie.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3745,11 +3780,13 @@ Shot list sequence:
 Fast cinematic cuts, smooth micro camera movements per shot (push, pan, slide, tilt, orbit), physically accurate sunrise lighting and gentle water motion, realistic copper patina textures with subtle sheen and oxidation details, soft shadows and mist, ultra-realistic materials (copper, stone pedestal, water, sky), consistent exposure and warm color grading, no flicker, stable geometry, real-world motion blur, shallow depth of field where appropriate, HDR, ultra high definition, film-quality American historical and heritage cinematography.
 ```
 
+<a id="general-cinematic-case-22"></a>
 <!-- Case 22: Historical scene with dramatic lighting (by @AskVenice) -->
 ### Case 22: [Historical scene with dramatic lighting](https://x.com/AskVenice/status/2039570736239595726) (by [@AskVenice](https://x.com/AskVenice))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-22"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/101.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3763,11 +3800,13 @@ Opening shot: Venetian galley fleet approaches Constantinople at dawn, cannons b
 Quick cut: Ottoman cannon
 ```
 
+<a id="general-cinematic-case-23"></a>
 <!-- Case 23: ROCKET SURF (by @maxescu) -->
 ### Case 23: [ROCKET SURF](https://x.com/maxescu/status/2039308020006396033) (by [@maxescu](https://x.com/maxescu))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-23"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/107.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3782,11 +3821,13 @@ AUDIO: Rocket engine roar, wind, fiberglass creak.
 TIMELINE: 0-3s:
 ```
 
+<a id="general-cinematic-case-24"></a>
 <!-- Case 24: Dialogue (by @Adam38363368936) -->
 ### Case 24: [Dialogue](https://x.com/Adam38363368936/status/2039286911265800297) (by [@Adam38363368936](https://x.com/Adam38363368936))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-24"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/120.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3803,27 +3844,13 @@ Actions and Expressions:
 Scene: Black stand-up stage, strong spotlight illuminating the person, blurred silhouettes of the audience below, atmosphere of laughter, slight camera push-in, cinematic lighting, strong stage presence, real-shot texture, fast pace, 15-second short video effect. Shallow depth of field, enhanced light and shadow contrast, scene detail reconstruction, digital noise elimination, 4K high-definition quality.
 ```
 
-<!-- Case 25: Rooftop Awakening to F-14 Transformation (by @john87445528) -->
-### Case 25: [Rooftop Awakening to F-14 Transformation](https://x.com/john87445528/status/2039496153641660508) (by [@john87445528](https://x.com/john87445528))
+<a id="general-cinematic-case-25"></a>
+<!-- Case 25: Birthday Betrayal Restaurant Drama (by @Lighterkissan33) -->
+### Case 25: [Birthday Betrayal Restaurant Drama](https://x.com/Lighterkissan33/status/2045023927412637712) (by [@Lighterkissan33](https://x.com/Lighterkissan33))
 
 | Output |
 | :----: |
-
-**Prompt:**
-
-```
-Chapter 1 (0-15 seconds): Rooftop Awakening · Running and Leaping Down (Front to Back View). Style: rugged primitive realism using a 35mm handheld film camera, with natural grain and subtle shake. The dazzling direct sunlight of Chongqing noon creates high-contrast shadows and lens flares. Camera: a single continuous third-person handheld follow shot with no cuts, starting from a low front angle and smoothly transitioning to an over-the-shoulder / back view, following the protagonist Image 1 throughout. Atmosphere: high-altitude winds howl, dust and mist fly, and cloth, hair, and mechanical parts all show realistic physical motion. Sound effects: metallic echoes of mechanical high heels striking concrete, heavy rhythmic breathing, howling wind, operating mechanical joints, violent fabric flapping, sudden silence at the instant of the leap, followed by a high-speed wind-cutting shriek during descent. [Visual Reference / Description]: fully preserve the elegant female character from the reference image, wearing a white suit, silver mechanical chest plate and neck collar, silver mechanical hands, and silver high-heeled boots, with long straight black ponytail, delicate facial features, and large earrings. Physical features and clothing details must remain fully consistent. The scene takes place on the rooftop of Raffles City Chongqing, surrounded by skyscrapers, with the broad Yangtze River visible in the distance. [Timeline per Second] 0-4s: [Front Start] The handheld camera captures her full body from a low front angle. She stands at the rooftop edge, looking directly into the camera with a calm, determined expression. The mechanical cervical spine catches the noon sunlight, and her ponytail lifts in the high wind. She slowly turns around. 4-9s: [Over-the-Shoulder Follow · Full Sprint] The camera switches to an over-the-shoulder perspective and follows closely. She sprints across the concrete platform. Her mechanical high heels spark against metal with each step. The hem of the suit and the mechanical spine exoskeleton whip violently in the airflow. Dust kicks up from the roof, and the cloth simulation stays highly realistic. 9-12s: [Leaping Down] She suddenly jumps off. The instant her feet leave the ground, the camera dips slightly and switches to a fast downward tracking view. Her suit billows violently in the extreme airflow. The glass curtain walls of Raffles City streak upward on both sides, and motion blur erupts intensely. [Style and Quality Enhancement] Realistic 8K quality, ultra-fine mechanical texture and cloth physics, cinematic lighting and contrast, perfect motion blur, high dynamic range, no artifacts, coherent multimodal physical effects, stable cinematic image.
-
-Chapter 2 (0-15 seconds): Freefall · Purple AITO M7 Enters the Frame. Style: rugged realism, 35mm handheld camera, natural grain, subtle organic shake. Camera: primarily handheld follow shots, with quick cuts between the protagonist's falling perspective and the ground car-chase perspective to create extreme tension. Maintain full real-time speed, with no slow motion. Lighting: dazzling high-contrast sunlight at Chongqing noon, strong reflections on the glass curtain walls of Raffles City, and heat haze rising from the road. Sound effects: wind-cutting shriek intensifies continuously -> engine roar approaching from a distance -> sharp tire friction on asphalt -> cyber-energy hum -> metallic thud at the moment of impact -> dull compression as four wheels land -> engine roar continues and grows stronger. [Visual Reference / Description] The protagonist remains the same female character from the reference image, preserving all details. Scene: on the Chongqing ramp road below Raffles City, a purple AITO M7 drives at high speed. It uses the upward slope of the ramp to launch naturally and precisely catch the protagonist as she falls from the rooftop. No slow-motion close-ups at any point; keep the rhythm realistic, high-speed, and cinematic. [Timeline per Second] Continuing from Video 1 and extending by 15 seconds. 0-4s: [Extreme Speed Fall · Overlooking the Ground] Protagonist Image 1 falls at high speed while maintaining a balanced gliding posture with both arms spread. The camera locks onto her back. The curtain walls of Raffles City streak upward on both sides, the ground rapidly expands, and motion blur becomes extreme. The frame quickly inserts a ground view: a purple AITO M7 races along the ramp road below Raffles City. The car emits a cyber blue-purple glow, the engine roars, and the tires leave two black marks on the asphalt. 4-9s: [Ramp Launch · Trajectory Intersection] The purple AITO M7 charges to the top of the ramp. Using the ramp's inertia, the front of the car lifts into the air and the sunroof slides open instantly. The camera alternates rapidly between the falling protagonist and the climbing AITO M7. She keeps a high-speed falling posture with arms spread, and the AITO M7 keeps accelerating up the ramp. The two trajectories converge rapidly, compressing time to the limit and maximizing tension. 9-11s: [Last Second · Posture Change · Precise Entry] With only one second left before the sunroof, the protagonist instantly pulls in her outstretched arms and sharply changes from a horizontal gliding posture to a vertical upright posture. Her legs point straight down toward the open sunroof of the airborne purple AITO M7. The action is swift, decisive, and completely without hesitation. In the next instant, she drops vertically into the open sunroof and lands in the driver's seat at extremely high speed. No slow motion at any point; the impact is realistic and violent. 11-13s: [Four Wheels Landing · Maintaining Drive] The body of the car compresses slightly under the force of catching her. All four wheels slam back to the asphalt. The suspension violently absorbs the double impact. Immediately after landing, the engine roar rises further. Without slowing or stopping, all four tires scrape the asphalt, leaving new black marks, and continue driving at full speed. 13-15s: [Stable Inside Car · Energy Accumulation] The AITO M7 continues high-speed driving. The camera tracks close to the side from a low angle as blue-purple energy patterns spread from the four wheels across the body. The sound of mechanical transmission rises subtly from the underside and keeps strengthening. The body vibrates slightly during the high-speed run. The precursor energy of the coming transformation surges and churns beneath the paint. [Style and Quality Enhancement] Realistic 8K quality, ultra-fine mechanical details and energy-light textures, cinematic volumetric light and heat haze, perfect speed blur, HDR glow, no artifacts, full real-time speed, no slow motion.
-
-Chapter 3 (0-15 seconds): AITO M7 Transforms -> Becomes an F-14 -> Protagonist Stands on the Aircraft Back and Takes Off. Style: rugged realism, 35mm handheld film aesthetic, natural grain, subtle shake. Camera: multi-angle follow coverage including ground tracking, low angle close to the ground, aircraft side view, and protagonist first-person view, all following the aircraft tightly throughout the transformation. Transformation details must remain clearly visible. Atmosphere: light smoke and heat haze drift across the Chongqing road. Cyber blue-purple light refracts between buildings. Noon sunlight produces dazzling reflections and strong shadows across the metal surfaces. Sound effects: engine roar surges -> metal skin bursts and folds -> deep hydraulic tremor as the wings unfold -> metallic gripping sound as the protagonist climbs the exterior -> cockpit seal pops and is immediately drowned by wind noise -> explosive ignition of twin engines -> piercing shriek as the F-14 takes off and breaks the air -> powerful high-altitude wind overtakes the entire soundscape. [Visual Reference / Description] The purple AITO M7 completes a full transformation while driving on the Chongqing road, changing from a car into an F-14 fighter jet, as shown in Image 2. During the transformation, the protagonist clings to and climbs along the aircraft exterior in a dangerous and exposed position. She finally stands centered on the back of the F-14, legs slightly apart to stabilize her balance. Her white suit and ponytail whip violently in the extreme airflow. The F-14 takes off directly from the Chongqing road, and the protagonist remains standing firmly on its back. [Timeline per Second] 0-4s: [Road Acceleration · Transformation Start] The AITO M7 accelerates rapidly along the Chongqing road. Body panels burst open one after another and unfold. The hood rolls upward and becomes mechanical structure. The doors fold outward. The metal skin cracks along structural lines, revealing the cold mechanical interior. The protagonist climbs dangerously toward the top of the aircraft while gripping the transforming metal skeleton. She jumps and shifts position in sync with the aircraft's changing shape. The camera tracks every detail from close to the side of the aircraft. 4-6s: [Wings Unfold · Engines Fully Reassemble] The F-14's iconic swept wings snap open from the folded state and lock into place. The camera captures a low-angle near-ground full view of the wing deployment. Heat haze and dust are blasted up by the airflow from the wings. The twin engine nacelles violently reassemble into jet structures, emitting blue-purple thrust flames. The exhaust scorches the road surface. By now, the protagonist has climbed to the center of the aircraft's back, feet planted firmly, standing upright as the transformation completes. 6-8s: [Protagonist Stands on Aircraft Back · Takes Off] The instant the transformation completes, the protagonist stands fully upright on the back of the F-14. The hem of her white suit flies up in the strong airflow, and her ponytail extends horizontally. The silver mechanical parts reflect the noon sun intensely. The F-14's twin engines ignite at full power. The aircraft surges forward, the front wheel lifts, and the rear wheels leave the asphalt at the last possible moment. The nose pitches upward, carrying the protagonist into the Chongqing sky while she remains standing on its back. 8-15s: [Takeoff and Low City Skim · Protagonist Holds Position] The F-14 climbs vertically, then abruptly lowers its nose and skims over Chongqing at ultra-low altitude.
-```
-
-<!-- Case 26: Birthday Betrayal Restaurant Drama (by @Lighterkissan33) -->
-### Case 26: [Birthday Betrayal Restaurant Drama](https://x.com/Lighterkissan33/status/2045023927412637712) (by [@Lighterkissan33](https://x.com/Lighterkissan33))
-
-| Output |
-| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-25"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/KT84c2TqktCYBHye.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3853,29 +3880,13 @@ turns and leaves gracefully. The camera pulls back to show the best friend stand
 her boyfriend full of regret, ending with a low background music and whispers around them.
 ```
 
-<!-- Case 27: Japanese Classroom Whisper Romance (by @JiahaoYang_art) -->
-### Case 27: [Japanese Classroom Whisper Romance](https://x.com/JiahaoYang_art/status/2033119940216344616) (by [@JiahaoYang_art](https://x.com/JiahaoYang_art))
+<a id="general-cinematic-case-26"></a>
+<!-- Case 26: Ancient Parkour Costume-Change Sequence (by @Adam38363368936) -->
+### Case 26: [Ancient Parkour Costume-Change Sequence](https://x.com/Adam38363368936/status/2040980673851506798) (by [@Adam38363368936](https://x.com/Adam38363368936))
 
 | Output |
 | :----: |
-
-**Prompt:**
-
-```
-15-second cinematic Japanese drama pure love ambiguous short film, ultra-realistic quality, warm golden sunlight in an empty classroom in the afternoon, spilling through the blinds onto the side-by-side desks, fine dust motes slowly floating in the light beams, old wooden desks, extremely natural subtle movements, breathing, and eye tension, characters maintain consistent faces, clothing, and hairstyles throughout without deformation, drift, or artifacts, real slight chest rise and fall synchronized with breathing, shallow depth of field, creamy blurred background, warm film grain, 8K sharp, Japanese youth restrained heart-fluttering suffocating atmosphere.
-0-4 seconds: Extremely slow push-in shot from a medium shot of the desktop to a close-up of the two people's side profiles sitting side-by-side. A pure girl in a summer school uniform is focused on writing notes with her head down, long black hair and stray hairs by her ears are gently lifted by a slight breeze, long eyelashes cast subtle shadows, skin is naturally pink and tender, a slight, unintentional upturn of the corner of her mouth in concentration, light and even breathing.
-4-9 seconds: Switch to a close-up of the boy. His school uniform collar is slightly loose, he props his elbow on the desk and secretly turns his head to gaze at her, his eyes filled with gentle, restrained affection and tenderness, pupils slightly dilated, his Adam's apple gently rolls. Suddenly noticing her pen pause, he quickly and flusteredly turns his head to pretend to look at his own notes, his earlobes quickly turn slightly red, his fingertips tremble slightly as he grips the pen, occasionally glancing at her from under his bangs, his breathing is slightly disordered, and his lips are tightly pressed in an effort to remain calm.
-9-15 seconds: Extreme close-up of both faces in the same frame, slow-motion eyes suddenly meet: the girl slowly turns her head, first showing a dazed surprise, then quickly and shyly lowers her head for 0.3 seconds, gently biting her lower lip, her cheeks and earlobes instantly bloom with cherry blossom pink, her moist eyelashes timidly look up to meet his gaze again, while softly and shyly whispering, "...What are you looking at?"; the boy freezes completely, his pupils dilate, and he is stunned for 0.4 seconds, then flusteredly and quietly stutters in response, "N-nothing...". The girl whispers even quieter, biting her lip and peeking at him again, continuing to whisper, "...Liar.". The boy pauses, then gently sighs and whispers, "...Just looking at you.", the corner of his mouth slowly curls up into a shy, gentle, crooked smile, fine lines appear at the corners of his eyes, and his breathing noticeably deepens. An invisible current seems to pull the ambiguous tension between their faces, sharing each other's breathing temperature, the background completely melts into layers of creamy, dreamy light spots, warm halos, and fine air particles.
-Lip synchronization is natural and precise, emotional micro-tremors and breathing are synchronized, dialogue is low-energy whispering with a shy tone, natural short pauses between 200-400 milliseconds, the mouth only moves slightly when speaking, without exaggeration or robotic feel, perfect natural lip-sync and emotional authenticity.
-Overall Sound Effects: Distant summer cicada chirping faintly, the soft scratching sound of the pen touching the paper, the almost inaudible low-frequency pulse of their heartbeats, finally fading into a very light, airy piano. The dialogue is completely naturally integrated into the scene as whispers, the girl's voice is soft and shy, the boy transitions from flustered stuttering to gentle.
-Character identity is maintained throughout, real subtle head tilts, eye movements, and breathing synchronization, no text, watermarks, or subtitles, pure Japanese style youth secret crush heart-fluttering suspense.
-```
-
-<!-- Case 28: Ancient Parkour Costume-Change Sequence (by @Adam38363368936) -->
-### Case 28: [Ancient Parkour Costume-Change Sequence](https://x.com/Adam38363368936/status/2040980673851506798) (by [@Adam38363368936](https://x.com/Adam38363368936))
-
-| Output |
-| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-26"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2040980673851506798.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3890,11 +3901,13 @@ Seedance2.0提示词
 质感：ARRI胶片质感，物理风阻逻辑，极致市井烟火气，路人反应真实，暴力跑酷美学。
 ```
 
-<!-- Case 29: Engine Internals — Piston Mechanical Detail (by @YaReYaRu30Life) -->
-### Case 29: [Engine Internals — Piston Mechanical Detail](https://x.com/YaReYaRu30Life/status/2041068828457877598) (by [@YaReYaRu30Life](https://x.com/YaReYaRu30Life))
+<a id="general-cinematic-case-27"></a>
+<!-- Case 27: Engine Internals — Piston Mechanical Detail (by @YaReYaRu30Life) -->
+### Case 27: [Engine Internals — Piston Mechanical Detail](https://x.com/YaReYaRu30Life/status/2041068828457877598) (by [@YaReYaRu30Life](https://x.com/YaReYaRu30Life))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-27"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041068828457877598.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3913,11 +3926,13 @@ Seedance2.0提示词
 いうものを検索すると何かとそれっぽくしてしまう可能性あり
 ```
 
-<!-- Case 30: 90s Japanese Romance Sim — Cel Animation Style (by @kinopioai_ai) -->
-### Case 30: [90s Japanese Romance Sim — Cel Animation Style](https://x.com/kinopioai_ai/status/2040814307487916415) (by [@kinopioai_ai](https://x.com/kinopioai_ai))
+<a id="general-cinematic-case-28"></a>
+<!-- Case 28: 90s Japanese Romance Sim — Cel Animation Style (by @kinopioai_ai) -->
+### Case 28: [90s Japanese Romance Sim — Cel Animation Style](https://x.com/kinopioai_ai/status/2040814307487916415) (by [@kinopioai_ai](https://x.com/kinopioai_ai))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-28"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2040814307487916415.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3943,11 +3958,13 @@ Seedance2.0提示词
 4K, Ultra HD, no deformation, natural smooth movements, stable picture, no flickering, no ghosting, sharp details. Generate video without subtitles.
 ```
 
-<!-- Case 31: Cinematic Directing Techniques — Multi-Shot Prompt (by @noman23761) -->
-### Case 31: [Cinematic Directing Techniques — Multi-Shot Prompt](https://x.com/noman23761/status/2041409914954973216) (by [@noman23761](https://x.com/noman23761))
+<a id="general-cinematic-case-29"></a>
+<!-- Case 29: Cinematic Directing Techniques — Multi-Shot Prompt (by @noman23761) -->
+### Case 29: [Cinematic Directing Techniques — Multi-Shot Prompt](https://x.com/noman23761/status/2041409914954973216) (by [@noman23761](https://x.com/noman23761))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-29"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041409914954973216.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3978,11 +3995,13 @@ Seedance doesn’t infer speed.
 You have to explicitly define energy levels
 ```
 
-<!-- Case 32: East Asian Woman Portrait — Natural Smile (by @noman23761) -->
-### Case 32: [East Asian Woman Portrait — Natural Smile](https://x.com/noman23761/status/2041408928215408931) (by [@noman23761](https://x.com/noman23761))
+<a id="general-cinematic-case-30"></a>
+<!-- Case 30: East Asian Woman Portrait — Natural Smile (by @noman23761) -->
+### Case 30: [East Asian Woman Portrait — Natural Smile](https://x.com/noman23761/status/2041408928215408931) (by [@noman23761](https://x.com/noman23761))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-30"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041408928215408931.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -3998,11 +4017,13 @@ the chaos doesn’t feel dominant anymore — it feels irrelevant.
 Same structure, completely different feeling.
 ```
 
-<!-- Case 33: Post-Apocalyptic Survival — Cinematic Setup (by @noman23761) -->
-### Case 33: [Post-Apocalyptic Survival — Cinematic Setup](https://x.com/noman23761/status/2041405260762419692) (by [@noman23761](https://x.com/noman23761))
+<a id="general-cinematic-case-31"></a>
+<!-- Case 31: Post-Apocalyptic Survival — Cinematic Setup (by @noman23761) -->
+### Case 31: [Post-Apocalyptic Survival — Cinematic Setup](https://x.com/noman23761/status/2041405260762419692) (by [@noman23761](https://x.com/noman23761))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-31"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041405260762419692.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -4010,11 +4031,13 @@ Same structure, completely different feeling.
 "[CINEMATIC SETUP] Genre & Mood: Gritty Post-Apocalyptic Survival. Tense, visceral, and hyper-realistic. Film Stock & Lens: Shot on 35mm anamorphic lens, f/2.8 for shallow depth of field. Teal-orange desaturated color grade with earthy, dusty undertones. Lighting & Atmosphere: Dramatic volumetric Golden Hour light with heavy dust motes and heat haze. Character Description: An athletic woman in her late 20s, wearing weathered tactical leather armor and dirt-smudged skin. Her hair is wind-blown and messy; her expression is one of intense, lethal focus. Audio Style: Immersive spatial sound design. Detailed SFX of bowstring tension, rhythmic heavy breathing, wind howling through the canyon, and a high-velocity "thwack" on impact. [TIMELINE SECOND BY SECOND] 0-3s: [Extreme Close-up (ECU)] High-angle shot of the woman's face as she aims a mechanical compound bow. The bowstring is pulled taut against her cheek. Movie-level realistic facial features, no deformation, stable throughout. 3-4s: [Macro Cut] Extreme close-up of her iris. The pupil dilates sharply as she locks onto her target. Realistic light reflections in the eye. 4-8s: [Over-the-shoulder (OTS) Shot] The camera sits behind her shoulder on a jagged cliff edge. In the valley below, a herd of mutated, post-apocalyptic Cape Buffalo with thickened grey hide and jagged horns graze peacefully. Smooth camera push-in. 8-10s: [The Release & POV] She releases the arrow. Fast Tracking POV shot following the arrowhead at maximum veloc
 ```
 
-<!-- Case 34: Pixar Forest Clearing — 3D Animated Scene (by @SPEEDAI07) -->
-### Case 34: [Pixar Forest Clearing — 3D Animated Scene](https://x.com/SPEEDAI07/status/2041393724622795014) (by [@SPEEDAI07](https://x.com/SPEEDAI07))
+<a id="general-cinematic-case-32"></a>
+<!-- Case 32: Pixar Forest Clearing — 3D Animated Scene (by @SPEEDAI07) -->
+### Case 32: [Pixar Forest Clearing — 3D Animated Scene](https://x.com/SPEEDAI07/status/2041393724622795014) (by [@SPEEDAI07](https://x.com/SPEEDAI07))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-32"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041393724622795014.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -4024,11 +4047,13 @@ Seedance 2.0 Prompt
 Pixar 3D animated forest clearing. Sunny day, god rays through trees, green grass, flowers. CHARACTERS: - Giant armored wolf: black fur, gold sword, yellow eyes, furious and humiliated, attacks with full rage - Tiny rooster: red comb, completely unbothered, bored expression, deflects everything with casual wing flaps SEQUENCE: 0-3s — Wolf roars, raises sword overhead, brings it down with full force. Rooster glances up, sighs, flicks one wing — sword deflects sideways. Sparks fly. Wolf stumbles forward from own momentum. Rooster examines wing casually, unbothered. 3-6s — Wolf swings horizontal slash. Rooster ducks under it yawning, taps sword away with wingtip. Wolf spins, overhead strike — rooster sidesteps one inch, sword hits ground, shockwave crater. Rooster hasn't changed expression once. 6-9s — Wolf goes berserk — rapid five-hit combo, sword blur. Rooster deflects each strike with alternating wings — tap, tap, tap, tap, tap. Casual rhythm like swatting flies. Last strike — rooster catches blade between two feathers. Stops it cold. Wolf strains, shaking. Can't move it. 9-12s — Rooster releases blade, wolf stumbles backward. Wolf charges with shoulder slam — rooster steps aside, wolf face plants into grass. Wolf up instantly, wild overhead — rooster flicks it away with tail feather. Sword spins out of wolf's grip, lands in tree trunk. 12-15s — Wolf stares at empty hands. Rooster turns, walks away slowly, doesn't look back. Scratches ground with one cla
 ```
 
-<!-- Case 35: Kitten Sneaking Snacks Under Covers (by @lynneatyoumind) -->
-### Case 35: [Kitten Sneaking Snacks Under Covers](https://x.com/lynneatyoumind/status/2041334660173852807) (by [@lynneatyoumind](https://x.com/lynneatyoumind))
+<a id="general-cinematic-case-33"></a>
+<!-- Case 33: Kitten Sneaking Snacks Under Covers (by @lynneatyoumind) -->
+### Case 33: [Kitten Sneaking Snacks Under Covers](https://x.com/lynneatyoumind/status/2041334660173852807) (by [@lynneatyoumind](https://x.com/lynneatyoumind))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-33"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041334660173852807.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -4036,11 +4061,13 @@ Pixar 3D animated forest clearing. Sunny day, god rays through trees, green gras
 prompt: A cute kitten secretly eating snacks under the covers in bed at night. Hears footsteps, panics, hides the snacks, and fakes sleep with soft purring. Owner opens the door, peeks in, then leaves. Coast clear — the kitten pulls the snacks back out and keeps munching. Dark cozy bedroom, moonlight, cinematic lighting, smooth animation.
 ```
 
-<!-- Case 36: Seedance 2.0 T2V Natural Speech Test (by @tanabe_fragm) -->
-### Case 36: [Seedance 2.0 T2V Natural Speech Test](https://x.com/tanabe_fragm/status/2041328307267088580) (by [@tanabe_fragm](https://x.com/tanabe_fragm))
+<a id="general-cinematic-case-34"></a>
+<!-- Case 34: Seedance 2.0 T2V Natural Speech Test (by @tanabe_fragm) -->
+### Case 34: [Seedance 2.0 T2V Natural Speech Test](https://x.com/tanabe_fragm/status/2041328307267088580) (by [@tanabe_fragm](https://x.com/tanabe_fragm))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-34"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041328307267088580.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -4055,11 +4082,13 @@ Seedance 2.0はとにかくプロンプト依存が強いモデルですね📝
 可愛らしいふっくらとした赤いトマトのキャラクターが、カメラに向かって直接話しかけている。完璧なリップシンクで「みんな、僕たちトマトを冷蔵庫に入れてない？実はそれ、NGなんだ！寒さで甘みが飛んじゃうから、常温で保存してね！食べる直前に少し冷やすのが一番美味しいよ！」と元気な声で喋っている。言葉のテンポに合わせて少し弾むような動きをする。ピクサー風の高品質な3Dアニメーションスタイル。背景は少しぼけたキッチン。
 ```
 
-<!-- Case 37: Paper Puppet Horror Animation (by @TomaAIbijo) -->
-### Case 37: [Paper Puppet Horror Animation](https://x.com/TomaAIbijo/status/2041409381162689021) (by [@TomaAIbijo](https://x.com/TomaAIbijo))
+<a id="general-cinematic-case-35"></a>
+<!-- Case 35: Paper Puppet Horror Animation (by @TomaAIbijo) -->
+### Case 35: [Paper Puppet Horror Animation](https://x.com/TomaAIbijo/status/2041409381162689021) (by [@TomaAIbijo](https://x.com/TomaAIbijo))
 
 | Output |
 | :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-35"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041409381162689021.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
 **Prompt:**
 
@@ -4105,32 +4134,39 @@ The figure suddenly fills the frame from behind the camera. Whisper: “Tsugi wa
 Audio: low eerie hum, distant wind, wooden kam
 ```
 
-## 🙏 Acknowledge
+<a id="related-repositories"></a>
+## 🔗 Связанные репозитории
 
-This repository was inspired by excellent open prompt collections and community-shared Seedance 2.0 experiments.
+Для запуска используйте связанную поверхность API/skill; этот репозиторий остается каталогом промптов.
 
-Thanks to the creators and contributors who shared their work publicly and made this case collection possible. The prompt sources are preserved with attribution links on every entry.
+- [Открыть примеры API Seedance 2.0](https://github.com/Evolink-AI/Seedance-2.0-Gateway-Service)
+- [Установить skill Seedance 2.0](https://github.com/Evolink-AI/Seedance-2.0-Gateway-Service)
+- [Открыть документацию API EvoLink](https://docs.evolink.ai?utm_source=github&utm_medium=docs&utm_campaign=awesome-seedance-2.0-prompts&utm_content=docs_link)
+
+<a id="contributing"></a>
+## 🤝 Участие
+
+Перед предложением промпта прочитайте [CONTRIBUTING.md](CONTRIBUTING.md).
+
+<a id="license"></a>
+## ⚖️ Лицензия
+
+Код обслуживания и документация доступны по [Apache License 2.0](LICENSE). Права на исходные промпты и медиа остаются у их авторов.
+
+<a id="copyright-notice"></a>
+## ©️ Уведомление об авторских правах
+
+Репозиторий собирает публичные промпты Seedance 2.0 для обучения, исследований и справочных рабочих процессов.
+
+<a id="acknowledge"></a>
+## 🙏 Благодарности
+
+Спасибо авторам, публично поделившимся экспериментами Seedance 2.0.
 
 [@liyue_ai](https://x.com/liyue_ai), [@TingFengAIAI](https://x.com/TingFengAIAI), [@anson7956](https://x.com/anson7956), [@genel_ai](https://x.com/genel_ai), [@Adam38363368936](https://x.com/Adam38363368936), [@Just_sharon7](https://x.com/Just_sharon7), [@BarlowHakusyaku](https://x.com/BarlowHakusyaku), [@ShadeLurk](https://x.com/ShadeLurk), [@ZaraIrahh](https://x.com/ZaraIrahh), [@drjoetw](https://x.com/drjoetw), [@johnAGI168](https://x.com/johnAGI168), [@tea_story_hoshi](https://x.com/tea_story_hoshi), [@MiraMusic_AI](https://x.com/MiraMusic_AI), [@aigeboku](https://x.com/aigeboku), [@applete77191758](https://x.com/applete77191758), [@mikeymansta](https://x.com/mikeymansta), [@CharaspowerAI](https://x.com/CharaspowerAI), [@TechTalkNAVI](https://x.com/TechTalkNAVI), [@Viafin23](https://x.com/Viafin23), [@songguoxiansen](https://x.com/songguoxiansen), [@JiahaoYang_art](https://x.com/JiahaoYang_art), [@techhalla](https://x.com/techhalla), [@craftian_keskin](https://x.com/craftian_keskin), [@AITalesNBH](https://x.com/AITalesNBH), [@nopinduoduo](https://x.com/nopinduoduo), [@gkxspace](https://x.com/gkxspace), [@ChiakiAkagi](https://x.com/ChiakiAkagi), [@xingsthatmatter](https://x.com/xingsthatmatter), [@tebasaki3D](https://x.com/tebasaki3D), [@starks_arq](https://x.com/starks_arq), [@simple__dev](https://x.com/simple__dev), [@sebatheepan](https://x.com/sebatheepan), [@sailorv321](https://x.com/sailorv321), [@roco_kn_roco](https://x.com/roco_kn_roco), [@maxescu](https://x.com/maxescu), [@kuranoayashi](https://x.com/kuranoayashi), [@itsPixieVerse](https://x.com/itsPixieVerse), [@chaosdotjpg](https://x.com/chaosdotjpg), [@aisavvy1](https://x.com/aisavvy1), [@aimikoda](https://x.com/aimikoda), [@aiehon_aya](https://x.com/aiehon_aya), [@adrianaia_](https://x.com/adrianaia_), [@_3912657840](https://x.com/_3912657840), [@ZikinArt](https://x.com/ZikinArt), [@YaReYaRu30Life](https://x.com/YaReYaRu30Life), [@ShamiWeb3](https://x.com/ShamiWeb3), [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN), [@Rufus87078959](https://x.com/Rufus87078959), [@Mayz1169](https://x.com/Mayz1169), [@LudovicCreator](https://x.com/LudovicCreator), [@IamEmily2050](https://x.com/IamEmily2050), [@Gwsubsa](https://x.com/Gwsubsa), [@Dheepanratnam](https://x.com/Dheepanratnam), [@David_eficaz](https://x.com/David_eficaz), [@ChrisTheNerv](https://x.com/ChrisTheNerv), [@Artedeingenio](https://x.com/Artedeingenio), [@Alin_Reaper05](https://x.com/Alin_Reaper05), [@AIARTGALLARY](https://x.com/AIARTGALLARY), [@0xbisc](https://x.com/0xbisc), [@zasuko_michiksa](https://x.com/zasuko_michiksa), [@naoyuki_okada](https://x.com/naoyuki_okada), [@john87445528](https://x.com/john87445528), [@cdexsta](https://x.com/cdexsta), [@NimEshed](https://x.com/NimEshed), [@ImperfectEngel](https://web.archive.org/web/*/https://x.com/ImperfectEngel), [@BrennanErbz](https://x.com/BrennanErbz), [@AskVenice](https://x.com/AskVenice), [@AngelNwoha](https://x.com/AngelNwoha), [@umitsuru_fire](https://x.com/umitsuru_fire), [@Yuupapa_free](https://x.com/Yuupapa_free), [@ChrisGwinnLA](https://x.com/ChrisGwinnLA), [@vladimircherner](https://x.com/vladimircherner), [@patchworkfilmuk](https://x.com/patchworkfilmuk), [@sravs_AI_labs](https://x.com/sravs_AI_labs), [@iX00AI](https://x.com/iX00AI), [@ivanka_humeniuk](https://x.com/ivanka_humeniuk), [@crayon1267](https://x.com/crayon1267), [@pan_soramame_da](https://x.com/pan_soramame_da), [@kinopioai_ai](https://x.com/kinopioai_ai), [@a_shimanski](https://x.com/a_shimanski), [@noman23761](https://x.com/noman23761), [@SPEEDAI07](https://x.com/SPEEDAI07), [@lynneatyoumind](https://x.com/lynneatyoumind), [@EHuanglu](https://x.com/EHuanglu), [@tanabe_fragm](https://x.com/tanabe_fragm), [@Reiria123](https://x.com/Reiria123), [@TomaAIbijo](https://x.com/TomaAIbijo)
 
-*We cannot guarantee that every case is attributed to the original creator. If anything needs to be corrected, please contact us and we will update it.*
+*Для исправления атрибуции, лицензии или удаления откройте issue со ссылкой на источник.*
 
-If you have more interesting Seedance 2.0 prompts to share, feel free to reach out and help us expand the Evolink prompt library.
+[Поделитесь другим промптом Seedance 2.0 с источником через процесс участия.](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=footer&utm_campaign=awesome-seedance-2.0-prompts&utm_content=footer_cta)
 
-## Contributing
-
-Please read [`CONTRIBUTING.md`](./CONTRIBUTING.md) before adding or cleaning prompts. The key rule is simple: keep actionable prompts, remove surrounding social noise, and keep README metadata synchronized with the cleaned dataset.
-
-## License
-
-A final open-source license file has not been added yet. Until that is decided, treat this repository as a curated reference collection with original source attribution preserved per entry.
-
-## Copyright Notice
-
-This repository curates Seedance 2.0 prompt examples from public web sources.
-
-- The prompt sources are preserved with attribution links where available.
-- This repository is intended for learning, prompt research, and workflow reference.
-- Copyright for the original prompt text remains with the original authors.
-
-- If any entry should be updated or removed, open an issue or submit a pull request with the relevant source link.
+[![Star History Chart](https://api.star-history.com/svg?repos=Evolink-AI/awesome-seedance-2.0-prompts&type=Date)](https://www.star-history.com/#Evolink-AI/awesome-seedance-2.0-prompts&Date)

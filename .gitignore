@@ -5,4 +5,5 @@ result/
 seedance-prompt-update/
 seedance_2_prompt.json
 .env
+.codex/
 *.mp4

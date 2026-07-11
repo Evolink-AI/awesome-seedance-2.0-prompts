@@ -1,0 +1,29 @@
+name: Problem report
+description: Report a broken link, attribution issue, missing preview, or repository inconsistency.
+title: "[Problem]: "
+labels: [bug]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Problem type
+      options:
+        - Broken source or author link
+        - Attribution or removal request
+        - Missing or incorrect preview
+        - Menu or localization mismatch
+        - Other documentation issue
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: README language and case URL or anchor
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Evidence and expected correction
+    validations:
+      required: true
