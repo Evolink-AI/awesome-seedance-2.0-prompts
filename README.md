@@ -32,7 +32,7 @@ Prompts are curated from public creator posts and preserved as reusable source m
 [Try Seedance 2.0 prompts on EvoLink](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts&utm_content=introduction_cta)
 
 > [!NOTE]
-> Prompt blocks remain byte-identical across languages. Source-derived case titles may preserve their original wording when translation would blur the prompt boundary.
+> Prompt blocks remain byte-identical across languages, while visible case titles and interface labels are reviewed translations for each locale.
 
 <a id="quick-start"></a>
 ## 🚀 Quick Start
@@ -4149,5 +4149,3 @@ Thanks to the creators who shared these Seedance 2.0 experiments publicly and ma
 *If attribution, licensing, or removal information needs correction, open an issue with the relevant source URL and we will review it promptly.*
 
 [Share another source-backed Seedance 2.0 prompt through the contribution workflow.](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=footer&utm_campaign=awesome-seedance-2.0-prompts&utm_content=footer_cta)
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Evolink-AI/awesome-seedance-2.0-prompts&type=Date)](https://www.star-history.com/#Evolink-AI/awesome-seedance-2.0-prompts&Date)

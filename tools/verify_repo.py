@@ -6,6 +6,7 @@ from urllib.parse import parse_qs, urlparse
 import hashlib
 import json
 import re
+import subprocess
 import sys
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -16,8 +17,8 @@ READMES = [
 ]
 R2_PREFIX = 'https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/'
 CAMPAIGN = 'awesome-seedance-2.0-prompts'
-CASE_RE = re.compile(r'^### Case (\d+): \[([^]]+)\]\(([^)]+)\) \(by \[@([^]]+)\]\(([^)]+)\)\)', re.M)
-PROMPT_RE = re.compile(r'(?ms)\*\*Prompt:\*\*\n\n```\n(.*?)\n```')
+CASE_RE = re.compile(r'^### [^:\n]+? (\d+): \[([^]]+)\]\(([^)]+)\) \([^()\n]+? \[@([^]]+)\]\(([^)]+)\)\)', re.M)
+PROMPT_RE = re.compile(r'^```[^\n]*\n(.*?)\n```$', re.M | re.S)
 BANNER_IMAGE_RE = re.compile(r'<img src="([^"]+)" width="900"')
 CASE_IMAGE_RE = re.compile(r'<img src="([^"]+)" width="300"')
 HTTP_RE = re.compile(r'https?://[^\s)>"]+')
@@ -48,7 +49,7 @@ def main() -> int:
         banners = BANNER_IMAGE_RE.findall(text)
         images = CASE_IMAGE_RE.findall(text)
         anchors = re.findall(r'<a id="([a-z0-9-]+-case-\d+)"></a>', text)
-        menu_links = re.findall(r'^  - \[Case \d+: .*?\]\(#([a-z0-9-]+-case-\d+)\)$', text, re.M)
+        menu_links = re.findall(r'^  - \[.*?\]\(#([a-z0-9-]+-case-\d+)\)$', text, re.M)
 
         check(len(cases) == 155, f'{name}: expected 155 cases, got {len(cases)}')
         check(len(set(sources)) == 155, f'{name}: sources are not unique')
@@ -58,7 +59,7 @@ def main() -> int:
         check(len(images) == 155, f'{name}: expected 155 case images, got {len(images)}')
         check(all(url.startswith(R2_PREFIX) for url in images), f'{name}: non-R2 case media found')
         check(len(anchors) == 155 and anchors == menu_links, f'{name}: Menu/case anchor mismatch')
-        check('| Output |\n| :----: |\n\n**Prompt:**' not in text, f'{name}: empty output table found')
+        check(not re.search(r'\| [^|\n]+ \|\n\| :----: \|\n\n\*\*[^*]+:\*\*', text), f'{name}: empty output table found')
         check('Seedance 2.5' not in text and 'awesome-seedance-2.5-prompts' not in text, f'{name}: Seedance 2.5 drift found')
         check('CC BY 4.0' not in text and 'final open-source license file has not been added' not in text, f'{name}: license drift found')
         check('./public/seedance_2_prompt_images/' not in text, f'{name}: local public media reference found')
@@ -66,7 +67,6 @@ def main() -> int:
         if name != 'README.md':
             check(') or [' not in text, f'{name}: English Quick Start connector leaked into localized copy')
         check(text.find('<img src=') < text.find('## 🍌'), f'{name}: banner must be before Introduction')
-        check(text.rstrip().endswith('&Date)'), f'{name}: Star History must be the final element')
         check(text.rfind('## 🙏') > text.rfind('### Case '), f'{name}: Acknowledge must follow all cases')
         for anchor in ['introduction','quick-start','statistics','how-to-use','menu','related-repositories','contributing','license','copyright-notice','acknowledge']:
             check(f'<a id="{anchor}"></a>' in text, f'{name}: missing section anchor {anchor}')
@@ -108,6 +108,13 @@ def main() -> int:
     ]
     for rel in required:
         check((ROOT / rel).is_file(), f'missing required file: {rel}')
+
+    for script, label in [
+        ('tools/verify_localization.py', 'semantic localization gate'),
+        ('tools/verify_star_history.py', 'Star History visibility gate'),
+    ]:
+        result = subprocess.run([sys.executable, str(ROOT / script)], cwd=ROOT, capture_output=True, text=True)
+        check(result.returncode == 0, f'{label} failed:\n{result.stdout}{result.stderr}')
     return finish()
 
 def finish() -> int:

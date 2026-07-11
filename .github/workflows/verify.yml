@@ -18,3 +18,5 @@ jobs:
           python-version: '3.12'
       - name: Verify prompt repository contract
         run: python3 tools/verify_repo.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

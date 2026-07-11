@@ -1,10 +1,10 @@
 <div align="center">
 
-<a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.0-prompts&utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/banner/seedance-2-prompts-banner-893ce3ae.png" width="900" alt="Awesome Seedance 2 prompts banner powered by EvoLink"></a>
+<a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2.0-prompts&utm_content=readme_banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/banner/seedance-2-prompts-banner-893ce3ae.png" width="900" alt="Bannière de prompts Seedance 2 d’EvoLink"></a>
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
-[![Try Seedance 2.0 on EvoLink](https://img.shields.io/badge/Try_Seedance_2.0_on-EvoLink-black)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts&utm_content=top_badge)
-[![Prompts](https://img.shields.io/badge/Prompts-155_Unique_Cases-111111)](README.md)
+[![Utiliser Seedance 2.0 sur EvoLink](https://img.shields.io/badge/Utiliser_Seedance_2.0_sur_EvoLink-EvoLink-black)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts&utm_content=top_badge)
+[![Prompts-155 cas uniques](https://img.shields.io/badge/Prompts-155_cas_uniques-111111)](README.md)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -32,7 +32,7 @@ Les prompts sont sélectionnés à partir de publications publiques de créateur
 [Essayer les prompts Seedance 2.0 sur EvoLink](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2.0-prompts&utm_content=introduction_cta)
 
 > [!NOTE]
-> Les blocs de prompt restent identiques dans toutes les langues. Les titres issus des sources peuvent garder leur formulation originale afin de préserver la limite du prompt.
+> Les blocs de prompt restent identiques dans toutes les langues, tandis que les titres visibles et les libellés d’interface sont des traductions vérifiées pour chaque langue.
 
 <a id="quick-start"></a>
 ## 🚀 Démarrage rapide
@@ -61,168 +61,168 @@ Choisissez une catégorie, ouvrez un cas sourcé, copiez son prompt et remplacez
 - [Comment utiliser ce dépôt](#how-to-use)
 - [Menu](#menu)
 - [⚔️ Action / Fantaisie](#action-fantasy) (30)
-  - [Case 1: Prompt 23 (by @songguoxiansen)](#action-fantasy-case-1)
-  - [Case 2: Black Cat Desert Martial-Arts Duel (by @nopinduoduo)](#action-fantasy-case-2)
-  - [Case 3: 【Core Focus】 (by @johnAGI168)](#action-fantasy-case-3)
-  - [Case 4: Anime high-speed cut test — 20 hard cuts in 10 seconds (0 (by @tebasaki3D)](#action-fantasy-case-4)
-  - [Case 5: Watch a grease-stained mechanic fix (by @sebatheepan)](#action-fantasy-case-5)
-  - [Case 6: Prompt 45 (by @sailorv321)](#action-fantasy-case-6)
-  - [Case 7: Prompt 50 (by @johnAGI168)](#action-fantasy-case-7)
-  - [Case 8: Dialogue (Overlapping) (by @drjoetw)](#action-fantasy-case-8)
-  - [Case 9: Giant Ninja Tokusatsu Battle (by @EarthGigantea)](#action-fantasy-case-9)
-  - [Case 10: Japanese anime (by @_3912657840)](#action-fantasy-case-10)
-  - [Case 11: 15-Second Original Elemental Battle Short Film (by @ZikinArt)](#action-fantasy-case-11)
-  - [Case 12: Faberge Fantasy Egg Animation (by @ShamiWeb3)](#action-fantasy-case-12)
-  - [Case 13: Prompt 77 (by @David_eficaz)](#action-fantasy-case-13)
-  - [Case 14: Prompt 79 (by @CharaspowerAI)](#action-fantasy-case-14)
-  - [Case 15: 15-second continuous single-shot action sequence (by @Artedeingenio)](#action-fantasy-case-15)
-  - [Case 16: Prompt 82 (by @Alin_Reaper05)](#action-fantasy-case-16)
-  - [Case 17: Prompt 88 (by @sebatheepan)](#action-fantasy-case-17)
-  - [Case 18: Zero-G Mech Scramble Sequence (by @Dheepanratnam)](#action-fantasy-case-18)
-  - [Case 19: A super high-speed flight action scene of a girl riding a dragon (by @naoyuki_okada)](#action-fantasy-case-19)
-  - [Case 20: 15-Second Original Desert Martial Arts Short Film (by @NimEshed)](#action-fantasy-case-20)
-  - [Case 21: Canyon Airstrike Sequence (by @Mr_TuanDoan)](#action-fantasy-case-21)
-  - [Case 22: A 15-second hyper-realistic epic war blockbuster (by @john87445528)](#action-fantasy-case-22)
-  - [Case 23: Office Coffee Break Gone Wrongshot 1 (by @Dheepanratnam)](#action-fantasy-case-23)
-  - [Case 24: 15-second continuous single-shot action sequence (by @Artedeingenio)](#action-fantasy-case-24)
-  - [Case 25: Black Swan vs Boxer (by @KanaWorks_AI)](#action-fantasy-case-25)
-  - [Case 26: Ground Crack Superman Launch (by @techprophett)](#action-fantasy-case-26)
-  - [Case 27: Cloud Cave Sword Shadow (by @Adam38363368936)](#action-fantasy-case-27)
-  - [Case 28: City of Gods — One-Take Oriental Fantasy Flight (by @john87445528)](#action-fantasy-case-28)
-  - [Case 29: Epic Fantasy Battle — Cinematic 10-Second Sequence (by @a_shimanski)](#action-fantasy-case-29)
-  - [Case 30: Dark Fantasy Transformation — Eastern Style (by @johnAGI168)](#action-fantasy-case-30)
+  - [Cas 1: Performance de rap de rue en clip musical (par @songguoxiansen)](#action-fantasy-case-1)
+  - [Cas 2: Duel d’arts martiaux du chat noir dans le désert (par @nopinduoduo)](#action-fantasy-case-2)
+  - [Cas 3: Duel de techniques de respiration en prise de vues réelles (par @johnAGI168)](#action-fantasy-case-3)
+  - [Cas 4: Séquence d’anime ultrarapide en 20 plans (par @tebasaki3D)](#action-fantasy-case-4)
+  - [Cas 5: Regardez un mécanicien couvert de cambouis effectuer une réparation (par @sebatheepan)](#action-fantasy-case-5)
+  - [Cas 6: Court métrage de vengeance samouraï (par @sailorv321)](#action-fantasy-case-6)
+  - [Cas 7: Animation de combat 3D stylisée (par @johnAGI168)](#action-fantasy-case-7)
+  - [Cas 8: Courte parodie comique au rythme effréné (par @drjoetw)](#action-fantasy-case-8)
+  - [Cas 9: Combat tokusatsu de ninjas géants (par @EarthGigantea)](#action-fantasy-case-9)
+  - [Cas 10: Séquence de dialogue d’anime japonais (par @_3912657840)](#action-fantasy-case-10)
+  - [Cas 11: Court métrage original de bataille élémentaire de 15 secondes (par @ZikinArt)](#action-fantasy-case-11)
+  - [Cas 12: Animation d’œuf fantastique façon Fabergé (par @ShamiWeb3)](#action-fantasy-case-12)
+  - [Cas 13: Court métrage original de bataille élémentaire (par @David_eficaz)](#action-fantasy-case-13)
+  - [Cas 14: Duel cinématographique de science-fiction et de fantasy (par @CharaspowerAI)](#action-fantasy-case-14)
+  - [Cas 15: Séquence d’action continue en plan-séquence de 15 secondes (par @Artedeingenio)](#action-fantasy-case-15)
+  - [Cas 16: Samouraï solitaire face au précipice (par @Alin_Reaper05)](#action-fantasy-case-16)
+  - [Cas 17: Piqué aérien du dragon renégat (par @sebatheepan)](#action-fantasy-case-17)
+  - [Cas 18: Mêlée autour d’un mécha en apesanteur (par @Dheepanratnam)](#action-fantasy-case-18)
+  - [Cas 19: Scène de vol ultrarapide d’une fille chevauchant un dragon (par @naoyuki_okada)](#action-fantasy-case-19)
+  - [Cas 20: Court métrage original d’arts martiaux dans le désert de 15 secondes (par @NimEshed)](#action-fantasy-case-20)
+  - [Cas 21: Séquence de frappe aérienne dans un canyon (par @Mr_TuanDoan)](#action-fantasy-case-21)
+  - [Cas 22: Superproduction de guerre épique hyperréaliste de 15 secondes (par @john87445528)](#action-fantasy-case-22)
+  - [Cas 23: La pause-café au bureau tourne mal (par @Dheepanratnam)](#action-fantasy-case-23)
+  - [Cas 24: Séquence d’action continue en plan-séquence de 15 secondes (par @Artedeingenio)](#action-fantasy-case-24)
+  - [Cas 25: Cygne noir contre boxeur (par @KanaWorks_AI)](#action-fantasy-case-25)
+  - [Cas 26: Décollage de Superman sur un sol qui se fissure (par @techprophett)](#action-fantasy-case-26)
+  - [Cas 27: Ombre d’épée dans la grotte des nuages (par @Adam38363368936)](#action-fantasy-case-27)
+  - [Cas 28: Cité des dieux — vol de fantasy orientale en une seule prise (par @john87445528)](#action-fantasy-case-28)
+  - [Cas 29: Bataille de fantasy épique — séquence cinématographique de 10 secondes (par @a_shimanski)](#action-fantasy-case-29)
+  - [Cas 30: Transformation de dark fantasy au style oriental (par @johnAGI168)](#action-fantasy-case-30)
 - [🎞️ Réalisme cinématographique](#cinematic-realism) (3)
-  - [Case 1: Modern Japan (by @kuranoayashi)](#cinematic-realism-case-1)
-  - [Case 2: Prompt 76 (by @Dheepanratnam)](#cinematic-realism-case-2)
-  - [Case 3: Meteor Awakening War Heroine (by @ChrisTheNerv)](#cinematic-realism-case-3)
+  - [Cas 1: Séquence documentaire sur le Japon moderne (par @kuranoayashi)](#cinematic-realism-case-1)
+  - [Cas 2: Descente en longboard à la poursuite d’une ombre (par @Dheepanratnam)](#cinematic-realism-case-2)
+  - [Cas 3: Héroïne de guerre réveillée par un météore (par @ChrisTheNerv)](#cinematic-realism-case-3)
 - [🥽 POV / FPV](#pov-fpv) (18)
-  - [Case 1: Chest-Mounted Camouflage Chase Sequence (by @genel_ai)](#pov-fpv-case-1)
-  - [Case 2: Shanghai Cyberpunk City Sizzle Reel (by @Adam38363368936)](#pov-fpv-case-2)
-  - [Case 3: Cursed Samurai Consistency Action Prompt (by @Just_sharon7)](#pov-fpv-case-3)
-  - [Case 4: Sun Wukong Battlefield Divine Rescue (by @drjoetw)](#pov-fpv-case-4)
-  - [Case 5: Y2K Pool Party Camcorder Montage (by @johnAGI168)](#pov-fpv-case-5)
-  - [Case 6: Prompt 40 (by @xingsthatmatter)](#pov-fpv-case-6)
-  - [Case 7: Extreme Close-Up (by @drjoetw)](#pov-fpv-case-7)
-  - [Case 8: Create A Fast, Seamless 16 (by @aisavvy1)](#pov-fpv-case-8)
-  - [Case 9: Environment (by @LudovicCreator)](#pov-fpv-case-9)
-  - [Case 10: First-person POV of an ice cube dropped into a glass of soda (by @LudovicCreator)](#pov-fpv-case-10)
-  - [Case 11: Gritty, raw handheld 35mm film aesthetic with natural film grain (by @AngelNwoha)](#pov-fpv-case-11)
-  - [Case 12: 10-second photorealistic cinematic POV video (by @umitsuru_fire)](#pov-fpv-case-12)
-  - [Case 13: A super futuristic megacity after the apocalypse awakens in a storm (by @johnAGI168)](#pov-fpv-case-13)
-  - [Case 14: Style: Ultra-realistic industrial timelapse (by @craftian_keskin)](#pov-fpv-case-14)
-  - [Case 15: Prompt 116 (by @Yuupapa_free)](#pov-fpv-case-15)
-  - [Case 16: Tokyo POV Rollercoaster (by @TechTalkNAVI)](#pov-fpv-case-16)
-  - [Case 17: Cinematic Beijing Cultural Ad — 8K First-Person (by @crayon1267)](#pov-fpv-case-17)
-  - [Case 18: Extreme Macro FPV — Fairy Wing Tracking Shot (by @EHuanglu)](#pov-fpv-case-18)
+  - [Cas 1: Séquence de poursuite camouflée avec caméra pectorale (par @genel_ai)](#pov-fpv-case-1)
+  - [Cas 2: Bande-annonce d’une Shanghai cyberpunk (par @Adam38363368936)](#pov-fpv-case-2)
+  - [Cas 3: Prompt d’action cohérent d’un samouraï maudit (par @Just_sharon7)](#pov-fpv-case-3)
+  - [Cas 4: Sauvetage divin de Sun Wukong sur le champ de bataille (par @drjoetw)](#pov-fpv-case-4)
+  - [Cas 5: Montage de fête au bord de la piscine Y2K filmée au caméscope (par @johnAGI168)](#pov-fpv-case-5)
+  - [Cas 6: Explosion urbaine en vue subjective avec carte Tesla (par @xingsthatmatter)](#pov-fpv-case-6)
+  - [Cas 7: Séquence de très gros plans pour un clip d’anime (par @drjoetw)](#pov-fpv-case-7)
+  - [Cas 8: Séquence rapide et fluide en 16 plans (par @aisavvy1)](#pov-fpv-case-8)
+  - [Cas 9: Descente au-dessus d’une cité médiévale fantastique (par @LudovicCreator)](#pov-fpv-case-9)
+  - [Cas 10: Vue subjective d’un glaçon tombant dans un verre de soda (par @LudovicCreator)](#pov-fpv-case-10)
+  - [Cas 11: Esthétique brute de film 35 mm à l’épaule avec grain naturel (par @AngelNwoha)](#pov-fpv-case-11)
+  - [Cas 12: Vidéo POV cinématographique photoréaliste de 10 secondes (par @umitsuru_fire)](#pov-fpv-case-12)
+  - [Cas 13: Une mégalopole post-apocalyptique ultrafuturiste s’éveille dans la tempête (par @johnAGI168)](#pov-fpv-case-13)
+  - [Cas 14: Style : timelapse industriel ultraréaliste (par @craftian_keskin)](#pov-fpv-case-14)
+  - [Cas 15: Transformation d’une lycéenne lors d’une attaque de monstre (par @Yuupapa_free)](#pov-fpv-case-15)
+  - [Cas 16: Montagnes russes à Tokyo en vue subjective (par @TechTalkNAVI)](#pov-fpv-case-16)
+  - [Cas 17: Publicité culturelle cinématographique de Pékin en 8K et vue subjective (par @crayon1267)](#pov-fpv-case-17)
+  - [Cas 18: Macro FPV extrême — suivi d’ailes de fée (par @EHuanglu)](#pov-fpv-case-18)
 - [🏷️ Publicité / Produit](#commercial-product) (25)
-  - [Case 1: Perfume-Style Anime Trio Dance Stage (by @ShadeLurk)](#commercial-product-case-1)
-  - [Case 2: Dark Fantasy Church Duel (by @ZaraIrahh)](#commercial-product-case-2)
-  - [Case 3: Dark Fantasy Shrine Hall Duel (by @MiraMusic_AI)](#commercial-product-case-3)
-  - [Case 4: Japanese Snack Commercial Punchline (by @aigeboku)](#commercial-product-case-4)
-  - [Case 5: Cinematic Martial Art Sequence for Seedance 2 (by @CharaspowerAI)](#commercial-product-case-5)
-  - [Case 6: I asked Grok to produce the same video, but the result wasn't convincing (by @Viafin23)](#commercial-product-case-6)
-  - [Case 7: Japanese Classroom Whisper Romance (by @JiahaoYang_art)](#commercial-product-case-7)
-  - [Case 8: Recommended Settings Mode (by @MiraMusic_AI)](#commercial-product-case-8)
-  - [Case 9: LaFerrari Commercial Storyboard (by @Adam38363368936)](#commercial-product-case-9)
-  - [Case 10: Hot-Blooded Anime Final Duel (by @gkxspace)](#commercial-product-case-10)
-  - [Case 11: Prompt 35 (by @johnAGI168)](#commercial-product-case-11)
-  - [Case 12: Character (by @johnAGI168)](#commercial-product-case-12)
-  - [Case 13: Camera (by @CharaspowerAI)](#commercial-product-case-13)
-  - [Case 14: Prompt 49 (by @johnAGI168)](#commercial-product-case-14)
-  - [Case 15: Prompt 57 (by @aiehon_aya)](#commercial-product-case-15)
-  - [Case 16: Positive Prompt (by @adrianaia_)](#commercial-product-case-16)
-  - [Case 17: Original Dark Fantasy Action Short Film (by @Rufus87078959)](#commercial-product-case-17)
-  - [Case 18: 00:00-00:04 Shot 1: Follow shot (by @IamEmily2050)](#commercial-product-case-18)
-  - [Case 19: Prompt 98 (by @ImperfectEngel)](#commercial-product-case-19)
-  - [Case 20: Prompt 112 (by @johnAGI168)](#commercial-product-case-20)
-  - [Case 21: (Poliziottesco Wednesday) (by @ChrisGwinnLA)](#commercial-product-case-21)
-  - [Case 22: Foldable Smartphone Fashion Ad (by @Adam38363368936)](#commercial-product-case-22)
-  - [Case 23: Travel Suitcase Buddy Montage (by @ChaseAIx)](#commercial-product-case-23)
-  - [Case 24: Top-Down Fashion Lookbook — Outfit Change Sequence (by @johnAGI168)](#commercial-product-case-24)
-  - [Case 25: Premium Lifestyle Commercial — Vlog Selfie Style (by @johnAGI168)](#commercial-product-case-25)
+  - [Cas 1: Scène de danse d’un trio d’anime façon publicité de parfum (par @ShadeLurk)](#commercial-product-case-1)
+  - [Cas 2: Duel dans une église de dark fantasy (par @ZaraIrahh)](#commercial-product-case-2)
+  - [Cas 3: Duel dans la grande salle d’un sanctuaire de dark fantasy (par @MiraMusic_AI)](#commercial-product-case-3)
+  - [Cas 4: Chute comique d’une publicité japonaise pour snacks (par @aigeboku)](#commercial-product-case-4)
+  - [Cas 5: Séquence cinématographique d’arts martiaux pour Seedance 2 (par @CharaspowerAI)](#commercial-product-case-5)
+  - [Cas 6: Comparaison vidéo de Grok sur la même scène (par @Viafin23)](#commercial-product-case-6)
+  - [Cas 7: Romance chuchotée dans une classe japonaise (par @JiahaoYang_art)](#commercial-product-case-7)
+  - [Cas 8: Mode de réglages recommandés (par @MiraMusic_AI)](#commercial-product-case-8)
+  - [Cas 9: Storyboard publicitaire pour LaFerrari (par @Adam38363368936)](#commercial-product-case-9)
+  - [Cas 10: Duel final d’anime survolté (par @gkxspace)](#commercial-product-case-10)
+  - [Cas 11: Défilé de haute couture en porcelaine sur miroir céleste (par @johnAGI168)](#commercial-product-case-11)
+  - [Cas 12: Publicité de récolte d’un créateur rural moderne (par @johnAGI168)](#commercial-product-case-12)
+  - [Cas 13: Séquence de course de rue au néon (par @CharaspowerAI)](#commercial-product-case-13)
+  - [Cas 14: Top-modèle et voitures de sport de luxe (par @johnAGI168)](#commercial-product-case-14)
+  - [Cas 15: Poursuite d’une androïde après la destruction d’un laboratoire (par @aiehon_aya)](#commercial-product-case-15)
+  - [Cas 16: Bande-annonce de jeu dans une ville de néon en ruines (par @adrianaia_)](#commercial-product-case-16)
+  - [Cas 17: Court métrage original d’action et de dark fantasy (par @Rufus87078959)](#commercial-product-case-17)
+  - [Cas 18: 00:00–00:04 Plan 1 : travelling de suivi (par @IamEmily2050)](#commercial-product-case-18)
+  - [Cas 19: Séquence de combat tactique sur le toit d’un train (par @ImperfectEngel)](#commercial-product-case-19)
+  - [Cas 20: Frénésie sur le parquet de Manhattan (par @johnAGI168)](#commercial-product-case-20)
+  - [Cas 21: Mercredi façon poliziottesco (par @ChrisGwinnLA)](#commercial-product-case-21)
+  - [Cas 22: Publicité de mode pour smartphone pliable (par @Adam38363368936)](#commercial-product-case-22)
+  - [Cas 23: Montage avec une valise comme compagnon de voyage (par @ChaseAIx)](#commercial-product-case-23)
+  - [Cas 24: Lookbook de mode en plongée — séquence de changement de tenue (par @johnAGI168)](#commercial-product-case-24)
+  - [Cas 25: Publicité lifestyle haut de gamme façon selfie de vlog (par @johnAGI168)](#commercial-product-case-25)
 - [🖼️ Basé sur des références](#reference-driven) (16)
-  - [Case 1: Skeleton Pianist Miniature Diorama Performance (by @tea_story_hoshi)](#reference-driven-case-1)
-  - [Case 2: Storm Ship Princess vs Kraken (by @applete77191758)](#reference-driven-case-2)
-  - [Case 3: Maid Blade Dance: Mei vs Coco (by @MiraMusic_AI)](#reference-driven-case-3)
-  - [Case 4: Apocalyptic Rooftop Piano Farewell (by @liyue_ai)](#reference-driven-case-4)
-  - [Case 5: CINEMATIC 8mm Fisheye lens, FPV racing drone camera, hyper-fluid motion (by @itsPixieVerse)](#reference-driven-case-5)
-  - [Case 6: Subject (by @YaReYaRu30Life)](#reference-driven-case-6)
-  - [Case 7: Ray tracing, Unreal Engine render, small town in heavy rain (by @Gwsubsa)](#reference-driven-case-7)
-  - [Case 8: Moon Convenience Store Night Shift (by @zasuko_michiksa)](#reference-driven-case-8)
-  - [Case 9: Rooftop Awakening to F-14 Transformation (by @john87445528)](#reference-driven-case-9)
-  - [Case 10: Armor Assembly Street Counterattack (by @egeberkina)](#reference-driven-case-10)
-  - [Case 11: Character reference @Image 1, convert to real-person live-action style (by @Adam38363368936)](#reference-driven-case-11)
-  - [Case 12: Format (by @aimikoda)](#reference-driven-case-12)
-  - [Case 13: Seven-Image Seamless Morphing Sequence (by @YaReYaRu30Life)](#reference-driven-case-13)
-  - [Case 14: Stridex Sneaker Commercial (by @ShamsAmin56)](#reference-driven-case-14)
-  - [Case 15: Image-Driven Prompt with Singing Cat (by @pan_soramame_da)](#reference-driven-case-15)
-  - [Case 16: Character Reference Anime Prompt (by @Reiria123)](#reference-driven-case-16)
+  - [Cas 1: Performance d’un pianiste squelette dans un diorama miniature (par @tea_story_hoshi)](#reference-driven-case-1)
+  - [Cas 2: Princesse sur un navire en pleine tempête contre le kraken (par @applete77191758)](#reference-driven-case-2)
+  - [Cas 3: Danse des lames des servantes : Mei contre Coco (par @MiraMusic_AI)](#reference-driven-case-3)
+  - [Cas 4: Adieu au piano sur un toit apocalyptique (par @liyue_ai)](#reference-driven-case-4)
+  - [Cas 5: Objectif fisheye cinématographique 8 mm, drone de course FPV et mouvement hyperfluide (par @itsPixieVerse)](#reference-driven-case-5)
+  - [Cas 6: Séquence de cascades de kung-fu guidée par référence (par @YaReYaRu30Life)](#reference-driven-case-6)
+  - [Cas 7: Ray tracing, rendu Unreal Engine et petite ville sous une pluie battante (par @Gwsubsa)](#reference-driven-case-7)
+  - [Cas 8: Service de nuit dans l’épicerie lunaire (par @zasuko_michiksa)](#reference-driven-case-8)
+  - [Cas 9: Réveil sur le toit et transformation en F-14 (par @john87445528)](#reference-driven-case-9)
+  - [Cas 10: Assemblage d’armure et contre-attaque dans la rue (par @egeberkina)](#reference-driven-case-10)
+  - [Cas 11: Référence du personnage de l’image 1 convertie en prise de vues réelles (par @Adam38363368936)](#reference-driven-case-11)
+  - [Cas 12: Modèle de duel à l’épée avec ours polaire et raccord de mouvement (par @aimikoda)](#reference-driven-case-12)
+  - [Cas 13: Séquence de morphing fluide à partir de sept images (par @YaReYaRu30Life)](#reference-driven-case-13)
+  - [Cas 14: Publicité pour baskets Stridex (par @ShamsAmin56)](#reference-driven-case-14)
+  - [Cas 15: Prompt guidé par image avec un chat chanteur (par @pan_soramame_da)](#reference-driven-case-15)
+  - [Cas 16: Prompt d’anime avec référence de personnage (par @Reiria123)](#reference-driven-case-16)
 - [🌀 Surréalisme / VFX](#surreal-vfx) (11)
-  - [Case 1: Zero-Gravity Katana Combat (by @MiraMusic_AI)](#surreal-vfx-case-1)
-  - [Case 2: Aerial Shot (by @chaosdotjpg)](#surreal-vfx-case-2)
-  - [Case 3: Prompt 85 (by @AIARTGALLARY)](#surreal-vfx-case-3)
-  - [Case 4: Reality splits (by @LudovicCreator)](#surreal-vfx-case-4)
-  - [Case 5: Rainy Underground Alley Merge (by @Dheepanratnam)](#surreal-vfx-case-5)
-  - [Case 6: Video prompt (by @Dheepanratnam)](#surreal-vfx-case-6)
-  - [Case 7: the eye suddenly opens (by @roco_kn_roco)](#surreal-vfx-case-7)
-  - [Case 8: They clash mid-air above a floating lava river (by @LudovicCreator)](#surreal-vfx-case-8)
-  - [Case 9: Creative Director Dimension Walk (by @lukasersil)](#surreal-vfx-case-9)
-  - [Case 10: Abyssal Entity Altar Inscription — Dark Fantasy (by @Adam38363368936)](#surreal-vfx-case-10)
-  - [Case 11: Floating UI Color Wheel Scene Transformation (by @johnAGI168)](#surreal-vfx-case-11)
+  - [Cas 1: Combat au katana en apesanteur (par @MiraMusic_AI)](#surreal-vfx-case-1)
+  - [Cas 2: Baleine dans les nuages — épopée surréaliste (par @chaosdotjpg)](#surreal-vfx-case-2)
+  - [Cas 3: Métamorphose d’un plongeur des abysses en créature marine (par @AIARTGALLARY)](#surreal-vfx-case-3)
+  - [Cas 4: Effondrement d’une faille interdimensionnelle dans une mégalopole (par @LudovicCreator)](#surreal-vfx-case-4)
+  - [Cas 5: Fusion dans une ruelle souterraine pluvieuse (par @Dheepanratnam)](#surreal-vfx-case-5)
+  - [Cas 6: Faille urbaine causée par une fracture de la réalité quantique (par @Dheepanratnam)](#surreal-vfx-case-6)
+  - [Cas 7: L’œil s’ouvre soudainement (par @roco_kn_roco)](#surreal-vfx-case-7)
+  - [Cas 8: Ils s’entrechoquent en plein vol au-dessus d’une rivière de lave flottante (par @LudovicCreator)](#surreal-vfx-case-8)
+  - [Cas 9: Marche dimensionnelle du directeur artistique (par @lukasersil)](#surreal-vfx-case-9)
+  - [Cas 10: Inscription sur l’autel d’une entité abyssale — dark fantasy (par @Adam38363368936)](#surreal-vfx-case-10)
+  - [Cas 11: Transformation de scène avec roue chromatique flottante dans l’interface (par @johnAGI168)](#surreal-vfx-case-11)
 - [📐 Modèles et formats structurés](#templates-structured) (17)
-  - [Case 1: Supercarrier Catastrophic Sinking (by @johnAGI168)](#templates-structured-case-1)
-  - [Case 2: Reconstruction of Memory Shards (by @TechTalkNAVI)](#templates-structured-case-2)
-  - [Case 3: Blueprint to Reality – Single-Story House Transformation (by @craftian_keskin)](#templates-structured-case-3)
-  - [Case 4: Martial-Arts Haute Couture Tailor (by @Adam38363368936)](#templates-structured-case-4)
-  - [Case 5: Format (by @aimikoda)](#templates-structured-case-5)
-  - [Case 6: Location (by @TechTalkNAVI)](#templates-structured-case-6)
-  - [Case 7: Starlight Shadow / Stardust Silhouette (by @TechTalkNAVI)](#templates-structured-case-7)
-  - [Case 8: Subjects (by @0xbisc)](#templates-structured-case-8)
-  - [Case 9: Format (by @aimikoda)](#templates-structured-case-9)
-  - [Case 10: Prompt (by @Just_sharon7)](#templates-structured-case-10)
-  - [Case 11: Format (by @Dheepanratnam)](#templates-structured-case-11)
-  - [Case 12: Composition (by @CharaspowerAI)](#templates-structured-case-12)
-  - [Case 13: Format (by @BrennanErbz)](#templates-structured-case-13)
-  - [Case 14: Subjects (by @0xbisc)](#templates-structured-case-14)
-  - [Case 15: Stylized 3D Barbershop Transformation Sequence (by @ShamiWeb3)](#templates-structured-case-15)
-  - [Case 16: Subjects (by @0xbisc)](#templates-structured-case-16)
-  - [Case 17: Female Warrior — Structured Subject Prompt (by @noman23761)](#templates-structured-case-17)
+  - [Cas 1: Naufrage catastrophique d’un superporte-avions (par @johnAGI168)](#templates-structured-case-1)
+  - [Cas 2: Reconstruction de fragments de mémoire (par @TechTalkNAVI)](#templates-structured-case-2)
+  - [Cas 3: Du plan à la réalité — transformation d’une maison de plain-pied (par @craftian_keskin)](#templates-structured-case-3)
+  - [Cas 4: Tailleur haute couture d’arts martiaux (par @Adam38363368936)](#templates-structured-case-4)
+  - [Cas 5: Modèle de changement de tenue synchronisé sur le rythme (par @aimikoda)](#templates-structured-case-5)
+  - [Cas 6: Modèle de quartier de gratte-ciel dansants (par @TechTalkNAVI)](#templates-structured-case-6)
+  - [Cas 7: Ombre de lumière stellaire / silhouette de poussière d’étoiles (par @TechTalkNAVI)](#templates-structured-case-7)
+  - [Cas 8: Modèle POV de parkour pictural (par @0xbisc)](#templates-structured-case-8)
+  - [Cas 9: Modèle POV 360 de course dans un escalier en descente (par @aimikoda)](#templates-structured-case-9)
+  - [Cas 10: Modèle de mouvement des aliments et des personnages (par @Just_sharon7)](#templates-structured-case-10)
+  - [Cas 11: Modèle de course en cuisine avec caméra impossible (par @Dheepanratnam)](#templates-structured-case-11)
+  - [Cas 12: Modèle d’explosion POV avec temps figé (par @CharaspowerAI)](#templates-structured-case-12)
+  - [Cas 13: Modèle de première sortie spatiale d’un astronaute (par @BrennanErbz)](#templates-structured-case-13)
+  - [Cas 14: Modèle de routine d’un golden retriever (par @0xbisc)](#templates-structured-case-14)
+  - [Cas 15: Séquence stylisée de transformation dans un salon de coiffure 3D (par @ShamiWeb3)](#templates-structured-case-15)
+  - [Cas 16: Modèle impressionniste de mains ramant (par @0xbisc)](#templates-structured-case-16)
+  - [Cas 17: Guerrière — prompt de sujet structuré (par @noman23761)](#templates-structured-case-17)
 - [🎬 Cinéma général](#general-cinematic) (35)
-  - [Case 1: Spring Wind Memory Poem (by @liyue_ai)](#general-cinematic-case-1)
-  - [Case 2: High-Heel Beat Sync Fashion Close-Up (by @TingFengAIAI)](#general-cinematic-case-2)
-  - [Case 3: Mini Skateboard Escape in a Child Bedroom (by @anson7956)](#general-cinematic-case-3)
-  - [Case 4: Prompt 25 (by @techhalla)](#general-cinematic-case-4)
-  - [Case 5: Prompt 28 (by @AITalesNBH)](#general-cinematic-case-5)
-  - [Case 6: Ancient Costume Transformation Showcase (by @johnAGI168)](#general-cinematic-case-6)
-  - [Case 7: Ginza at night, future cyberpunk (by @ChiakiAkagi)](#general-cinematic-case-7)
-  - [Case 8: stories of a hopper (by @starks_arq)](#general-cinematic-case-8)
-  - [Case 9: A suspicious man stands in the center of Shibuya scramble crossing (by @roco_kn_roco)](#general-cinematic-case-9)
-  - [Case 10: Aesthetic (by @maxescu)](#general-cinematic-case-10)
-  - [Case 11: A girl falls rapidly through a digital tunnel (by @_3912657840)](#general-cinematic-case-11)
-  - [Case 12: Visuals (by @TechTalkNAVI)](#general-cinematic-case-12)
-  - [Case 13: A Hollywood movie trailer (by @SSSS_CRYPTOMAN)](#general-cinematic-case-13)
-  - [Case 14: Cinematic Vertical 9 (by @Mayz1169)](#general-cinematic-case-14)
-  - [Case 15: A giant glacier wall collapses into a fjord beside a coastal city (by @LudovicCreator)](#general-cinematic-case-15)
-  - [Case 16: A moonlit piano chase where the mouse (by @Dheepanratnam)](#general-cinematic-case-16)
-  - [Case 17: 15-second continuous single-shot cartoon sequence (by @Artedeingenio)](#general-cinematic-case-17)
-  - [Case 18: Prompt 83 (by @Alin_Reaper05)](#general-cinematic-case-18)
-  - [Case 19: Aesthetic (by @maxescu)](#general-cinematic-case-19)
-  - [Case 20: Exterior of an ancient temple in the deep mountains (by @cdexsta)](#general-cinematic-case-20)
-  - [Case 21: Statue of Liberty Sunrise Storyboard (by @MrDasOnX)](#general-cinematic-case-21)
-  - [Case 22: Historical scene with dramatic lighting (by @AskVenice)](#general-cinematic-case-22)
-  - [Case 23: ROCKET SURF (by @maxescu)](#general-cinematic-case-23)
-  - [Case 24: Dialogue (by @Adam38363368936)](#general-cinematic-case-24)
-  - [Case 25: Birthday Betrayal Restaurant Drama (by @Lighterkissan33)](#general-cinematic-case-25)
-  - [Case 26: Ancient Parkour Costume-Change Sequence (by @Adam38363368936)](#general-cinematic-case-26)
-  - [Case 27: Engine Internals — Piston Mechanical Detail (by @YaReYaRu30Life)](#general-cinematic-case-27)
-  - [Case 28: 90s Japanese Romance Sim — Cel Animation Style (by @kinopioai_ai)](#general-cinematic-case-28)
-  - [Case 29: Cinematic Directing Techniques — Multi-Shot Prompt (by @noman23761)](#general-cinematic-case-29)
-  - [Case 30: East Asian Woman Portrait — Natural Smile (by @noman23761)](#general-cinematic-case-30)
-  - [Case 31: Post-Apocalyptic Survival — Cinematic Setup (by @noman23761)](#general-cinematic-case-31)
-  - [Case 32: Pixar Forest Clearing — 3D Animated Scene (by @SPEEDAI07)](#general-cinematic-case-32)
-  - [Case 33: Kitten Sneaking Snacks Under Covers (by @lynneatyoumind)](#general-cinematic-case-33)
-  - [Case 34: Seedance 2.0 T2V Natural Speech Test (by @tanabe_fragm)](#general-cinematic-case-34)
-  - [Case 35: Paper Puppet Horror Animation (by @TomaAIbijo)](#general-cinematic-case-35)
+  - [Cas 1: Poème de souvenirs dans le vent du printemps (par @liyue_ai)](#general-cinematic-case-1)
+  - [Cas 2: Gros plan de mode sur des talons synchronisés au rythme (par @TingFengAIAI)](#general-cinematic-case-2)
+  - [Cas 3: Évasion en mini-skateboard dans une chambre d’enfant (par @anson7956)](#general-cinematic-case-3)
+  - [Cas 4: Duel de grands-mères à Rucker Park (par @techhalla)](#general-cinematic-case-4)
+  - [Cas 5: Séquence de sauvetage d’un bébé par un pompier (par @AITalesNBH)](#general-cinematic-case-5)
+  - [Cas 6: Présentation d’une transformation en costume ancien (par @johnAGI168)](#general-cinematic-case-6)
+  - [Cas 7: Ginza de nuit, cyberpunk du futur (par @ChiakiAkagi)](#general-cinematic-case-7)
+  - [Cas 8: Histoires d’un sauteur (par @starks_arq)](#general-cinematic-case-8)
+  - [Cas 9: Un homme suspect se tient au centre du carrefour de Shibuya (par @roco_kn_roco)](#general-cinematic-case-9)
+  - [Cas 10: Vidéo au téléphone au milieu de la foule d’un bateau de pêche (par @maxescu)](#general-cinematic-case-10)
+  - [Cas 11: Une fille chute à toute vitesse dans un tunnel numérique (par @_3912657840)](#general-cinematic-case-11)
+  - [Cas 12: Séquence de tir du canon électromagnétique de la Skytree (par @TechTalkNAVI)](#general-cinematic-case-12)
+  - [Cas 13: Bande-annonce de film hollywoodien (par @SSSS_CRYPTOMAN)](#general-cinematic-case-13)
+  - [Cas 14: Séquence cinématographique verticale 9:16 (par @Mayz1169)](#general-cinematic-case-14)
+  - [Cas 15: Un immense mur de glace s’effondre dans un fjord près d’une ville côtière (par @LudovicCreator)](#general-cinematic-case-15)
+  - [Cas 16: Course-poursuite au piano sous la lune avec une souris (par @Dheepanratnam)](#general-cinematic-case-16)
+  - [Cas 17: Séquence de dessin animé continue en plan-séquence de 15 secondes (par @Artedeingenio)](#general-cinematic-case-17)
+  - [Cas 18: Bataille de dirigeables steampunk au coucher du soleil (par @Alin_Reaper05)](#general-cinematic-case-18)
+  - [Cas 19: Travelling de suivi d’ailes à réaction en tongs (par @maxescu)](#general-cinematic-case-19)
+  - [Cas 20: Extérieur d’un temple ancien au cœur des montagnes (par @cdexsta)](#general-cinematic-case-20)
+  - [Cas 21: Storyboard du lever du soleil sur la Statue de la Liberté (par @MrDasOnX)](#general-cinematic-case-21)
+  - [Cas 22: Scène historique à l’éclairage dramatique (par @AskVenice)](#general-cinematic-case-22)
+  - [Cas 23: Travelling continu de surf propulsé par fusée (par @maxescu)](#general-cinematic-case-23)
+  - [Cas 24: Modèle de monologue de stand-up (par @Adam38363368936)](#general-cinematic-case-24)
+  - [Cas 25: Drame de trahison lors d’un anniversaire au restaurant (par @Lighterkissan33)](#general-cinematic-case-25)
+  - [Cas 26: Séquence de parkour ancien avec changement de costume (par @Adam38363368936)](#general-cinematic-case-26)
+  - [Cas 27: Intérieur du moteur — détail mécanique du piston (par @YaReYaRu30Life)](#general-cinematic-case-27)
+  - [Cas 28: Simulation romantique japonaise des années 90 en animation sur celluloïd (par @kinopioai_ai)](#general-cinematic-case-28)
+  - [Cas 29: Techniques de réalisation cinématographique — prompt multi-plans (par @noman23761)](#general-cinematic-case-29)
+  - [Cas 30: Portrait d’une femme d’Asie de l’Est au sourire naturel (par @noman23761)](#general-cinematic-case-30)
+  - [Cas 31: Survie post-apocalyptique — mise en scène cinématographique (par @noman23761)](#general-cinematic-case-31)
+  - [Cas 32: Clairière de forêt façon Pixar — scène animée en 3D (par @SPEEDAI07)](#general-cinematic-case-32)
+  - [Cas 33: Chaton volant des friandises sous les couvertures (par @lynneatyoumind)](#general-cinematic-case-33)
+  - [Cas 34: Test de parole naturelle T2V de Seedance 2.0 (par @tanabe_fragm)](#general-cinematic-case-34)
+  - [Cas 35: Animation d’horreur avec marionnettes en papier (par @TomaAIbijo)](#general-cinematic-case-35)
 - [Dépôts associés](#related-repositories)
 - [Contribuer](#contributing)
 - [Licence](#license)
@@ -234,9 +234,9 @@ Choisissez une catégorie, ouvrez un cas sourcé, copiez son prompt et remplacez
 
 <a id="action-fantasy-case-1"></a>
 <!-- Case 1: Prompt 23 (by @songguoxiansen) -->
-### Case 1: [Prompt 23](https://x.com/songguoxiansen/status/2033175478765289598) (by [@songguoxiansen](https://x.com/songguoxiansen))
+### Cas 1: [Performance de rap de rue en clip musical](https://x.com/songguoxiansen/status/2033175478765289598) (par [@songguoxiansen](https://x.com/songguoxiansen))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-1"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/021.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -248,9 +248,9 @@ Choisissez une catégorie, ouvrez un cas sourcé, copiez son prompt et remplacez
 
 <a id="action-fantasy-case-2"></a>
 <!-- Case 2: Black Cat Desert Martial-Arts Duel (by @nopinduoduo) -->
-### Case 2: [Black Cat Desert Martial-Arts Duel](https://x.com/nopinduoduo/status/2039915824216261101) (by [@nopinduoduo](https://x.com/nopinduoduo))
+### Cas 2: [Duel d’arts martiaux du chat noir dans le désert](https://x.com/nopinduoduo/status/2039915824216261101) (par [@nopinduoduo](https://x.com/nopinduoduo))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-2"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/031.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -262,9 +262,9 @@ Choisissez une catégorie, ouvrez un cas sourcé, copiez son prompt et remplacez
 
 <a id="action-fantasy-case-3"></a>
 <!-- Case 3: 【Core Focus】 (by @johnAGI168) -->
-### Case 3: [【Core Focus】](https://x.com/johnAGI168/status/2021610292979876208) (by [@johnAGI168](https://x.com/johnAGI168))
+### Cas 3: [Duel de techniques de respiration en prise de vues réelles](https://x.com/johnAGI168/status/2021610292979876208) (par [@johnAGI168](https://x.com/johnAGI168))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-3"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/035.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -296,9 +296,9 @@ Special Effects Spectacle: The blue water dragon and the golden lightning instan
 
 <a id="action-fantasy-case-4"></a>
 <!-- Case 4: Anime high-speed cut test — 20 hard cuts in 10 seconds (0 (by @tebasaki3D) -->
-### Case 4: [Anime high-speed cut test — 20 hard cuts in 10 seconds (0](https://x.com/tebasaki3D/status/2039903531415552048) (by [@tebasaki3D](https://x.com/tebasaki3D))
+### Cas 4: [Séquence d’anime ultrarapide en 20 plans](https://x.com/tebasaki3D/status/2039903531415552048) (par [@tebasaki3D](https://x.com/tebasaki3D))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/039.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -311,9 +311,9 @@ Anime high-speed cut test — 20 hard cuts in 10 seconds (0.5 seconds per cut, n
 
 <a id="action-fantasy-case-5"></a>
 <!-- Case 5: Watch a grease-stained mechanic fix (by @sebatheepan) -->
-### Case 5: [Watch a grease-stained mechanic fix](https://x.com/sebatheepan/status/2040079840754205010) (by [@sebatheepan](https://x.com/sebatheepan))
+### Cas 5: [Regardez un mécanicien couvert de cambouis effectuer une réparation](https://x.com/sebatheepan/status/2040079840754205010) (par [@sebatheepan](https://x.com/sebatheepan))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-5"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/041.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -330,9 +330,9 @@ From rusty disaster to purring monster in seconds.
 
 <a id="action-fantasy-case-6"></a>
 <!-- Case 6: Prompt 45 (by @sailorv321) -->
-### Case 6: [Prompt 45](https://x.com/sailorv321/status/2040127822908596305) (by [@sailorv321](https://x.com/sailorv321))
+### Cas 6: [Court métrage de vengeance samouraï](https://x.com/sailorv321/status/2040127822908596305) (par [@sailorv321](https://x.com/sailorv321))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-6"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/042.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -345,9 +345,9 @@ The first half is a fierce battle on a battlefield covered in mud and flames. Th
 
 <a id="action-fantasy-case-7"></a>
 <!-- Case 7: Prompt 50 (by @johnAGI168) -->
-### Case 7: [Prompt 50](https://x.com/johnAGI168/status/2039924160567058725) (by [@johnAGI168](https://x.com/johnAGI168))
+### Cas 7: [Animation de combat 3D stylisée](https://x.com/johnAGI168/status/2039924160567058725) (par [@johnAGI168](https://x.com/johnAGI168))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-7"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/047.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -359,9 +359,9 @@ Stylized 3D animation with exaggerated proportions, sharp kung-fu-soccer choreog
 
 <a id="action-fantasy-case-8"></a>
 <!-- Case 8: Dialogue (Overlapping) (by @drjoetw) -->
-### Case 8: [Dialogue (Overlapping)](https://x.com/drjoetw/status/2039905967597613558) (by [@drjoetw](https://x.com/drjoetw))
+### Cas 8: [Courte parodie comique au rythme effréné](https://x.com/drjoetw/status/2039905967597613558) (par [@drjoetw](https://x.com/drjoetw))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-8"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/050.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -379,9 +379,9 @@ Camera: fast cuts, whip pans, strong motion blur, 0.6–1.2s pacing, ending in s
 
 <a id="action-fantasy-case-9"></a>
 <!-- Case 9: Giant Ninja Tokusatsu Battle (by @EarthGigantea) -->
-### Case 9: [Giant Ninja Tokusatsu Battle](https://x.com/EarthGigantea/status/2044026356984623194) (by [@EarthGigantea](https://x.com/EarthGigantea))
+### Cas 9: [Combat tokusatsu de ninjas géants](https://x.com/EarthGigantea/status/2044026356984623194) (par [@EarthGigantea](https://x.com/EarthGigantea))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-9"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/OPGJe_kwdEgXZcfi.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -403,9 +403,9 @@ Visual Style:
 
 <a id="action-fantasy-case-10"></a>
 <!-- Case 10: Japanese anime (by @_3912657840) -->
-### Case 10: [Japanese anime](https://x.com/_3912657840/status/2040018529441730815) (by [@_3912657840](https://x.com/_3912657840))
+### Cas 10: [Séquence de dialogue d’anime japonais](https://x.com/_3912657840/status/2040018529441730815) (par [@_3912657840](https://x.com/_3912657840))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-10"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/056.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -417,9 +417,9 @@ Japanese anime. Dialogue in Japanese. Flowing clouds. A girl walks, jumps cutely
 
 <a id="action-fantasy-case-11"></a>
 <!-- Case 11: 15-Second Original Elemental Battle Short Film (by @ZikinArt) -->
-### Case 11: [15-Second Original Elemental Battle Short Film](https://web.archive.org/web/*/https://x.com/ZikinArt/status/2040006818953322644) (by [@ZikinArt](https://x.com/ZikinArt))
+### Cas 11: [Court métrage original de bataille élémentaire de 15 secondes](https://web.archive.org/web/*/https://x.com/ZikinArt/status/2040006818953322644) (par [@ZikinArt](https://x.com/ZikinArt))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-11"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/058.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -431,9 +431,9 @@ Japanese anime. Dialogue in Japanese. Flowing clouds. A girl walks, jumps cutely
 
 <a id="action-fantasy-case-12"></a>
 <!-- Case 12: Faberge Fantasy Egg Animation (by @ShamiWeb3) -->
-### Case 12: [Faberge Fantasy Egg Animation](https://x.com/ShamiWeb3/status/2040096061835059412) (by [@ShamiWeb3](https://x.com/ShamiWeb3))
+### Cas 12: [Animation d’œuf fantastique façon Fabergé](https://x.com/ShamiWeb3/status/2040096061835059412) (par [@ShamiWeb3](https://x.com/ShamiWeb3))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-12"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/064.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -445,9 +445,9 @@ Highly detailed cinematic 4K animated video, precious enchanted Faberge-style Ea
 
 <a id="action-fantasy-case-13"></a>
 <!-- Case 13: Prompt 77 (by @David_eficaz) -->
-### Case 13: [Prompt 77](https://x.com/David_eficaz/status/2039966320414937236) (by [@David_eficaz](https://x.com/David_eficaz))
+### Cas 13: [Court métrage original de bataille élémentaire](https://x.com/David_eficaz/status/2039966320414937236) (par [@David_eficaz](https://x.com/David_eficaz))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-13"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/074.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -459,9 +459,9 @@ Original 15-second short film about an elemental battle: In a volcanic mountain 
 
 <a id="action-fantasy-case-14"></a>
 <!-- Case 14: Prompt 79 (by @CharaspowerAI) -->
-### Case 14: [Prompt 79](https://x.com/CharaspowerAI/status/2040013966986957144) (by [@CharaspowerAI](https://x.com/CharaspowerAI))
+### Cas 14: [Duel cinématographique de science-fiction et de fantasy](https://x.com/CharaspowerAI/status/2040013966986957144) (par [@CharaspowerAI](https://x.com/CharaspowerAI))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-14"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/076.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -484,9 +484,9 @@ Ultra realistic, high-end cinematic action, precise choreography, glowing energy
 
 <a id="action-fantasy-case-15"></a>
 <!-- Case 15: 15-second continuous single-shot action sequence (by @Artedeingenio) -->
-### Case 15: [15-second continuous single-shot action sequence](https://x.com/Artedeingenio/status/2039997977897435190) (by [@Artedeingenio](https://x.com/Artedeingenio))
+### Cas 15: [Séquence d’action continue en plan-séquence de 15 secondes](https://x.com/Artedeingenio/status/2039997977897435190) (par [@Artedeingenio](https://x.com/Artedeingenio))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-15"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/078.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -507,9 +507,9 @@ Dense forest → cliff edge → open valley
 
 <a id="action-fantasy-case-16"></a>
 <!-- Case 16: Prompt 82 (by @Alin_Reaper05) -->
-### Case 16: [Prompt 82](https://x.com/Alin_Reaper05/status/2040042931172655384) (by [@Alin_Reaper05](https://x.com/Alin_Reaper05))
+### Cas 16: [Samouraï solitaire face au précipice](https://x.com/Alin_Reaper05/status/2040042931172655384) (par [@Alin_Reaper05](https://x.com/Alin_Reaper05))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-16"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/079.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -521,9 +521,9 @@ A lone samurai stands on a cliff overlooking cherry blossom mountains at sunset,
 
 <a id="action-fantasy-case-17"></a>
 <!-- Case 17: Prompt 88 (by @sebatheepan) -->
-### Case 17: [Prompt 88](https://x.com/sebatheepan/status/2039723026124575231) (by [@sebatheepan](https://x.com/sebatheepan))
+### Cas 17: [Piqué aérien du dragon renégat](https://x.com/sebatheepan/status/2039723026124575231) (par [@sebatheepan](https://x.com/sebatheepan))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-17"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/085.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -535,9 +535,9 @@ A daring aerial rogue diving on a bio-mechanical glider through a chaotic floati
 
 <a id="action-fantasy-case-18"></a>
 <!-- Case 18: Zero-G Mech Scramble Sequence (by @Dheepanratnam) -->
-### Case 18: [Zero-G Mech Scramble Sequence](https://x.com/Dheepanratnam/status/2044338893764383111) (by [@Dheepanratnam](https://x.com/Dheepanratnam))
+### Cas 18: [Mêlée autour d’un mécha en apesanteur](https://x.com/Dheepanratnam/status/2044338893764383111) (par [@Dheepanratnam](https://x.com/Dheepanratnam))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-18"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/ofW5CfXPYCWpNX7M.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -569,9 +569,9 @@ SHOT 15: WS, 50mm pull-out / L-cut with a match from the targeting screen close 
 
 <a id="action-fantasy-case-19"></a>
 <!-- Case 19: A super high-speed flight action scene of a girl riding a dragon (by @naoyuki_okada) -->
-### Case 19: [A super high-speed flight action scene of a girl riding a dragon](https://x.com/naoyuki_okada/status/2039573038392614995) (by [@naoyuki_okada](https://x.com/naoyuki_okada))
+### Cas 19: [Scène de vol ultrarapide d’une fille chevauchant un dragon](https://x.com/naoyuki_okada/status/2039573038392614995) (par [@naoyuki_okada](https://x.com/naoyuki_okada))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-19"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/086.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -584,9 +584,9 @@ Two dragons, one blue and one red, are flying high above the clouds. They are fl
 
 <a id="action-fantasy-case-20"></a>
 <!-- Case 20: 15-Second Original Desert Martial Arts Short Film (by @NimEshed) -->
-### Case 20: [15-Second Original Desert Martial Arts Short Film](https://x.com/NimEshed/status/2039816152222949829) (by [@NimEshed](https://x.com/NimEshed))
+### Cas 20: [Court métrage original d’arts martiaux dans le désert de 15 secondes](https://x.com/NimEshed/status/2039816152222949829) (par [@NimEshed](https://x.com/NimEshed))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-20"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/091.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -598,9 +598,9 @@ Two dragons, one blue and one red, are flying high above the clouds. They are fl
 
 <a id="action-fantasy-case-21"></a>
 <!-- Case 21: Canyon Airstrike Sequence (by @Mr_TuanDoan) -->
-### Case 21: [Canyon Airstrike Sequence](https://x.com/Mr_TuanDoan/status/2044750468849729604) (by [@Mr_TuanDoan](https://x.com/Mr_TuanDoan))
+### Cas 21: [Séquence de frappe aérienne dans un canyon](https://x.com/Mr_TuanDoan/status/2044750468849729604) (par [@Mr_TuanDoan](https://x.com/Mr_TuanDoan))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-21"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/RpLzRvgpJopkYzwc.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -628,9 +628,9 @@ SHOT 07 (13-15s) wide aerial — jet exits frame at insane speed, heat haze trai
 
 <a id="action-fantasy-case-22"></a>
 <!-- Case 22: A 15-second hyper-realistic epic war blockbuster (by @john87445528) -->
-### Case 22: [A 15-second hyper-realistic epic war blockbuster](https://x.com/john87445528/status/2039348028574744685) (by [@john87445528](https://x.com/john87445528))
+### Cas 22: [Superproduction de guerre épique hyperréaliste de 15 secondes](https://x.com/john87445528/status/2039348028574744685) (par [@john87445528](https://x.com/john87445528))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-22"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/110.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -642,9 +642,9 @@ A 15-second hyper-realistic epic war blockbuster. Style: rugged realism, 35mm ha
 
 <a id="action-fantasy-case-23"></a>
 <!-- Case 23: Office Coffee Break Gone Wrongshot 1 (by @Dheepanratnam) -->
-### Case 23: [Office Coffee Break Gone Wrongshot 1](https://x.com/Dheepanratnam/status/2039387346706001941) (by [@Dheepanratnam](https://x.com/Dheepanratnam))
+### Cas 23: [La pause-café au bureau tourne mal](https://x.com/Dheepanratnam/status/2039387346706001941) (par [@Dheepanratnam](https://x.com/Dheepanratnam))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-23"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/117.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -656,9 +656,9 @@ Office Coffee Break Gone WrongShot 1: Tired office worker in a button-up shirt s
 
 <a id="action-fantasy-case-24"></a>
 <!-- Case 24: 15-second continuous single-shot action sequence (by @Artedeingenio) -->
-### Case 24: [15-second continuous single-shot action sequence](https://x.com/Artedeingenio/status/2039333445403287777) (by [@Artedeingenio](https://x.com/Artedeingenio))
+### Cas 24: [Séquence d’action continue en plan-séquence de 15 secondes](https://x.com/Artedeingenio/status/2039333445403287777) (par [@Artedeingenio](https://x.com/Artedeingenio))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-24"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/119.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -675,9 +675,9 @@ Weighty creature movement, believable scale,
 
 <a id="action-fantasy-case-25"></a>
 <!-- Case 25: Black Swan vs Boxer (by @KanaWorks_AI) -->
-### Case 25: [Black Swan vs Boxer](https://x.com/KanaWorks_AI/status/2045098229847716305) (by [@KanaWorks_AI](https://x.com/KanaWorks_AI))
+### Cas 25: [Cygne noir contre boxeur](https://x.com/KanaWorks_AI/status/2045098229847716305) (par [@KanaWorks_AI](https://x.com/KanaWorks_AI))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-25"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/iILeAyierBn5imMB.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -702,9 +702,9 @@ The crowd erupts in thunderous cheers. The Black Swan slowly settles her stance,
 
 <a id="action-fantasy-case-26"></a>
 <!-- Case 26: Ground Crack Superman Launch (by @techprophett) -->
-### Case 26: [Ground Crack Superman Launch](https://x.com/techprophett/status/2045091209417249026) (by [@techprophett](https://x.com/techprophett))
+### Cas 26: [Décollage de Superman sur un sol qui se fissure](https://x.com/techprophett/status/2045091209417249026) (par [@techprophett](https://x.com/techprophett))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-26"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/JnftRXbRJtRUNj2a.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -726,9 +726,9 @@ The crowd erupts in thunderous cheers. The Black Swan slowly settles her stance,
 
 <a id="action-fantasy-case-27"></a>
 <!-- Case 27: Cloud Cave Sword Shadow (by @Adam38363368936) -->
-### Case 27: [Cloud Cave Sword Shadow](https://x.com/Adam38363368936/status/2039865857179013318) (by [@Adam38363368936](https://x.com/Adam38363368936))
+### Cas 27: [Ombre d’épée dans la grotte des nuages](https://x.com/Adam38363368936/status/2039865857179013318) (par [@Adam38363368936](https://x.com/Adam38363368936))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-27"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/081.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -784,9 +784,9 @@ Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drip
 
 <a id="action-fantasy-case-28"></a>
 <!-- Case 28: City of Gods — One-Take Oriental Fantasy Flight (by @john87445528) -->
-### Case 28: [City of Gods — One-Take Oriental Fantasy Flight](https://x.com/john87445528/status/2041000256930763046) (by [@john87445528](https://x.com/john87445528))
+### Cas 28: [Cité des dieux — vol de fantasy orientale en une seule prise](https://x.com/john87445528/status/2041000256930763046) (par [@john87445528](https://x.com/john87445528))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-28"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041000256930763046.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -808,9 +808,9 @@ Freeze Frame: The camera pushes in for an extreme close-up. A drop of blood drip
 
 <a id="action-fantasy-case-29"></a>
 <!-- Case 29: Epic Fantasy Battle — Cinematic 10-Second Sequence (by @a_shimanski) -->
-### Case 29: [Epic Fantasy Battle — Cinematic 10-Second Sequence](https://x.com/a_shimanski/status/2041431226507051027) (by [@a_shimanski](https://x.com/a_shimanski))
+### Cas 29: [Bataille de fantasy épique — séquence cinématographique de 10 secondes](https://x.com/a_shimanski/status/2041431226507051027) (par [@a_shimanski](https://x.com/a_shimanski))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-29"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041431226507051027.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -824,9 +824,9 @@ Cinematic 10-second epic fantasy battle sequence in the style of Lord of the Rin
 
 <a id="action-fantasy-case-30"></a>
 <!-- Case 30: Dark Fantasy Transformation — Eastern Style (by @johnAGI168) -->
-### Case 30: [Dark Fantasy Transformation — Eastern Style](https://x.com/johnAGI168/status/2041146946681721113) (by [@johnAGI168](https://x.com/johnAGI168))
+### Cas 30: [Transformation de dark fantasy au style oriental](https://x.com/johnAGI168/status/2041146946681721113) (par [@johnAGI168](https://x.com/johnAGI168))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-30"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041146946681721113.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -849,9 +849,9 @@ Seedance 2.0 prompt 👇
 
 <a id="cinematic-realism-case-1"></a>
 <!-- Case 1: Modern Japan (by @kuranoayashi) -->
-### Case 1: [Modern Japan](https://x.com/kuranoayashi/status/2040055299835650266) (by [@kuranoayashi](https://x.com/kuranoayashi))
+### Cas 1: [Séquence documentaire sur le Japon moderne](https://x.com/kuranoayashi/status/2040055299835650266) (par [@kuranoayashi](https://x.com/kuranoayashi))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-realism-case-1"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/045.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -865,9 +865,9 @@ No BGM. No subtitles. Only environmental sounds, radio, wind, fire, and people's
 
 <a id="cinematic-realism-case-2"></a>
 <!-- Case 2: Prompt 76 (by @Dheepanratnam) -->
-### Case 2: [Prompt 76](https://x.com/Dheepanratnam/status/2039982273076810119) (by [@Dheepanratnam](https://x.com/Dheepanratnam))
+### Cas 2: [Descente en longboard à la poursuite d’une ombre](https://x.com/Dheepanratnam/status/2039982273076810119) (par [@Dheepanratnam](https://x.com/Dheepanratnam))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-realism-case-2"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/073.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -883,9 +883,9 @@ No BGM. No subtitles. Only environmental sounds, radio, wind, fire, and people's
 
 <a id="cinematic-realism-case-3"></a>
 <!-- Case 3: Meteor Awakening War Heroine (by @ChrisTheNerv) -->
-### Case 3: [Meteor Awakening War Heroine](https://x.com/ChrisTheNerv/status/2040043939109953944) (by [@ChrisTheNerv](https://x.com/ChrisTheNerv))
+### Cas 3: [Héroïne de guerre réveillée par un météore](https://x.com/ChrisTheNerv/status/2040043939109953944) (par [@ChrisTheNerv](https://x.com/ChrisTheNerv))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-realism-case-3"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/075.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -923,9 +923,9 @@ Layered progression from the scream activation to the explosive mechanical erupt
 
 <a id="pov-fpv-case-1"></a>
 <!-- Case 1: Chest-Mounted Camouflage Chase Sequence (by @genel_ai) -->
-### Case 1: [Chest-Mounted Camouflage Chase Sequence](https://x.com/genel_ai/status/2039538309790404797) (by [@genel_ai](https://x.com/genel_ai))
+### Cas 1: [Séquence de poursuite camouflée avec caméra pectorale](https://x.com/genel_ai/status/2039538309790404797) (par [@genel_ai](https://x.com/genel_ai))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-1"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/004.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -948,9 +948,9 @@ The camera remains in a low, fetal position on the final bar, shaking from the a
 
 <a id="pov-fpv-case-2"></a>
 <!-- Case 2: Shanghai Cyberpunk City Sizzle Reel (by @Adam38363368936) -->
-### Case 2: [Shanghai Cyberpunk City Sizzle Reel](https://x.com/Adam38363368936/status/2039498800801398911) (by [@Adam38363368936](https://x.com/Adam38363368936))
+### Cas 2: [Bande-annonce d’une Shanghai cyberpunk](https://x.com/Adam38363368936/status/2039498800801398911) (par [@Adam38363368936](https://x.com/Adam38363368936))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-2"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/005.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -974,9 +974,9 @@ Mood: energetic, futuristic, premium, fast-paced. Combine wide city views with f
 
 <a id="pov-fpv-case-3"></a>
 <!-- Case 3: Cursed Samurai Consistency Action Prompt (by @Just_sharon7) -->
-### Case 3: [Cursed Samurai Consistency Action Prompt](https://x.com/Just_sharon7/status/2040685931858907646) (by [@Just_sharon7](https://x.com/Just_sharon7))
+### Cas 3: [Prompt d’action cohérent d’un samouraï maudit](https://x.com/Just_sharon7/status/2040685931858907646) (par [@Just_sharon7](https://x.com/Just_sharon7))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-3"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/006.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -988,9 +988,9 @@ Strictly follow the reference character’s face, hairstyle, outfit silhouette, 
 
 <a id="pov-fpv-case-4"></a>
 <!-- Case 4: Sun Wukong Battlefield Divine Rescue (by @drjoetw) -->
-### Case 4: [Sun Wukong Battlefield Divine Rescue](https://x.com/drjoetw/status/2040661051948323129) (by [@drjoetw](https://x.com/drjoetw))
+### Cas 4: [Sauvetage divin de Sun Wukong sur le champ de bataille](https://x.com/drjoetw/status/2040661051948323129) (par [@drjoetw](https://x.com/drjoetw))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/009.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1010,9 +1010,9 @@ Shot 8: Wide epic drone pull-back. Wukong stands silhouett
 
 <a id="pov-fpv-case-5"></a>
 <!-- Case 5: Y2K Pool Party Camcorder Montage (by @johnAGI168) -->
-### Case 5: [Y2K Pool Party Camcorder Montage](https://x.com/johnAGI168/status/2040628800422322359) (by [@johnAGI168](https://x.com/johnAGI168))
+### Cas 5: [Montage de fête au bord de la piscine Y2K filmée au caméscope](https://x.com/johnAGI168/status/2040628800422322359) (par [@johnAGI168](https://x.com/johnAGI168))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-5"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/010.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1047,9 +1047,9 @@ A rapid crane rise opens the entire pool party in golden-hour warm light, full o
 
 <a id="pov-fpv-case-6"></a>
 <!-- Case 6: Prompt 40 (by @xingsthatmatter) -->
-### Case 6: [Prompt 40](https://x.com/xingsthatmatter/status/2040190310043812035) (by [@xingsthatmatter](https://x.com/xingsthatmatter))
+### Cas 6: [Explosion urbaine en vue subjective avec carte Tesla](https://x.com/xingsthatmatter/status/2040190310043812035) (par [@xingsthatmatter](https://x.com/xingsthatmatter))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-6"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/038.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1063,9 +1063,9 @@ The camera bursts out from inside image1, the Tesla card, as the card spins forw
 
 <a id="pov-fpv-case-7"></a>
 <!-- Case 7: Extreme Close-Up (by @drjoetw) -->
-### Case 7: [Extreme Close-Up](https://x.com/drjoetw/status/2040036596897222773) (by [@drjoetw](https://x.com/drjoetw))
+### Cas 7: [Séquence de très gros plans pour un clip d’anime](https://x.com/drjoetw/status/2040036596897222773) (par [@drjoetw](https://x.com/drjoetw))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-7"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/049.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1136,9 +1136,9 @@ Freeze frame → dramatic music abruptly cuts.
 
 <a id="pov-fpv-case-8"></a>
 <!-- Case 8: Create A Fast, Seamless 16 (by @aisavvy1) -->
-### Case 8: [Create A Fast, Seamless 16](https://x.com/aisavvy1/status/2040054688054382972) (by [@aisavvy1](https://x.com/aisavvy1))
+### Cas 8: [Séquence rapide et fluide en 16 plans](https://x.com/aisavvy1/status/2040054688054382972) (par [@aisavvy1](https://x.com/aisavvy1))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-8"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/052.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1156,9 +1156,9 @@ Fast, smooth, continuous movement. No flying device, shadow, or reflection. Cine
 
 <a id="pov-fpv-case-9"></a>
 <!-- Case 9: Environment (by @LudovicCreator) -->
-### Case 9: [Environment](https://x.com/LudovicCreator/status/2039983776206344231) (by [@LudovicCreator](https://x.com/LudovicCreator))
+### Cas 9: [Descente au-dessus d’une cité médiévale fantastique](https://x.com/LudovicCreator/status/2039983776206344231) (par [@LudovicCreator](https://x.com/LudovicCreator))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-9"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/069.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1192,9 +1192,9 @@ Photorealistic fire simulation, volumetric smoke, cinematic sunset lighting, rea
 
 <a id="pov-fpv-case-10"></a>
 <!-- Case 10: First-person POV of an ice cube dropped into a glass of soda (by @LudovicCreator) -->
-### Case 10: [First-person POV of an ice cube dropped into a glass of soda](https://x.com/LudovicCreator/status/2039623813080416486) (by [@LudovicCreator](https://x.com/LudovicCreator))
+### Cas 10: [Vue subjective d’un glaçon tombant dans un verre de soda](https://x.com/LudovicCreator/status/2039623813080416486) (par [@LudovicCreator](https://x.com/LudovicCreator))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-10"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/093.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1218,9 +1218,9 @@ Macro drink environment POV, carbonation bubble storms, melting ice transformati
 
 <a id="pov-fpv-case-11"></a>
 <!-- Case 11: Gritty, raw handheld 35mm film aesthetic with natural film grain (by @AngelNwoha) -->
-### Case 11: [Gritty, raw handheld 35mm film aesthetic with natural film grain](https://x.com/AngelNwoha/status/2039792884841591009) (by [@AngelNwoha](https://x.com/AngelNwoha))
+### Cas 11: [Esthétique brute de film 35 mm à l’épaule avec grain naturel](https://x.com/AngelNwoha/status/2039792884841591009) (par [@AngelNwoha](https://x.com/AngelNwoha))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-11"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/102.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1232,9 +1232,9 @@ Gritty, raw handheld 35mm film aesthetic with natural film grain. Bright early-m
 
 <a id="pov-fpv-case-12"></a>
 <!-- Case 12: 10-second photorealistic cinematic POV video (by @umitsuru_fire) -->
-### Case 12: [10-second photorealistic cinematic POV video](https://x.com/umitsuru_fire/status/2039295650039554051) (by [@umitsuru_fire](https://x.com/umitsuru_fire))
+### Cas 12: [Vidéo POV cinématographique photoréaliste de 10 secondes](https://x.com/umitsuru_fire/status/2039295650039554051) (par [@umitsuru_fire](https://x.com/umitsuru_fire))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-12"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/105.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1246,9 +1246,9 @@ Gritty, raw handheld 35mm film aesthetic with natural film grain. Bright early-m
 
 <a id="pov-fpv-case-13"></a>
 <!-- Case 13: A super futuristic megacity after the apocalypse awakens in a storm (by @johnAGI168) -->
-### Case 13: [A super futuristic megacity after the apocalypse awakens in a storm](https://x.com/johnAGI168/status/2039380975801471305) (by [@johnAGI168](https://x.com/johnAGI168))
+### Cas 13: [Une mégalopole post-apocalyptique ultrafuturiste s’éveille dans la tempête](https://x.com/johnAGI168/status/2039380975801471305) (par [@johnAGI168](https://x.com/johnAGI168))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-13"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/108.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1260,9 +1260,9 @@ A super futuristic megacity after the apocalypse awakens in a storm. Dark clouds
 
 <a id="pov-fpv-case-14"></a>
 <!-- Case 14: Style: Ultra-realistic industrial timelapse (by @craftian_keskin) -->
-### Case 14: [Style: Ultra-realistic industrial timelapse](https://x.com/craftian_keskin/status/2039415621960499603) (by [@craftian_keskin](https://x.com/craftian_keskin))
+### Cas 14: [Style : timelapse industriel ultraréaliste](https://x.com/craftian_keskin/status/2039415621960499603) (par [@craftian_keskin](https://x.com/craftian_keskin))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-14"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/111.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1330,9 +1330,9 @@ Camera holds briefly as car exits frame
 
 <a id="pov-fpv-case-15"></a>
 <!-- Case 15: Prompt 116 (by @Yuupapa_free) -->
-### Case 15: [Prompt 116](https://x.com/Yuupapa_free/status/2039329682492121547) (by [@Yuupapa_free](https://x.com/Yuupapa_free))
+### Cas 15: [Transformation d’une lycéenne lors d’une attaque de monstre](https://x.com/Yuupapa_free/status/2039329682492121547) (par [@Yuupapa_free](https://x.com/Yuupapa_free))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-15"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/113.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1344,9 +1344,9 @@ cinematic, heavy action blockbuster film, Japanese city center, collapsed main s
 
 <a id="pov-fpv-case-16"></a>
 <!-- Case 16: Tokyo POV Rollercoaster (by @TechTalkNAVI) -->
-### Case 16: [Tokyo POV Rollercoaster](https://x.com/TechTalkNAVI/status/2039941029265355123) (by [@TechTalkNAVI](https://x.com/TechTalkNAVI))
+### Cas 16: [Montagnes russes à Tokyo en vue subjective](https://x.com/TechTalkNAVI/status/2039941029265355123) (par [@TechTalkNAVI](https://x.com/TechTalkNAVI))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-16"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/061.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1367,9 +1367,9 @@ cinematic, heavy action blockbuster film, Japanese city center, collapsed main s
 
 <a id="pov-fpv-case-17"></a>
 <!-- Case 17: Cinematic Beijing Cultural Ad — 8K First-Person (by @crayon1267) -->
-### Case 17: [Cinematic Beijing Cultural Ad — 8K First-Person](https://x.com/crayon1267/status/2040826411783762286) (by [@crayon1267](https://x.com/crayon1267))
+### Cas 17: [Publicité culturelle cinématographique de Pékin en 8K et vue subjective](https://x.com/crayon1267/status/2040826411783762286) (par [@crayon1267](https://x.com/crayon1267))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-17"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2040826411783762286.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1381,9 +1381,9 @@ cinematic, heavy action blockbuster film, Japanese city center, collapsed main s
 
 <a id="pov-fpv-case-18"></a>
 <!-- Case 18: Extreme Macro FPV — Fairy Wing Tracking Shot (by @EHuanglu) -->
-### Case 18: [Extreme Macro FPV — Fairy Wing Tracking Shot](https://x.com/EHuanglu/status/2041132328655954201) (by [@EHuanglu](https://x.com/EHuanglu))
+### Cas 18: [Macro FPV extrême — suivi d’ailes de fée](https://x.com/EHuanglu/status/2041132328655954201) (par [@EHuanglu](https://x.com/EHuanglu))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-18"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041132328655954201.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1400,9 +1400,9 @@ extreme macro FPV tracking shot, camera tightly attached to the fairy's back, sy
 
 <a id="commercial-product-case-1"></a>
 <!-- Case 1: Perfume-Style Anime Trio Dance Stage (by @ShadeLurk) -->
-### Case 1: [Perfume-Style Anime Trio Dance Stage](https://x.com/ShadeLurk/status/2040671186984796632) (by [@ShadeLurk](https://x.com/ShadeLurk))
+### Cas 1: [Scène de danse d’un trio d’anime façon publicité de parfum](https://x.com/ShadeLurk/status/2040671186984796632) (par [@ShadeLurk](https://x.com/ShadeLurk))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-1"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/007.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1419,9 +1419,9 @@ Three anime girls perform Perfume-style formation dance on an illuminated stage.
 
 <a id="commercial-product-case-2"></a>
 <!-- Case 2: Dark Fantasy Church Duel (by @ZaraIrahh) -->
-### Case 2: [Dark Fantasy Church Duel](https://x.com/ZaraIrahh/status/2040667542390190245) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
+### Cas 2: [Duel dans une église de dark fantasy](https://x.com/ZaraIrahh/status/2040667542390190245) (par [@ZaraIrahh](https://x.com/ZaraIrahh))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-2"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/008.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1433,9 +1433,9 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 
 <a id="commercial-product-case-3"></a>
 <!-- Case 3: Dark Fantasy Shrine Hall Duel (by @MiraMusic_AI) -->
-### Case 3: [Dark Fantasy Shrine Hall Duel](https://x.com/MiraMusic_AI/status/2040595365096034700) (by [@MiraMusic_AI](https://x.com/MiraMusic_AI))
+### Cas 3: [Duel dans la grande salle d’un sanctuaire de dark fantasy](https://x.com/MiraMusic_AI/status/2040595365096034700) (par [@MiraMusic_AI](https://x.com/MiraMusic_AI))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-3"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/012.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1450,9 +1450,9 @@ A strong hook within the first 2 seconds, followed by a stable and cohesive prog
 
 <a id="commercial-product-case-4"></a>
 <!-- Case 4: Japanese Snack Commercial Punchline (by @aigeboku) -->
-### Case 4: [Japanese Snack Commercial Punchline](https://x.com/aigeboku/status/2040562471027782017) (by [@aigeboku](https://x.com/aigeboku))
+### Cas 4: [Chute comique d’une publicité japonaise pour snacks](https://x.com/aigeboku/status/2040562471027782017) (par [@aigeboku](https://x.com/aigeboku))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/014.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1471,9 +1471,9 @@ Shot 5 (3s): Close-up of the new snack package. Narration: "It's out! New releas
 
 <a id="commercial-product-case-5"></a>
 <!-- Case 5: Cinematic Martial Art Sequence for Seedance 2 (by @CharaspowerAI) -->
-### Case 5: [Cinematic Martial Art Sequence for Seedance 2](https://x.com/CharaspowerAI/status/2040376349504815467) (by [@CharaspowerAI](https://x.com/CharaspowerAI))
+### Cas 5: [Séquence cinématographique d’arts martiaux pour Seedance 2](https://x.com/CharaspowerAI/status/2040376349504815467) (par [@CharaspowerAI](https://x.com/CharaspowerAI))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-5"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/017.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1496,9 +1496,9 @@ Ultra realistic, high-end martial arts film choreography, precise body mechanics
 
 <a id="commercial-product-case-6"></a>
 <!-- Case 6: I asked Grok to produce the same video, but the result wasn't convincing (by @Viafin23) -->
-### Case 6: [I asked Grok to produce the same video, but the result wasn't convincing](https://x.com/Viafin23/status/2025901411221774788) (by [@Viafin23](https://x.com/Viafin23))
+### Cas 6: [Comparaison vidéo de Grok sur la même scène](https://x.com/Viafin23/status/2025901411221774788) (par [@Viafin23](https://x.com/Viafin23))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-6"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/020.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1517,9 +1517,9 @@ Maintain stable temporal continuity. Avoid unnatural frame interpolation. No exa
 
 <a id="commercial-product-case-7"></a>
 <!-- Case 7: Japanese Classroom Whisper Romance (by @JiahaoYang_art) -->
-### Case 7: [Japanese Classroom Whisper Romance](https://x.com/JiahaoYang_art/status/2033119940216344616) (by [@JiahaoYang_art](https://x.com/JiahaoYang_art))
+### Cas 7: [Romance chuchotée dans une classe japonaise](https://x.com/JiahaoYang_art/status/2033119940216344616) (par [@JiahaoYang_art](https://x.com/JiahaoYang_art))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-7"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/022.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1537,9 +1537,9 @@ Character identity is maintained throughout, real subtle head tilts, eye movemen
 
 <a id="commercial-product-case-8"></a>
 <!-- Case 8: Recommended Settings Mode (by @MiraMusic_AI) -->
-### Case 8: [Recommended Settings Mode](https://x.com/MiraMusic_AI/status/2039096342749016145) (by [@MiraMusic_AI](https://x.com/MiraMusic_AI))
+### Cas 8: [Mode de réglages recommandés](https://x.com/MiraMusic_AI/status/2039096342749016145) (par [@MiraMusic_AI](https://x.com/MiraMusic_AI))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-8"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/025.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1551,9 +1551,9 @@ Character identity is maintained throughout, real subtle head tilts, eye movemen
 
 <a id="commercial-product-case-9"></a>
 <!-- Case 9: LaFerrari Commercial Storyboard (by @Adam38363368936) -->
-### Case 9: [LaFerrari Commercial Storyboard](https://x.com/Adam38363368936/status/2039932977287979053) (by [@Adam38363368936](https://x.com/Adam38363368936))
+### Cas 9: [Storyboard publicitaire pour LaFerrari](https://x.com/Adam38363368936/status/2039932977287979053) (par [@Adam38363368936](https://x.com/Adam38363368936))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-9"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/030.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1591,9 +1591,9 @@ Highest image quality: 8K.
 
 <a id="commercial-product-case-10"></a>
 <!-- Case 10: Hot-Blooded Anime Final Duel (by @gkxspace) -->
-### Case 10: [Hot-Blooded Anime Final Duel](https://x.com/gkxspace/status/2039894982434111716) (by [@gkxspace](https://x.com/gkxspace))
+### Cas 10: [Duel final d’anime survolté](https://x.com/gkxspace/status/2039894982434111716) (par [@gkxspace](https://x.com/gkxspace))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-10"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/032.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1607,9 +1607,9 @@ Original Hot-Blooded Duel Anime Short Film: Two top warriors launch their final 
 
 <a id="commercial-product-case-11"></a>
 <!-- Case 11: Prompt 35 (by @johnAGI168) -->
-### Case 11: [Prompt 35](https://x.com/johnAGI168/status/2025849650654122348) (by [@johnAGI168](https://x.com/johnAGI168))
+### Cas 11: [Défilé de haute couture en porcelaine sur miroir céleste](https://x.com/johnAGI168/status/2025849650654122348) (par [@johnAGI168](https://x.com/johnAGI168))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-11"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/033.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1621,9 +1621,9 @@ Original Hot-Blooded Duel Anime Short Film: Two top warriors launch their final 
 
 <a id="commercial-product-case-12"></a>
 <!-- Case 12: Character (by @johnAGI168) -->
-### Case 12: [Character](https://x.com/johnAGI168/status/2021818021354848258) (by [@johnAGI168](https://x.com/johnAGI168))
+### Cas 12: [Publicité de récolte d’un créateur rural moderne](https://x.com/johnAGI168/status/2021818021354848258) (par [@johnAGI168](https://x.com/johnAGI168))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-12"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/034.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1658,9 +1658,9 @@ Atmosphere: Steam slowly rises against the backlight, the scene is so quiet you 
 
 <a id="commercial-product-case-13"></a>
 <!-- Case 13: Camera (by @CharaspowerAI) -->
-### Case 13: [Camera](https://x.com/CharaspowerAI/status/2039651574297792688) (by [@CharaspowerAI](https://x.com/CharaspowerAI))
+### Cas 13: [Séquence de course de rue au néon](https://x.com/CharaspowerAI/status/2039651574297792688) (par [@CharaspowerAI](https://x.com/CharaspowerAI))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-13"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/036.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1684,9 +1684,9 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 <a id="commercial-product-case-14"></a>
 <!-- Case 14: Prompt 49 (by @johnAGI168) -->
-### Case 14: [Prompt 49](https://x.com/johnAGI168/status/2039984306085327298) (by [@johnAGI168](https://x.com/johnAGI168))
+### Cas 14: [Top-modèle et voitures de sport de luxe](https://x.com/johnAGI168/status/2039984306085327298) (par [@johnAGI168](https://x.com/johnAGI168))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-14"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/046.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1698,9 +1698,9 @@ Generate a visual blockbuster featuring an Asian supermodel and luxury sports ca
 
 <a id="commercial-product-case-15"></a>
 <!-- Case 15: Prompt 57 (by @aiehon_aya) -->
-### Case 15: [Prompt 57](https://x.com/aiehon_aya/status/2040187587889905861) (by [@aiehon_aya](https://x.com/aiehon_aya))
+### Cas 15: [Poursuite d’une androïde après la destruction d’un laboratoire](https://x.com/aiehon_aya/status/2040187587889905861) (par [@aiehon_aya](https://x.com/aiehon_aya))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-15"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/054.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1712,9 +1712,9 @@ An android girl malfunctions and proceeds to destroy an evil research lab one af
 
 <a id="commercial-product-case-16"></a>
 <!-- Case 16: Positive Prompt (by @adrianaia_) -->
-### Case 16: [Positive Prompt](https://x.com/adrianaia_/status/2039972811067031657) (by [@adrianaia_](https://x.com/adrianaia_))
+### Cas 16: [Bande-annonce de jeu dans une ville de néon en ruines](https://x.com/adrianaia_/status/2039972811067031657) (par [@adrianaia_](https://x.com/adrianaia_))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-16"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/055.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1726,9 +1726,9 @@ Positive Prompt: Original action game concept trailer. The protagonist travels t
 
 <a id="commercial-product-case-17"></a>
 <!-- Case 17: Original Dark Fantasy Action Short Film (by @Rufus87078959) -->
-### Case 17: [Original Dark Fantasy Action Short Film](https://x.com/Rufus87078959/status/2039949879607197828) (by [@Rufus87078959](https://x.com/Rufus87078959))
+### Cas 17: [Court métrage original d’action et de dark fantasy](https://x.com/Rufus87078959/status/2039949879607197828) (par [@Rufus87078959](https://x.com/Rufus87078959))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-17"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/066.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1740,9 +1740,9 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 
 <a id="commercial-product-case-18"></a>
 <!-- Case 18: 00:00-00:04 Shot 1: Follow shot (by @IamEmily2050) -->
-### Case 18: [00:00-00:04 Shot 1: Follow shot](https://web.archive.org/web/*/https://x.com/IamEmily2050/status/2040213294443847933) (by [@IamEmily2050](https://x.com/IamEmily2050))
+### Cas 18: [00:00–00:04 Plan 1 : travelling de suivi](https://web.archive.org/web/*/https://x.com/IamEmily2050/status/2040213294443847933) (par [@IamEmily2050](https://x.com/IamEmily2050))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-18"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/070.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1754,9 +1754,9 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 
 <a id="commercial-product-case-19"></a>
 <!-- Case 19: Prompt 98 (by @ImperfectEngel) -->
-### Case 19: [Prompt 98](https://web.archive.org/web/*/https://x.com/ImperfectEngel/status/2039796558238286329) (by [@ImperfectEngel](https://web.archive.org/web/*/https://x.com/ImperfectEngel))
+### Cas 19: [Séquence de combat tactique sur le toit d’un train](https://web.archive.org/web/*/https://x.com/ImperfectEngel/status/2039796558238286329) (par [@ImperfectEngel](https://web.archive.org/web/*/https://x.com/ImperfectEngel))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-19"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/095.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1768,9 +1768,9 @@ Original Dark Fantasy Action Short Film: Inside a dilapidated church, a white-cl
 
 <a id="commercial-product-case-20"></a>
 <!-- Case 20: Prompt 112 (by @johnAGI168) -->
-### Case 20: [Prompt 112](https://x.com/johnAGI168/status/2039277115690877430) (by [@johnAGI168](https://x.com/johnAGI168))
+### Cas 20: [Frénésie sur le parquet de Manhattan](https://x.com/johnAGI168/status/2039277115690877430) (par [@johnAGI168](https://x.com/johnAGI168))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-20"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/109.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1786,9 +1786,9 @@ The open-plan office hall of a luxurious securities company in Manhattan, USA, i
 
 <a id="commercial-product-case-21"></a>
 <!-- Case 21: (Poliziottesco Wednesday) (by @ChrisGwinnLA) -->
-### Case 21: [(Poliziottesco Wednesday)](https://x.com/ChrisGwinnLA/status/2039456415111393356) (by [@ChrisGwinnLA](https://x.com/ChrisGwinnLA))
+### Cas 21: [Mercredi façon poliziottesco](https://x.com/ChrisGwinnLA/status/2039456415111393356) (par [@ChrisGwinnLA](https://x.com/ChrisGwinnLA))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-21"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/118.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1801,9 +1801,9 @@ A crime wave has hit the city and the cops can't seem to get it together. Detect
 
 <a id="commercial-product-case-22"></a>
 <!-- Case 22: Foldable Smartphone Fashion Ad (by @Adam38363368936) -->
-### Case 22: [Foldable Smartphone Fashion Ad](https://x.com/Adam38363368936/status/2039157138002780202) (by [@Adam38363368936](https://x.com/Adam38363368936))
+### Cas 22: [Publicité de mode pour smartphone pliable](https://x.com/Adam38363368936/status/2039157138002780202) (par [@Adam38363368936](https://x.com/Adam38363368936))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-22"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/121.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1827,9 +1827,9 @@ Requirements: Fast pace, tight transitions, high-end fashion, youthful energy, n
 
 <a id="commercial-product-case-23"></a>
 <!-- Case 23: Travel Suitcase Buddy Montage (by @ChaseAIx) -->
-### Case 23: [Travel Suitcase Buddy Montage](https://x.com/ChaseAIx/status/2045080469533057252) (by [@ChaseAIx](https://x.com/ChaseAIx))
+### Cas 23: [Montage avec une valise comme compagnon de voyage](https://x.com/ChaseAIx/status/2045080469533057252) (par [@ChaseAIx](https://x.com/ChaseAIx))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-23"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/sAVFzyGI01SXuQGa.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1869,9 +1869,9 @@ SHOT 15: WS, 50mm pull-out / L-cut with a match from the floor to the bed. The m
 
 <a id="commercial-product-case-24"></a>
 <!-- Case 24: Top-Down Fashion Lookbook — Outfit Change Sequence (by @johnAGI168) -->
-### Case 24: [Top-Down Fashion Lookbook — Outfit Change Sequence](https://x.com/johnAGI168/status/2040767631213363656) (by [@johnAGI168](https://x.com/johnAGI168))
+### Cas 24: [Lookbook de mode en plongée — séquence de changement de tenue](https://x.com/johnAGI168/status/2040767631213363656) (par [@johnAGI168](https://x.com/johnAGI168))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-24"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2040767631213363656.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1919,9 +1919,9 @@ prompt 👇
 
 <a id="commercial-product-case-25"></a>
 <!-- Case 25: Premium Lifestyle Commercial — Vlog Selfie Style (by @johnAGI168) -->
-### Case 25: [Premium Lifestyle Commercial — Vlog Selfie Style](https://x.com/johnAGI168/status/2041374063243800793) (by [@johnAGI168](https://x.com/johnAGI168))
+### Cas 25: [Publicité lifestyle haut de gamme façon selfie de vlog](https://x.com/johnAGI168/status/2041374063243800793) (par [@johnAGI168](https://x.com/johnAGI168))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-25"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041374063243800793.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1966,9 +1966,9 @@ prompt 👇
 
 <a id="reference-driven-case-1"></a>
 <!-- Case 1: Skeleton Pianist Miniature Diorama Performance (by @tea_story_hoshi) -->
-### Case 1: [Skeleton Pianist Miniature Diorama Performance](https://x.com/tea_story_hoshi/status/2040614786933887043) (by [@tea_story_hoshi](https://x.com/tea_story_hoshi))
+### Cas 1: [Performance d’un pianiste squelette dans un diorama miniature](https://x.com/tea_story_hoshi/status/2040614786933887043) (par [@tea_story_hoshi](https://x.com/tea_story_hoshi))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-1"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/011.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -1992,9 +1992,9 @@ Timeline:
 
 <a id="reference-driven-case-2"></a>
 <!-- Case 2: Storm Ship Princess vs Kraken (by @applete77191758) -->
-### Case 2: [Storm Ship Princess vs Kraken](https://x.com/applete77191758/status/2040450526819807277) (by [@applete77191758](https://x.com/applete77191758))
+### Cas 2: [Princesse sur un navire en pleine tempête contre le kraken](https://x.com/applete77191758/status/2040450526819807277) (par [@applete77191758](https://x.com/applete77191758))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-2"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/015.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -2070,9 +2070,9 @@ Motion blur + light streaks
 
 <a id="reference-driven-case-3"></a>
 <!-- Case 3: Maid Blade Dance: Mei vs Coco (by @MiraMusic_AI) -->
-### Case 3: [Maid Blade Dance: Mei vs Coco](https://x.com/MiraMusic_AI/status/2040281710957666770) (by [@MiraMusic_AI](https://x.com/MiraMusic_AI))
+### Cas 3: [Danse des lames des servantes : Mei contre Coco](https://x.com/MiraMusic_AI/status/2040281710957666770) (par [@MiraMusic_AI](https://x.com/MiraMusic_AI))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-3"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/019.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -2150,9 +2150,9 @@ Notes:
 
 <a id="reference-driven-case-4"></a>
 <!-- Case 4: Apocalyptic Rooftop Piano Farewell (by @liyue_ai) -->
-### Case 4: [Apocalyptic Rooftop Piano Farewell](https://x.com/liyue_ai/status/2040062803076341872) (by [@liyue_ai](https://x.com/liyue_ai))
+### Cas 4: [Adieu au piano sur un toit apocalyptique](https://x.com/liyue_ai/status/2040062803076341872) (par [@liyue_ai](https://x.com/liyue_ai))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/028.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -2184,9 +2184,9 @@ Color and tonality: Hollywood teal-and-orange tone, low saturation. Generate the
 
 <a id="reference-driven-case-5"></a>
 <!-- Case 5: CINEMATIC 8mm Fisheye lens, FPV racing drone camera, hyper-fluid motion (by @itsPixieVerse) -->
-### Case 5: [CINEMATIC 8mm Fisheye lens, FPV racing drone camera, hyper-fluid motion](https://x.com/itsPixieVerse/status/2040030453298811099) (by [@itsPixieVerse](https://x.com/itsPixieVerse))
+### Cas 5: [Objectif fisheye cinématographique 8 mm, drone de course FPV et mouvement hyperfluide](https://x.com/itsPixieVerse/status/2040030453298811099) (par [@itsPixieVerse](https://x.com/itsPixieVerse))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-5"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/048.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -2202,9 +2202,9 @@ Color and tonality: Hollywood teal-and-orange tone, low saturation. Generate the
 
 <a id="reference-driven-case-6"></a>
 <!-- Case 6: Subject (by @YaReYaRu30Life) -->
-### Case 6: [Subject](https://x.com/YaReYaRu30Life/status/2039971048305930643) (by [@YaReYaRu30Life](https://x.com/YaReYaRu30Life))
+### Cas 6: [Séquence de cascades de kung-fu guidée par référence](https://x.com/YaReYaRu30Life/status/2039971048305930643) (par [@YaReYaRu30Life](https://x.com/YaReYaRu30Life))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-6"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/059.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -2221,9 +2221,9 @@ Constant full-speed forward
 
 <a id="reference-driven-case-7"></a>
 <!-- Case 7: Ray tracing, Unreal Engine render, small town in heavy rain (by @Gwsubsa) -->
-### Case 7: [Ray tracing, Unreal Engine render, small town in heavy rain](https://x.com/Gwsubsa/status/2040193631341174792) (by [@Gwsubsa](https://x.com/Gwsubsa))
+### Cas 7: [Ray tracing, rendu Unreal Engine et petite ville sous une pluie battante](https://x.com/Gwsubsa/status/2040193631341174792) (par [@Gwsubsa](https://x.com/Gwsubsa))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-7"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/071.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -2235,9 +2235,9 @@ Ray tracing, Unreal Engine render, small town in heavy rain. @image1 character w
 
 <a id="reference-driven-case-8"></a>
 <!-- Case 8: Moon Convenience Store Night Shift (by @zasuko_michiksa) -->
-### Case 8: [Moon Convenience Store Night Shift](https://x.com/zasuko_michiksa/status/2039650311212872036) (by [@zasuko_michiksa](https://x.com/zasuko_michiksa))
+### Cas 8: [Service de nuit dans l’épicerie lunaire](https://x.com/zasuko_michiksa/status/2039650311212872036) (par [@zasuko_michiksa](https://x.com/zasuko_michiksa))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-8"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/084.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -2249,9 +2249,9 @@ Use `real-zasuko-2.0-character-sheet-dx.png` as the character reference. Start w
 
 <a id="reference-driven-case-9"></a>
 <!-- Case 9: Rooftop Awakening to F-14 Transformation (by @john87445528) -->
-### Case 9: [Rooftop Awakening to F-14 Transformation](https://x.com/john87445528/status/2039496153641660508) (by [@john87445528](https://x.com/john87445528))
+### Cas 9: [Réveil sur le toit et transformation en F-14](https://x.com/john87445528/status/2039496153641660508) (par [@john87445528](https://x.com/john87445528))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-9"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/088.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -2267,9 +2267,9 @@ Chapter 3 (0-15 seconds): AITO M7 Transforms -> Becomes an F-14 -> Protagonist S
 
 <a id="reference-driven-case-10"></a>
 <!-- Case 10: Armor Assembly Street Counterattack (by @egeberkina) -->
-### Case 10: [Armor Assembly Street Counterattack](https://x.com/egeberkina/status/2044809303878693242) (by [@egeberkina](https://x.com/egeberkina))
+### Cas 10: [Assemblage d’armure et contre-attaque dans la rue](https://x.com/egeberkina/status/2044809303878693242) (par [@egeberkina](https://x.com/egeberkina))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-10"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/TfQ7cL05pwwcaq06.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -2360,9 +2360,9 @@ low cinematic pulse builds cuts abruptly at end
 
 <a id="reference-driven-case-11"></a>
 <!-- Case 11: Character reference @Image 1, convert to real-person live-action style (by @Adam38363368936) -->
-### Case 11: [Character reference @Image 1, convert to real-person live-action style](https://x.com/Adam38363368936/status/2039646077230698743) (by [@Adam38363368936](https://x.com/Adam38363368936))
+### Cas 11: [Référence du personnage de l’image 1 convertie en prise de vues réelles](https://x.com/Adam38363368936/status/2039646077230698743) (par [@Adam38363368936](https://x.com/Adam38363368936))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-11"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/103.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -2393,9 +2393,9 @@ Shot Breakdown (15 shots in 15 seconds):
 
 <a id="reference-driven-case-12"></a>
 <!-- Case 12: Format (by @aimikoda) -->
-### Case 12: [Format](https://x.com/aimikoda/status/2039380910278115454) (by [@aimikoda](https://x.com/aimikoda))
+### Cas 12: [Modèle de duel à l’épée avec ours polaire et raccord de mouvement](https://x.com/aimikoda/status/2039380910278115454) (par [@aimikoda](https://x.com/aimikoda))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-12"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/112.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -2409,9 +2409,9 @@ SUBJECTS: A lone sword-bearing woman in weathered fur and leather fights a massi
 
 <a id="reference-driven-case-13"></a>
 <!-- Case 13: Seven-Image Seamless Morphing Sequence (by @YaReYaRu30Life) -->
-### Case 13: [Seven-Image Seamless Morphing Sequence](https://x.com/YaReYaRu30Life/status/2039474680235741681) (by [@YaReYaRu30Life](https://x.com/YaReYaRu30Life))
+### Cas 13: [Séquence de morphing fluide à partir de sept images](https://x.com/YaReYaRu30Life/status/2039474680235741681) (par [@YaReYaRu30Life](https://x.com/YaReYaRu30Life))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-13"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/114.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -2483,9 +2483,9 @@ seamless transformation flow
 
 <a id="reference-driven-case-14"></a>
 <!-- Case 14: Stridex Sneaker Commercial (by @ShamsAmin56) -->
-### Case 14: [Stridex Sneaker Commercial](https://x.com/ShamsAmin56/status/2045084636695650511) (by [@ShamsAmin56](https://x.com/ShamsAmin56))
+### Cas 14: [Publicité pour baskets Stridex](https://x.com/ShamsAmin56/status/2045084636695650511) (par [@ShamsAmin56](https://x.com/ShamsAmin56))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-14"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/K1jRd7vJAePuYplT.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -2525,9 +2525,9 @@ Lighting: balanced, high-end studio look, crisp shadows, premium finish.
 
 <a id="reference-driven-case-15"></a>
 <!-- Case 15: Image-Driven Prompt with Singing Cat (by @pan_soramame_da) -->
-### Case 15: [Image-Driven Prompt with Singing Cat](https://x.com/pan_soramame_da/status/2040921171059752988) (by [@pan_soramame_da](https://x.com/pan_soramame_da))
+### Cas 15: [Prompt guidé par image avec un chat chanteur](https://x.com/pan_soramame_da/status/2040921171059752988) (par [@pan_soramame_da](https://x.com/pan_soramame_da))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-15"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2040921171059752988.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -2565,9 +2565,9 @@ Lighting: balanced, high-end studio look, crisp shadows, premium finish.
 
 <a id="reference-driven-case-16"></a>
 <!-- Case 16: Character Reference Anime Prompt (by @Reiria123) -->
-### Case 16: [Character Reference Anime Prompt](https://x.com/Reiria123/status/2041118339393826933) (by [@Reiria123](https://x.com/Reiria123))
+### Cas 16: [Prompt d’anime avec référence de personnage](https://x.com/Reiria123/status/2041118339393826933) (par [@Reiria123](https://x.com/Reiria123))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-16"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041118339393826933.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -2625,9 +2625,9 @@ Bright autu
 
 <a id="surreal-vfx-case-1"></a>
 <!-- Case 1: Zero-Gravity Katana Combat (by @MiraMusic_AI) -->
-### Case 1: [Zero-Gravity Katana Combat](https://x.com/MiraMusic_AI/status/2040584525781364874) (by [@MiraMusic_AI](https://x.com/MiraMusic_AI))
+### Cas 1: [Combat au katana en apesanteur](https://x.com/MiraMusic_AI/status/2040584525781364874) (par [@MiraMusic_AI](https://x.com/MiraMusic_AI))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-1"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/013.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -2671,9 +2671,9 @@ She regains balance, floating motionless as the scene holds on a final frame.
 
 <a id="surreal-vfx-case-2"></a>
 <!-- Case 2: Aerial Shot (by @chaosdotjpg) -->
-### Case 2: [Aerial Shot](https://x.com/chaosdotjpg/status/2040203827249398086) (by [@chaosdotjpg](https://x.com/chaosdotjpg))
+### Cas 2: [Baleine dans les nuages — épopée surréaliste](https://x.com/chaosdotjpg/status/2040203827249398086) (par [@chaosdotjpg](https://x.com/chaosdotjpg))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-2"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/051.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -2686,9 +2686,9 @@ Aerial shot: skyline,
 
 <a id="surreal-vfx-case-3"></a>
 <!-- Case 3: Prompt 85 (by @AIARTGALLARY) -->
-### Case 3: [Prompt 85](https://x.com/AIARTGALLARY/status/2039964736419479576) (by [@AIARTGALLARY](https://x.com/AIARTGALLARY))
+### Cas 3: [Métamorphose d’un plongeur des abysses en créature marine](https://x.com/AIARTGALLARY/status/2039964736419479576) (par [@AIARTGALLARY](https://x.com/AIARTGALLARY))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-3"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/082.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -2700,9 +2700,9 @@ A diver floats motionless in pitch-black ocean depth, a single beam of light cut
 
 <a id="surreal-vfx-case-4"></a>
 <!-- Case 4: Reality splits (by @LudovicCreator) -->
-### Case 4: [Reality splits](https://x.com/LudovicCreator/status/2039768597241725132) (by [@LudovicCreator](https://x.com/LudovicCreator))
+### Cas 4: [Effondrement d’une faille interdimensionnelle dans une mégalopole](https://x.com/LudovicCreator/status/2039768597241725132) (par [@LudovicCreator](https://x.com/LudovicCreator))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/092.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -2742,9 +2742,9 @@ Diegetic prismatic dimensional light reflecting through fractured architecture a
 
 <a id="surreal-vfx-case-5"></a>
 <!-- Case 5: Rainy Underground Alley Merge (by @Dheepanratnam) -->
-### Case 5: [Rainy Underground Alley Merge](https://x.com/Dheepanratnam/status/2039796932562838010) (by [@Dheepanratnam](https://x.com/Dheepanratnam))
+### Cas 5: [Fusion dans une ruelle souterraine pluvieuse](https://x.com/Dheepanratnam/status/2039796932562838010) (par [@Dheepanratnam](https://x.com/Dheepanratnam))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-5"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/096.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -2758,9 +2758,9 @@ Rainy Underground Alley Merge
 
 <a id="surreal-vfx-case-6"></a>
 <!-- Case 6: Video prompt (by @Dheepanratnam) -->
-### Case 6: [Video prompt](https://x.com/Dheepanratnam/status/2039651240909435242) (by [@Dheepanratnam](https://x.com/Dheepanratnam))
+### Cas 6: [Faille urbaine causée par une fracture de la réalité quantique](https://x.com/Dheepanratnam/status/2039651240909435242) (par [@Dheepanratnam](https://x.com/Dheepanratnam))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-6"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/097.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -2778,9 +2778,9 @@ Cinematic 15-second high-budget sci-fi horror sequence on a rain-slicked downtow
 
 <a id="surreal-vfx-case-7"></a>
 <!-- Case 7: the eye suddenly opens (by @roco_kn_roco) -->
-### Case 7: [the eye suddenly opens](https://x.com/roco_kn_roco/status/2039323186127630710) (by [@roco_kn_roco](https://x.com/roco_kn_roco))
+### Cas 7: [L’œil s’ouvre soudainement](https://x.com/roco_kn_roco/status/2039323186127630710) (par [@roco_kn_roco](https://x.com/roco_kn_roco))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-7"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/106.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -2806,9 +2806,9 @@ ultra detailed anime style, cinematic lighting, high contrast, no cartoon exagge
 
 <a id="surreal-vfx-case-8"></a>
 <!-- Case 8: They clash mid-air above a floating lava river (by @LudovicCreator) -->
-### Case 8: [They clash mid-air above a floating lava river](https://x.com/LudovicCreator/status/2039258991809773666) (by [@LudovicCreator](https://x.com/LudovicCreator))
+### Cas 8: [Ils s’entrechoquent en plein vol au-dessus d’une rivière de lave flottante](https://x.com/LudovicCreator/status/2039258991809773666) (par [@LudovicCreator](https://x.com/LudovicCreator))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-8"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/116.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -2836,9 +2836,9 @@ Photorealistic fire simulation, volumetric storm clouds, ray-traced lava glow, c
 
 <a id="surreal-vfx-case-9"></a>
 <!-- Case 9: Creative Director Dimension Walk (by @lukasersil) -->
-### Case 9: [Creative Director Dimension Walk](https://x.com/lukasersil/status/2045070342553493833) (by [@lukasersil](https://x.com/lukasersil))
+### Cas 9: [Marche dimensionnelle du directeur artistique](https://x.com/lukasersil/status/2045070342553493833) (par [@lukasersil](https://x.com/lukasersil))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-9"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/KmTYi8555NBQZpyJ.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -2877,9 +2877,9 @@ FINAL: one last snap → seamless loop back to white studio, identical opening s
 
 <a id="surreal-vfx-case-10"></a>
 <!-- Case 10: Abyssal Entity Altar Inscription — Dark Fantasy (by @Adam38363368936) -->
-### Case 10: [Abyssal Entity Altar Inscription — Dark Fantasy](https://x.com/Adam38363368936/status/2041050710721339521) (by [@Adam38363368936](https://x.com/Adam38363368936))
+### Cas 10: [Inscription sur l’autel d’une entité abyssale — dark fantasy](https://x.com/Adam38363368936/status/2041050710721339521) (par [@Adam38363368936](https://x.com/Adam38363368936))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-10"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041050710721339521.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -2891,9 +2891,9 @@ FINAL: one last snap → seamless loop back to white studio, identical opening s
 
 <a id="surreal-vfx-case-11"></a>
 <!-- Case 11: Floating UI Color Wheel Scene Transformation (by @johnAGI168) -->
-### Case 11: [Floating UI Color Wheel Scene Transformation](https://x.com/johnAGI168/status/2041001869435158629) (by [@johnAGI168](https://x.com/johnAGI168))
+### Cas 11: [Transformation de scène avec roue chromatique flottante dans l’interface](https://x.com/johnAGI168/status/2041001869435158629) (par [@johnAGI168](https://x.com/johnAGI168))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-11"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041001869435158629.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -2914,9 +2914,9 @@ Seedance 2.0 prompt 👇
 
 <a id="templates-structured-case-1"></a>
 <!-- Case 1: Supercarrier Catastrophic Sinking (by @johnAGI168) -->
-### Case 1: [Supercarrier Catastrophic Sinking](https://x.com/johnAGI168/status/2040432247094870343) (by [@johnAGI168](https://x.com/johnAGI168))
+### Cas 1: [Naufrage catastrophique d’un superporte-avions](https://x.com/johnAGI168/status/2040432247094870343) (par [@johnAGI168](https://x.com/johnAGI168))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-1"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/016.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -2932,9 +2932,9 @@ Seedance 2.0 text-to-video prompt below:
 
 <a id="templates-structured-case-2"></a>
 <!-- Case 2: Reconstruction of Memory Shards (by @TechTalkNAVI) -->
-### Case 2: [Reconstruction of Memory Shards](https://x.com/TechTalkNAVI/status/2040327899606306840) (by [@TechTalkNAVI](https://x.com/TechTalkNAVI))
+### Cas 2: [Reconstruction de fragments de mémoire](https://x.com/TechTalkNAVI/status/2040327899606306840) (par [@TechTalkNAVI](https://x.com/TechTalkNAVI))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-2"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/018.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -2961,9 +2961,9 @@ Seedance 2.0 text-to-video prompt below:
 
 <a id="templates-structured-case-3"></a>
 <!-- Case 3: Blueprint to Reality – Single-Story House Transformation (by @craftian_keskin) -->
-### Case 3: [Blueprint to Reality – Single-Story House Transformation](https://x.com/craftian_keskin/status/2039053365666037902) (by [@craftian_keskin](https://x.com/craftian_keskin))
+### Cas 3: [Du plan à la réalité — transformation d’une maison de plain-pied](https://x.com/craftian_keskin/status/2039053365666037902) (par [@craftian_keskin](https://x.com/craftian_keskin))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-3"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/024.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3026,9 +3026,9 @@ Seedance 2.0 text-to-video prompt below:
 
 <a id="templates-structured-case-4"></a>
 <!-- Case 4: Martial-Arts Haute Couture Tailor (by @Adam38363368936) -->
-### Case 4: [Martial-Arts Haute Couture Tailor](https://x.com/Adam38363368936/status/2037359552849666514) (by [@Adam38363368936](https://x.com/Adam38363368936))
+### Cas 4: [Tailleur haute couture d’arts martiaux](https://x.com/Adam38363368936/status/2037359552849666514) (par [@Adam38363368936](https://x.com/Adam38363368936))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/027.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3062,9 +3062,9 @@ TIMELINE:
 
 <a id="templates-structured-case-5"></a>
 <!-- Case 5: Format (by @aimikoda) -->
-### Case 5: [Format](https://x.com/aimikoda/status/2040200435986817039) (by [@aimikoda](https://x.com/aimikoda))
+### Cas 5: [Modèle de changement de tenue synchronisé sur le rythme](https://x.com/aimikoda/status/2040200435986817039) (par [@aimikoda](https://x.com/aimikoda))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-5"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/053.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3079,9 +3079,9 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 
 <a id="templates-structured-case-6"></a>
 <!-- Case 6: Location (by @TechTalkNAVI) -->
-### Case 6: [Location](https://x.com/TechTalkNAVI/status/2039928267323658399) (by [@TechTalkNAVI](https://x.com/TechTalkNAVI))
+### Cas 6: [Modèle de quartier de gratte-ciel dansants](https://x.com/TechTalkNAVI/status/2039928267323658399) (par [@TechTalkNAVI](https://x.com/TechTalkNAVI))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-6"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/062.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3102,9 +3102,9 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 
 <a id="templates-structured-case-7"></a>
 <!-- Case 7: Starlight Shadow / Stardust Silhouette (by @TechTalkNAVI) -->
-### Case 7: [Starlight Shadow / Stardust Silhouette](https://x.com/TechTalkNAVI/status/2039904725639037110) (by [@TechTalkNAVI](https://x.com/TechTalkNAVI))
+### Cas 7: [Ombre de lumière stellaire / silhouette de poussière d’étoiles](https://x.com/TechTalkNAVI/status/2039904725639037110) (par [@TechTalkNAVI](https://x.com/TechTalkNAVI))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-7"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/063.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3134,9 +3134,9 @@ WARDROBE: Sleep tee and lounge shorts at home. Tailored jacket, fitted top, trou
 
 <a id="templates-structured-case-8"></a>
 <!-- Case 8: Subjects (by @0xbisc) -->
-### Case 8: [Subjects](https://x.com/0xbisc/status/2040041171460968728) (by [@0xbisc](https://x.com/0xbisc))
+### Cas 8: [Modèle POV de parkour pictural](https://x.com/0xbisc/status/2040041171460968728) (par [@0xbisc](https://x.com/0xbisc))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-8"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/083.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3152,9 +3152,9 @@ Style: Painterly 3D, stylized on real human anatomy
 
 <a id="templates-structured-case-9"></a>
 <!-- Case 9: Format (by @aimikoda) -->
-### Case 9: [Format](https://x.com/aimikoda/status/2039827756083540361) (by [@aimikoda](https://x.com/aimikoda))
+### Cas 9: [Modèle POV 360 de course dans un escalier en descente](https://x.com/aimikoda/status/2039827756083540361) (par [@aimikoda](https://x.com/aimikoda))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-9"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/090.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3168,9 +3168,9 @@ SUBJECTS: First-person cyclist, handlebars and front wheel flashing low in frame
 
 <a id="templates-structured-case-10"></a>
 <!-- Case 10: Prompt (by @Just_sharon7) -->
-### Case 10: [Prompt](https://web.archive.org/web/*/https://x.com/Just_sharon7/status/2039725656393875580) (by [@Just_sharon7](https://x.com/Just_sharon7))
+### Cas 10: [Modèle de mouvement des aliments et des personnages](https://web.archive.org/web/*/https://x.com/Just_sharon7/status/2039725656393875580) (par [@Just_sharon7](https://x.com/Just_sharon7))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-10"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/094.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3196,9 +3196,9 @@ SUBJECTS: First-person cyclist, handlebars and front wheel flashing low in frame
 
 <a id="templates-structured-case-11"></a>
 <!-- Case 11: Format (by @Dheepanratnam) -->
-### Case 11: [Format](https://x.com/Dheepanratnam/status/2039568902481387645) (by [@Dheepanratnam](https://x.com/Dheepanratnam))
+### Cas 11: [Modèle de course en cuisine avec caméra impossible](https://x.com/Dheepanratnam/status/2039568902481387645) (par [@Dheepanratnam](https://x.com/Dheepanratnam))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-11"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/098.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3212,9 +3212,9 @@ Shot 01 (0:00–2:00): Camera starts at floor level on anti-slip
 
 <a id="templates-structured-case-12"></a>
 <!-- Case 12: Composition (by @CharaspowerAI) -->
-### Case 12: [Composition](https://x.com/CharaspowerAI/status/2039704453784191201) (by [@CharaspowerAI](https://x.com/CharaspowerAI))
+### Cas 12: [Modèle d’explosion POV avec temps figé](https://x.com/CharaspowerAI/status/2039704453784191201) (par [@CharaspowerAI](https://x.com/CharaspowerAI))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-12"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/099.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3258,9 +3258,9 @@ Shot 01 (0:00–2:00): Camera starts at floor level on anti-slip
 
 <a id="templates-structured-case-13"></a>
 <!-- Case 13: Format (by @BrennanErbz) -->
-### Case 13: [Format](https://x.com/BrennanErbz/status/2039579736301781215) (by [@BrennanErbz](https://x.com/BrennanErbz))
+### Cas 13: [Modèle de première sortie spatiale d’un astronaute](https://x.com/BrennanErbz/status/2039579736301781215) (par [@BrennanErbz](https://x.com/BrennanErbz))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-13"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/100.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3272,9 +3272,9 @@ FORMAT: 15s / handheld close + slow cuts / 5 beats / sci-fi drama — astronaut'
 
 <a id="templates-structured-case-14"></a>
 <!-- Case 14: Subjects (by @0xbisc) -->
-### Case 14: [Subjects](https://x.com/0xbisc/status/2039673040787956123) (by [@0xbisc](https://x.com/0xbisc))
+### Cas 14: [Modèle de routine d’un golden retriever](https://x.com/0xbisc/status/2039673040787956123) (par [@0xbisc](https://x.com/0xbisc))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-14"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/104.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3288,9 +3288,9 @@ Subject 2: Golden Retriever, large head, broad chest, thick, fluffy fur; overall
 
 <a id="templates-structured-case-15"></a>
 <!-- Case 15: Stylized 3D Barbershop Transformation Sequence (by @ShamiWeb3) -->
-### Case 15: [Stylized 3D Barbershop Transformation Sequence](https://x.com/ShamiWeb3/status/2039372124079669655) (by [@ShamiWeb3](https://x.com/ShamiWeb3))
+### Cas 15: [Séquence stylisée de transformation dans un salon de coiffure 3D](https://x.com/ShamiWeb3/status/2039372124079669655) (par [@ShamiWeb3](https://x.com/ShamiWeb3))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-15"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/115.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3356,9 +3356,9 @@ Subject 2: Golden Retriever, large head, broad chest, thick, fluffy fur; overall
 
 <a id="templates-structured-case-16"></a>
 <!-- Case 16: Subjects (by @0xbisc) -->
-### Case 16: [Subjects](https://x.com/0xbisc/status/2039332336643248317) (by [@0xbisc](https://x.com/0xbisc))
+### Cas 16: [Modèle impressionniste de mains ramant](https://x.com/0xbisc/status/2039332336643248317) (par [@0xbisc](https://x.com/0xbisc))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-16"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/122.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3371,9 +3371,9 @@ Subject 1: First-person perspective hands (rendered in Monet impressionist oil p
 
 <a id="templates-structured-case-17"></a>
 <!-- Case 17: Female Warrior — Structured Subject Prompt (by @noman23761) -->
-### Case 17: [Female Warrior — Structured Subject Prompt](https://x.com/noman23761/status/2041406971484815564) (by [@noman23761](https://x.com/noman23761))
+### Cas 17: [Guerrière — prompt de sujet structuré](https://x.com/noman23761/status/2041406971484815564) (par [@noman23761](https://x.com/noman23761))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-17"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041406971484815564.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3390,9 +3390,9 @@ Subject 1: First-person perspective hands (rendered in Monet impressionist oil p
 
 <a id="general-cinematic-case-1"></a>
 <!-- Case 1: Spring Wind Memory Poem (by @liyue_ai) -->
-### Case 1: [Spring Wind Memory Poem](https://x.com/liyue_ai/status/2038993496225591731) (by [@liyue_ai](https://x.com/liyue_ai))
+### Cas 1: [Poème de souvenirs dans le vent du printemps](https://x.com/liyue_ai/status/2038993496225591731) (par [@liyue_ai](https://x.com/liyue_ai))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-1"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/001.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3415,9 +3415,9 @@ Background music: soft instrumental music (piano + bamboo flute), slow rhythm, e
 
 <a id="general-cinematic-case-2"></a>
 <!-- Case 2: High-Heel Beat Sync Fashion Close-Up (by @TingFengAIAI) -->
-### Case 2: [High-Heel Beat Sync Fashion Close-Up](https://x.com/TingFengAIAI/status/2038904225548149011) (by [@TingFengAIAI](https://x.com/TingFengAIAI))
+### Cas 2: [Gros plan de mode sur des talons synchronisés au rythme](https://x.com/TingFengAIAI/status/2038904225548149011) (par [@TingFengAIAI](https://x.com/TingFengAIAI))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-2"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/002.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3435,9 +3435,9 @@ Beauty beat-sync sequence:
 
 <a id="general-cinematic-case-3"></a>
 <!-- Case 3: Mini Skateboard Escape in a Child Bedroom (by @anson7956) -->
-### Case 3: [Mini Skateboard Escape in a Child Bedroom](https://x.com/anson7956/status/2038846411253657939) (by [@anson7956](https://x.com/anson7956))
+### Cas 3: [Évasion en mini-skateboard dans une chambre d’enfant](https://x.com/anson7956/status/2038846411253657939) (par [@anson7956](https://x.com/anson7956))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-3"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/003.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3454,9 +3454,9 @@ This is a thrilling, heart-pounding video packed with near escapes. The setting 
 
 <a id="general-cinematic-case-4"></a>
 <!-- Case 4: Prompt 25 (by @techhalla) -->
-### Case 4: [Prompt 25](https://x.com/techhalla/status/2039114930461549008) (by [@techhalla](https://x.com/techhalla))
+### Cas 4: [Duel de grands-mères à Rucker Park](https://x.com/techhalla/status/2039114930461549008) (par [@techhalla](https://x.com/techhalla))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/023.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3468,9 +3468,9 @@ Raw mobile phone footage, vertical handheld shot, shaky cam, grainy texture. At 
 
 <a id="general-cinematic-case-5"></a>
 <!-- Case 5: Prompt 28 (by @AITalesNBH) -->
-### Case 5: [Prompt 28](https://x.com/AITalesNBH/status/2039072522650423445) (by [@AITalesNBH](https://x.com/AITalesNBH))
+### Cas 5: [Séquence de sauvetage d’un bébé par un pompier](https://x.com/AITalesNBH/status/2039072522650423445) (par [@AITalesNBH](https://x.com/AITalesNBH))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-5"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/026.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3482,9 +3482,9 @@ The firefighter is entering the house, at the 3-second mark the firefighter is w
 
 <a id="general-cinematic-case-6"></a>
 <!-- Case 6: Ancient Costume Transformation Showcase (by @johnAGI168) -->
-### Case 6: [Ancient Costume Transformation Showcase](https://x.com/johnAGI168/status/2040058721158467975) (by [@johnAGI168](https://x.com/johnAGI168))
+### Cas 6: [Présentation d’une transformation en costume ancien](https://x.com/johnAGI168/status/2040058721158467975) (par [@johnAGI168](https://x.com/johnAGI168))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-6"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/029.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3503,9 +3503,9 @@ Seedance 2.0 all-purpose reference prompt below:
 
 <a id="general-cinematic-case-7"></a>
 <!-- Case 7: Ginza at night, future cyberpunk (by @ChiakiAkagi) -->
-### Case 7: [Ginza at night, future cyberpunk](https://x.com/ChiakiAkagi/status/2040232705477255363) (by [@ChiakiAkagi](https://x.com/ChiakiAkagi))
+### Cas 7: [Ginza de nuit, cyberpunk du futur](https://x.com/ChiakiAkagi/status/2040232705477255363) (par [@ChiakiAkagi](https://x.com/ChiakiAkagi))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-7"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/037.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3523,9 +3523,9 @@ The female ninja's punch sends the ninja flying, crashing into a neon sign high 
 
 <a id="general-cinematic-case-8"></a>
 <!-- Case 8: stories of a hopper (by @starks_arq) -->
-### Case 8: [stories of a hopper](https://x.com/starks_arq/status/2040036602018451721) (by [@starks_arq](https://x.com/starks_arq))
+### Cas 8: [Histoires d’un sauteur](https://x.com/starks_arq/status/2040036602018451721) (par [@starks_arq](https://x.com/starks_arq))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-8"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/040.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3539,9 +3539,9 @@ stories of a hopper.
 
 <a id="general-cinematic-case-9"></a>
 <!-- Case 9: A suspicious man stands in the center of Shibuya scramble crossing (by @roco_kn_roco) -->
-### Case 9: [A suspicious man stands in the center of Shibuya scramble crossing](https://x.com/roco_kn_roco/status/2039962871149584691) (by [@roco_kn_roco](https://x.com/roco_kn_roco))
+### Cas 9: [Un homme suspect se tient au centre du carrefour de Shibuya](https://x.com/roco_kn_roco/status/2039962871149584691) (par [@roco_kn_roco](https://x.com/roco_kn_roco))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-9"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/043.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3556,9 +3556,9 @@ Protagonist: Hiromu, Age 19
 
 <a id="general-cinematic-case-10"></a>
 <!-- Case 10: Aesthetic (by @maxescu) -->
-### Case 10: [Aesthetic](https://x.com/maxescu/status/2040095139511636166) (by [@maxescu](https://x.com/maxescu))
+### Cas 10: [Vidéo au téléphone au milieu de la foule d’un bateau de pêche](https://x.com/maxescu/status/2040095139511636166) (par [@maxescu](https://x.com/maxescu))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-10"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/044.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3573,9 +3573,9 @@ aesthetic: phone held up in the middle of a packed crowd on the deck of a fishin
 
 <a id="general-cinematic-case-11"></a>
 <!-- Case 11: A girl falls rapidly through a digital tunnel (by @_3912657840) -->
-### Case 11: [A girl falls rapidly through a digital tunnel](https://x.com/_3912657840/status/2039911660656484590) (by [@_3912657840](https://x.com/_3912657840))
+### Cas 11: [Une fille chute à toute vitesse dans un tunnel numérique](https://x.com/_3912657840/status/2039911660656484590) (par [@_3912657840](https://x.com/_3912657840))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-11"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/057.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3587,9 +3587,9 @@ A girl falls rapidly through a digital tunnel. The girl is panicking and flailin
 
 <a id="general-cinematic-case-12"></a>
 <!-- Case 12: Visuals (by @TechTalkNAVI) -->
-### Case 12: [Visuals](https://x.com/TechTalkNAVI/status/2040100728627454339) (by [@TechTalkNAVI](https://x.com/TechTalkNAVI))
+### Cas 12: [Séquence de tir du canon électromagnétique de la Skytree](https://x.com/TechTalkNAVI/status/2040100728627454339) (par [@TechTalkNAVI](https://x.com/TechTalkNAVI))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-12"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/060.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3611,9 +3611,9 @@ Lighting/Color: Cold white, purple discharge. Contrast between silence and roar.
 
 <a id="general-cinematic-case-13"></a>
 <!-- Case 13: A Hollywood movie trailer (by @SSSS_CRYPTOMAN) -->
-### Case 13: [A Hollywood movie trailer](https://x.com/SSSS_CRYPTOMAN/status/2040217171918516475) (by [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN))
+### Cas 13: [Bande-annonce de film hollywoodien](https://x.com/SSSS_CRYPTOMAN/status/2040217171918516475) (par [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-13"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/065.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3625,9 +3625,9 @@ A Hollywood movie trailer. A Marvel-style action movie where an ordinary America
 
 <a id="general-cinematic-case-14"></a>
 <!-- Case 14: Cinematic Vertical 9 (by @Mayz1169) -->
-### Case 14: [Cinematic Vertical 9](https://x.com/Mayz1169/status/2039982387703296044) (by [@Mayz1169](https://x.com/Mayz1169))
+### Cas 14: [Séquence cinématographique verticale 9:16](https://x.com/Mayz1169/status/2039982387703296044) (par [@Mayz1169](https://x.com/Mayz1169))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-14"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/067.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3639,9 +3639,9 @@ Cinematic vertical 9:16 video. Two versions of Rapunzel from Tangled walk side b
 
 <a id="general-cinematic-case-15"></a>
 <!-- Case 15: A giant glacier wall collapses into a fjord beside a coastal city (by @LudovicCreator) -->
-### Case 15: [A giant glacier wall collapses into a fjord beside a coastal city](https://x.com/LudovicCreator/status/2040100791822721300) (by [@LudovicCreator](https://x.com/LudovicCreator))
+### Cas 15: [Un immense mur de glace s’effondre dans un fjord près d’une ville côtière](https://x.com/LudovicCreator/status/2040100791822721300) (par [@LudovicCreator](https://x.com/LudovicCreator))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-15"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/068.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3661,9 +3661,9 @@ Glacier collapse megaflood, iceberg destruction chaos, cinematic polar disaster 
 
 <a id="general-cinematic-case-16"></a>
 <!-- Case 16: A moonlit piano chase where the mouse (by @Dheepanratnam) -->
-### Case 16: [A moonlit piano chase where the mouse](https://x.com/Dheepanratnam/status/2040060221733609969) (by [@Dheepanratnam](https://x.com/Dheepanratnam))
+### Cas 16: [Course-poursuite au piano sous la lune avec une souris](https://x.com/Dheepanratnam/status/2040060221733609969) (par [@Dheepanratnam](https://x.com/Dheepanratnam))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-16"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/072.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3684,9 +3684,9 @@ The cat crashes into the keyboard section, causing a chaotic musical explosion. 
 
 <a id="general-cinematic-case-17"></a>
 <!-- Case 17: 15-second continuous single-shot cartoon sequence (by @Artedeingenio) -->
-### Case 17: [15-second continuous single-shot cartoon sequence](https://x.com/Artedeingenio/status/2040054705183723711) (by [@Artedeingenio](https://x.com/Artedeingenio))
+### Cas 17: [Séquence de dessin animé continue en plan-séquence de 15 secondes](https://x.com/Artedeingenio/status/2040054705183723711) (par [@Artedeingenio](https://x.com/Artedeingenio))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-17"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/077.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3706,9 +3706,9 @@ A small animal character walking through a quiet meadow.
 
 <a id="general-cinematic-case-18"></a>
 <!-- Case 18: Prompt 83 (by @Alin_Reaper05) -->
-### Case 18: [Prompt 83](https://x.com/Alin_Reaper05/status/2040017612105556403) (by [@Alin_Reaper05](https://x.com/Alin_Reaper05))
+### Cas 18: [Bataille de dirigeables steampunk au coucher du soleil](https://x.com/Alin_Reaper05/status/2040017612105556403) (par [@Alin_Reaper05](https://x.com/Alin_Reaper05))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-18"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/080.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3720,9 +3720,9 @@ Victorian-era flying airships with brass gears and giant propellers battling ove
 
 <a id="general-cinematic-case-19"></a>
 <!-- Case 19: Aesthetic (by @maxescu) -->
-### Case 19: [Aesthetic](https://x.com/maxescu/status/2039639805592502504) (by [@maxescu](https://x.com/maxescu))
+### Cas 19: [Travelling de suivi d’ailes à réaction en tongs](https://x.com/maxescu/status/2039639805592502504) (par [@maxescu](https://x.com/maxescu))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-19"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/087.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3737,9 +3737,9 @@ timeline:
 
 <a id="general-cinematic-case-20"></a>
 <!-- Case 20: Exterior of an ancient temple in the deep mountains (by @cdexsta) -->
-### Case 20: [Exterior of an ancient temple in the deep mountains](https://x.com/cdexsta/status/2039559243284844649) (by [@cdexsta](https://x.com/cdexsta))
+### Cas 20: [Extérieur d’un temple ancien au cœur des montagnes](https://x.com/cdexsta/status/2039559243284844649) (par [@cdexsta](https://x.com/cdexsta))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-20"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/089.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3752,9 +3752,9 @@ Exterior of an ancient temple in the deep mountains. The camera overlooks the te
 
 <a id="general-cinematic-case-21"></a>
 <!-- Case 21: Statue of Liberty Sunrise Storyboard (by @MrDasOnX) -->
-### Case 21: [Statue of Liberty Sunrise Storyboard](https://x.com/MrDasOnX/status/2045065813628186733) (by [@MrDasOnX](https://x.com/MrDasOnX))
+### Cas 21: [Storyboard du lever du soleil sur la Statue de la Liberté](https://x.com/MrDasOnX/status/2045065813628186733) (par [@MrDasOnX](https://x.com/MrDasOnX))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-21"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/urrfA6BwbCGtYgie.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3782,9 +3782,9 @@ Fast cinematic cuts, smooth micro camera movements per shot (push, pan, slide, t
 
 <a id="general-cinematic-case-22"></a>
 <!-- Case 22: Historical scene with dramatic lighting (by @AskVenice) -->
-### Case 22: [Historical scene with dramatic lighting](https://x.com/AskVenice/status/2039570736239595726) (by [@AskVenice](https://x.com/AskVenice))
+### Cas 22: [Scène historique à l’éclairage dramatique](https://x.com/AskVenice/status/2039570736239595726) (par [@AskVenice](https://x.com/AskVenice))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-22"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/101.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3802,9 +3802,9 @@ Quick cut: Ottoman cannon
 
 <a id="general-cinematic-case-23"></a>
 <!-- Case 23: ROCKET SURF (by @maxescu) -->
-### Case 23: [ROCKET SURF](https://x.com/maxescu/status/2039308020006396033) (by [@maxescu](https://x.com/maxescu))
+### Cas 23: [Travelling continu de surf propulsé par fusée](https://x.com/maxescu/status/2039308020006396033) (par [@maxescu](https://x.com/maxescu))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-23"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/107.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3823,9 +3823,9 @@ TIMELINE: 0-3s:
 
 <a id="general-cinematic-case-24"></a>
 <!-- Case 24: Dialogue (by @Adam38363368936) -->
-### Case 24: [Dialogue](https://x.com/Adam38363368936/status/2039286911265800297) (by [@Adam38363368936](https://x.com/Adam38363368936))
+### Cas 24: [Modèle de monologue de stand-up](https://x.com/Adam38363368936/status/2039286911265800297) (par [@Adam38363368936](https://x.com/Adam38363368936))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-24"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/120.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3846,9 +3846,9 @@ Scene: Black stand-up stage, strong spotlight illuminating the person, blurred s
 
 <a id="general-cinematic-case-25"></a>
 <!-- Case 25: Birthday Betrayal Restaurant Drama (by @Lighterkissan33) -->
-### Case 25: [Birthday Betrayal Restaurant Drama](https://x.com/Lighterkissan33/status/2045023927412637712) (by [@Lighterkissan33](https://x.com/Lighterkissan33))
+### Cas 25: [Drame de trahison lors d’un anniversaire au restaurant](https://x.com/Lighterkissan33/status/2045023927412637712) (par [@Lighterkissan33](https://x.com/Lighterkissan33))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-25"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/KT84c2TqktCYBHye.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3882,9 +3882,9 @@ her boyfriend full of regret, ending with a low background music and whispers ar
 
 <a id="general-cinematic-case-26"></a>
 <!-- Case 26: Ancient Parkour Costume-Change Sequence (by @Adam38363368936) -->
-### Case 26: [Ancient Parkour Costume-Change Sequence](https://x.com/Adam38363368936/status/2040980673851506798) (by [@Adam38363368936](https://x.com/Adam38363368936))
+### Cas 26: [Séquence de parkour ancien avec changement de costume](https://x.com/Adam38363368936/status/2040980673851506798) (par [@Adam38363368936](https://x.com/Adam38363368936))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-26"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2040980673851506798.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3903,9 +3903,9 @@ Seedance2.0提示词
 
 <a id="general-cinematic-case-27"></a>
 <!-- Case 27: Engine Internals — Piston Mechanical Detail (by @YaReYaRu30Life) -->
-### Case 27: [Engine Internals — Piston Mechanical Detail](https://x.com/YaReYaRu30Life/status/2041068828457877598) (by [@YaReYaRu30Life](https://x.com/YaReYaRu30Life))
+### Cas 27: [Intérieur du moteur — détail mécanique du piston](https://x.com/YaReYaRu30Life/status/2041068828457877598) (par [@YaReYaRu30Life](https://x.com/YaReYaRu30Life))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-27"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041068828457877598.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3928,9 +3928,9 @@ Seedance2.0提示词
 
 <a id="general-cinematic-case-28"></a>
 <!-- Case 28: 90s Japanese Romance Sim — Cel Animation Style (by @kinopioai_ai) -->
-### Case 28: [90s Japanese Romance Sim — Cel Animation Style](https://x.com/kinopioai_ai/status/2040814307487916415) (by [@kinopioai_ai](https://x.com/kinopioai_ai))
+### Cas 28: [Simulation romantique japonaise des années 90 en animation sur celluloïd](https://x.com/kinopioai_ai/status/2040814307487916415) (par [@kinopioai_ai](https://x.com/kinopioai_ai))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-28"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2040814307487916415.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3960,9 +3960,9 @@ Seedance2.0提示词
 
 <a id="general-cinematic-case-29"></a>
 <!-- Case 29: Cinematic Directing Techniques — Multi-Shot Prompt (by @noman23761) -->
-### Case 29: [Cinematic Directing Techniques — Multi-Shot Prompt](https://x.com/noman23761/status/2041409914954973216) (by [@noman23761](https://x.com/noman23761))
+### Cas 29: [Techniques de réalisation cinématographique — prompt multi-plans](https://x.com/noman23761/status/2041409914954973216) (par [@noman23761](https://x.com/noman23761))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-29"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041409914954973216.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -3997,9 +3997,9 @@ You have to explicitly define energy levels
 
 <a id="general-cinematic-case-30"></a>
 <!-- Case 30: East Asian Woman Portrait — Natural Smile (by @noman23761) -->
-### Case 30: [East Asian Woman Portrait — Natural Smile](https://x.com/noman23761/status/2041408928215408931) (by [@noman23761](https://x.com/noman23761))
+### Cas 30: [Portrait d’une femme d’Asie de l’Est au sourire naturel](https://x.com/noman23761/status/2041408928215408931) (par [@noman23761](https://x.com/noman23761))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-30"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041408928215408931.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -4019,9 +4019,9 @@ Same structure, completely different feeling.
 
 <a id="general-cinematic-case-31"></a>
 <!-- Case 31: Post-Apocalyptic Survival — Cinematic Setup (by @noman23761) -->
-### Case 31: [Post-Apocalyptic Survival — Cinematic Setup](https://x.com/noman23761/status/2041405260762419692) (by [@noman23761](https://x.com/noman23761))
+### Cas 31: [Survie post-apocalyptique — mise en scène cinématographique](https://x.com/noman23761/status/2041405260762419692) (par [@noman23761](https://x.com/noman23761))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-31"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041405260762419692.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -4033,9 +4033,9 @@ Same structure, completely different feeling.
 
 <a id="general-cinematic-case-32"></a>
 <!-- Case 32: Pixar Forest Clearing — 3D Animated Scene (by @SPEEDAI07) -->
-### Case 32: [Pixar Forest Clearing — 3D Animated Scene](https://x.com/SPEEDAI07/status/2041393724622795014) (by [@SPEEDAI07](https://x.com/SPEEDAI07))
+### Cas 32: [Clairière de forêt façon Pixar — scène animée en 3D](https://x.com/SPEEDAI07/status/2041393724622795014) (par [@SPEEDAI07](https://x.com/SPEEDAI07))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-32"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041393724622795014.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -4049,9 +4049,9 @@ Pixar 3D animated forest clearing. Sunny day, god rays through trees, green gras
 
 <a id="general-cinematic-case-33"></a>
 <!-- Case 33: Kitten Sneaking Snacks Under Covers (by @lynneatyoumind) -->
-### Case 33: [Kitten Sneaking Snacks Under Covers](https://x.com/lynneatyoumind/status/2041334660173852807) (by [@lynneatyoumind](https://x.com/lynneatyoumind))
+### Cas 33: [Chaton volant des friandises sous les couvertures](https://x.com/lynneatyoumind/status/2041334660173852807) (par [@lynneatyoumind](https://x.com/lynneatyoumind))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-33"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041334660173852807.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -4063,9 +4063,9 @@ prompt: A cute kitten secretly eating snacks under the covers in bed at night. H
 
 <a id="general-cinematic-case-34"></a>
 <!-- Case 34: Seedance 2.0 T2V Natural Speech Test (by @tanabe_fragm) -->
-### Case 34: [Seedance 2.0 T2V Natural Speech Test](https://x.com/tanabe_fragm/status/2041328307267088580) (by [@tanabe_fragm](https://x.com/tanabe_fragm))
+### Cas 34: [Test de parole naturelle T2V de Seedance 2.0](https://x.com/tanabe_fragm/status/2041328307267088580) (par [@tanabe_fragm](https://x.com/tanabe_fragm))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-34"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041328307267088580.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -4084,9 +4084,9 @@ Seedance 2.0はとにかくプロンプト依存が強いモデルですね📝
 
 <a id="general-cinematic-case-35"></a>
 <!-- Case 35: Paper Puppet Horror Animation (by @TomaAIbijo) -->
-### Case 35: [Paper Puppet Horror Animation](https://x.com/TomaAIbijo/status/2041409381162689021) (by [@TomaAIbijo](https://x.com/TomaAIbijo))
+### Cas 35: [Animation d’horreur avec marionnettes en papier](https://x.com/TomaAIbijo/status/2041409381162689021) (par [@TomaAIbijo](https://x.com/TomaAIbijo))
 
-| Output |
+| Résultat |
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-35"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041409381162689021.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
@@ -4168,5 +4168,3 @@ Merci aux créateurs qui ont partagé publiquement ces expériences Seedance 2.0
 *Pour corriger une attribution, une licence ou un retrait, ouvrez une issue avec l’URL source.*
 
 [Partagez un autre prompt Seedance 2.0 sourcé via le processus de contribution.](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=footer&utm_campaign=awesome-seedance-2.0-prompts&utm_content=footer_cta)
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Evolink-AI/awesome-seedance-2.0-prompts&type=Date)](https://www.star-history.com/#Evolink-AI/awesome-seedance-2.0-prompts&Date)

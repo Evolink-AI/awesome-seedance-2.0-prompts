@@ -13,7 +13,9 @@ Describe the user-facing change and why it belongs in this Seedance 2.0 prompt l
 
 - [ ] All 11 README files have the same case/source order.
 - [ ] Prompt blocks, source URLs, handles, model IDs, commands, and UTM values are unchanged.
-- [ ] Visible framing copy is localized without TODO placeholders.
+- [ ] Every case/Menu title matches its reviewed `data/localized-titles/<locale>.tsv` mapping.
+- [ ] Case/author/output/prompt labels and visible framing copy are localized without TODO placeholders.
+- [ ] The semantic localization gate reports zero unexplained unchanged English titles.
 
 ## Media and R2
 
@@ -24,6 +26,8 @@ Describe the user-facing change and why it belongs in this Seedance 2.0 prompt l
 ## Validation
 
 - [ ] `python3 tools/verify_repo.py`
+- [ ] `python3 tools/verify_localization.py`
+- [ ] `python3 tools/verify_star_history.py` records the live star count and enforces the 10-star threshold.
 - [ ] `git diff --check`
 - [ ] Public links, relative links, and anchors were audited.
 
