@@ -28,9 +28,14 @@ action-fantasy-case-27	Bulut mağarasındaki kılıç gölgesi
 action-fantasy-case-28	Tanrılar Şehri — tek planda Doğu fantezi uçuşu
 action-fantasy-case-29	Epik fantezi savaşı — sinematik 10 saniyelik sekans
 action-fantasy-case-30	Doğu tarzı karanlık fantezi dönüşümü
+action-fantasy-case-31	Nehirde timsah yakıt hattı tuzağı
+action-fantasy-case-32	Elektrikli yeraltı arenası düellosu
+action-fantasy-case-33	Pistte uçağı sürükleyen timsah
+action-fantasy-case-34	Şimşek forvetin anime golü
 cinematic-realism-case-1	Modern Japonya belgesel sekansı
 cinematic-realism-case-2	Gölgeyi takip eden longboard inişi
 cinematic-realism-case-3	Meteorla uyanan savaş kahramanı
+cinematic-realism-case-4	Sisli kapsül adası draması
 pov-fpv-case-1	Göğüs kameralı kamuflaj kovalamacası
 pov-fpv-case-2	Şanghay siberpunk şehir tanıtım videosu
 pov-fpv-case-3	Lanetli samuray için tutarlı aksiyon istemi
@@ -49,6 +54,7 @@ pov-fpv-case-15	Canavar saldırısında dönüşen liseli kız
 pov-fpv-case-16	Tokyo birinci şahıs hız treni
 pov-fpv-case-17	Sinematik Pekin kültür reklamı — 8K birinci şahıs
 pov-fpv-case-18	Aşırı makro FPV — peri kanadı takip çekimi
+pov-fpv-case-19	Volkanik mağarada yerçekimi dalışı
 commercial-product-case-1	Parfüm reklamı tarzında anime üçlüsü dans sahnesi
 commercial-product-case-2	Karanlık fantezi kilise düellosu
 commercial-product-case-3	Karanlık fantezi tapınak salonu düellosu
@@ -74,6 +80,7 @@ commercial-product-case-22	Katlanabilir akıllı telefon moda reklamı
 commercial-product-case-23	Seyahat arkadaşı valiz montajı
 commercial-product-case-24	Üstten çekim moda lookbook’u — kıyafet değişim sekansı
 commercial-product-case-25	Premium yaşam tarzı reklamı — vlog selfie tarzı
+commercial-product-case-26	Ritimle eşleşen su geçirmez spor ayakkabı filmi
 reference-driven-case-1	Minyatür diyoramada iskelet piyanist performansı
 reference-driven-case-2	Fırtına gemisindeki prenses Krakene karşı
 reference-driven-case-3	Hizmetçi kılıç dansı: Mei Coco’ya karşı
@@ -90,6 +97,8 @@ reference-driven-case-13	Yedi görselli kesintisiz dönüşüm sekansı
 reference-driven-case-14	Stridex spor ayakkabı reklamı
 reference-driven-case-15	Şarkı söyleyen kedili görsel odaklı istem
 reference-driven-case-16	Karakter referanslı anime istemi
+reference-driven-case-17	Çizgi filmden canlı çekim hayvanlara
+reference-driven-case-18	Kilitli görsel taslak referans hiyerarşisi
 surreal-vfx-case-1	Sıfır yerçekiminde katana dövüşü
 surreal-vfx-case-2	Bulutlardaki balinanın gerçeküstü destanı
 surreal-vfx-case-3	Uçurum dalgıcının deniz canlısına dönüşümü
@@ -153,3 +162,4 @@ general-cinematic-case-32	Pixar tarzı orman açıklığı — 3D animasyon sahn
 general-cinematic-case-33	Battaniyenin altında atıştırmalık çalan yavru kedi
 general-cinematic-case-34	Seedance 2.0 T2V doğal konuşma testi
 general-cinematic-case-35	Kâğıt kukla korku animasyonu
+general-cinematic-case-36	Kızıl çölde motosiklet takip çekimi

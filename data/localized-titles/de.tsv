@@ -28,9 +28,14 @@ action-fantasy-case-27	Schwertschatten in der Wolkenhöhle
 action-fantasy-case-28	Stadt der Götter – orientalischer Fantasyflug in einer Einstellung
 action-fantasy-case-29	Epische Fantasyschlacht – cineastische 10-Sekunden-Sequenz
 action-fantasy-case-30	Düstere Fantasyverwandlung im östlichen Stil
+action-fantasy-case-31	Flussfalle mit Krokodil und Treibstoffleitung
+action-fantasy-case-32	Elektrisches Duell in einer Untergrundarena
+action-fantasy-case-33	Krokodil wird von einem Flugzeug über die Startbahn gezogen
+action-fantasy-case-34	Anime-Tor des Blitzstürmers
 cinematic-realism-case-1	Dokumentarische Sequenz über das moderne Japan
 cinematic-realism-case-2	Longboard-Abfahrt auf den Spuren eines Schattens
 cinematic-realism-case-3	Vom Meteor erweckte Kriegsheldin
+cinematic-realism-case-4	Drama auf einer nebligen Kapselhaus-Insel
 pov-fpv-case-1	Tarnverfolgung mit Brustkamera
 pov-fpv-case-2	Cyberpunk-Stadttrailer aus Shanghai
 pov-fpv-case-3	Konsistenter Action-Prompt eines verfluchten Samurai
@@ -49,6 +54,7 @@ pov-fpv-case-15	Verwandlung einer Schülerin während eines Monsterangriffs
 pov-fpv-case-16	Achterbahnfahrt durch Tokio aus der Ich-Perspektive
 pov-fpv-case-17	Cineastische Pekinger Kulturwerbung in 8K und Ich-Perspektive
 pov-fpv-case-18	Extreme Makro-FPV-Aufnahme mit Verfolgung von Feenflügeln
+pov-fpv-case-19	Schwerkraftsturz in einer Vulkanhöhle
 commercial-product-case-1	Anime-Trio-Tanzbühne im Stil einer Parfümwerbung
 commercial-product-case-2	Duell in einer düsteren Fantasykirche
 commercial-product-case-3	Duell in der Halle eines düsteren Fantasyschreins
@@ -74,6 +80,7 @@ commercial-product-case-22	Modewerbung für ein faltbares Smartphone
 commercial-product-case-23	Montage mit einem Reisekoffer als Begleiter
 commercial-product-case-24	Mode-Lookbook aus der Vogelperspektive mit Outfitwechsel
 commercial-product-case-25	Premium-Lifestyle-Werbung im Vlog-Selfie-Stil
+commercial-product-case-26	Beat-synchroner Film für wasserdichte Sneaker
 reference-driven-case-1	Auftritt eines Skelettpianisten im Miniaturdiorama
 reference-driven-case-2	Prinzessin auf dem Sturmschiff gegen den Kraken
 reference-driven-case-3	Klingen-Tanz der Dienstmädchen: Mei gegen Coco
@@ -90,6 +97,8 @@ reference-driven-case-13	Nahtlose Morphing-Sequenz aus sieben Bildern
 reference-driven-case-14	Stridex-Sneaker-Werbung
 reference-driven-case-15	Bildgesteuerter Prompt mit singender Katze
 reference-driven-case-16	Anime-Prompt mit Charakterreferenz
+reference-driven-case-17	Zeichentricktiere als Realfilmfiguren
+reference-driven-case-18	Gesperrte Referenzhierarchie mit Storyboard
 surreal-vfx-case-1	Katana-Kampf in Schwerelosigkeit
 surreal-vfx-case-2	Wal in den Wolken – surreales Epos
 surreal-vfx-case-3	Verwandlung eines Tiefseetauchers in ein Meereswesen
@@ -153,3 +162,4 @@ general-cinematic-case-32	Pixar-Waldlichtung – 3D-Animationsszene
 general-cinematic-case-33	Kätzchen stiehlt Snacks unter der Decke
 general-cinematic-case-34	Seedance 2.0 T2V-Test für natürliche Sprache
 general-cinematic-case-35	Horroranimation mit Papierpuppen
+general-cinematic-case-36	Motorrad-Verfolgungsfahrt durch die rote Wüste

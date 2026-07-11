@@ -24,6 +24,8 @@ CASE_IMAGE_RE = re.compile(r'<img src="([^"]+)" width="300"')
 HTTP_RE = re.compile(r'https?://[^\s)>"]+')
 
 errors: list[str] = []
+SOURCE_DATA = json.loads((ROOT / 'data/ingested_sources.json').read_text())
+EXPECTED_COUNT = SOURCE_DATA.get('case_count', 0)
 
 def check(ok: bool, message: str) -> None:
     if not ok:
@@ -51,14 +53,14 @@ def main() -> int:
         anchors = re.findall(r'<a id="([a-z0-9-]+-case-\d+)"></a>', text)
         menu_links = re.findall(r'^  - \[.*?\]\(#([a-z0-9-]+-case-\d+)\)$', text, re.M)
 
-        check(len(cases) == 155, f'{name}: expected 155 cases, got {len(cases)}')
-        check(len(set(sources)) == 155, f'{name}: sources are not unique')
-        check(len(prompts) == 155, f'{name}: expected 155 prompt blocks, got {len(prompts)}')
+        check(len(cases) == EXPECTED_COUNT, f'{name}: expected {EXPECTED_COUNT} cases, got {len(cases)}')
+        check(len(set(sources)) == EXPECTED_COUNT, f'{name}: sources are not unique')
+        check(len(prompts) == EXPECTED_COUNT, f'{name}: expected {EXPECTED_COUNT} prompt blocks, got {len(prompts)}')
         check(len(banners) == 1, f'{name}: expected one first-screen banner, got {len(banners)}')
         check(all(url.startswith(R2_PREFIX) for url in banners), f'{name}: non-R2 banner found')
-        check(len(images) == 155, f'{name}: expected 155 case images, got {len(images)}')
+        check(len(images) == EXPECTED_COUNT, f'{name}: expected {EXPECTED_COUNT} case images, got {len(images)}')
         check(all(url.startswith(R2_PREFIX) for url in images), f'{name}: non-R2 case media found')
-        check(len(anchors) == 155 and anchors == menu_links, f'{name}: Menu/case anchor mismatch')
+        check(len(anchors) == EXPECTED_COUNT and anchors == menu_links, f'{name}: Menu/case anchor mismatch')
         check(not re.search(r'\| [^|\n]+ \|\n\| :----: \|\n\n\*\*[^*]+:\*\*', text), f'{name}: empty output table found')
         check('Seedance 2.5' not in text and 'awesome-seedance-2.5-prompts' not in text, f'{name}: Seedance 2.5 drift found')
         check('CC BY 4.0' not in text and 'final open-source license file has not been added' not in text, f'{name}: license drift found')
@@ -90,16 +92,31 @@ def main() -> int:
             check(query.get('utm_campaign') == [CAMPAIGN], f'{name}: wrong utm_campaign on {url}')
             check(bool(query.get('utm_medium')) and bool(query.get('utm_content')), f'{name}: incomplete slot UTM on {url}')
 
-    data = json.loads((ROOT / 'data/ingested_sources.json').read_text())
+    data = SOURCE_DATA
     rows = data.get('cases', [])
-    check(data.get('case_count') == 155 and len(rows) == 155, 'source index case count must be 155')
+    check(EXPECTED_COUNT > 0 and len(rows) == EXPECTED_COUNT, f'source index case count must be {EXPECTED_COUNT}')
     check([row['source_url'] for row in rows] == expected_sources, 'source index order differs from README.md')
     check([row['preview_url'] for row in rows] == expected_images, 'source index media differs from README.md')
     check([row['title'] for row in rows] == [case[1] for case in english_cases], 'source index titles differ from README.md')
     check([row['author_handle'] for row in rows] == [case[3] for case in english_cases], 'source index author handles differ from README.md')
     check([row['author_url'] for row in rows] == [case[4] for case in english_cases], 'source index author URLs differ from README.md')
     check([row['prompt_sha256'] for row in rows] == [hashlib.sha256(prompt.encode()).hexdigest() for prompt in expected_prompts], 'source index prompt hashes differ from README.md')
-    check(sum(item['count'] for item in data.get('categories', [])) == 155, 'category counts do not sum to 155')
+    check(sum(item['count'] for item in data.get('categories', [])) == EXPECTED_COUNT, f'category counts do not sum to {EXPECTED_COUNT}')
+
+    allowed_variants = {'Seedance 2 Mini', 'Seedance 2 Omni'}
+    for row in rows:
+        variant = row.get('model_variant')
+        check(not variant or variant in allowed_variants, f"{row.get('id')}: unsupported model_variant {variant!r}")
+        if row.get('prompt_source_url'):
+            check(row['prompt_source_url'].startswith('https://x.com/'), f"{row.get('id')}: invalid prompt_source_url")
+        if variant == 'Seedance 2 Mini':
+            anchor = f'<a id="{row["id"]}"></a>'
+            for name, text in texts.items():
+                start = text.find(anchor)
+                end = text.find('\n<a id="', start + len(anchor)) if start >= 0 else -1
+                block = text[start:end if end >= 0 else None] if start >= 0 else ''
+                required_note = 'Model variant: Seedance 2 Mini' if name == 'README.md' else 'Seedance 2 Mini'
+                check(required_note in block, f'{name}: {row["id"]} missing Mini model note')
 
     required = [
         'LICENSE', 'CONTRIBUTING.md', 'CODE_OF_CONDUCT.md', 'SECURITY.md',
@@ -125,7 +142,7 @@ def finish() -> int:
         return 1
     print('Repository verification: PASS')
     print('- README files: 11')
-    print('- Unique cases/sources/prompts/media per README: 155')
+    print(f'- Unique cases/sources/prompts/media per README: {EXPECTED_COUNT}')
     print('- Model identity: Seedance 2.0')
     print('- Media policy: R2-hosted')
     print('- Source/data equality: PASS')

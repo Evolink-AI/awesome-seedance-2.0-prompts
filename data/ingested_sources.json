@@ -2,32 +2,32 @@
   "schema_version": 1,
   "repository": "Evolink-AI/awesome-seedance-2.0-prompts",
   "model": "Seedance 2.0",
-  "case_count": 155,
+  "case_count": 165,
   "categories": [
     {
       "slug": "action-fantasy",
       "name": "⚔️ Action / Fantasy",
-      "count": 30
+      "count": 34
     },
     {
       "slug": "cinematic-realism",
       "name": "🎞️ Cinematic Realism",
-      "count": 3
+      "count": 4
     },
     {
       "slug": "pov-fpv",
       "name": "🥽 POV / FPV",
-      "count": 18
+      "count": 19
     },
     {
       "slug": "commercial-product",
       "name": "🏷️ Commercial / Product",
-      "count": 25
+      "count": 26
     },
     {
       "slug": "reference-driven",
       "name": "🖼️ Reference-Driven",
-      "count": 16
+      "count": 18
     },
     {
       "slug": "surreal-vfx",
@@ -42,7 +42,7 @@
     {
       "slug": "general-cinematic",
       "name": "🎬 General Cinematic",
-      "count": 35
+      "count": 36
     }
   ],
   "cases": [
@@ -377,6 +377,54 @@
       "prompt_sha256": "e5dbda1d1a5fd462a70ad4be834faa42d6eda84878f89c490df7b950da7351de"
     },
     {
+      "id": "action-fantasy-case-31",
+      "category": "⚔️ Action / Fantasy",
+      "case_number": 31,
+      "title": "Crocodile Fuel-Line River Trap",
+      "source_url": "https://x.com/rahulnanda86/status/2075816671080747410",
+      "prompt_source_url": "https://x.com/rahulnanda86/status/2075816671080747410",
+      "author_handle": "rahulnanda86",
+      "author_url": "https://x.com/rahulnanda86",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2075816671080747410.jpg",
+      "prompt_sha256": "afb90fd841012b3766a69c9c086a4b25a9c774f07ab69b5548e386e5f1c102e7"
+    },
+    {
+      "id": "action-fantasy-case-32",
+      "category": "⚔️ Action / Fantasy",
+      "case_number": 32,
+      "title": "Electric Underground Arena Duel",
+      "source_url": "https://x.com/CharaspowerAI/status/2075596085926514810",
+      "prompt_source_url": "https://x.com/CharaspowerAI/status/2075596085926514810",
+      "author_handle": "CharaspowerAI",
+      "author_url": "https://x.com/CharaspowerAI",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2075596085926514810.jpg",
+      "prompt_sha256": "e9380abb1a2ce4ef393ab999aa9df8ff81068fbda8b0bc6acff2811c4fe93a73"
+    },
+    {
+      "id": "action-fantasy-case-33",
+      "category": "⚔️ Action / Fantasy",
+      "case_number": 33,
+      "title": "Crocodile Runway Plane Drag",
+      "source_url": "https://x.com/rahulnanda86/status/2075816060360753484",
+      "prompt_source_url": "https://x.com/rahulnanda86/status/2075816060360753484",
+      "author_handle": "rahulnanda86",
+      "author_url": "https://x.com/rahulnanda86",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2075816060360753484.jpg",
+      "prompt_sha256": "9877de1d91a1a814644dc956c4519832c048c6bc265512f4755021d94ed90c7d"
+    },
+    {
+      "id": "action-fantasy-case-34",
+      "category": "⚔️ Action / Fantasy",
+      "case_number": 34,
+      "title": "Lightning Striker Anime Goal",
+      "source_url": "https://x.com/CharaspowerAI/status/2075583075044475292",
+      "prompt_source_url": "https://x.com/CharaspowerAI/status/2075583075044475292",
+      "author_handle": "CharaspowerAI",
+      "author_url": "https://x.com/CharaspowerAI",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2075583075044475292.jpg",
+      "prompt_sha256": "aa92c0abd3e0121fd9806357ba3c205bad3bc96b325b8d39936f3fdb738bed75"
+    },
+    {
       "id": "cinematic-realism-case-1",
       "category": "🎞️ Cinematic Realism",
       "case_number": 1,
@@ -408,6 +456,18 @@
       "author_url": "https://x.com/ChrisTheNerv",
       "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/075.jpg",
       "prompt_sha256": "e3634d2a06b6fa1cb53b803147aaf8e0736c1f83224c5a75292f3d67317a15a7"
+    },
+    {
+      "id": "cinematic-realism-case-4",
+      "category": "🎞️ Cinematic Realism",
+      "case_number": 4,
+      "title": "Misty Capsule Island Drama",
+      "source_url": "https://x.com/umesh_ai/status/2075847160353181852",
+      "prompt_source_url": "https://x.com/umesh_ai/status/2075847163071132022",
+      "author_handle": "umesh_ai",
+      "author_url": "https://x.com/umesh_ai",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2075847160353181852.jpg",
+      "prompt_sha256": "940315677c426c57286d8d85562585dc5ac79da9a7978c5d24b528274cf75ae0"
     },
     {
       "id": "pov-fpv-case-1",
@@ -606,6 +666,18 @@
       "author_url": "https://x.com/EHuanglu",
       "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041132328655954201.jpg",
       "prompt_sha256": "02e103f3657f3e42fe06371381120b0cc082312507a16562315d166f1e626431"
+    },
+    {
+      "id": "pov-fpv-case-19",
+      "category": "🥽 POV / FPV",
+      "case_number": 19,
+      "title": "Volcanic Cave Gravity Dive",
+      "source_url": "https://x.com/LudovicCreator/status/2075641309654622486",
+      "prompt_source_url": "https://x.com/LudovicCreator/status/2075641309654622486",
+      "author_handle": "LudovicCreator",
+      "author_url": "https://x.com/LudovicCreator",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2075641309654622486.jpg",
+      "prompt_sha256": "67aeea42d0d612b86351a5cfaba0b87d384e4978793760e89c20f0fdc128b1ed"
     },
     {
       "id": "commercial-product-case-1",
@@ -883,6 +955,19 @@
       "prompt_sha256": "01be1f506d1099f5e46ab9f5bfb63dcb2d3397157ce4bf446d770a257246c626"
     },
     {
+      "id": "commercial-product-case-26",
+      "category": "🏷️ Commercial / Product",
+      "case_number": 26,
+      "title": "Beat-Synced Waterproof Sneaker Film",
+      "source_url": "https://x.com/madpencil_/status/2075600475299447000",
+      "prompt_source_url": "https://x.com/madpencil_/status/2075600475299447000",
+      "author_handle": "madpencil_",
+      "author_url": "https://x.com/madpencil_",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2075600475299447000.jpg",
+      "prompt_sha256": "940a30bd495ca01e1ce22bf429faba20a13efdbb229f28cb290f39c0cca9d56a",
+      "model_variant": "Seedance 2 Omni"
+    },
+    {
       "id": "reference-driven-case-1",
       "category": "🖼️ Reference-Driven",
       "case_number": 1,
@@ -1057,6 +1142,30 @@
       "author_url": "https://x.com/Reiria123",
       "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041118339393826933.jpg",
       "prompt_sha256": "78a9a4e9fc178436ac3b84b22a09d014a8984f9038222de472a563c8fe78162f"
+    },
+    {
+      "id": "reference-driven-case-17",
+      "category": "🖼️ Reference-Driven",
+      "case_number": 17,
+      "title": "Cartoon to Live-Action Animals",
+      "source_url": "https://x.com/MustafyOf/status/2075913453416456407",
+      "prompt_source_url": "https://x.com/MustafyOf/status/2075913455136027075",
+      "author_handle": "MustafyOf",
+      "author_url": "https://x.com/MustafyOf",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2075913453416456407.jpg",
+      "prompt_sha256": "39093c3c53dea4d34ff691cbe63a3c2c200ce560c8b12b51ba0bbce24bea79d0"
+    },
+    {
+      "id": "reference-driven-case-18",
+      "category": "🖼️ Reference-Driven",
+      "case_number": 18,
+      "title": "Locked Storyboard Reference Hierarchy",
+      "source_url": "https://x.com/startracker/status/2075645228271497462",
+      "prompt_source_url": "https://x.com/startracker/status/2075645228271497462",
+      "author_handle": "startracker",
+      "author_url": "https://x.com/startracker",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2075645228271497462.jpg",
+      "prompt_sha256": "8e4c1ef586ce1d64e7cf33235ed2a368b30b0c8561ae25d4fcf7e8889f588af6"
     },
     {
       "id": "surreal-vfx-case-1",
@@ -1750,6 +1859,18 @@
       "author_url": "https://x.com/TomaAIbijo",
       "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2041409381162689021.jpg",
       "prompt_sha256": "4113b24137174471474b891a7477c78b1f0a9bdc2f38e45db96880c40bab5fff"
+    },
+    {
+      "id": "general-cinematic-case-36",
+      "category": "🎬 General Cinematic",
+      "case_number": 36,
+      "title": "Red Desert Motorcycle Tracking Shot",
+      "source_url": "https://x.com/LudovicCreator/status/2075520438239678846",
+      "prompt_source_url": "https://x.com/LudovicCreator/status/2075520438239678846",
+      "author_handle": "LudovicCreator",
+      "author_url": "https://x.com/LudovicCreator",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2075520438239678846.jpg",
+      "prompt_sha256": "2ba8d7bfe948e3e03b1070eb758dfefe2b4955b6b9f46f423c8437e53ab1bc9a"
     }
   ]
 }

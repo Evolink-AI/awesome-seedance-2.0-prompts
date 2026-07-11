@@ -4,7 +4,7 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![在 EvoLink 使用 Seedance 2.0](https://img.shields.io/badge/%E5%9C%A8_EvoLink_%E4%BD%BF%E7%94%A8_Seedance_2.0-EvoLink-black)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts&utm_content=top_badge)
-[![提示詞-155 個獨特案例](https://img.shields.io/badge/%E6%8F%90%E7%A4%BA%E8%A9%9E-155_%E5%80%8B%E7%8D%A8%E7%89%B9%E6%A1%88%E4%BE%8B-111111)](README.md)
+[![提示詞-165 個獨特案例](https://img.shields.io/badge/%E6%8F%90%E7%A4%BA%E8%A9%9E-165_%E5%80%8B%E7%8D%A8%E7%89%B9%E6%A1%88%E4%BE%8B-111111)](README.md)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -25,7 +25,7 @@
 
 歡迎來到 Awesome Seedance 2.0 Prompts 儲存庫！🤗
 
-**本儲存庫收錄 155 個具來源與作者標註的 Seedance 2.0 電影級影片生成提示詞案例。**
+**本儲存庫收錄 165 個具來源與作者標註的 Seedance 2.0 電影級影片生成提示詞案例。**
 
 提示詞整理自創作者公開貼文，並保留為可重用的 GitHub 原生資料。
 
@@ -45,7 +45,7 @@
 <a id="statistics"></a>
 ## 📊 統計
 
-155 個不重複案例、8 個分類，並同步於 11 份 README。
+165 個不重複案例、8 個分類，並同步於 11 份 README。
 
 <a id="how-to-use"></a>
 ## 🧭 如何使用此儲存庫
@@ -60,7 +60,7 @@
 - [統計](#statistics)
 - [如何使用此儲存庫](#how-to-use)
 - [目錄](#menu)
-- [⚔️ 動作 / 奇幻](#action-fantasy) (30)
+- [⚔️ 動作 / 奇幻](#action-fantasy) (34)
   - [案例 1: 街頭說唱 MV 表演 (作者 @songguoxiansen)](#action-fantasy-case-1)
   - [案例 2: 黑貓沙漠武俠對決 (作者 @nopinduoduo)](#action-fantasy-case-2)
   - [案例 3: 真人版呼吸術決鬥 (作者 @johnAGI168)](#action-fantasy-case-3)
@@ -91,11 +91,16 @@
   - [案例 28: 諸神之城——東方奇幻一鏡飛行 (作者 @john87445528)](#action-fantasy-case-28)
   - [案例 29: 史詩奇幻大戰——電影級 10 秒序列 (作者 @a_shimanski)](#action-fantasy-case-29)
   - [案例 30: 暗黑奇幻變身——東方風格 (作者 @johnAGI168)](#action-fantasy-case-30)
-- [🎞️ 電影寫實](#cinematic-realism) (3)
+  - [案例 31: 鱷魚燃油管線河道陷阱 (作者 @rahulnanda86)](#action-fantasy-case-31)
+  - [案例 32: 地下電光競技場對決 (作者 @CharaspowerAI)](#action-fantasy-case-32)
+  - [案例 33: 鱷魚跑道拖拽飛機 (作者 @rahulnanda86)](#action-fantasy-case-33)
+  - [案例 34: 閃電前鋒動畫進球 (作者 @CharaspowerAI)](#action-fantasy-case-34)
+- [🎞️ 電影寫實](#cinematic-realism) (4)
   - [案例 1: 現代日本紀錄片序列 (作者 @kuranoayashi)](#cinematic-realism-case-1)
   - [案例 2: 追逐影子的長板下坡 (作者 @Dheepanratnam)](#cinematic-realism-case-2)
   - [案例 3: 流星覺醒的戰爭女英雄 (作者 @ChrisTheNerv)](#cinematic-realism-case-3)
-- [🥽 POV / FPV](#pov-fpv) (18)
+  - [案例 4: 迷霧膠囊島劇情 (作者 @umesh_ai)](#cinematic-realism-case-4)
+- [🥽 POV / FPV](#pov-fpv) (19)
   - [案例 1: 胸前相機迷彩追逐序列 (作者 @genel_ai)](#pov-fpv-case-1)
   - [案例 2: 上海賽博龐克城市炫剪 (作者 @Adam38363368936)](#pov-fpv-case-2)
   - [案例 3: 受詛咒武士一致性動作提示詞 (作者 @Just_sharon7)](#pov-fpv-case-3)
@@ -114,7 +119,8 @@
   - [案例 16: 東京第一人稱雲霄飛車 (作者 @TechTalkNAVI)](#pov-fpv-case-16)
   - [案例 17: 電影級北京文化廣告——8K 第一人稱 (作者 @crayon1267)](#pov-fpv-case-17)
   - [案例 18: 極致微距 FPV——仙女翅膀跟拍 (作者 @EHuanglu)](#pov-fpv-case-18)
-- [🏷️ 商業 / 產品](#commercial-product) (25)
+  - [案例 19: 火山洞穴重力俯衝 (作者 @LudovicCreator)](#pov-fpv-case-19)
+- [🏷️ 商業 / 產品](#commercial-product) (26)
   - [案例 1: 香水廣告風動畫三人舞台 (作者 @ShadeLurk)](#commercial-product-case-1)
   - [案例 2: 暗黑奇幻教堂決鬥 (作者 @ZaraIrahh)](#commercial-product-case-2)
   - [案例 3: 暗黑奇幻神社大殿決鬥 (作者 @MiraMusic_AI)](#commercial-product-case-3)
@@ -140,7 +146,8 @@
   - [案例 23: 旅行箱夥伴蒙太奇 (作者 @ChaseAIx)](#commercial-product-case-23)
   - [案例 24: 俯拍時尚型錄——換裝序列 (作者 @johnAGI168)](#commercial-product-case-24)
   - [案例 25: 高端生活方式廣告——自拍影片部落格風格 (作者 @johnAGI168)](#commercial-product-case-25)
-- [🖼️ 參考素材驅動](#reference-driven) (16)
+  - [案例 26: 節拍同步防水運動鞋廣告 (作者 @madpencil_)](#commercial-product-case-26)
+- [🖼️ 參考素材驅動](#reference-driven) (18)
   - [案例 1: 骷髏鋼琴家微縮景觀表演 (作者 @tea_story_hoshi)](#reference-driven-case-1)
   - [案例 2: 風暴船上的公主對決海怪 (作者 @applete77191758)](#reference-driven-case-2)
   - [案例 3: 女僕劍舞：芽衣對決可可 (作者 @MiraMusic_AI)](#reference-driven-case-3)
@@ -157,6 +164,8 @@
   - [案例 14: Stridex 運動鞋廣告 (作者 @ShamsAmin56)](#reference-driven-case-14)
   - [案例 15: 帶歌唱貓咪的圖像驅動提示詞 (作者 @pan_soramame_da)](#reference-driven-case-15)
   - [案例 16: 角色參考動畫提示詞 (作者 @Reiria123)](#reference-driven-case-16)
+  - [案例 17: 卡通動物實拍化 (作者 @MustafyOf)](#reference-driven-case-17)
+  - [案例 18: 鎖定分鏡參考層級 (作者 @startracker)](#reference-driven-case-18)
 - [🌀 超現實 / VFX](#surreal-vfx) (11)
   - [案例 1: 零重力武士刀戰鬥 (作者 @MiraMusic_AI)](#surreal-vfx-case-1)
   - [案例 2: 雲中鯨魚超現實史詩 (作者 @chaosdotjpg)](#surreal-vfx-case-2)
@@ -187,7 +196,7 @@
   - [案例 15: 風格化 3D 理髮店變身序列 (作者 @ShamiWeb3)](#templates-structured-case-15)
   - [案例 16: 印象派划船手部模板 (作者 @0xbisc)](#templates-structured-case-16)
   - [案例 17: 女戰士——結構化主體提示詞 (作者 @noman23761)](#templates-structured-case-17)
-- [🎬 一般電影風格](#general-cinematic) (35)
+- [🎬 一般電影風格](#general-cinematic) (36)
   - [案例 1: 春風記憶詩 (作者 @liyue_ai)](#general-cinematic-case-1)
   - [案例 2: 高跟鞋節拍同步時尚特寫 (作者 @TingFengAIAI)](#general-cinematic-case-2)
   - [案例 3: 兒童臥室裡的迷你滑板逃脫 (作者 @anson7956)](#general-cinematic-case-3)
@@ -223,6 +232,7 @@
   - [案例 33: 小貓躲在被窩裡偷吃零食 (作者 @lynneatyoumind)](#general-cinematic-case-33)
   - [案例 34: Seedance 2.0 文生影片自然語音測試 (作者 @tanabe_fragm)](#general-cinematic-case-34)
   - [案例 35: 紙偶恐怖動畫 (作者 @TomaAIbijo)](#general-cinematic-case-35)
+  - [案例 36: 紅色沙漠摩托車追蹤鏡頭 (作者 @LudovicCreator)](#general-cinematic-case-36)
 - [相關儲存庫](#related-repositories)
 - [貢獻指南](#contributing)
 - [授權條款](#license)
@@ -842,6 +852,96 @@ Seedance 2.0 prompt 👇
 [00:00-00:01] 镜头1：粒子化解体（Particle Dissolve） 中景，明亮居家走廊。女性居中站立直视镜头，身穿深蓝色短袖与黑色短裤。 一道耀眼红色魔法光环从脚底升起，由下至上急速包裹全身（Red Magic Ring FX）。光环扫过之处，身体瞬间碎裂为极速旋转的红色光辉粒子（Particle Burst），整个人化作一团高速旋转的红色粒子球体。 [00:01-00:04] 镜头2：九尾狐凝形（Fox Materialization） 红色粒子球体从走廊门口飞速穿梭进入昏暗客厅（Particle Travel），拖出一条红色光尾轨迹。 粒子撞上深色丝绒沙发表面，炸开后迅速向内收缩聚拢，光影汇聚凝实，幻化为一只巨大的暗黑色九尾狐趴卧于沙发之上。 狐狸周身燃烧红紫相间的魔法火焰（Realistic Fire Simulation），火焰贴着毛发翻涌。体表金色发光符文缓慢流转明灭。九条蓬松巨尾自然散开，尾尖带红色微光。镜头缓推至狐狸面部，琥珀色瞳孔在暗光中发亮。 [00:04-00:12] 镜头3：狐灵化人（Slow Dolly In） 九尾狐全身泛起金色光芒，化作漫天金色火光粒子向上消散（Golden Dissolve FX）。金光散尽，沙发上丝滑显现侧卧的女性身影。 双丸子头发型，身穿紫红色抹胸紧身裙，外搭黑色薄纱披肩。赤足，白皙肤色，深红唇妆，眼神冷艳凌厉直视镜头。 冷色侧光（Cold Side Lighting），一侧明一侧暗。镜头从中景极缓推进至面部特写（Ultra Slow Dolly In），最终定格于双眼，瞳孔中隐约映出一丝残留的红色火光。
 ```
 
+<a id="action-fantasy-case-31"></a>
+<!-- Case 31: Crocodile Fuel-Line River Trap (by @rahulnanda86) -->
+### 案例 31: [鱷魚燃油管線河道陷阱](https://x.com/rahulnanda86/status/2075816671080747410) (作者 [@rahulnanda86](https://x.com/rahulnanda86))
+
+| 輸出 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-31"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2075816671080747410.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**提示詞:**
+
+```
+An army river crossing point in bright daylight, a shallow river with a drainage gate built upstream. A jeep is stuck in the water, and a mega crocodile, huge as a truck, has grabbed onto its front bumper, refusing to let go. Nearby, the depot sergeant stands at the drainage gate controls — the same gate he checks and adjusts every single day. A second team waits downriver near a deep pool. Sound: rushing water, groaning metal, croc hissing, shouting, radio voices.
+
+Shot 1 (0–3s) — THE HOOK: Low shot at the water line. The mega crocodile has its jaws locked around the jeep's front bumper, pulling hard, the whole jeep rocking in the current. The driver grips the wheel and shouts into his radio: "IT'S GOT THE BUMPER! IT WON'T LET GO!"
+
+Shot 2 (3–6s): At the drainage gate, the sergeant grabs the control wheel, checking the gauge fast — the same gauge he reads every morning. He calls on the radio: "Opening the gate now! Get ready downriver!"
+
+Shot 3 (6–9s): The sergeant throws the gate open. A sudden surge of water rushes down the river, hitting the crocodile hard from the side and rolling its whole body away from the jeep, tumbling it downstream toward the deep pool where the second team waits.
+
+Shot 4 (9–13s) — BIG SLOW-MOTION MOMENT: The surge carries the crocodile into the pool. Bullet time — its huge body rolls and twists through the rushing water in slow motion, claws and tail thrashing, water spraying high into the air as it's swept further from the jeep.
+
+Shot 5 (13–15s): Time snaps back. The crocodile crashes into the deep pool, caught by the waiting team downstream. The jeep sits safe in the shallow water, the driver breathing hard, looking back at the current still rushing past.
+```
+
+<a id="action-fantasy-case-32"></a>
+<!-- Case 32: Electric Underground Arena Duel (by @CharaspowerAI) -->
+### 案例 32: [地下電光競技場對決](https://x.com/CharaspowerAI/status/2075596085926514810) (作者 [@CharaspowerAI](https://x.com/CharaspowerAI))
+
+| 輸出 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-32"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2075596085926514810.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**提示詞:**
+
+```
+A battle-crazed martial artist with golden eyes, torn sleeveless robe and crackling lightning aura surrounding his fists, rendered in ultra-premium Japanese anime rendering, MAPPA-inspired action choreography, sharp cel shading, dynamic motion smears, impact frame animation
+- Enters an underground arena where a monstrous champion waits among roaring spectators;
+- The arena explodes into chaos as both fighters exchange devastating punches, every impact generating visible shockwaves that crack the floor and launch debris into the air;
+- The martial artist unleashes a final lightning-infused uppercut that sends the giant opponent crashing through the arena ceiling, ending with sunlight pouring into the destroyed arena as the crowd erupts
+Brutal anime combat, tournament arc energy, insane sakuga payoff.
+```
+
+<a id="action-fantasy-case-33"></a>
+<!-- Case 33: Crocodile Runway Plane Drag (by @rahulnanda86) -->
+### 案例 33: [鱷魚跑道拖拽飛機](https://x.com/rahulnanda86/status/2075816060360753484) (作者 [@rahulnanda86](https://x.com/rahulnanda86))
+
+| 輸出 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-33"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2075816060360753484.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**提示詞:**
+
+```
+An army airstrip in bright daylight, a long concrete runway with a side taxiway lined with parked fuel bowsers. A supply plane is taxiing fast, trying to line up for takeoff. A mega crocodile, huge as a truck, has clamped onto the plane's wheel strut and will not let go, dragging alongside as the plane rolls. Ground crew stand back near the fuel bowsers — nobody can risk a shot this close to the aircraft. Sound: roaring engines, groaning metal, croc hissing, shouting, radio voices.
+
+Shot 1 (0–3s) — THE HOOK: Low shot at wheel height. The mega crocodile has its jaws locked around the plane's wheel strut, its huge body dragging along the runway as the plane picks up speed. The pilot fights the controls and shouts into his radio: "IT WON'T LET GO OF THE WHEEL! I CAN'T LIFT OFF LIKE THIS!"
+
+Shot 2 (3–6s): On the ground, the crew chief watches from a safe distance near the fuel bowsers, radio in hand. He calls up to the cockpit: "Turn onto the side strip! Use the bowsers!" The pilot's eyes flick to the parked fuel trucks lined up ahead.
+
+Shot 3 (6–9s): The pilot throws the plane into a hard turn off the main runway onto the side taxiway. The crocodile, still clamped to the strut, is dragged sideways along with the turning plane, sliding across the concrete straight toward the row of parked fuel bowsers.
+
+Shot 4 (9–13s) — BIG SLOW-MOTION MOMENT: The crocodile slams into the nearest fuel bowser. Bullet time — the impact crumples the tanker's side in slow motion, metal folding inward, fuel spraying out around the crocodile's body just before it ignites.
+
+Shot 5 (13–15s): Time snaps back. The fuel bowser explodes in one huge fireball, throwing the crocodile clear as fire rolls across the side taxiway. The plane straightens out and speeds down the main runway, lifting off safely into the sky. Cut.
+```
+
+<a id="action-fantasy-case-34"></a>
+<!-- Case 34: Lightning Striker Anime Goal (by @CharaspowerAI) -->
+### 案例 34: [閃電前鋒動畫進球](https://x.com/CharaspowerAI/status/2075583075044475292) (作者 [@CharaspowerAI](https://x.com/CharaspowerAI))
+
+| 輸出 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-34"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2075583075044475292.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**提示詞:**
+
+```
+.
+
+I love this kind of concept where you mix
+football, hype, energy, and a super stylish anime render.
+
+PROMPT
+A French superstar striker inspired by Kylian Mbappé, explosive speed, sharp golden eyes, blue France jersey covered in grass stains, rendered in ultra-premium Japanese sports anime rendering, Anime-inspired sakuga, sharp manga linework, high-contrast cel shading, hand-drawn speed lines, explosive impact frames, dynamic motion smears, glowing aura VFX, Captain Tsubasa-level spectacle
+- 0–3s: receives the ball near midfield against Morocco while two Moroccan midfielders press instantly;
+- 3–8s: accelerates like a blue lightning bolt, feints past the first Moroccan defender, nutmegs the second, cuts inside past the Moroccan fullback and slips between two Moroccan center-backs, camera whipping around every touch;
+- 8–12s: reaches the edge of the box as the Moroccan goalkeeper rushes out and a final defender slides across the shooting lane;
+- 12–15s: clearly plants his left foot beside the ball, swings his right leg and strikes with the laces of his boot, a devastating blue comet shot blasting into the top corner while the Moroccan goalkeeper cannot react, ending with the French striker frozen in a heroic anime pose as teammates rush toward him.
+```
+
 <a id="cinematic-realism"></a>
 
 <a id="cinematic-realism"></a>
@@ -914,6 +1014,32 @@ Low sonic boom during awakening, tearing metal and arc discharge sounds, painful
 Real light and shadow, visible skin texture on the face before transformation, visible real wear and tear on the leather trench coat before transformation. Mechanical appendages possess physical weight and inertia—they sway slightly after unfolding, not rigidly fixed. The armor plates are interwoven with white and dark purple, with visible scratches, welding marks, and uneven edges—not clean and smooth. All movements are steady and powerful, full of pain but resolute—she awakens while enduring. Occasional slight camera shake, pure handheld follow-shot feel.
 【Sound Design】
 Layered progression from the scream activation to the explosive mechanical eruption, escalating to the takeoff point explosion and the sonic boom of the supersonic charge, finally cutting abruptly to silence. The entire sequence exudes absolute power. Generate sound effects only, no music.
+```
+
+<a id="cinematic-realism-case-4"></a>
+<!-- Case 4: Misty Capsule Island Drama (by @umesh_ai) -->
+### 案例 4: [迷霧膠囊島劇情](https://x.com/umesh_ai/status/2075847160353181852) (作者 [@umesh_ai](https://x.com/umesh_ai))
+
+| 輸出 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-realism-case-4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2075847160353181852.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**提示詞:**
+
+```
+Use the uploaded image as the exact visual reference for the environment: a dreamy yellow capsule house on a tiny lush island, mossy green terrain, rocky edges, still reflective water, misty forest backdrop, warm glowing interior, and a peaceful cinematic atmosphere. Create a 15 second slow-paced cinematic short with two subjects: a young woman and a young man in simple elegant neutral-toned clothing. Focus on ambience, silence, and emotional subtlety.
+
+Scene 1, beginning: Wide misty establishing shot from across the water at dawn. The tiny island home glows softly. Slow push in as both subjects stand outside near the water’s edge, quietly taking in the view. The woman softly says, “It feels hidden from the world.”
+
+Scene 2: Low angle glide across the reflective water, then tilt up to reveal the grass-covered roof, trees, and the capsule architecture. The man looks worried and says, “Maybe not hidden enough.”
+
+Scene 3, conflict: Interior side shot through the glass wall. They sit across from each other in the two chairs, warm light around them, tension quiet but visible. A distant rumble, light wind in the trees, gentle ripples in the water. The woman whispers, “Do we stay?” He pauses.
+
+Scene 4: Slow orbit outside the house, circling from the rocky shore to the panoramic glass, savouring the full landscape. The man steps closer to the glass, watching the mist clear.
+
+Scene 5, climax: Close intimate shot. He turns to her and says, “We stay. Together.” She smiles with relief.
+
+Scene 6, resolution: Final wide pullback from above and across the lake. Both subjects now stand side by side inside the glowing capsule home, calm and reunited, framed by the serene island, soft fog, still water, and quiet forest. The mood ends peaceful, intimate, and healing.
 ```
 
 <a id="pov--fpv"></a>
@@ -1394,6 +1520,20 @@ extreme macro FPV tracking shot, camera tightly attached to the fairy's back, sy
 ```
 
 <a id="commercial--product"></a>
+
+<a id="pov-fpv-case-19"></a>
+<!-- Case 19: Volcanic Cave Gravity Dive (by @LudovicCreator) -->
+### 案例 19: [火山洞穴重力俯衝](https://x.com/LudovicCreator/status/2075641309654622486) (作者 [@LudovicCreator](https://x.com/LudovicCreator))
+
+| 輸出 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-19"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2075641309654622486.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**提示詞:**
+
+```
+First-person camera perspective only, no drone, no aircraft, no propellers, no visible vehicle. The camera launches through a volcanic cave, skimming above lava rivers, weaving between magma geysers, then diving into a gravity vortex at the crater’s core. Final reveal: the volcano opens into outer space, with molten rocks becoming newborn planets around a burning star. Continuous one-take, aggressive POV motion, Hollywood VFX, volumetric smoke, glowing particles, epic cinematic scale.
+```
 
 <a id="commercial-product"></a>
 ## 🏷️ 商業 / 產品
@@ -1957,6 +2097,30 @@ prompt 👇
 [00:12-00:15] 镜头5：品尝与收尾（Medium Shot）
 
 中景。女主手持一杯蓝黄渐变的精致鸡尾酒，杯中气泡缓缓上升。她轻抿一口，眉眼舒展露出满意的微醺神情，随后对镜头开心挥手，定格。
+```
+
+<a id="commercial-product-case-26"></a>
+<!-- Case 26: Beat-Synced Waterproof Sneaker Film (by @madpencil_) -->
+### 案例 26: [節拍同步防水運動鞋廣告](https://x.com/madpencil_/status/2075600475299447000) (作者 [@madpencil_](https://x.com/madpencil_))
+
+| 輸出 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-26"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2075600475299447000.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**提示詞:**
+
+```
+15-second image-to-video, 9:16 vertical. The uploaded 15-second music track is the master timeline the video maps one-to-one to the track from first frame to last, with hard cuts on downbeats, single-frame flickers on hi-hats, speed ramps hitting their slow-point exactly on beat drops, and the final freeze landing on the track's last hit.
+
+The madpencil sneaker from the reference keeps its exact design at all times: same silhouette, same nubuck and knit textured upper, same tonal "m" logo on the side panel, same madpencil wordmark on the midsole, same outsole and laces the shape, proportions, materials, and logos never change. But the COLORWAY of the shoe snaps to a new color on every beat: olive to coral red, to powder blue, to lemon yellow, to bubblegum pink, to lilac, to pure white, to matte black, cycling continuously each color change is an instant hard swap, like a colorway strobe, always tonal head-to-toe with the logo and midsole shifting to match. Critically, the shoe's MOVEMENT is continuous and unbroken across every color change: if it is rotating, the rotation carries on seamlessly through each swap; if a droplet is rolling, it keeps rolling; if water is mid-splash, the splash continues only the color jumps, never the motion, never the position, never the camera. The shoe is the only subject, floating hero-style, no feet, no people. This is a premium product film for a waterproof sneaker cut as a hyper-kinetic flicker edit: one shoe, every color, undefeated by water.
+
+The structure: from 0 to 2 seconds, the cold open the sneaker floats center frame on a flat solid pastel backdrop, rotating slowly and continuously while its colorway strobes on every beat, single-frame macro flickers of knit weave, nubuck grain, and the "m" logo punching between, each macro in a different colorway. From 2 to 5 seconds, the first water hit a sheet of water flies at the shoe in a speed ramp: normal speed launch, extreme slow motion as the water wraps the toe and explodes into crystal droplets with halftone dots rippling outward and even inside the slow-motion, the colorway keeps snapping on the beat while the droplets hang frozen then full speed as every droplet beads and rolls off, the shoe bone dry. From 5 to 9 seconds, the detail flicker tour cuts every 0.2 to 0.4 seconds: laces pulled taut, water beading like mercury on the side panel, droplets sitting in the outsole tread refusing to soak, a droplet rolling across the madpencil midsole text, mist bouncing off the knit as spray every single detail shot in a different colorway, the backdrop always a contrasting solid pastel so shoe and background never share a color. From 9 to 12 seconds, the gauntlet a crown splash from below ramping slow at its peak, rain streaking past in whip-panned frames, a full dunk with the shoe rising out, ramping from slow underwater bubbles to a fast surface breach, water sheeting off instantly, colorway strobing through the entire sequence while the water physics run unbroken. From 12 to 15 seconds, the hero close the strobing slows with the track: color changes stretch from every beat to every two beats, then settle, the sneaker landing softly on a flat solid backdrop in its original olive-grey home colorway one slow push-in, a single last droplet rolling off the toe, halftone dots settling as it locks into a still magazine-cover frame.
+
+Water physics stay crisp and glassy: sharp crown splashes, distinct suspended droplets, clean sheeting; droplets always bead and roll off, never absorb, never darken the material regardless of the current colorway; the shoe emerges instantly dry from every hit.
+
+Visually: flat solid neon pastel backdrops only powder blue, lemon yellow, bubblegum pink, coral red, white snapping on beats and always contrasting the shoe's current color. No lights, bulbs, or glowing tubes; color from flat backdrops and soft studio light. Soft 35mm grain, gentle bloom, halftone ripples radiating from water impacts and pulsing on colorway swaps, chromatic aberration on flash frames, single-frame white flashes, quick black-and-white frames intercut.
+
+Camera: one continuous orbiting hero rotation as the spine of the film, crash zooms to macro texture, focus hunting between droplet and logo, whip pans between details, speed ramps only on water impacts, then a locked slow push-in for the ending. Audio: follow the uploaded 15-second track end to end colorway snaps ticking on the beat like a visual hi-hat, deep sub whoosh into the ramps, crystal splash hits on slow-points, a clean water-drop plink on the final droplet, the video resolving exactly as the track resolves.
 ```
 
 <a id="reference-driven"></a>
@@ -2619,6 +2783,207 @@ Bright autu
 ```
 
 <a id="surreal--vfx"></a>
+
+<a id="reference-driven-case-17"></a>
+<!-- Case 17: Cartoon to Live-Action Animals (by @MustafyOf) -->
+### 案例 17: [卡通動物實拍化](https://x.com/MustafyOf/status/2075913453416456407) (作者 [@MustafyOf](https://x.com/MustafyOf))
+
+| 輸出 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-17"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2075913453416456407.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**提示詞:**
+
+```
+Use the uploaded reference video as the master reference. Recreate the entire scene in ultra-photorealistic live action while preserving the original video frame-by-frame.
+Maintain the EXACT camera movement, lens, framing, composition, timing, pacing, shot transitions, lighting direction, environment, props, object placement, character blocking, and every action from the reference video. ONLY replace the cartoon characters with realistic live-action animals while keeping everything else unchanged.
+CHARACTER CONSISTENCY
+Tom is a realistic British Shorthair cat with:
+• blue-gray plush fur
+• white chest, muzzle and paws
+• large amber eyes
+• pink nose
+• rounded face
+• thick tail
+• expressive eyebrows
+• identical appearance in every frame
+• identical fur pattern, facial proportions, eye color and body size throughout the video
+Jerry is a realistic golden Syrian hamster with:
+• soft golden-brown fur
+• cream belly
+• large rounded ears
+• black shiny eyes
+• tiny pink paws
+• small pink nose
+• realistic whiskers
+• consistent body proportions in every frame
+• identical appearance throughout the entire video
+If other Tom & Jerry characters appear, replace them with realistic animals that preserve their personality, colors, proportions and expressions while remaining identical throughout the clip.
+MOTION
+Preserve every movement exactly.
+The realistic animals must perform the exact same actions, walking cycle, head movement, eye movement, paw placement, facial expressions, timing and interactions as in the reference animation.
+No new actions.
+No altered timing.
+No changed poses.
+ENVIRONMENT
+Keep the original environment exactly the same.
+Do not modify:
+• furniture
+• decorations
+• room layout
+• colors
+• props
+• shadows
+• reflections
+• camera angle
+• camera path
+Everything except the characters must remain unchanged.
+QUALITY
+Hollywood-quality CGI.
+Photorealistic animals.
+Natural muscle movement.
+Physically accurate fur simulation.
+Realistic whiskers.
+Subsurface scattering.
+Realistic eye reflections.
+Natural breathing.
+Micro facial expressions.
+Ultra detailed textures.
+Soft cinematic lighting.
+Shallow depth of field.
+Global illumination.
+Ray-traced reflections.
+Macro photography realism.
+4K HDR.
+Disney-level VFX quality.
+Live-action realism.
+Extremely stable temporal consistency.
+Perfect character identity consistency across all frames.
+Do not redesign the characters.
+Do not change the environment.
+Do not change the camera.
+Do not change the timing.
+Do not add new objects.
+Do not crop or zoom differently.
+No flickering.
+No morphing.
+No identity drift.
+No fur color changes.
+No eye color changes.
+No size changes.
+No anatomy deformation.
+No extra limbs.
+No duplicate animals.
+No cartoon textures.
+No low-quality CGI.
+No inconsistent lighting.
+No frame-to-frame variation.
+Maintain perfect temporal consistency and character consistency throughout the entire video.
+```
+
+<a id="reference-driven-case-18"></a>
+<!-- Case 18: Locked Storyboard Reference Hierarchy (by @startracker) -->
+### 案例 18: [鎖定分鏡參考層級](https://x.com/startracker/status/2075645228271497462) (作者 [@startracker](https://x.com/startracker))
+
+| 輸出 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-18"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2075645228271497462.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**提示詞:**
+
+```
+REFERENCE HIERARCHY:
+Use the storyboard sheet as the exact guide for camera angles, blocking, composition, and shot order. Follow all nine panels in sequence without rearranging or omitting shots.
+Use the canonical face reference as the locked facial design. Her face must remain consistent in every shot, especially close-ups: oval East Asian face shape, small scar on the left cheek, faint freckles, dark eyes, and one white/silver strand of hair at the left temple.
+
+ENVIRONMENT:
+A natural volcanic cavern with the established stone altar and ember-lit dais at one end. The altar is canonical and must remain unchanged.
+
+All other areas of the cavern must consist entirely of raw, unshaped volcanic rock. No additional masonry, carved pillars, bridges, constructed platforms, ruins, architecture, or ornamental stonework elsewhere in the chamber.
+The cavern functions as a natural arena with jagged rock walls, ledges at multiple elevations, glowing magma fissures across the floor, drifting embers, dust, and volcanic haze.
+
+COLOR LOCK:
+Warm, high-contrast volcanic color grade with obsidian blacks, ember orange, molten gold, and deep red highlights. Avoid cool, blue, cyan, or blue-grey tones.
+
+STYLE LOCK:
+Hyperreal photoreal 3D CGI cinematography with visible skin pores, realistic fabric fibers, raw stone texture, natural light falloff, volumetric dust, physically accurate firelight, and crisp surface detail. No painterly rendering, stylized illustration, artificial plastic skin, or flat game-like shading.
+
+CAMERA:
+Large-format 65mm cinematic sensor, extreme sharpness, high dynamic range, natural medium-format color rendering, 28mm lens, f/5.6. Use aggressive kinetic tracking, dramatic low angles, worm’s-eye framing, aerial scale shots, and controlled Dutch angles matching the storyboard rhythm exactly.
+PRIMARY CHARACTER:
+A hooded East Asian woman whose face exactly matches the canonical face reference.
+
+She wears a heavy charcoal-black hooded cloak made from coarse, tattered woven fabric. The hood remains up. The cloak has frayed edges and small worn holes near the hem.
+Underneath, she wears a cream or off-white dress with gold filigree embroidery. A thin strip of blue lining is visible only at the leg slit. She also wears a dark leather corset-style waist cinch and dark leather boots.
+
+Her forearms and wrists must remain completely unarmored in every shot. Show only bare skin or plain dress-sleeve fabric.
+ABSOLUTELY NO:
+Bracers, vambraces, wrist wraps, gauntlets, leather guards, metal guards, decorative cuffs, or armor of any kind on her arms. This restriction also applies to the close-up of her hand gripping the sword hilt.
+
+She carries exactly one sword with a plain, simple crossguard. It begins sheathed at her hip and remains sheathed throughout this sequence.
+MAGMA CREATURE:
+A hulking brute formed entirely from raw, cracked black obsidian rock, with bright orange-red magma glowing through deep fractures across its body.
+
+Its skin must consist only of natural broken rock and molten magma.
+
+ABSOLUTELY NO:
+Metallic swirl patterns, engraved lines, ornamental designs, decorative etching, armor plating, artificial panels, crafted shoulder pieces, gauntlets, or manufactured surfaces anywhere on its body, shoulders, hands, or forearms.
+
+Its mane and spinal crest are formed from a consistent liquid-fire texture. Its large clawed hands are bare cracked rock, glowing internally with magma.
+
+SCALE LOCK:
+At equal camera distance, the magma creature must remain approximately three times the woman’s height. Maintain this scale relationship consistently in every shot.
+SCENE SETUP:
+The sequence begins on the open cavern floor near the altar. Both figures start on the same ground level with no initial height advantage. Magma fissures glow beneath them while dust, embers, and volcanic haze move through the chamber.
+
+Shot Sequence
+
+1. Ground-Level Wide Two-Shot
+Both figures face each other on level ground near the altar. The woman stands ready with her sword still sheathed. The magma creature towers over her. Glowing fissures spread beneath their feet.
+2. Worm’s-Eye Creature Shot
+From an extreme low angle, the magma creature roars and drives its bare rock claws into the cavern floor. It tears a massive natural boulder free and raises it overhead. Stone fractures, debris falls, and dust bursts around its hands.
+
+The creature’s arms and shoulders must remain raw cracked rock with glowing magma veins—no armor, engravings, or artificial patterns.
+
+3. Tight Hand Insert
+Close-up of the woman’s bare hand crushing tightly around the sword hilt as she braces to spring.
+Her wrist and forearm must show only bare skin or plain fabric. No bracers, wraps, cuffs, leather, or metal guards.
+
+4. Dynamic Wide Throw
+The magma creature hurls the boulder directly at her. The rock travels in a fast, streaking arc just above the cavern floor, scattering sparks, dust, and fragments in its wake.
+
+5. Low Tracking Leap
+Track from behind the woman at a low angle as she launches away from the camera and leaps vertically past the boulder’s path. The camera tilts upward with her movement.
+Her cloak snaps violently in the air as she rises toward a jagged natural ledge high above. The sword remains sheathed at her hip.
+
+6. Boulder Impact Detail
+The boulder crashes into the exact location where she had been standing. The impact tears open a crater and sends rock shrapnel, dust, sparks, and glowing fragments outward.
+7. Silhouette Landing Wide
+The woman lands lightly on the high jagged ledge in silhouette against the magma glow. Her cloak settles around her. Her sword remains sheathed.
+
+The ledge must be raw natural volcanic rock, not carved or constructed.
+
+8. Extreme-Wide Aerial Establishing Shot
+Reveal the full scale of the cavern. The woman appears small on the high ledge while the magma creature stands far below near the fresh crater.
+Clearly establish the new vertical separation between them. Keep the altar, ember dais, magma fissures, jagged walls, and natural ledges visible.
+
+Do not introduce additional architecture or ruins.
+9. Smash Cut to Wide Low Angle
+The magma creature begins climbing the raw volcanic wall toward her. Its bare rock claws gouge deep grooves into the stone as embers and fragments fall beneath it.
+
+Its hands, forearms, shoulders, and body remain entirely raw cracked obsidian and magma, with no armor or decorative markings.
+
+ACTING AND MOVEMENT:
+The woman moves with controlled urgency, precise balance, and restrained fear. Her hand tightens around the sword hilt before she commits to the leap.
+The magma creature moves with overwhelming weight and brute force. Every action should displace dust, stone, embers, and loose debris.
+
+AUDIO:
+Deep sub-bass magma rumble, ember hiss, thunderous creature roar, rock splitting and tearing free, heavy boulder movement, fast air-whoosh during the throw, cloak snap during the leap, explosive stone impact, shrapnel clatter, rushing dust, falling debris, and claws scraping violently against raw rock.
+
+FINAL CONTINUITY LOCKS:
+Maintain the exact facial identity from the canonical face reference. Preserve the cheek scar, faint freckles, single silver-white temple strand, hooded cloak, embroidered cream dress, narrow blue lining strip, dark waist cinch, dark boots, bare forearms, and single sheathed sword.
+Maintain the creature’s three-to-one scale, raw obsidian-and-magma anatomy, liquid-fire mane and spinal crest, warm volcanic grade, natural cavern geometry, and established altar.
+```
 
 <a id="surreal-vfx"></a>
 ## 🌀 超現實 / VFX
@@ -4132,6 +4497,20 @@ Cut5 (12-15s)
 The figure suddenly fills the frame from behind the camera. Whisper: “Tsugi wa… kimi da.” → cut to black.
 
 Audio: low eerie hum, distant wind, wooden kam
+```
+
+<a id="general-cinematic-case-36"></a>
+<!-- Case 36: Red Desert Motorcycle Tracking Shot (by @LudovicCreator) -->
+### 案例 36: [紅色沙漠摩托車追蹤鏡頭](https://x.com/LudovicCreator/status/2075520438239678846) (作者 [@LudovicCreator](https://x.com/LudovicCreator))
+
+| 輸出 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-36"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2075520438239678846.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**提示詞:**
+
+```
+Stylized anime desert crossing beat: a futuristic motorcycle cuts across a vast red desert at midday, dust rising in long painterly ribbons behind the rear wheel. The rider leans forward against the heat shimmer, cloak snapping violently in the wind, solar panels and ruined towers flickering on the horizon. Wide tracking shot from the side, the bike slicing through waves of sand, wheels reduced to smear-frame circles. The rider’s visor catches the burning sun as the landscape bends with speed.
 ```
 
 <a id="related-repositories"></a>

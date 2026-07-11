@@ -7,6 +7,7 @@ Describe the user-facing change and why it belongs in this Seedance 2.0 prompt l
 - [ ] Public source URL and author URL are present.
 - [ ] Prompt boundary is copied from the source and contains no invented text.
 - [ ] Category and category-local case number are correct.
+- [ ] If the source explicitly uses Seedance 2 Mini, `model_variant` is `Seedance 2 Mini` and every README case includes a visible Mini note; no variant was inferred.
 - [ ] `data/ingested_sources.json` matches README order and metadata.
 
 ## Localization

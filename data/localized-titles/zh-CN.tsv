@@ -28,9 +28,14 @@ action-fantasy-case-27	云窟剑影
 action-fantasy-case-28	诸神之城——东方奇幻一镜飞行
 action-fantasy-case-29	史诗奇幻大战——电影级 10 秒序列
 action-fantasy-case-30	暗黑奇幻变身——东方风格
+action-fantasy-case-31	鳄鱼燃油管线河道陷阱
+action-fantasy-case-32	地下电光竞技场对决
+action-fantasy-case-33	鳄鱼跑道拖拽飞机
+action-fantasy-case-34	闪电前锋动漫进球
 cinematic-realism-case-1	现代日本纪录片序列
 cinematic-realism-case-2	追逐影子的长板下坡
 cinematic-realism-case-3	流星觉醒的战争女英雄
+cinematic-realism-case-4	迷雾胶囊岛剧情
 pov-fpv-case-1	胸前相机迷彩追逐序列
 pov-fpv-case-2	上海赛博朋克城市炫剪
 pov-fpv-case-3	受诅咒武士一致性动作提示词
@@ -49,6 +54,7 @@ pov-fpv-case-15	怪物袭击中的女学生变身
 pov-fpv-case-16	东京第一人称过山车
 pov-fpv-case-17	电影级北京文化广告——8K 第一人称
 pov-fpv-case-18	极致微距 FPV——仙女翅膀跟拍
+pov-fpv-case-19	火山洞穴重力俯冲
 commercial-product-case-1	香水广告风动画三人舞台
 commercial-product-case-2	暗黑奇幻教堂决斗
 commercial-product-case-3	暗黑奇幻神社大殿决斗
@@ -74,6 +80,7 @@ commercial-product-case-22	折叠屏手机时尚广告
 commercial-product-case-23	旅行箱伙伴蒙太奇
 commercial-product-case-24	俯拍时尚型录——换装序列
 commercial-product-case-25	高端生活方式广告——自拍视频博客风格
+commercial-product-case-26	节拍同步防水运动鞋广告
 reference-driven-case-1	骷髅钢琴家微缩景观表演
 reference-driven-case-2	风暴船上的公主对决海怪
 reference-driven-case-3	女仆剑舞：芽衣对决可可
@@ -90,6 +97,8 @@ reference-driven-case-13	七图无缝变形序列
 reference-driven-case-14	Stridex 运动鞋广告
 reference-driven-case-15	带歌唱猫咪的图像驱动提示词
 reference-driven-case-16	角色参考动画提示词
+reference-driven-case-17	卡通动物实拍化
+reference-driven-case-18	锁定分镜参考层级
 surreal-vfx-case-1	零重力武士刀战斗
 surreal-vfx-case-2	云中鲸鱼超现实史诗
 surreal-vfx-case-3	深渊潜水员变形为海洋生物
@@ -153,3 +162,4 @@ general-cinematic-case-32	皮克斯森林空地——3D 动画场景
 general-cinematic-case-33	小猫躲在被窝里偷吃零食
 general-cinematic-case-34	Seedance 2.0 文生视频自然语音测试
 general-cinematic-case-35	纸偶恐怖动画
+general-cinematic-case-36	红色沙漠摩托车追踪镜头

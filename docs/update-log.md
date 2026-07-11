@@ -1,5 +1,13 @@
 # Update Log
 
+## 2026-07-12 — 48-hour Seedance 2 prompt update
+
+- searched the exact phrase `"seedance 2"` across the preceding 48-hour window
+- semantically reviewed 99 candidates, selected the 10-case cap, deferred 1 high-confidence case, and dropped 88 weak or ineligible records
+- added 10 source-backed prompts across action, cinematic realism, POV, commercial, reference-driven, and general cinematic categories
+- detected 1 source mentioning Seedance 2 Mini; it was not selected because it had no reusable public prompt, so no public Mini note was required in this batch
+- uploaded and read back all 10 new preview frames from the locked R2 namespace before README mutation
+
 ## 2026-07-11 — Semantic localization and conditional Star History
 
 - added reviewed title mappings for all 155 cases in each of the ten localized README languages

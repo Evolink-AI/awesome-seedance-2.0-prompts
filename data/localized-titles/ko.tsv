@@ -28,9 +28,14 @@ action-fantasy-case-27	구름 동굴의 검 그림자
 action-fantasy-case-28	신들의 도시 — 원테이크 동양 판타지 비행
 action-fantasy-case-29	장대한 판타지 전투 — 영화 같은 10초 시퀀스
 action-fantasy-case-30	동양풍 다크 판타지 변신
+action-fantasy-case-31	악어를 연료 라인으로 유인하는 강 함정
+action-fantasy-case-32	전기가 흐르는 지하 경기장 결투
+action-fantasy-case-33	활주로에서 비행기에 끌리는 악어
+action-fantasy-case-34	번개 스트라이커의 애니메이션 골
 cinematic-realism-case-1	현대 일본 다큐멘터리 시퀀스
 cinematic-realism-case-2	그림자를 추적하는 롱보드 내리막
 cinematic-realism-case-3	유성으로 각성한 전쟁의 여주인공
+cinematic-realism-case-4	안개 낀 캡슐 섬 드라마
 pov-fpv-case-1	가슴 장착 카메라 위장 추격전
 pov-fpv-case-2	상하이 사이버펑크 도시 하이라이트 영상
 pov-fpv-case-3	저주받은 사무라이의 일관된 액션 프롬프트
@@ -49,6 +54,7 @@ pov-fpv-case-15	괴물의 습격 속 여학생 변신
 pov-fpv-case-16	도쿄 1인칭 롤러코스터
 pov-fpv-case-17	영화 같은 베이징 문화 광고 — 8K 1인칭
 pov-fpv-case-18	극한 매크로 FPV — 요정 날개 추적 숏
+pov-fpv-case-19	화산 동굴 중력 다이빙
 commercial-product-case-1	향수 광고풍 애니메이션 3인조 댄스 무대
 commercial-product-case-2	다크 판타지 교회 결투
 commercial-product-case-3	다크 판타지 신사 전각 결투
@@ -74,6 +80,7 @@ commercial-product-case-22	폴더블 스마트폰 패션 광고
 commercial-product-case-23	여행 가방 친구 몽타주
 commercial-product-case-24	탑뷰 패션 룩북 — 의상 교체 시퀀스
 commercial-product-case-25	프리미엄 라이프스타일 광고 — 브이로그 셀카 스타일
+commercial-product-case-26	비트 동기화 방수 스니커즈 필름
 reference-driven-case-1	해골 피아니스트의 미니어처 디오라마 공연
 reference-driven-case-2	폭풍 속 배의 공주 대 크라켄
 reference-driven-case-3	메이드 검무: 메이 대 코코
@@ -90,6 +97,8 @@ reference-driven-case-13	7개 이미지의 매끄러운 모핑 시퀀스
 reference-driven-case-14	Stridex 운동화 광고
 reference-driven-case-15	노래하는 고양이를 활용한 이미지 기반 프롬프트
 reference-driven-case-16	캐릭터 참조 애니메이션 프롬프트
+reference-driven-case-17	만화 동물의 실사화
+reference-driven-case-18	고정 스토리보드 참조 계층
 surreal-vfx-case-1	무중력 카타나 전투
 surreal-vfx-case-2	구름 속 고래의 초현실적 서사시
 surreal-vfx-case-3	심해 잠수부의 해양 생물 변신
@@ -153,3 +162,4 @@ general-cinematic-case-32	픽사풍 숲속 공터 — 3D 애니메이션 장면
 general-cinematic-case-33	이불 속에서 간식을 훔치는 새끼 고양이
 general-cinematic-case-34	Seedance 2.0 T2V 자연 음성 테스트
 general-cinematic-case-35	종이 인형 공포 애니메이션
+general-cinematic-case-36	붉은 사막 오토바이 트래킹 숏

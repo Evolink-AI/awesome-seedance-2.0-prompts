@@ -28,9 +28,14 @@ action-fantasy-case-27	Ombre d’épée dans la grotte des nuages
 action-fantasy-case-28	Cité des dieux — vol de fantasy orientale en une seule prise
 action-fantasy-case-29	Bataille de fantasy épique — séquence cinématographique de 10 secondes
 action-fantasy-case-30	Transformation de dark fantasy au style oriental
+action-fantasy-case-31	Piège fluvial au carburant avec un crocodile
+action-fantasy-case-32	Duel électrique dans une arène souterraine
+action-fantasy-case-33	Crocodile traîné par un avion sur la piste
+action-fantasy-case-34	But de l’attaquant éclair en anime
 cinematic-realism-case-1	Séquence documentaire sur le Japon moderne
 cinematic-realism-case-2	Descente en longboard à la poursuite d’une ombre
 cinematic-realism-case-3	Héroïne de guerre réveillée par un météore
+cinematic-realism-case-4	Drame sur une île à maison capsule dans la brume
 pov-fpv-case-1	Séquence de poursuite camouflée avec caméra pectorale
 pov-fpv-case-2	Bande-annonce d’une Shanghai cyberpunk
 pov-fpv-case-3	Prompt d’action cohérent d’un samouraï maudit
@@ -49,6 +54,7 @@ pov-fpv-case-15	Transformation d’une lycéenne lors d’une attaque de monstre
 pov-fpv-case-16	Montagnes russes à Tokyo en vue subjective
 pov-fpv-case-17	Publicité culturelle cinématographique de Pékin en 8K et vue subjective
 pov-fpv-case-18	Macro FPV extrême — suivi d’ailes de fée
+pov-fpv-case-19	Plongée gravitationnelle dans une grotte volcanique
 commercial-product-case-1	Scène de danse d’un trio d’anime façon publicité de parfum
 commercial-product-case-2	Duel dans une église de dark fantasy
 commercial-product-case-3	Duel dans la grande salle d’un sanctuaire de dark fantasy
@@ -74,6 +80,7 @@ commercial-product-case-22	Publicité de mode pour smartphone pliable
 commercial-product-case-23	Montage avec une valise comme compagnon de voyage
 commercial-product-case-24	Lookbook de mode en plongée — séquence de changement de tenue
 commercial-product-case-25	Publicité lifestyle haut de gamme façon selfie de vlog
+commercial-product-case-26	Film de baskets imperméables synchronisé sur le rythme
 reference-driven-case-1	Performance d’un pianiste squelette dans un diorama miniature
 reference-driven-case-2	Princesse sur un navire en pleine tempête contre le kraken
 reference-driven-case-3	Danse des lames des servantes : Mei contre Coco
@@ -90,6 +97,8 @@ reference-driven-case-13	Séquence de morphing fluide à partir de sept images
 reference-driven-case-14	Publicité pour baskets Stridex
 reference-driven-case-15	Prompt guidé par image avec un chat chanteur
 reference-driven-case-16	Prompt d’anime avec référence de personnage
+reference-driven-case-17	Animaux de dessin animé transformés en prise de vues réelles
+reference-driven-case-18	Hiérarchie de références verrouillée par storyboard
 surreal-vfx-case-1	Combat au katana en apesanteur
 surreal-vfx-case-2	Baleine dans les nuages — épopée surréaliste
 surreal-vfx-case-3	Métamorphose d’un plongeur des abysses en créature marine
@@ -153,3 +162,4 @@ general-cinematic-case-32	Clairière de forêt façon Pixar — scène animée e
 general-cinematic-case-33	Chaton volant des friandises sous les couvertures
 general-cinematic-case-34	Test de parole naturelle T2V de Seedance 2.0
 general-cinematic-case-35	Animation d’horreur avec marionnettes en papier
+general-cinematic-case-36	Travelling à moto dans le désert rouge

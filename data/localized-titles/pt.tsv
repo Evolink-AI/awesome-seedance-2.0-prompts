@@ -28,9 +28,14 @@ action-fantasy-case-27	Sombra da espada na caverna de nuvens
 action-fantasy-case-28	Cidade dos deuses: voo de fantasia oriental em tomada única
 action-fantasy-case-29	Batalha de fantasia épica: sequência cinematográfica de 10 segundos
 action-fantasy-case-30	Transformação de fantasia sombria em estilo oriental
+action-fantasy-case-31	Armadilha fluvial de combustível com crocodilo
+action-fantasy-case-32	Duelo elétrico em uma arena subterrânea
+action-fantasy-case-33	Crocodilo arrastado por um avião na pista
+action-fantasy-case-34	Gol do atacante relâmpago em anime
 cinematic-realism-case-1	Sequência documental do Japão moderno
 cinematic-realism-case-2	Descida de longboard seguindo uma sombra
 cinematic-realism-case-3	Heroína de guerra despertada por um meteoro
+cinematic-realism-case-4	Drama em uma ilha com casa-cápsula entre a névoa
 pov-fpv-case-1	Sequência de perseguição camuflada com câmera no peito
 pov-fpv-case-2	Vídeo promocional de uma Xangai cyberpunk
 pov-fpv-case-3	Prompt de ação consistente de um samurai amaldiçoado
@@ -49,6 +54,7 @@ pov-fpv-case-15	Transformação de uma estudante durante um ataque de monstros
 pov-fpv-case-16	Montanha-russa de Tóquio em primeira pessoa
 pov-fpv-case-17	Anúncio cultural cinematográfico de Pequim em primeira pessoa e 8K
 pov-fpv-case-18	FPV macro extremo: acompanhamento de asas de fada
+pov-fpv-case-19	Mergulho gravitacional em uma caverna vulcânica
 commercial-product-case-1	Palco de dança de trio de anime em estilo de anúncio de perfume
 commercial-product-case-2	Duelo em igreja de fantasia sombria
 commercial-product-case-3	Duelo no salão de um santuário de fantasia sombria
@@ -74,6 +80,7 @@ commercial-product-case-22	Anúncio de moda para smartphone dobrável
 commercial-product-case-23	Montagem da mala companheira de viagem
 commercial-product-case-24	Lookbook de moda visto de cima: sequência de troca de roupa
 commercial-product-case-25	Comercial de estilo de vida premium com selfie de vlog
+commercial-product-case-26	Filme de tênis impermeáveis sincronizado com a batida
 reference-driven-case-1	Apresentação de pianista esqueleto em diorama miniatura
 reference-driven-case-2	Princesa do navio na tempestade contra o kraken
 reference-driven-case-3	Dança de lâminas das criadas: Mei contra Coco
@@ -90,6 +97,8 @@ reference-driven-case-13	Sequência de transformação contínua com sete imagen
 reference-driven-case-14	Comercial de tênis Stridex
 reference-driven-case-15	Prompt guiado por imagem com um gato cantor
 reference-driven-case-16	Prompt de anime com referência de personagem
+reference-driven-case-17	Animais de desenho animado convertidos em live-action
+reference-driven-case-18	Hierarquia de referências com storyboard bloqueado
 surreal-vfx-case-1	Combate com katana em gravidade zero
 surreal-vfx-case-2	Baleia nas nuvens: épico surrealista
 surreal-vfx-case-3	Metamorfose de mergulhador abissal em criatura marinha
@@ -153,3 +162,4 @@ general-cinematic-case-32	Clareira de floresta ao estilo Pixar: cena animada em 
 general-cinematic-case-33	Gatinho roubando petiscos debaixo das cobertas
 general-cinematic-case-34	Teste de fala natural T2V do Seedance 2.0
 general-cinematic-case-35	Animação de terror com marionetes de papel
+general-cinematic-case-36	Plano de acompanhamento de moto no deserto vermelho

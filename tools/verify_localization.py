@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 
+import json
 import re
 import sys
 from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
+EXPECTED_COUNT = json.loads((ROOT / "data/ingested_sources.json").read_text(encoding="utf-8"))["case_count"]
 CONFIG = {
     "README_es.md": ("es", "Caso", "por", "Resultado", "Prompt"),
     "README_pt.md": ("pt", "Caso", "por", "Resultado", "Prompt"),
@@ -50,8 +52,8 @@ def main() -> int:
     english_codes = CODE_RE.findall(english_text)
     sequences: list[tuple[str, ...]] = []
 
-    if len(english) != 155 or len(english_codes) != 155:
-        errors.append("README.md must contain 155 parseable cases and prompt blocks")
+    if len(english) != EXPECTED_COUNT or len(english_codes) != EXPECTED_COUNT:
+        errors.append(f"README.md must contain {EXPECTED_COUNT} parseable cases and prompt blocks")
 
     for filename, (locale, case_label, by_label, output_label, prompt_label) in CONFIG.items():
         path = ROOT / filename
@@ -68,7 +70,7 @@ def main() -> int:
             errors.append(f"{filename}: case ids/order differ from English")
         if CODE_RE.findall(text) != english_codes:
             errors.append(f"{filename}: prompt blocks differ from English")
-        if text.count(f"| {output_label} |") != 155 or text.count(f"**{prompt_label}:**") != 155:
+        if text.count(f"| {output_label} |") != EXPECTED_COUNT or text.count(f"**{prompt_label}:**") != EXPECTED_COUNT:
             errors.append(f"{filename}: localized Output/Prompt labels are incomplete")
         for case_id, source in english_by_id.items():
             item = localized_by_id.get(case_id)
@@ -99,7 +101,7 @@ def main() -> int:
         return 1
     print("Localization verification: PASS")
     print("- Locales: 10")
-    print("- Reviewed titles: 155 per locale")
+    print(f"- Reviewed titles: {EXPECTED_COUNT} per locale")
     print("- Unchanged English titles: 0")
     print("- Prompt blocks and immutable metadata: byte-identical")
     return 0

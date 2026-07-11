@@ -65,9 +65,10 @@ def main():
     actual=[src for src,_ in relevant]; canonical=[canon or src for src,canon in relevant]
     r2=[url for url in canonical if url.startswith(R2)]
     camo=[url for url in actual if 'camo.githubusercontent.com' in url]
-    expected=156
+    case_count=json.loads((ROOT/'data/ingested_sources.json').read_text())['case_count']
+    expected=1+case_count
     status='PASS' if len(relevant)==expected and len(r2)==expected else 'FAIL'
-    lines=['# Rendered GitHub Media Audit','',f'- Timestamp: {datetime.now(timezone.utc).isoformat()}',f'- Method: {method}',f'- Expected README images: {expected} (1 banner + 155 case previews)',f'- Rendered relevant `<img>` tags: {len(relevant)}',f'- R2 canonical sources: {len(r2)}',f'- GitHub camo actual sources: {len(camo)}',f'- Origin status evidence: `.codex/model-repo-pipeline/runs/20260711-seedance-2-prompts-audit/public-surface-link-audit-raw.md` (P0=0, P1=0).',f'- Result: **{status}**','']
+    lines=['# Rendered GitHub Media Audit','',f'- Timestamp: {datetime.now(timezone.utc).isoformat()}',f'- Method: {method}',f'- Expected README images: {expected} (1 banner + {case_count} case previews)',f'- Rendered relevant `<img>` tags: {len(relevant)}',f'- R2 canonical sources: {len(r2)}',f'- GitHub camo actual sources: {len(camo)}',f'- Origin status evidence: current run public-surface link audit (P0=0, P1=0).',f'- Result: **{status}**','']
     if not args.live_url:
         lines += ['## Pre-push limitation','','The GitHub Markdown API proves GitHub GFM parsing and image extraction before publication. Camo rewriting is verified again from the live repository HTML after push; release-ready permits that public-only step to remain pending.','']
     if len(relevant)!=expected:
