@@ -5,6 +5,7 @@ from datetime import datetime, timezone
 from html.parser import HTMLParser
 from http.client import IncompleteRead
 from pathlib import Path
+from urllib.parse import urlparse
 from urllib.request import Request, urlopen
 import argparse
 import json
@@ -37,8 +38,24 @@ def render_local():
     raise last
 
 def render_live(url):
-    req=Request(url,headers={'User-Agent':'Mozilla/5.0 CodexRenderedMediaAudit/1.0'})
-    with urlopen(req,timeout=45) as resp: return resp.read().decode(errors='replace'), f'live GitHub HTML: {url}'
+    parsed=urlparse(url)
+    parts=[part for part in parsed.path.split('/') if part]
+    if parsed.netloc=='github.com' and len(parts)>=2:
+        endpoint=f'repos/{parts[0]}/{parts[1]}/readme?ref=main'
+        html=subprocess.run(['gh','api','-H','Accept: application/vnd.github.html+json',endpoint],capture_output=True,text=True,check=True).stdout
+        return html, f'GitHub Readme HTML API: {endpoint}'
+    last=None
+    largest_partial=b''
+    for _ in range(5):
+        req=Request(url,headers={'User-Agent':'Mozilla/5.0 CodexRenderedMediaAudit/1.0'})
+        try:
+            with urlopen(req,timeout=45) as resp: return resp.read().decode(errors='replace'), f'live GitHub HTML: {url}'
+        except IncompleteRead as exc:
+            last=exc
+            if len(exc.partial)>len(largest_partial): largest_partial=exc.partial
+    if largest_partial:
+        return largest_partial.decode(errors='replace'), f'live GitHub HTML (largest partial response after 5 retries): {url}'
+    raise last
 
 def main():
     ap=argparse.ArgumentParser(); ap.add_argument('--out',required=True); ap.add_argument('--live-url'); args=ap.parse_args()

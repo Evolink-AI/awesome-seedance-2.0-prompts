@@ -107,7 +107,7 @@ The narrow prompt update verifier returned PASS because it checked counts and mi
 
 ## Completion rule
 
-This report remains `FAIL` until its final re-audit section is updated with P0=0, P1=0, required evidence paths, commit hash, push result, remote readback, and the final `published` state.
+This rule is satisfied by the final publication audit below: P0=0, P1=0, the remediation commit is pushed, and remote README, rendered media, metadata, and CI readbacks all pass.
 
 ## Remediation progress
 
@@ -117,18 +117,22 @@ This report remains `FAIL` until its final re-audit section is updated with P0=0
 - API smoke media evidence: PASS — 864×496, 24 fps, 4.041667 seconds, `video/mp4`.
 - API smoke cost evidence: actual usage was 20.46 credits, 1.94 above the 18.52 estimate derived from a stale related Gateway README. No retry was submitted; the target repository contains no pricing claim.
 - Current local verifier: PASS — 11 READMEs, 155 unique sources/cases/prompts/media, Seedance 2.0 identity, R2 hosting, and README/data equality.
-- Current public link audit: PASS — P0=0, P1=0, P2=1 transient Star History HTTP 500.
+- Current public link audit: PASS — P0=0, P1=0, P2=1 transient Star History HTTP 503.
 - Current pre-push GitHub render audit: PASS — 156/156 R2 canonical images and 156/156 GitHub camo images.
-- Publication state: not pushed, as required by the audit-first contract.
+- Publication state: pushed after completion-gate; remediation commit `e16f2abbccb53745ace45327c5006627d3a23031` is present on `origin/main`.
 
-## Final local re-audit
+## Final publication audit
 
-- Verdict: **LOCAL PASS — eligible for commit and push**.
+- Verdict: **PUBLISHED PASS**.
 - P0 findings remaining: `0`.
 - P1 findings remaining: `0`.
 - P2 advisories remaining: `1` transient Star History API HTTP 503 after HEAD, Range GET, and curl fallback; non-blocking under the contract because P0/P1 are zero and the source is third-party visualization only.
 - Repository verifier: PASS — 11 READMEs and 155 unique cases/sources/prompts/media per README.
-- Rendered media: PASS — 156/156 GitHub-rendered images, 156/156 R2 canonical sources, 156/156 camo sources.
+- Rendered media: PASS — 156/156 images from the GitHub Readme HTML API, 156/156 R2 canonical sources, 156/156 camo sources.
 - Real API smoke: PASS — one approved request, one recovered task ID, terminal `completed`, one valid MP4 URL.
 - Publication hygiene: PASS — internal `.codex/` evidence is ignored and will not be staged.
-- Remaining steps are publication evidence only: precise staging, commit, push, remote commit/readback, live README/media/metadata verification, and CI readback.
+- Commit/push: PASS — `main` advanced from `7c0eb055003ac62b273400d466c21846ce5f0f93` to remediation commit `e16f2abbccb53745ace45327c5006627d3a23031` only after completion-gate reported no blockers.
+- Raw README readback: PASS — remote and local SHA256 are both `cceb1c0b5fdcccc8041e915a070348a376d0449997644ae3b7c109289ba05ec1`.
+- About metadata: PASS — public repository, default branch `main`, canonical Seedance 2.0 description/homepage, and aligned topics.
+- GitHub Actions: PASS — `Verify repository` run `29148036215` completed successfully for remediation commit `e16f2ab`.
+- Final state: no P0/P1 blockers remain; the repository is published and auditable.
