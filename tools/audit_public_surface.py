@@ -20,10 +20,12 @@ URL_RE = re.compile(r'https?://[^\s<>"\]]+')
 MD_TARGET_RE = re.compile(r'!?\[[^\]]*\]\(([^)]+)\)')
 HTML_TARGET_RE = re.compile(r'<(?:a|img)\b[^>]*(?:href|src)=["\']([^"\']+)["\']', re.I)
 ID_RE = re.compile(r'<a\s+id=["\']([^"\']+)["\']', re.I)
+CODE_BLOCK_RE = re.compile(r'```.*?```', re.S)
+INLINE_CODE_RE = re.compile(r'`[^`\n]+`')
 
 def clean_target(target: str) -> str:
     target = html.unescape(target.strip().strip('<>'))
-    return target.rstrip(').,;:]')
+    return target.rstrip(').,;:]}>\u3001\u3002\uff0c\uff09\uff1a\uff1b')
 
 def network_target(url: str) -> str:
     parsed=urlparse(url)
@@ -93,7 +95,9 @@ def main():
     refs=[]; urls=set(); internal=[]
     for path in files:
         text=path.read_text()
-        for raw in MD_TARGET_RE.findall(text)+HTML_TARGET_RE.findall(text)+URL_RE.findall(text):
+        raw_text = HTML_TARGET_RE.sub('', MD_TARGET_RE.sub('', text))
+        raw_text = INLINE_CODE_RE.sub('', CODE_BLOCK_RE.sub('', raw_text))
+        for raw in MD_TARGET_RE.findall(text)+HTML_TARGET_RE.findall(text)+URL_RE.findall(raw_text):
             target=clean_target(raw)
             refs.append((path,target))
             if target.startswith(('http://','https://')): urls.add(target)

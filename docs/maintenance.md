@@ -22,7 +22,7 @@ Duplicate source URLs are not allowed. Numbering is contiguous inside each categ
 
 ## Update checklist
 
-The recurring loop runs every 2 days, searches the exact phrase `"seedance 2"` over the preceding 48-hour window, and publishes at most 10 semantically approved cases per run.
+The recurring loop runs every 2 days, searches the exact phrase `"seedance 2"` over the preceding 48-hour window, and publishes at most 5 semantically approved cases per run.
 
 1. Confirm the candidate has a public source, author, usable prompt boundary, category, and preview evidence.
 2. If the source explicitly identifies Seedance 2 Mini, set `model_variant` to `Seedance 2 Mini` and add a visible `Model variant: Seedance 2 Mini` note to the English case plus a localized note preserving the model name in every translated README. Never infer Mini from price, provider, or output quality.

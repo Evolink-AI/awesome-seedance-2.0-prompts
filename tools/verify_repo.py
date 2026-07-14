@@ -31,6 +31,19 @@ def check(ok: bool, message: str) -> None:
     if not ok:
         errors.append(message)
 
+
+def case_prompt_blocks(text: str) -> list[str]:
+    anchors = list(re.finditer(r'<a id="([a-z0-9-]+-case-\d+)"></a>', text))
+    prompts: list[str] = []
+    for index, anchor in enumerate(anchors):
+        start = anchor.start()
+        end = anchors[index + 1].start() if index + 1 < len(anchors) else len(text)
+        section = text[start:end]
+        matches = PROMPT_RE.findall(section)
+        if matches:
+            prompts.append(matches[-1])
+    return prompts
+
 def main() -> int:
     actual = sorted(p.name for p in ROOT.glob('README*.md'))
     check(actual == sorted(READMES), f'language file set mismatch: {actual}')
@@ -47,7 +60,7 @@ def main() -> int:
     for name, text in texts.items():
         cases = CASE_RE.findall(text)
         sources = [case[2] for case in cases]
-        prompts = PROMPT_RE.findall(text)
+        prompts = case_prompt_blocks(text)
         banners = BANNER_IMAGE_RE.findall(text)
         images = CASE_IMAGE_RE.findall(text)
         anchors = re.findall(r'<a id="([a-z0-9-]+-case-\d+)"></a>', text)

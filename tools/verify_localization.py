@@ -34,6 +34,19 @@ def cases(path: Path) -> list[dict[str, str]]:
     return [match.groupdict() for match in CASE_RE.finditer(path.read_text(encoding="utf-8"))]
 
 
+def case_prompt_blocks(text: str) -> list[str]:
+    anchors = list(re.finditer(r'<a id="([a-z0-9-]+-case-\d+)"></a>', text))
+    prompts: list[str] = []
+    for index, anchor in enumerate(anchors):
+        start = anchor.start()
+        end = anchors[index + 1].start() if index + 1 < len(anchors) else len(text)
+        section = text[start:end]
+        matches = CODE_RE.findall(section)
+        if matches:
+            prompts.append(matches[-1])
+    return prompts
+
+
 def load_titles(locale: str) -> list[tuple[str, str]]:
     rows = []
     for line in (ROOT / f"data/localized-titles/{locale}.tsv").read_text(encoding="utf-8").splitlines():
@@ -49,7 +62,7 @@ def main() -> int:
     english_text = (ROOT / "README.md").read_text(encoding="utf-8")
     english = cases(ROOT / "README.md")
     english_by_id = {case["id"]: case for case in english}
-    english_codes = CODE_RE.findall(english_text)
+    english_codes = case_prompt_blocks(english_text)
     sequences: list[tuple[str, ...]] = []
 
     if len(english) != EXPECTED_COUNT or len(english_codes) != EXPECTED_COUNT:
@@ -68,7 +81,7 @@ def main() -> int:
             errors.append(f"{locale}: title map ids/order differ from English")
         if list(localized_by_id) != expected_ids:
             errors.append(f"{filename}: case ids/order differ from English")
-        if CODE_RE.findall(text) != english_codes:
+        if case_prompt_blocks(text) != english_codes:
             errors.append(f"{filename}: prompt blocks differ from English")
         if text.count(f"| {output_label} |") != EXPECTED_COUNT or text.count(f"**{prompt_label}:**") != EXPECTED_COUNT:
             errors.append(f"{filename}: localized Output/Prompt labels are incomplete")
