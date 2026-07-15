@@ -33,6 +33,7 @@ action-fantasy-case-32	Электрическая дуэль на подземн
 action-fantasy-case-33	Крокодил тащит самолёт по взлётной полосе
 action-fantasy-case-34	Аниме-гол молниеносного нападающего
 action-fantasy-case-35	Полёт грифона над долиной полевых цветов
+action-fantasy-case-36	Парфянский выстрел монгольской кавалерии
 cinematic-realism-case-1	Документальная сцена о современной Японии
 cinematic-realism-case-2	Спуск на лонгборде по следу тени
 cinematic-realism-case-3	Воительница, пробуждённая метеором
@@ -57,6 +58,7 @@ pov-fpv-case-16	Кинематографическая реклама культ
 pov-fpv-case-17	Экстремальная макросъёмка FPV — слежение за крыльями феи
 pov-fpv-case-18	Гравитационное падение в вулканическую пещеру
 pov-fpv-case-19	Сверхзвуковой полёт от первого лица по пустынному каньону
+pov-fpv-case-20	FPV-пролёт над фейерверками Франции
 commercial-product-case-1	Танцевальная сцена аниме-трио в стиле рекламы духов
 commercial-product-case-2	Дуэль в церкви тёмного фэнтези
 commercial-product-case-3	Дуэль в зале святилища тёмного фэнтези
@@ -82,6 +84,7 @@ commercial-product-case-22	Модный лукбук сверху — смена
 commercial-product-case-23	Премиальная лайфстайл-реклама в стиле селфи-влога
 commercial-product-case-24	Ролик о водостойких кроссовках в ритм музыки
 commercial-product-case-25	Презентация сыворотки с мангостином
+commercial-product-case-26	Показ чемодана-такси в Мумбаи
 reference-driven-case-1	Выступление пианиста-скелета в миниатюрной диораме
 reference-driven-case-2	Принцесса на корабле в шторме против кракена
 reference-driven-case-3	Танец клинков служанок: Мэй против Коко
@@ -112,6 +115,7 @@ surreal-vfx-case-9	Прогулка креативного директора м
 surreal-vfx-case-10	Надпись на алтаре сущности из бездны — тёмное фэнтези
 surreal-vfx-case-11	Преображение сцены с парящим цветовым кругом интерфейса
 surreal-vfx-case-12	Сцена превращения огненной императрицы
+surreal-vfx-case-13	Превращение в песчаного титана в пустыне
 templates-structured-case-1	Катастрофическое затопление суперавианосца
 templates-structured-case-2	Восстановление осколков памяти
 templates-structured-case-3	От чертежа к реальности — превращение одноэтажного дома
@@ -164,3 +168,4 @@ general-cinematic-case-32	Котёнок крадёт закуски под од
 general-cinematic-case-33	Тест естественной речи T2V в Seedance 2.0
 general-cinematic-case-34	Хоррор-анимация с бумажными куклами
 general-cinematic-case-35	Съёмка с сопровождением мотоцикла в красной пустыне
+general-cinematic-case-36	DV-кадры катастрофы в Помпеях

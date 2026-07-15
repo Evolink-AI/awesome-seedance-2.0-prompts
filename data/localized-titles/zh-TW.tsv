@@ -33,6 +33,7 @@ action-fantasy-case-32	地下電光競技場對決
 action-fantasy-case-33	鱷魚跑道拖拽飛機
 action-fantasy-case-34	閃電前鋒動畫進球
 action-fantasy-case-35	野花獅鷲山谷飛行
+action-fantasy-case-36	蒙古騎兵回身射箭
 cinematic-realism-case-1	現代日本紀錄片序列
 cinematic-realism-case-2	追逐影子的長板下坡
 cinematic-realism-case-3	流星覺醒的戰爭女英雄
@@ -57,6 +58,7 @@ pov-fpv-case-16	電影級北京文化廣告——8K 第一人稱
 pov-fpv-case-17	極致微距 FPV——仙女翅膀跟拍
 pov-fpv-case-18	火山洞穴重力俯衝
 pov-fpv-case-19	超音速沙漠峽谷 POV
+pov-fpv-case-20	法國煙火 FPV 飛越
 commercial-product-case-1	香水廣告風動畫三人舞台
 commercial-product-case-2	暗黑奇幻教堂決鬥
 commercial-product-case-3	暗黑奇幻神社大殿決鬥
@@ -82,6 +84,7 @@ commercial-product-case-22	俯拍時尚型錄——換裝序列
 commercial-product-case-23	高端生活方式廣告——自拍影片部落格風格
 commercial-product-case-24	節拍同步防水運動鞋廣告
 commercial-product-case-25	山竹精華液產品亮相
+commercial-product-case-26	孟買行李箱計程車亮相
 reference-driven-case-1	骷髏鋼琴家微縮景觀表演
 reference-driven-case-2	風暴船上的公主對決海怪
 reference-driven-case-3	女僕劍舞：芽衣對決可可
@@ -112,6 +115,7 @@ surreal-vfx-case-9	創意總監維度漫步
 surreal-vfx-case-10	深淵實體祭壇銘文——暗黑奇幻
 surreal-vfx-case-11	懸浮 UI 色輪場景變換
 surreal-vfx-case-12	火焰女皇變身序列
+surreal-vfx-case-13	沙漠沙巨人變身
 templates-structured-case-1	超級航空母艦災難性沉沒
 templates-structured-case-2	記憶碎片重構
 templates-structured-case-3	從藍圖到現實——單層住宅變形
@@ -164,3 +168,4 @@ general-cinematic-case-32	小貓躲在被窩裡偷吃零食
 general-cinematic-case-33	Seedance 2.0 文生影片自然語音測試
 general-cinematic-case-34	紙偶恐怖動畫
 general-cinematic-case-35	紅色沙漠摩托車追蹤鏡頭
+general-cinematic-case-36	龐貝災難 DV 紀錄畫面

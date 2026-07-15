@@ -73,7 +73,7 @@ curl --request GET \
 <a id="statistics"></a>
 ## 📊 통계
 
-8개 카테고리의 고유 사례 165개를 11개 README에 동기화했습니다.
+8개 카테고리의 고유 사례 171개를 11개 README에 동기화했습니다.
 
 <a id="how-to-use"></a>
 ## 🧭 이 저장소 사용법
@@ -88,7 +88,7 @@ curl --request GET \
 - [통계](#statistics)
 - [이 저장소 사용법](#how-to-use)
 - [메뉴](#menu)
-- [⚔️ 액션 / 판타지](#action-fantasy) (35)
+- [⚔️ 액션 / 판타지](#action-fantasy) (36)
   - [사례 1: 거리 랩 뮤직비디오 공연 (작성자 @songguoxiansen)](#action-fantasy-case-1)
   - [사례 2: 검은 고양이의 사막 무술 대결 (작성자 @nopinduoduo)](#action-fantasy-case-2)
   - [사례 3: 실사판 호흡 기술 결투 (작성자 @johnAGI168)](#action-fantasy-case-3)
@@ -124,13 +124,14 @@ curl --request GET \
   - [사례 33: 활주로에서 비행기에 끌리는 악어 (작성자 @rahulnanda86)](#action-fantasy-case-33)
   - [사례 34: 번개 스트라이커의 애니메이션 골 (작성자 @CharaspowerAI)](#action-fantasy-case-34)
   - [사례 35: 야생화 계곡을 나는 그리핀 (작성자 @Mayz1169)](#action-fantasy-case-35)
+  - [사례 36: 몽골 기병의 파르티안 샷 (작성자 @Ankit_patel211)](#action-fantasy-case-36)
 - [🎞️ 시네마틱 리얼리즘](#cinematic-realism) (5)
   - [사례 1: 현대 일본 다큐멘터리 시퀀스 (작성자 @kuranoayashi)](#cinematic-realism-case-1)
   - [사례 2: 그림자를 추적하는 롱보드 내리막 (작성자 @Dheepanratnam)](#cinematic-realism-case-2)
   - [사례 3: 유성으로 각성한 전쟁의 여주인공 (작성자 @ChrisTheNerv)](#cinematic-realism-case-3)
   - [사례 4: 안개 낀 캡슐 섬 드라마 (작성자 @umesh_ai)](#cinematic-realism-case-4)
   - [사례 5: 폭풍 절벽의 사무라이 등장 (작성자 @umesh_ai)](#cinematic-realism-case-5)
-- [🥽 POV / FPV](#pov-fpv) (19)
+- [🥽 POV / FPV](#pov-fpv) (20)
   - [사례 1: 가슴 장착 카메라 위장 추격전 (작성자 @genel_ai)](#pov-fpv-case-1)
   - [사례 2: 상하이 사이버펑크 도시 하이라이트 영상 (작성자 @Adam38363368936)](#pov-fpv-case-2)
   - [사례 3: 저주받은 사무라이의 일관된 액션 프롬프트 (작성자 @Just_sharon7)](#pov-fpv-case-3)
@@ -150,7 +151,8 @@ curl --request GET \
   - [사례 17: 극한 매크로 FPV — 요정 날개 추적 숏 (작성자 @EHuanglu)](#pov-fpv-case-17)
   - [사례 18: 화산 동굴 중력 다이빙 (작성자 @LudovicCreator)](#pov-fpv-case-18)
   - [사례 19: 초음속 사막 협곡 POV (작성자 @LudovicCreator)](#pov-fpv-case-19)
-- [🏷️ 광고 / 제품](#commercial-product) (25)
+  - [사례 20: 프랑스 불꽃놀이 FPV 비행 (작성자 @LudovicCreator)](#pov-fpv-case-20)
+- [🏷️ 광고 / 제품](#commercial-product) (26)
   - [사례 1: 향수 광고풍 애니메이션 3인조 댄스 무대 (작성자 @ShadeLurk)](#commercial-product-case-1)
   - [사례 2: 다크 판타지 교회 결투 (작성자 @ZaraIrahh)](#commercial-product-case-2)
   - [사례 3: 다크 판타지 신사 전각 결투 (작성자 @MiraMusic_AI)](#commercial-product-case-3)
@@ -176,6 +178,7 @@ curl --request GET \
   - [사례 23: 프리미엄 라이프스타일 광고 — 브이로그 셀카 스타일 (작성자 @johnAGI168)](#commercial-product-case-23)
   - [사례 24: 비트 동기화 방수 스니커즈 필름 (작성자 @madpencil_)](#commercial-product-case-24)
   - [사례 25: 망고스틴 세럼 제품 리빌 (작성자 @ritesh_ai)](#commercial-product-case-25)
+  - [사례 26: 뭄바이 여행가방 택시 공개 (작성자 @rahulnanda86)](#commercial-product-case-26)
 - [🖼️ 레퍼런스 기반](#reference-driven) (18)
   - [사례 1: 해골 피아니스트의 미니어처 디오라마 공연 (작성자 @tea_story_hoshi)](#reference-driven-case-1)
   - [사례 2: 폭풍 속 배의 공주 대 크라켄 (작성자 @applete77191758)](#reference-driven-case-2)
@@ -195,7 +198,7 @@ curl --request GET \
   - [사례 16: 캐릭터 참조 애니메이션 프롬프트 (작성자 @Reiria123)](#reference-driven-case-16)
   - [사례 17: 만화 동물의 실사화 (작성자 @MustafyOf)](#reference-driven-case-17)
   - [사례 18: 고정 스토리보드 참조 계층 (작성자 @startracker)](#reference-driven-case-18)
-- [🌀 초현실 / VFX](#surreal-vfx) (12)
+- [🌀 초현실 / VFX](#surreal-vfx) (13)
   - [사례 1: 무중력 카타나 전투 (작성자 @MiraMusic_AI)](#surreal-vfx-case-1)
   - [사례 2: 구름 속 고래의 초현실적 서사시 (작성자 @chaosdotjpg)](#surreal-vfx-case-2)
   - [사례 3: 심해 잠수부의 해양 생물 변신 (작성자 @AIARTGALLARY)](#surreal-vfx-case-3)
@@ -208,6 +211,7 @@ curl --request GET \
   - [사례 10: 심연 존재의 제단 비문 — 다크 판타지 (작성자 @Adam38363368936)](#surreal-vfx-case-10)
   - [사례 11: 떠 있는 UI 색상환의 장면 전환 (작성자 @johnAGI168)](#surreal-vfx-case-11)
   - [사례 12: 불꽃 여제의 변신 시퀀스 (작성자 @LudovicCreator)](#surreal-vfx-case-12)
+  - [사례 13: 사막의 샌드 타이탄 변신 (작성자 @LudovicCreator)](#surreal-vfx-case-13)
 - [📐 템플릿 및 구조화 형식](#templates-structured) (17)
   - [사례 1: 초대형 항공모함의 재앙적 침몰 (작성자 @johnAGI168)](#templates-structured-case-1)
   - [사례 2: 기억 파편 재구성 (작성자 @TechTalkNAVI)](#templates-structured-case-2)
@@ -226,7 +230,7 @@ curl --request GET \
   - [사례 15: 스타일리시한 3D 이발소 변신 시퀀스 (작성자 @ShamiWeb3)](#templates-structured-case-15)
   - [사례 16: 인상주의 노 젓는 손 템플릿 (작성자 @0xbisc)](#templates-structured-case-16)
   - [사례 17: 여전사 — 구조화된 피사체 프롬프트 (작성자 @noman23761)](#templates-structured-case-17)
-- [🎬 일반 시네마틱](#general-cinematic) (35)
+- [🎬 일반 시네마틱](#general-cinematic) (36)
   - [사례 1: 하이힐과 비트가 동기화된 패션 클로즈업 (작성자 @TingFengAIAI)](#general-cinematic-case-1)
   - [사례 2: 아이 방에서 미니 스케이트보드 탈출 (작성자 @anson7956)](#general-cinematic-case-2)
   - [사례 3: 러커 파크 할머니 대결 (작성자 @techhalla)](#general-cinematic-case-3)
@@ -262,6 +266,7 @@ curl --request GET \
   - [사례 33: Seedance 2.0 T2V 자연 음성 테스트 (작성자 @tanabe_fragm)](#general-cinematic-case-33)
   - [사례 34: 종이 인형 공포 애니메이션 (작성자 @TomaAIbijo)](#general-cinematic-case-34)
   - [사례 35: 붉은 사막 오토바이 트래킹 숏 (작성자 @LudovicCreator)](#general-cinematic-case-35)
+  - [사례 36: 폼페이 재난 현장 DV 영상 (작성자 @venturetwins)](#general-cinematic-case-36)
 <a id="action-fantasy"></a>
 ## ⚔️ 액션 / 판타지
 
@@ -979,6 +984,22 @@ A French superstar striker inspired by Kylian Mbappé, explosive speed, sharp go
 [0-4s] The white-haired girl warrior riding her feathered white griffin beast launches off a cliff edge into open golden morning sky, powerful wingbeats, joyful expression, gaining altitude smoothly. [4-9s] They soar low and fast over golden rolling hills and wildflower fields, wind streaming through her hair and the griffin's feathers, banking gently as they glide through soft white clouds, natural relaxed posture, no dramatic pose. [9-13s] They swoop down along a forested mountain ridge and skim just above a sparkling river bend, the griffin glancing playfully at its rider, smooth continuous fast flight. [13-15s] They glide onward into warm golden sunset light over the valley, frame holds steady.
 ```
 
+<a id="action-fantasy-case-36"></a>
+<!-- Case 36: Mongol Cavalry Parthian Shot (by @Ankit_patel211) -->
+### 사례 36: [몽골 기병의 파르티안 샷](https://x.com/Ankit_patel211/status/2076945741898272939) (작성자 [@Ankit_patel211](https://x.com/Ankit_patel211))
+
+| 결과 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-36"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2076945741898272939.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+모델 변형: Seedance 2 Mini
+
+**프롬프트:**
+
+```
+Endless golden grassland, low sun, wind rippling the grass like water. A Mongol woman rides a compact steppe pony at a controlled canter, bow drawn. She's harassing a Jin cavalry patrol — feigned retreat, turning in the saddle for the Parthian shot, arrow after arrow finding gaps in lamellar armor. The horsemanship is the star: no hands on reins, controlling the horse with legs and weight, the pony reading her body. When one pursuer closes, she drops the bow to a saddle loop, draws a curved saber, and executes a single passing cut. The pursuit becomes a wide sweeping shot — dozens of riders spread across the plain, dust trails behind each one.
+```
+
 <a id="cinematic-realism"></a>
 
 <a id="cinematic-realism"></a>
@@ -1574,6 +1595,20 @@ First-person camera perspective only, no drone, no aircraft, no propellers, no v
 Pure first-person camera perspective, no visible drone, no cockpit, no aircraft visible. The camera flies at supersonic speed through an enormous desert canyon, hugging the terrain only inches above the rocks. Sonic booms echo through the cliffs while dust erupts behind every turn. The camera slices through impossibly narrow rock arches, skims over waterfalls, enters a dark canyon tunnel, then bursts back into daylight as multiple supersonic shockwaves ripple across the landscape. The final climb rockets vertically through thick clouds into the upper atmosphere with the Earth stretching across the horizon. Continuous one-take, authentic high-speed inertia, aggressive banking, cinematic motion blur, atmospheric distortion, volumetric dust, blockbuster Hollywood VFX, hyper-realistic.
 ```
 
+<a id="pov-fpv-case-20"></a>
+<!-- Case 20: France Fireworks FPV Flyover (by @LudovicCreator) -->
+### 사례 20: [프랑스 불꽃놀이 FPV 비행](https://x.com/LudovicCreator/status/2077090789356609683) (작성자 [@LudovicCreator](https://x.com/LudovicCreator))
+
+| 결과 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-20"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2077090789356609683.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**프롬프트:**
+
+```
+Immersive first-person flying camera perspective, no visible drone or flying device. The entire sequence takes place at night beneath a deep blue sky. The camera races above the illuminated lavender fields of Provence while fireworks burst continuously in blue, white, and red across the horizon. It weaves through glowing medieval villages, vineyards, French châteaux, the cliffs of Normandy, and Mont-Saint-Michel reflected in the dark tide, with fireworks erupting above every location. The camera then follows the Seine into Paris at extreme speed, skimming beneath historic bridges, banking around the Arc de Triomphe, and climbing beside the fully illuminated Eiffel Tower as enormous synchronized fireworks fill the sky and reflect across the river. At the finale, the camera pulls back above Paris while the fireworks create a vast tricolor glow. A gigantic French flag unfurls naturally from the top of the Eiffel Tower, waving majestically above the city as the final fireworks burst behind it. No text, no words, no letters. Continuous POV shot, no cuts, aggressive banking, cinematic motion blur, realistic night lighting, volumetric smoke, detailed fireworks, ultra-realistic travel cinematography, spectacular blockbuster VFX, IMAX quality.
+```
+
 <a id="commercial-product"></a>
 ## 🏷️ 광고 / 제품
 
@@ -2139,6 +2174,36 @@ Camera: one continuous orbiting hero rotation as the spine of the film, crash zo
 
 ```
 Use @ Image1 as the visual storyboard. 1 continuous shot, 10s, 9:16 vertical. Subject: NECTARY — a minimalist skincare extraction machine in translucent lilac acrylic and brushed gold — processes a whole mangosteen into @ Image2 , a violet-tinted vitamin C serum, in one unbroken transformation. Machine: Wide, squat, rounded-rectangle footprint, not tall or narrow. Translucent glossy lilac acrylic body, brushed gold metal accents. Flat rounded-rectangle top lid, "NECTARY" embossed flush into a front lid bar, same lilac tone as the body. Four round glass pillars at the outermost corners, filled with smooth violet fluid, no bubbles. Thin gold support rods set inboard of the pillars, running from lid to base. One unified opaque brushed-gold housing rides on those inner rods — short and wide like a rounded drum, wider than tall, flat underside, no neck or vessel shape. Two tall stadium-shaped clear glass slots cut into its front face. Stepped rounded-rectangle glass-and-gold base platform below. Reference: @ Image2 defines the exact bottle geometry and label. Location: Seamless lilac-to-violet gradient background, glossy mirror-reflective floor, soft studio environment, no other objects in frame. Visual Style: Ultra-clean CGI product cinematography, glossy and hyper-tactile, premium beauty-tech aesthetic. Camera: One continuous slow push-in for the full ten seconds, locked center axis, no cuts, no other movement. Lighting: Soft diffused overhead key light, warm gold rim light catching the housing and support rods, gentle volumetric glow rising from the base platform. [00:00–00:02] Wide shot. The machine in full view, a whole mangosteen — deep violet rind, small green calyx — resting on the base platform in the open gap beneath the raised gold housing. [00:02–00:04] The gold housing slides down along the inner rods, descending to enclose the stationary mangosteen. The fruit itself doesn't move. [00:04–00:07] With the housing lowered, violet rind and pearly white flesh swirl into a marbled gradient inside it, visible through the two glass slots, rising and deepening, tiny gold flecks suspended in the liquid. [00:07–00:08.5] The housing rises back up along the rods, revealing @ Image2 now resting on the platform where the fruit once sat. [00:08.5–00:10] The continuous push-in arrives close on @ Image2 alone, label clean and legible, soft violet glow beneath it. Audio: Soft mechanical hum, glass resonance, a telescoping slide as the housing lowers and rises, a rising crystalline shimmer as the liquid deepens, a gentle chime at the reveal. No music, no voiceover. Goal: A living product demonstration — one whole fruit, transformed into its own serum, in a single unbroken shot.
+```
+
+<a id="commercial-product-case-26"></a>
+<!-- Case 26: Mumbai Suitcase Taxi Reveal (by @rahulnanda86) -->
+### 사례 26: [뭄바이 여행가방 택시 공개](https://x.com/rahulnanda86/status/2076874322145390605) (작성자 [@rahulnanda86](https://x.com/rahulnanda86))
+
+| 결과 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-26"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2076874322145390605.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**프롬프트:**
+
+```
+Ultra-realistic handheld smartphone footage, vertical 9:16, recorded by a random bystander outside Mumbai International Airport at the arrivals pickup lane on a bright monsoon morning. The entire clip feels like genuine viral phone footage accidentally capturing an unbelievable new invention. Authentic smartphone characteristics throughout: slight handshake, autofocus breathing, rolling shutter, tiny exposure shifts as the camera moves between the shaded terminal and bright outdoors, realistic phone HDR, natural compression, subtle oversharpening, and no cinematic grading or CGI look.
+
+The recording begins as a young Indian couple exits the arrivals terminal. The man wears a backpack and casually rolls a large cream-colored hard-shell suitcase beside him while the woman walks next to him carrying their toddler. Morning airport activity is calm—only a handful of taxis, app cabs, luggage trolleys, airport staff, and scattered travelers move through the pickup lane. The person filming casually follows them, assuming they're just another family leaving the airport.
+
+Without warning, the man stops beside the curb and presses a hidden button on the suitcase handle.
+
+Within seconds the suitcase transforms mechanically into a compact three-wheeled electric scooter. Wheels deploy smoothly from underneath, handlebars unfold upward and lock into place, the seat flips out, the footboard extends, and a lightweight transparent rain canopy automatically rises overhead from neatly folded panels. Every movement feels like a genuine engineered consumer product rather than science fiction. Nearby travelers stop, stare, smile, and instinctively pull out their phones to record.
+
+The woman smiles and casually climbs onto the rear seat while holding the child securely. The transparent canopy settles into place above them. The tiny electric scooter quietly pulls away into the airport pickup lane, merging naturally with the light morning traffic. The bystander filming instinctively pans to follow them, taking a few quick steps while trying to keep them centered. A couple of people laugh in disbelief while another points toward the transforming luggage.
+
+As the futuristic luggage scooter disappears down the airport road, the filmer quietly mutters in disbelief:
+
+"Bhai... yeh toh future aa gaya."
+
+The recording ends naturally while still following them into the distance.
+
+Maximum realism. Looks exactly like accidental viral smartphone footage filmed outside Mumbai Airport on a quiet morning. No cinematic shots, no cuts, no impossible camera angles—only authentic handheld bystander footage with believable phone-camera imperfections throughout.
 ```
 
 <a id="reference-driven"></a>
@@ -3300,6 +3365,52 @@ Seedance 2.0 prompt 👇
 
 ```
 Full magical transformation sequence: a fire empress suspended in an abstract volcanic void as ribbons of molten orange light orbit and wrap around her hair lifting like flame, black-and-gold armor forming in glowing ember panels, lava cracks igniting across the floor as a sun sigil blooms underfoot  the camera orbiting opposite the ribbons’ spin, each beat synced to a rising heroic chord, ending in a powerful hand-forward signature pose held against a blazing starburst. Stock-footage grandeur, played sincere.
+```
+
+<a id="surreal-vfx-case-13"></a>
+<!-- Case 13: Sand Titan Desert Transformation (by @LudovicCreator) -->
+### 사례 13: [사막의 샌드 타이탄 변신](https://x.com/LudovicCreator/status/2076970003404865992) (작성자 [@LudovicCreator](https://x.com/LudovicCreator))
+
+| 결과 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-13"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2076970003404865992.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**프롬프트:**
+
+```
+15-second ultra-cinematic elemental transformation sequence in an endless desert during a colossal sandstorm at sunset.
+
+A lone desert wanderer stands atop a towering dune beneath a crimson-orange sky. Powerful winds drive endless waves of sand across the landscape while ancient ruined temples emerge and disappear through the storm.
+
+The atmosphere is vast, ancient, and awe-inspiring.
+
+The camera slowly circles around the wanderer as the desert suddenly falls unnaturally silent. The wind stops for a single moment.
+
+Then the sand begins moving.
+
+Tiny grains rise from the dunes and spiral around the figure in elegant vortexes. The ground beneath their feet fractures as ancient symbols briefly emerge from beneath the desert.
+
+The transformation begins.
+
+Golden sandstone patterns spread across the skin. The body becomes increasingly mineral, muscles turning into sculpted layers of weathered stone while streams of flowing sand circulate beneath the surface like living veins.
+
+The camera pushes closer as fingers become enormous sandstone claws. Cracks appear across the body, glowing softly with golden desert light while fine sand continuously pours through them.
+
+The transformation accelerates.
+
+The body grows dramatically larger with every heartbeat. Massive shoulders form from layered rock and compacted dunes. Flowing sand replaces hair, continuously blowing in the wind like an endless desert storm.
+
+Entire dunes collapse and rise around the transformation. Ancient pillars, broken statues, and fragments of forgotten civilizations become embedded within the giant's body as if the desert itself is rebuilding an ancient guardian.
+
+The surrounding sandstorm intensifies into a colossal rotating vortex. Lightning flashes inside the dust clouds while gigantic walls of sand spiral around the growing titan.
+
+At the climax, the wanderer becomes an immense Sand Titan towering above the desert. The body is formed from sandstone, flowing dunes, ancient ruins, and living rivers of sand. Every movement releases avalanches cascading from its colossal limbs.
+
+Final cinematic moment: the Sand Titan raises one enormous arm. The entire desert responds as gigantic dunes rise like ocean waves, creating a continent-sized sandstorm beneath a blazing sunset while the camera pulls back to reveal the titan dominating the endless horizon.
+
+Style: ultra cinematic elemental realism, photoreal sand simulation, realistic sandstone formation, colossal environmental scale, desert storm physics, volumetric dust, ancient civilization aesthetic, monumental cinematography, AAA visual effects quality, no text, no overlays.
+
+Audio: epic cinematic orchestral score, deep desert winds, shifting dunes, rock cracking, cascading sand, distant thunder within the sandstorm, ancient low-frequency resonance, massive elemental power.
 ```
 
 <a id="templates-structured"></a>
@@ -4514,6 +4625,30 @@ Audio: low eerie hum, distant wind, wooden kam
 
 ```
 Stylized anime desert crossing beat: a futuristic motorcycle cuts across a vast red desert at midday, dust rising in long painterly ribbons behind the rear wheel. The rider leans forward against the heat shimmer, cloak snapping violently in the wind, solar panels and ruined towers flickering on the horizon. Wide tracking shot from the side, the bike slicing through waves of sand, wheels reduced to smear-frame circles. The rider’s visor catches the burning sun as the landscape bends with speed.
+```
+
+<a id="general-cinematic-case-36"></a>
+<!-- Case 36: Pompeii DV Disaster Footage (by @venturetwins) -->
+### 사례 36: [폼페이 재난 현장 DV 영상](https://x.com/venturetwins/status/2077080446341656956) (작성자 [@venturetwins](https://x.com/venturetwins))
+
+| 결과 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-36"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2077080446341656956.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**프롬프트:**
+
+```
+This is handheld documentary footage recorded on an early-2000s consumer DV camcorder from the streets of Pompeii at the moment Mount Vesuvius begins erupting. The footage feels like real, imperfect home video of ordinary people witnessing the beginning of a historic disaster.
+
+The recording shows a busy street in Pompeii during the daytime, with merchants, families, children, laborers, and townspeople moving through the city. In the distance, Mount Vesuvius is visible above the rooftops. At first, people are going about normal daily life, but then a strange plume of smoke and ash begins rising from the volcano. The crowd gradually notices it. Some people stop and stare, some point toward the mountain, and others begin shouting to one another in confusion.
+
+The camera moves through the street like someone in the crowd trying to capture what is happening. It shows frightened townspeople looking up at the sky, parents pulling children closer, merchants abandoning their stalls, and groups of people beginning to run as ash starts falling. The footage captures the shift from curiosity to fear as the eruption becomes impossible to ignore. There are natural cuts between wider views of the street, the mountain in the distance, and closer views of people reacting in panic.
+
+The handheld camera shows natural shake, drifting framing, sudden reactive movement, autofocus mistakes as the person filming swings between the crowd and the volcano, slight exposure problems from bright daylight and ash in the air, and the imperfect look of old DV footage. The movement should feel urgent and unplanned, like someone trying to document the disaster while also staying safe.
+
+Natural sound only: the noise of the street, footsteps on stone, people murmuring and then shouting, children crying, distant rumbling from the volcano, debris falling, and the panic of the crowd. No cinematic music added.
+
+The result must feel like authentic, raw footage of ordinary people in Pompeii experiencing the beginning of the eruption of Mount Vesuvius, captured on an old DV camcorder.
 ```
 
 <a id="related-repositories"></a>

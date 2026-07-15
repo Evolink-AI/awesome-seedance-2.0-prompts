@@ -33,6 +33,7 @@ action-fantasy-case-32	Duel électrique dans une arène souterraine
 action-fantasy-case-33	Crocodile traîné par un avion sur la piste
 action-fantasy-case-34	But de l’attaquant éclair en anime
 action-fantasy-case-35	Vol de griffon dans la vallée aux fleurs sauvages
+action-fantasy-case-36	Tir parthe de la cavalerie mongole
 cinematic-realism-case-1	Séquence documentaire sur le Japon moderne
 cinematic-realism-case-2	Descente en longboard à la poursuite d’une ombre
 cinematic-realism-case-3	Héroïne de guerre réveillée par un météore
@@ -57,6 +58,7 @@ pov-fpv-case-16	Publicité culturelle cinématographique de Pékin en 8K et vue 
 pov-fpv-case-17	Macro FPV extrême — suivi d’ailes de fée
 pov-fpv-case-18	Plongée gravitationnelle dans une grotte volcanique
 pov-fpv-case-19	POV supersonique dans un canyon désertique
+pov-fpv-case-20	Survol FPV des feux d’artifice en France
 commercial-product-case-1	Scène de danse d’un trio d’anime façon publicité de parfum
 commercial-product-case-2	Duel dans une église de dark fantasy
 commercial-product-case-3	Duel dans la grande salle d’un sanctuaire de dark fantasy
@@ -82,6 +84,7 @@ commercial-product-case-22	Lookbook de mode en plongée — séquence de changem
 commercial-product-case-23	Publicité lifestyle haut de gamme façon selfie de vlog
 commercial-product-case-24	Film de baskets imperméables synchronisé sur le rythme
 commercial-product-case-25	Révélation produit d’un sérum au mangoustan
+commercial-product-case-26	Révélation du taxi-valise de Mumbai
 reference-driven-case-1	Performance d’un pianiste squelette dans un diorama miniature
 reference-driven-case-2	Princesse sur un navire en pleine tempête contre le kraken
 reference-driven-case-3	Danse des lames des servantes : Mei contre Coco
@@ -112,6 +115,7 @@ surreal-vfx-case-9	Marche dimensionnelle du directeur artistique
 surreal-vfx-case-10	Inscription sur l’autel d’une entité abyssale — dark fantasy
 surreal-vfx-case-11	Transformation de scène avec roue chromatique flottante dans l’interface
 surreal-vfx-case-12	Séquence de transformation de l’impératrice du feu
+surreal-vfx-case-13	Transformation du titan de sable dans le désert
 templates-structured-case-1	Naufrage catastrophique d’un superporte-avions
 templates-structured-case-2	Reconstruction de fragments de mémoire
 templates-structured-case-3	Du plan à la réalité — transformation d’une maison de plain-pied
@@ -164,3 +168,4 @@ general-cinematic-case-32	Chaton volant des friandises sous les couvertures
 general-cinematic-case-33	Test de parole naturelle T2V de Seedance 2.0
 general-cinematic-case-34	Animation d’horreur avec marionnettes en papier
 general-cinematic-case-35	Travelling à moto dans le désert rouge
+general-cinematic-case-36	Images DV de la catastrophe de Pompéi

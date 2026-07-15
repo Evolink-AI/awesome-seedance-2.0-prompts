@@ -33,6 +33,7 @@ action-fantasy-case-32	전기가 흐르는 지하 경기장 결투
 action-fantasy-case-33	활주로에서 비행기에 끌리는 악어
 action-fantasy-case-34	번개 스트라이커의 애니메이션 골
 action-fantasy-case-35	야생화 계곡을 나는 그리핀
+action-fantasy-case-36	몽골 기병의 파르티안 샷
 cinematic-realism-case-1	현대 일본 다큐멘터리 시퀀스
 cinematic-realism-case-2	그림자를 추적하는 롱보드 내리막
 cinematic-realism-case-3	유성으로 각성한 전쟁의 여주인공
@@ -57,6 +58,7 @@ pov-fpv-case-16	영화 같은 베이징 문화 광고 — 8K 1인칭
 pov-fpv-case-17	극한 매크로 FPV — 요정 날개 추적 숏
 pov-fpv-case-18	화산 동굴 중력 다이빙
 pov-fpv-case-19	초음속 사막 협곡 POV
+pov-fpv-case-20	프랑스 불꽃놀이 FPV 비행
 commercial-product-case-1	향수 광고풍 애니메이션 3인조 댄스 무대
 commercial-product-case-2	다크 판타지 교회 결투
 commercial-product-case-3	다크 판타지 신사 전각 결투
@@ -82,6 +84,7 @@ commercial-product-case-22	탑뷰 패션 룩북 — 의상 교체 시퀀스
 commercial-product-case-23	프리미엄 라이프스타일 광고 — 브이로그 셀카 스타일
 commercial-product-case-24	비트 동기화 방수 스니커즈 필름
 commercial-product-case-25	망고스틴 세럼 제품 리빌
+commercial-product-case-26	뭄바이 여행가방 택시 공개
 reference-driven-case-1	해골 피아니스트의 미니어처 디오라마 공연
 reference-driven-case-2	폭풍 속 배의 공주 대 크라켄
 reference-driven-case-3	메이드 검무: 메이 대 코코
@@ -112,6 +115,7 @@ surreal-vfx-case-9	크리에이티브 디렉터의 차원 산책
 surreal-vfx-case-10	심연 존재의 제단 비문 — 다크 판타지
 surreal-vfx-case-11	떠 있는 UI 색상환의 장면 전환
 surreal-vfx-case-12	불꽃 여제의 변신 시퀀스
+surreal-vfx-case-13	사막의 샌드 타이탄 변신
 templates-structured-case-1	초대형 항공모함의 재앙적 침몰
 templates-structured-case-2	기억 파편 재구성
 templates-structured-case-3	설계도에서 현실로 — 단층 주택 변신
@@ -164,3 +168,4 @@ general-cinematic-case-32	이불 속에서 간식을 훔치는 새끼 고양이
 general-cinematic-case-33	Seedance 2.0 T2V 자연 음성 테스트
 general-cinematic-case-34	종이 인형 공포 애니메이션
 general-cinematic-case-35	붉은 사막 오토바이 트래킹 숏
+general-cinematic-case-36	폼페이 재난 현장 DV 영상

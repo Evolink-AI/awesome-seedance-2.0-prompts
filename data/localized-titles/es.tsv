@@ -33,6 +33,7 @@ action-fantasy-case-32	Duelo eléctrico en una arena subterránea
 action-fantasy-case-33	Cocodrilo arrastrado por un avión en la pista
 action-fantasy-case-34	Gol del delantero relámpago en anime
 action-fantasy-case-35	Vuelo de grifo por el valle de flores silvestres
+action-fantasy-case-36	Disparo parto de la caballería mongola
 cinematic-realism-case-1	Secuencia documental del Japón moderno
 cinematic-realism-case-2	Descenso en longboard siguiendo una sombra
 cinematic-realism-case-3	Heroína de guerra despertada por un meteorito
@@ -57,6 +58,7 @@ pov-fpv-case-16	Anuncio cultural cinematográfico de Pekín en primera persona y
 pov-fpv-case-17	FPV macro extremo: seguimiento de alas de hada
 pov-fpv-case-18	Picado gravitacional en una cueva volcánica
 pov-fpv-case-19	POV supersónica por un cañón desértico
+pov-fpv-case-20	Sobrevuelo FPV de fuegos artificiales en Francia
 commercial-product-case-1	Escenario de baile de trío anime con estilo de anuncio de perfume
 commercial-product-case-2	Duelo en una iglesia de fantasía oscura
 commercial-product-case-3	Duelo en el salón de un santuario de fantasía oscura
@@ -82,6 +84,7 @@ commercial-product-case-22	Lookbook de moda cenital: secuencia de cambios de rop
 commercial-product-case-23	Anuncio de estilo de vida premium con selfie de vlog
 commercial-product-case-24	Anuncio de zapatillas impermeables sincronizado con el ritmo
 commercial-product-case-25	Revelación de sérum de mangostán
+commercial-product-case-26	Presentación del taxi-maleta en Mumbai
 reference-driven-case-1	Actuación de un pianista esqueleto en diorama miniatura
 reference-driven-case-2	Princesa del barco en la tormenta contra el kraken
 reference-driven-case-3	Danza de espadas de sirvientas: Mei contra Coco
@@ -112,6 +115,7 @@ surreal-vfx-case-9	Paseo dimensional del director creativo
 surreal-vfx-case-10	Inscripción del altar de una entidad abisal: fantasía oscura
 surreal-vfx-case-11	Transformación de escena con rueda de color flotante en la interfaz
 surreal-vfx-case-12	Secuencia de transformación de la emperatriz de fuego
+surreal-vfx-case-13	Transformación del titán de arena en el desierto
 templates-structured-case-1	Hundimiento catastrófico de un superportaaviones
 templates-structured-case-2	Reconstrucción de fragmentos de memoria
 templates-structured-case-3	Del plano a la realidad: transformación de una casa de una planta
@@ -164,3 +168,4 @@ general-cinematic-case-32	Gatito que roba aperitivos bajo las mantas
 general-cinematic-case-33	Prueba de habla natural T2V de Seedance 2.0
 general-cinematic-case-34	Animación de terror con marionetas de papel
 general-cinematic-case-35	Plano de seguimiento en moto por el desierto rojo
+general-cinematic-case-36	Imágenes DV del desastre de Pompeya
