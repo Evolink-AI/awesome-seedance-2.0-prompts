@@ -39,6 +39,7 @@ cinematic-realism-case-2	Descente en longboard à la poursuite d’une ombre
 cinematic-realism-case-3	Héroïne de guerre réveillée par un météore
 cinematic-realism-case-4	Drame sur une île à maison capsule dans la brume
 cinematic-realism-case-5	Révélation d’un samouraï sur une falaise en tempête
+cinematic-realism-case-6	Juge de cannonball à la piscine VHS
 pov-fpv-case-1	Séquence de poursuite camouflée avec caméra pectorale
 pov-fpv-case-2	Bande-annonce d’une Shanghai cyberpunk
 pov-fpv-case-3	Prompt d’action cohérent d’un samouraï maudit
@@ -103,6 +104,9 @@ reference-driven-case-15	Prompt guidé par image avec un chat chanteur
 reference-driven-case-16	Prompt d’anime avec référence de personnage
 reference-driven-case-17	Animaux de dessin animé transformés en prise de vues réelles
 reference-driven-case-18	Hiérarchie de références verrouillée par storyboard
+reference-driven-case-19	Montage d'absorption d'énergie VOLTIA
+reference-driven-case-20	Confession de Cléopâtre au palais
+reference-driven-case-21	Retrouvailles pluvieuses sous la lanterne
 surreal-vfx-case-1	Combat au katana en apesanteur
 surreal-vfx-case-2	Baleine dans les nuages — épopée surréaliste
 surreal-vfx-case-3	Métamorphose d’un plongeur des abysses en créature marine
@@ -116,6 +120,7 @@ surreal-vfx-case-10	Inscription sur l’autel d’une entité abyssale — dark 
 surreal-vfx-case-11	Transformation de scène avec roue chromatique flottante dans l’interface
 surreal-vfx-case-12	Séquence de transformation de l’impératrice du feu
 surreal-vfx-case-13	Transformation du titan de sable dans le désert
+surreal-vfx-case-14	Voiture en fuite transformée en camion-benne
 templates-structured-case-1	Naufrage catastrophique d’un superporte-avions
 templates-structured-case-2	Reconstruction de fragments de mémoire
 templates-structured-case-3	Du plan à la réalité — transformation d’une maison de plain-pied

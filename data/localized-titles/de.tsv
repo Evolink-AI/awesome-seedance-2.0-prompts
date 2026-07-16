@@ -39,6 +39,7 @@ cinematic-realism-case-2	Longboard-Abfahrt auf den Spuren eines Schattens
 cinematic-realism-case-3	Vom Meteor erweckte Kriegsheldin
 cinematic-realism-case-4	Drama auf einer nebligen Kapselhaus-Insel
 cinematic-realism-case-5	Samurai-Enthüllung an der Sturmklippe
+cinematic-realism-case-6	VHS-Pool-Cannonball-Juror
 pov-fpv-case-1	Tarnverfolgung mit Brustkamera
 pov-fpv-case-2	Cyberpunk-Stadttrailer aus Shanghai
 pov-fpv-case-3	Konsistenter Action-Prompt eines verfluchten Samurai
@@ -103,6 +104,9 @@ reference-driven-case-15	Bildgesteuerter Prompt mit singender Katze
 reference-driven-case-16	Anime-Prompt mit Charakterreferenz
 reference-driven-case-17	Zeichentricktiere als Realfilmfiguren
 reference-driven-case-18	Gesperrte Referenzhierarchie mit Storyboard
+reference-driven-case-19	VOLTIA Energieentzug-Montage
+reference-driven-case-20	Kleopatras Palastgeständnis
+reference-driven-case-21	Regentreffen unter der Laterne
 surreal-vfx-case-1	Katana-Kampf in Schwerelosigkeit
 surreal-vfx-case-2	Wal in den Wolken – surreales Epos
 surreal-vfx-case-3	Verwandlung eines Tiefseetauchers in ein Meereswesen
@@ -116,6 +120,7 @@ surreal-vfx-case-10	Altarinschrift einer Abgrundkreatur – düstere Fantasy
 surreal-vfx-case-11	Szenenverwandlung mit schwebendem UI-Farbrad
 surreal-vfx-case-12	Verwandlungssequenz der Feuerkaiserin
 surreal-vfx-case-13	Wüstenverwandlung zum Sandtitan
+surreal-vfx-case-14	Fluchtauto wird Müllwagen
 templates-structured-case-1	Katastrophaler Untergang eines Supercarriers
 templates-structured-case-2	Rekonstruktion von Erinnerungsfragmenten
 templates-structured-case-3	Vom Bauplan zur Realität – Verwandlung eines einstöckigen Hauses

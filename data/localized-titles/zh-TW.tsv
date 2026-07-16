@@ -39,6 +39,7 @@ cinematic-realism-case-2	追逐影子的長板下坡
 cinematic-realism-case-3	流星覺醒的戰爭女英雄
 cinematic-realism-case-4	迷霧膠囊島劇情
 cinematic-realism-case-5	風暴懸崖武士現身
+cinematic-realism-case-6	VHS 泳池炮彈跳裁判
 pov-fpv-case-1	胸前相機迷彩追逐序列
 pov-fpv-case-2	上海賽博龐克城市炫剪
 pov-fpv-case-3	受詛咒武士一致性動作提示詞
@@ -103,6 +104,9 @@ reference-driven-case-15	帶歌唱貓咪的圖像驅動提示詞
 reference-driven-case-16	角色參考動畫提示詞
 reference-driven-case-17	卡通動物實拍化
 reference-driven-case-18	鎖定分鏡參考層級
+reference-driven-case-19	VOLTIA 吸能蒙太奇
+reference-driven-case-20	克麗奧佩脫拉宮廷告白
+reference-driven-case-21	燈下雨中重逢
 surreal-vfx-case-1	零重力武士刀戰鬥
 surreal-vfx-case-2	雲中鯨魚超現實史詩
 surreal-vfx-case-3	深淵潛水員變形為海洋生物
@@ -116,6 +120,7 @@ surreal-vfx-case-10	深淵實體祭壇銘文——暗黑奇幻
 surreal-vfx-case-11	懸浮 UI 色輪場景變換
 surreal-vfx-case-12	火焰女皇變身序列
 surreal-vfx-case-13	沙漠沙巨人變身
+surreal-vfx-case-14	逃逸車變身垃圾車
 templates-structured-case-1	超級航空母艦災難性沉沒
 templates-structured-case-2	記憶碎片重構
 templates-structured-case-3	從藍圖到現實——單層住宅變形

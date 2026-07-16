@@ -73,7 +73,7 @@ Recursos de apoyo: [ejemplos de API](https://github.com/Evolink-AI/Seedance-2.0-
 <a id="statistics"></a>
 ## 📊 Estadísticas
 
-171 casos únicos en 8 categorías, sincronizados en 11 archivos README.
+176 casos únicos en 8 categorías, sincronizados en 11 archivos README.
 
 <a id="how-to-use"></a>
 ## 🧭 Cómo usar este repositorio
@@ -125,12 +125,13 @@ Elige una categoría, abre un caso con fuente, copia su prompt y sustituye solo 
   - [Caso 34: Gol del delantero relámpago en anime (por @CharaspowerAI)](#action-fantasy-case-34)
   - [Caso 35: Vuelo de grifo por el valle de flores silvestres (por @Mayz1169)](#action-fantasy-case-35)
   - [Caso 36: Disparo parto de la caballería mongola (por @Ankit_patel211)](#action-fantasy-case-36)
-- [🎞️ Realismo cinematográfico](#cinematic-realism) (5)
+- [🎞️ Realismo cinematográfico](#cinematic-realism) (6)
   - [Caso 1: Secuencia documental del Japón moderno (por @kuranoayashi)](#cinematic-realism-case-1)
   - [Caso 2: Descenso en longboard siguiendo una sombra (por @Dheepanratnam)](#cinematic-realism-case-2)
   - [Caso 3: Heroína de guerra despertada por un meteorito (por @ChrisTheNerv)](#cinematic-realism-case-3)
   - [Caso 4: Drama en una isla con casa cápsula entre la niebla (por @umesh_ai)](#cinematic-realism-case-4)
   - [Caso 5: Revelación de samurái en acantilado tormentoso (por @umesh_ai)](#cinematic-realism-case-5)
+  - [Caso 6: Juez del cannonball en piscina VHS (por @Ankit_patel211)](#cinematic-realism-case-6)
 - [🥽 POV / FPV](#pov-fpv) (20)
   - [Caso 1: Secuencia de persecución camuflada con cámara en el pecho (por @genel_ai)](#pov-fpv-case-1)
   - [Caso 2: Vídeo promocional de una Shanghái ciberpunk (por @Adam38363368936)](#pov-fpv-case-2)
@@ -179,7 +180,7 @@ Elige una categoría, abre un caso con fuente, copia su prompt y sustituye solo 
   - [Caso 24: Anuncio de zapatillas impermeables sincronizado con el ritmo (por @madpencil_)](#commercial-product-case-24)
   - [Caso 25: Revelación de sérum de mangostán (por @ritesh_ai)](#commercial-product-case-25)
   - [Caso 26: Presentación del taxi-maleta en Mumbai (por @rahulnanda86)](#commercial-product-case-26)
-- [🖼️ Basado en referencias](#reference-driven) (18)
+- [🖼️ Basado en referencias](#reference-driven) (21)
   - [Caso 1: Actuación de un pianista esqueleto en diorama miniatura (por @tea_story_hoshi)](#reference-driven-case-1)
   - [Caso 2: Princesa del barco en la tormenta contra el kraken (por @applete77191758)](#reference-driven-case-2)
   - [Caso 3: Danza de espadas de sirvientas: Mei contra Coco (por @MiraMusic_AI)](#reference-driven-case-3)
@@ -198,7 +199,10 @@ Elige una categoría, abre un caso con fuente, copia su prompt y sustituye solo 
   - [Caso 16: Prompt de anime con referencia de personaje (por @Reiria123)](#reference-driven-case-16)
   - [Caso 17: Animales de dibujos animados convertidos en acción real (por @MustafyOf)](#reference-driven-case-17)
   - [Caso 18: Jerarquía de referencias con storyboard bloqueado (por @startracker)](#reference-driven-case-18)
-- [🌀 Surrealismo / VFX](#surreal-vfx) (13)
+  - [Caso 19: Montaje de drenaje de energía VOLTIA (por @itsPixieVerse)](#reference-driven-case-19)
+  - [Caso 20: Confesión palaciega de Cleopatra (por @kinovi_ai)](#reference-driven-case-20)
+  - [Caso 21: Reencuentro lluvioso bajo el farol (por @umesh_ai)](#reference-driven-case-21)
+- [🌀 Surrealismo / VFX](#surreal-vfx) (14)
   - [Caso 1: Combate con katana en gravedad cero (por @MiraMusic_AI)](#surreal-vfx-case-1)
   - [Caso 2: Ballena entre las nubes: epopeya surrealista (por @chaosdotjpg)](#surreal-vfx-case-2)
   - [Caso 3: Metamorfosis del buceador abisal en criatura marina (por @AIARTGALLARY)](#surreal-vfx-case-3)
@@ -212,6 +216,7 @@ Elige una categoría, abre un caso con fuente, copia su prompt y sustituye solo 
   - [Caso 11: Transformación de escena con rueda de color flotante en la interfaz (por @johnAGI168)](#surreal-vfx-case-11)
   - [Caso 12: Secuencia de transformación de la emperatriz de fuego (por @LudovicCreator)](#surreal-vfx-case-12)
   - [Caso 13: Transformación del titán de arena en el desierto (por @LudovicCreator)](#surreal-vfx-case-13)
+  - [Caso 14: Coche fugitivo que muta a camión de basura (por @LavrionX)](#surreal-vfx-case-14)
 - [📐 Plantillas y formatos estructurados](#templates-structured) (17)
   - [Caso 1: Hundimiento catastrófico de un superportaaviones (por @johnAGI168)](#templates-structured-case-1)
   - [Caso 2: Reconstrucción de fragmentos de memoria (por @TechTalkNAVI)](#templates-structured-case-2)
@@ -1113,6 +1118,30 @@ Scene 6, resolution: Final wide pullback from above and across the lake. Both su
 ```
 From a low angle, the camera rockets up past razor-edged cliffs, riding the wind to a breathtaking height, then tilts down to reveal a violent ocean smashing itself into stone. At the very edge, a lone samurai warrior stands perfectly still, silhouetted against spray and thunder, looking down into the chaos.
 ```
+
+<a id="cinematic-realism-case-6"></a>
+<!-- Case 6: VHS Pool Cannonball Judge (by @Ankit_patel211) -->
+### Caso 6: [Juez del cannonball en piscina VHS](https://x.com/Ankit_patel211/status/2077121431339725240) (por [@Ankit_patel211](https://x.com/Ankit_patel211))
+
+| Resultado |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-realism-case-6"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2077121431339725240.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+Variante del modelo: Seedance 2 Mini
+
+**Prompt:**
+
+```
+This is real 1990s home video footage shot on a VHS camcorder at a crowded public swimming pool. The video has the typical faded colors, analog grain, soft image quality, slight tracking distortion, and subtle tape noise characteristic of consumer VHS recordings from that era.
+The camera is handheld and very shaky, filming from a distance across the pool. In the background, a woman wearing a colorful floral one-piece swimsuit stands nervously at the top of the diving board. A large crowd around the pool begins cheering rhythmically with loud "eh-eh-eh" chants, encouraging her to jump.
+After several seconds she finally runs forward and performs a surprisingly perfect cannonball. She hits the water with tremendous force, creating an enormous splash that reaches several meters into the air and completely drenches nearby spectators.
+For a brief moment everything becomes silent. Then an elderly man wearing sandals, white tube socks, sunglasses, and a sun visor slowly walks into frame carrying a homemade cardboard sign with a large handwritten "10.0." Without saying anything he raises it high above his head exactly like an Olympic diving judge.
+The entire crowd immediately erupts into loud cheering, applause, laughter, whistles, and celebration. Several strangers begin chanting her name while children clap excitedly. The woman climbs out of the pool laughing as spectators congratulate her like she has just won an international championship. People gather around asking to take photos with her while the elderly judge proudly continues displaying the scorecard.
+The camera movement remains extremely handheld and shaky throughout, with natural motion blur, imperfect zooming, accidental reframing, and several unplanned cuts as the person filming struggles to follow the celebration.
+Natural sound only. Crowd chanting, loud applause, laughter, splashing water, echoing pool ambience, and authentic VHS microphone audio. No background music or narration.
+The result must feel like authentic raw 1990s home video footage capturing a completely ordinary pool jump that somehow turned into an Olympic-level celebration.
+```
+
 
 <a id="pov-fpv"></a>
 ## 🥽 POV / FPV
@@ -3066,6 +3095,110 @@ Maintain the exact facial identity from the canonical face reference. Preserve t
 Maintain the creature’s three-to-one scale, raw obsidian-and-magma anatomy, liquid-fire mane and spinal crest, warm volcanic grade, natural cavern geometry, and established altar.
 ```
 
+<a id="reference-driven-case-19"></a>
+<!-- Case 19: VOLTIA Power-Drain Montage (by @itsPixieVerse) -->
+### Caso 19: [Montaje de drenaje de energía VOLTIA](https://x.com/itsPixieVerse/status/2077526641207881830) (por [@itsPixieVerse](https://x.com/itsPixieVerse))
+
+| Resultado |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-19"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2077526641207881830.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+Seedance 2 Prompt:
+
+VOLTIA @Image1 — "World Goes Quiet" | Opening Titles. 15-second montage, 30 beats @ 0.5s each, dreamlike overcranked slow motion.
+
+Treat each beat as a standalone frame of premium key art — every frame poster-worthy, clean and legible at a glance. One unified visual language across all 30 beats: high-end stylized anime-realism render, sharp graphic linework fused with cinematic 3D lighting, moody rain-slicked urban night-world of dead streetlamps and humming substations.
+
+Color discipline: a suppressed core palette of ink black, deep asphalt gray, muted navy and cold off-white — broken only by three deliberate accents: her royal-blue jacket, coiling neon-magenta energy ribbons, and jagged yellow geometric lightning. Heavy chiaroscuro; when she drains a light source, the frame visibly dims and she becomes the only luminous thing in it. Atmosphere layers: drifting rain haze, floating dust motes caught in dying lamplight, faint electrical sparks, ozone shimmer; anamorphic streaks off every light source, fine grain, razor-thin focal planes.
+
+The character — locked design, identical in every beat (match reference image): VOLTIA, an atmospheric drainer who absorbs electricity and light from the world. Sleek dark bob with blunt bangs, calm intense eyes that ignite electric-yellow when she pulls a charge. Royal-blue zippered jacket with high collar and chest pocket, high-waisted black wide-leg trousers pooling over her shoes, neon-magenta cuffs at her wrists. Neon-pink energy ribbons orbit and coil around her body; yellow angular lightning fractures off her fingertips. Her demeanor never breaks: quiet, controlled, unshakable — she brings stillness to everything she touches.
+
+Shot design: no two beats framed alike. Rotate the full grammar — macro details (a fingertip meeting a lamppost, a magenta ribbon tightening around her wrist, one eye flaring yellow, the jacket zipper catching the last light) up to god's-eye views of a city grid going dark block by block around a single standing figure. Centered symmetry, hard diagonals, foreground occlusion through chain-link and rain, vast negative space of pure darkness, low-angle untouchable-presence hero frames, top-down shots of light draining toward her like water to a drain. Lighting shifts between rim-lit silhouette against one surviving neon sign, single hard key from a flickering streetlamp, magenta-and-yellow two-tone splits across her face, and near-total low key where only her ribbons draw her outline. Include 3–4 uninhabited world-building frames: a streetlamp dying, a blacked-out skyline, a substation gone silent, sparks settling on wet asphalt.
+
+Story arc: open on the city's light and hum — then omens: lamps flicker, signs stutter. Introduce her in fragments — silhouette, ribbons, hands, eyes — before ever revealing her full face. Escalate through the drain: she walks and darkness follows, she raises a bolt and commands the charge, she stands mid-street as every window behind her goes black in sequence. Resolve on one climactic frame: VOLTIA alone in an absolutely lightless city, facing camera, eyes burning yellow, magenta ribbons spiraling around her, her power the only light left in the world. Micro drift or slow push-in only within each beat; no fast cuts inside a shot; silence as a weapon.
+```
+
+<a id="reference-driven-case-20"></a>
+<!-- Case 20: Cleopatra Chamber Confession (by @kinovi_ai) -->
+### Caso 20: [Confesión palaciega de Cleopatra](https://x.com/kinovi_ai/status/2077432255157604598) (por [@kinovi_ai](https://x.com/kinovi_ai))
+
+| Resultado |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-20"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2077432255157604598.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+3⃣
+
+This is the final step, the Seedance2 prompt! Use the entire prompt below and you can alter it to your liking! Use the image you generated as the first frame be @Image1  . Be sure to upload the character sheet as
+@Image2 and @Image3 .
+
+"The first frame begins at @image1 .  VISUALS:
+
+Scene 1: Classic 90s 2D hand-drawn animation style, set within the lavish interior of the royal barge. Cleopatra @image2  lounges gracefully on a plush, teal-blue velvet chaise longue. She is leaning softly against a massive, sand-colored stone column adorned with highly stylized, painted Egyptian lotus flower motifs. Behind her, rich, sweeping purple silk curtains are tied back with golden ropes, revealing warm, painterly walls etched with ancient hieroglyphs. She is dressed immaculately in a flowing, form-fitting white gown accented with translucent, sheer blue fabric that cascades beautifully over her arms. She wears heavy gold hoop earrings, a magnificent gold and lapis lazuli jeweled collar, and a gleaming golden cobra crown resting atop her sleek, chin-length black hair. Her posture is utterly relaxed yet completely commanding. She tilts her head back slightly, her striking face and heavy, purple-shadowed eyes turning toward the camera with a look of supreme confidence, aloofness, and undeniable, magnetic allure.
+
+Scene 2: Cut to a medium-wide shot of Mark Antony @image3 standing near the entryway of the pavilion, his broad, heroic frame backlit by the warm, golden-hour Egyptian sunlight filtering in from the river. His deep red Roman cape drapes elegantly over his meticulously detailed, golden chest armor and white pleated tunic. He crosses his muscular, leather-braced arms over his chest. A confident, highly charming, and slightly arrogant smirk spreads across his face. One thick, dark eyebrow raises in a classic, perfectly animated expression of intrigued amusement as he takes in the sight of the Egyptian queen.
+
+Scene 3: Close-up on Cleopatra. With a slow, deliberate, and buttery-smooth 2D animation cycle, she reaches toward a golden platter resting on a small table beside her. Her delicate, manicured fingers pluck a single, vibrant purple grape. She holds it up to the light, twirling it playfully, her large, expressive anime-influenced eyes sparkling with sharp intelligence and mischievous intent. She offers a soft, highly theatrical animated smile, her flawless, cel-shaded features glowing warmly in the ambient light.
+
+Scene 4: Dynamic two-shot. Antony closes the distance between them with slow, purposeful, swaggering steps. The animation captures the weight and power of his movement. He stops beside her chaise and leans forward, resting one sturdy hand lightly on the carved wooden edge of her seat. The framing emphasizes the dynamic tension and chemistry between their contrasting designs—the rigid, metallic structure of the Roman general against the soft, flowing elegance of the Egyptian queen. Cleopatra looks up at him from beneath her dark lashes, her gaze coy and challenging, tilting her chin up to meet his eyes.
+
+Scene 5: Tight, intensely romantic close-up, the quintessential 90s animation "chemistry" shot. The camera slowly pushes in as their faces draw closer. Antony’s initial arrogant smirk softens into a genuine, deeply captivated, and breathless smile, his dark eyes completely lost in hers. Cleopatra’s expression shifts from playful teasing to genuine, mutual fascination. The lighting design shifts to cast a soft, magical, and romantic glow across their faces, perfectly highlighting the intricate cel-shaded shadows. A gentle, perfectly animated breeze sweeps through the pavilion, lightly tossing Antony's wavy dark hair and lifting the sheer blue fabric of Cleopatra's dress in a graceful, sweeping motion.
+
+AUDIO & DIALOGUE:
+
+The sweeping, grand orchestral score from the previous scene seamlessly transitions into a playful, seductive, and rhythmic melody. Plucked pizzicato strings, a sultry, winding oboe, and the gentle, rhythmic chime of a tambourine create a classic, sophisticated animated "flirtation" motif.
+
+Scene 1 SFX: The soft, luxurious rustling of heavy silk and sheer fabrics sliding against velvet. The subtle, distant, and peaceful lapping of the Nile river water against the wooden hull of the barge.
+
+Scene 2 SFX: The heavy, metallic creak of leather straps and the soft clink of gold armor as Mark Antony shifts his weight, emphasizing his imposing physical presence.
+
+Cleopatra (Voice incredibly smooth, rich, and dripping with playful, aristocratic sarcasm): "Tell me, General... do all Romans march onto foreign vessels looking quite so... dramatically brooding?"
+
+Scene 4 SFX: The heavy, purposeful thud of Antony's leather sandals stepping onto the richly woven carpets, followed by the soft sound of his hand gripping the wood of the chaise.
+
+Mark Antony (Voice deep, confident, and smooth, laced with a warm, rumbling chuckle): "Your Highness. I must admit, the reports of Egypt's treasures were severely understated."
+
+Scene 5 SFX: A soft, melodic, and incredibly charming animated giggle from Cleopatra, syncing perfectly with the music as the string section swells into a lush, romantic, and soaring crescendo, holding on a beautiful, sustained chord as the scene gently fades."
+```
+
+<a id="reference-driven-case-21"></a>
+<!-- Case 21: Rainy Reunion Under Lantern (by @umesh_ai) -->
+### Caso 21: [Reencuentro lluvioso bajo el farol](https://x.com/umesh_ai/status/2077419339264016619) (por [@umesh_ai](https://x.com/umesh_ai))
+
+| Resultado |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-21"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2077419339264016619.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+Prompt : Use the uploaded image as the exact visual reference: a peaceful forest clearing during steady evening rain, with a huge leafy tree, deep green cushioned bench, small wooden side table, wet grass, reflective puddles, drifting mist, and a vintage streetlamp casting warm golden light.
+
+Create a gentle 15-second cinematic story featuring two old friends meeting after several years. Élodie, a quiet French landscape painter in a cream raincoat, sits on the bench with a closed sketchbook. Matteo, an Italian nature writer wearing an olive jacket, walks slowly through the rain carrying two cups of tea. Keep their faces, clothing, and appearance consistent throughout.
+
+Scene 1: Wide aerial glide through rain-covered branches, gradually revealing the immense tree, glowing lamp, bench, and emerald clearing.
+
+Scene 2: Ground-level macro shot moving through wet grass, tiny flowers, falling droplets, rippling puddles, and golden reflections.
+
+Scene 3: Long side shot of Matteo walking toward the bench while Élodie watches quietly beneath the tree.
+
+Matteo smiles: “Still painting the rain?”
+
+Élodie replies softly: “Still trying.”
+
+Scene 4: Close-up of Matteo placing the steaming cups on the table as Élodie opens her sketchbook.
+
+Scene 5: Slow orbit around them sitting together, watching the mist drift through the clearing.
+
+Scene 6: Distant pullback across a reflective puddle, framing them beneath the enormous tree as they quietly share tea and savour the rain.
+```
+
+
 <a id="surreal-vfx"></a>
 ## 🌀 Surrealismo / VFX
 
@@ -3412,6 +3545,43 @@ Style: ultra cinematic elemental realism, photoreal sand simulation, realistic s
 
 Audio: epic cinematic orchestral score, deep desert winds, shifting dunes, rock cracking, cascading sand, distant thunder within the sandstorm, ancient low-frequency resonance, massive elemental power.
 ```
+
+<a id="surreal-vfx-case-14"></a>
+<!-- Case 14: Escape Car Garbage Morph (by @LavrionX) -->
+### Caso 14: [Coche fugitivo que muta a camión de basura](https://x.com/LavrionX/status/2077500080932671639) (por [@LavrionX](https://x.com/LavrionX))
+
+| Resultado |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-14"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2077500080932671639.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+A hyper-real cinematic action sequence on a bright urban road in daytime. Clean streets, light traffic, buildings on either side. Sound design: distant sirens approaching, sharp metallic impacts, city ambience.
+
+The video opens with a tight close-up of a sleek, angular metallic vehicle (Tesla-like design). Sudden gunfire—bullets hit the surface and ricochet cleanly, sparking off the body with sharp metallic pings. No visible shooters, only the sound of chaos and pursuit building.
+
+Camera quickly pulls back to reveal the full car speeding forward.
+
+Loud police sirens grow closer.
+
+Without slowing down, the vehicle begins transforming—its clean metallic panels shift, split, and reconfigure. The smooth exterior degrades into a rough, boxy structure. Angles soften. Surfaces become dented, rusted, uneven.
+
+Within seconds, the futuristic car becomes a grimy dumpster-style garbage truck, perfectly blending into the environment.
+
+The vehicle immediately hard brakes and performs a sharp 180-degree skid turn, tires screeching, dust kicking up. It settles seamlessly into a roadside parking position like it belongs there.
+
+Cut.
+
+Police vehicles rush past the same road at high speed, sirens blaring, continuing the chase forward—completely missing it.
+
+Foreground: a woman casually loading garbage into the back of the truck. She has braided hair, tattooed arms, long manicured nails, dressed like a regular worker but with subtle attitude.
+
+She pauses, watches the police pass… then slowly turns toward camera and winks.
+
+Ambient city sound returns. No hard cut.
+```
+
 
 <a id="templates-structured"></a>
 ## 📐 Plantillas y formatos estructurados
@@ -4680,7 +4850,7 @@ Este repositorio recopila ejemplos públicos de prompts de Seedance 2.0 para apr
 
 Gracias a quienes compartieron públicamente estos experimentos de Seedance 2.0.
 
-[@liyue_ai](https://x.com/liyue_ai), [@TingFengAIAI](https://x.com/TingFengAIAI), [@anson7956](https://x.com/anson7956), [@genel_ai](https://x.com/genel_ai), [@Adam38363368936](https://x.com/Adam38363368936), [@Just_sharon7](https://x.com/Just_sharon7), [@BarlowHakusyaku](https://x.com/BarlowHakusyaku), [@ShadeLurk](https://x.com/ShadeLurk), [@ZaraIrahh](https://x.com/ZaraIrahh), [@drjoetw](https://x.com/drjoetw), [@johnAGI168](https://x.com/johnAGI168), [@tea_story_hoshi](https://x.com/tea_story_hoshi), [@MiraMusic_AI](https://x.com/MiraMusic_AI), [@aigeboku](https://x.com/aigeboku), [@applete77191758](https://x.com/applete77191758), [@mikeymansta](https://x.com/mikeymansta), [@CharaspowerAI](https://x.com/CharaspowerAI), [@TechTalkNAVI](https://x.com/TechTalkNAVI), [@Viafin23](https://x.com/Viafin23), [@songguoxiansen](https://x.com/songguoxiansen), [@JiahaoYang_art](https://x.com/JiahaoYang_art), [@techhalla](https://x.com/techhalla), [@craftian_keskin](https://x.com/craftian_keskin), [@AITalesNBH](https://x.com/AITalesNBH), [@nopinduoduo](https://x.com/nopinduoduo), [@gkxspace](https://x.com/gkxspace), [@ChiakiAkagi](https://x.com/ChiakiAkagi), [@xingsthatmatter](https://x.com/xingsthatmatter), [@tebasaki3D](https://x.com/tebasaki3D), [@starks_arq](https://x.com/starks_arq), [@simple__dev](https://x.com/simple__dev), [@sebatheepan](https://x.com/sebatheepan), [@sailorv321](https://x.com/sailorv321), [@roco_kn_roco](https://x.com/roco_kn_roco), [@maxescu](https://x.com/maxescu), [@kuranoayashi](https://x.com/kuranoayashi), [@itsPixieVerse](https://x.com/itsPixieVerse), [@chaosdotjpg](https://x.com/chaosdotjpg), [@aisavvy1](https://x.com/aisavvy1), [@aimikoda](https://x.com/aimikoda), [@aiehon_aya](https://x.com/aiehon_aya), [@adrianaia_](https://x.com/adrianaia_), [@_3912657840](https://x.com/_3912657840), [@ZikinArt](https://x.com/ZikinArt), [@YaReYaRu30Life](https://x.com/YaReYaRu30Life), [@ShamiWeb3](https://x.com/ShamiWeb3), [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN), [@Rufus87078959](https://x.com/Rufus87078959), [@Mayz1169](https://x.com/Mayz1169), [@LudovicCreator](https://x.com/LudovicCreator), [@IamEmily2050](https://x.com/IamEmily2050), [@Gwsubsa](https://x.com/Gwsubsa), [@Dheepanratnam](https://x.com/Dheepanratnam), [@David_eficaz](https://x.com/David_eficaz), [@ChrisTheNerv](https://x.com/ChrisTheNerv), [@Artedeingenio](https://x.com/Artedeingenio), [@Alin_Reaper05](https://x.com/Alin_Reaper05), [@AIARTGALLARY](https://x.com/AIARTGALLARY), [@0xbisc](https://x.com/0xbisc), [@zasuko_michiksa](https://x.com/zasuko_michiksa), [@naoyuki_okada](https://x.com/naoyuki_okada), [@john87445528](https://x.com/john87445528), [@cdexsta](https://x.com/cdexsta), [@NimEshed](https://x.com/NimEshed), [@ImperfectEngel](https://web.archive.org/web/*/https://x.com/ImperfectEngel), [@BrennanErbz](https://x.com/BrennanErbz), [@AskVenice](https://x.com/AskVenice), [@AngelNwoha](https://x.com/AngelNwoha), [@umitsuru_fire](https://x.com/umitsuru_fire), [@Yuupapa_free](https://x.com/Yuupapa_free), [@ChrisGwinnLA](https://x.com/ChrisGwinnLA), [@vladimircherner](https://x.com/vladimircherner), [@patchworkfilmuk](https://x.com/patchworkfilmuk), [@sravs_AI_labs](https://x.com/sravs_AI_labs), [@iX00AI](https://x.com/iX00AI), [@ivanka_humeniuk](https://x.com/ivanka_humeniuk), [@crayon1267](https://x.com/crayon1267), [@pan_soramame_da](https://x.com/pan_soramame_da), [@kinopioai_ai](https://x.com/kinopioai_ai), [@a_shimanski](https://x.com/a_shimanski), [@noman23761](https://x.com/noman23761), [@SPEEDAI07](https://x.com/SPEEDAI07), [@lynneatyoumind](https://x.com/lynneatyoumind), [@EHuanglu](https://x.com/EHuanglu), [@tanabe_fragm](https://x.com/tanabe_fragm), [@Reiria123](https://x.com/Reiria123), [@TomaAIbijo](https://x.com/TomaAIbijo)
+[@liyue_ai](https://x.com/liyue_ai), [@TingFengAIAI](https://x.com/TingFengAIAI), [@anson7956](https://x.com/anson7956), [@genel_ai](https://x.com/genel_ai), [@Adam38363368936](https://x.com/Adam38363368936), [@Just_sharon7](https://x.com/Just_sharon7), [@BarlowHakusyaku](https://x.com/BarlowHakusyaku), [@ShadeLurk](https://x.com/ShadeLurk), [@ZaraIrahh](https://x.com/ZaraIrahh), [@drjoetw](https://x.com/drjoetw), [@johnAGI168](https://x.com/johnAGI168), [@tea_story_hoshi](https://x.com/tea_story_hoshi), [@MiraMusic_AI](https://x.com/MiraMusic_AI), [@aigeboku](https://x.com/aigeboku), [@applete77191758](https://x.com/applete77191758), [@mikeymansta](https://x.com/mikeymansta), [@CharaspowerAI](https://x.com/CharaspowerAI), [@TechTalkNAVI](https://x.com/TechTalkNAVI), [@Viafin23](https://x.com/Viafin23), [@songguoxiansen](https://x.com/songguoxiansen), [@JiahaoYang_art](https://x.com/JiahaoYang_art), [@techhalla](https://x.com/techhalla), [@craftian_keskin](https://x.com/craftian_keskin), [@AITalesNBH](https://x.com/AITalesNBH), [@nopinduoduo](https://x.com/nopinduoduo), [@gkxspace](https://x.com/gkxspace), [@ChiakiAkagi](https://x.com/ChiakiAkagi), [@xingsthatmatter](https://x.com/xingsthatmatter), [@tebasaki3D](https://x.com/tebasaki3D), [@starks_arq](https://x.com/starks_arq), [@simple__dev](https://x.com/simple__dev), [@sebatheepan](https://x.com/sebatheepan), [@sailorv321](https://x.com/sailorv321), [@roco_kn_roco](https://x.com/roco_kn_roco), [@maxescu](https://x.com/maxescu), [@kuranoayashi](https://x.com/kuranoayashi), [@itsPixieVerse](https://x.com/itsPixieVerse), [@chaosdotjpg](https://x.com/chaosdotjpg), [@aisavvy1](https://x.com/aisavvy1), [@aimikoda](https://x.com/aimikoda), [@aiehon_aya](https://x.com/aiehon_aya), [@adrianaia_](https://x.com/adrianaia_), [@_3912657840](https://x.com/_3912657840), [@ZikinArt](https://x.com/ZikinArt), [@YaReYaRu30Life](https://x.com/YaReYaRu30Life), [@ShamiWeb3](https://x.com/ShamiWeb3), [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN), [@Rufus87078959](https://x.com/Rufus87078959), [@Mayz1169](https://x.com/Mayz1169), [@LudovicCreator](https://x.com/LudovicCreator), [@IamEmily2050](https://x.com/IamEmily2050), [@Gwsubsa](https://x.com/Gwsubsa), [@Dheepanratnam](https://x.com/Dheepanratnam), [@David_eficaz](https://x.com/David_eficaz), [@ChrisTheNerv](https://x.com/ChrisTheNerv), [@Artedeingenio](https://x.com/Artedeingenio), [@Alin_Reaper05](https://x.com/Alin_Reaper05), [@AIARTGALLARY](https://x.com/AIARTGALLARY), [@0xbisc](https://x.com/0xbisc), [@zasuko_michiksa](https://x.com/zasuko_michiksa), [@naoyuki_okada](https://x.com/naoyuki_okada), [@john87445528](https://x.com/john87445528), [@cdexsta](https://x.com/cdexsta), [@NimEshed](https://x.com/NimEshed), [@ImperfectEngel](https://web.archive.org/web/*/https://x.com/ImperfectEngel), [@BrennanErbz](https://x.com/BrennanErbz), [@AskVenice](https://x.com/AskVenice), [@AngelNwoha](https://x.com/AngelNwoha), [@umitsuru_fire](https://x.com/umitsuru_fire), [@Yuupapa_free](https://x.com/Yuupapa_free), [@ChrisGwinnLA](https://x.com/ChrisGwinnLA), [@vladimircherner](https://x.com/vladimircherner), [@patchworkfilmuk](https://x.com/patchworkfilmuk), [@sravs_AI_labs](https://x.com/sravs_AI_labs), [@iX00AI](https://x.com/iX00AI), [@ivanka_humeniuk](https://x.com/ivanka_humeniuk), [@crayon1267](https://x.com/crayon1267), [@pan_soramame_da](https://x.com/pan_soramame_da), [@kinopioai_ai](https://x.com/kinopioai_ai), [@a_shimanski](https://x.com/a_shimanski), [@noman23761](https://x.com/noman23761), [@SPEEDAI07](https://x.com/SPEEDAI07), [@lynneatyoumind](https://x.com/lynneatyoumind), [@EHuanglu](https://x.com/EHuanglu), [@tanabe_fragm](https://x.com/tanabe_fragm), [@Reiria123](https://x.com/Reiria123), [@TomaAIbijo](https://x.com/TomaAIbijo), [@LavrionX](https://x.com/LavrionX), [@kinovi_ai](https://x.com/kinovi_ai), [@umesh_ai](https://x.com/umesh_ai), [@Ankit_patel211](https://x.com/Ankit_patel211)
 
 *Si hay que corregir atribución, licencia o retirada, abre un issue con la URL de origen.*
 
