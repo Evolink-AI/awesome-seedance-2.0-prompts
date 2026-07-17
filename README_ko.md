@@ -73,7 +73,7 @@ curl --request GET \
 <a id="statistics"></a>
 ## 📊 통계
 
-8개 카테고리의 고유 사례 176개를 11개 README에 동기화했습니다.
+8개 카테고리의 고유 사례 180개를 11개 README에 동기화했습니다.
 
 <a id="how-to-use"></a>
 ## 🧭 이 저장소 사용법
@@ -88,7 +88,7 @@ curl --request GET \
 - [통계](#statistics)
 - [이 저장소 사용법](#how-to-use)
 - [메뉴](#menu)
-- [⚔️ 액션 / 판타지](#action-fantasy) (36)
+- [⚔️ 액션 / 판타지](#action-fantasy) (37)
   - [사례 1: 거리 랩 뮤직비디오 공연 (작성자 @songguoxiansen)](#action-fantasy-case-1)
   - [사례 2: 검은 고양이의 사막 무술 대결 (작성자 @nopinduoduo)](#action-fantasy-case-2)
   - [사례 3: 실사판 호흡 기술 결투 (작성자 @johnAGI168)](#action-fantasy-case-3)
@@ -125,6 +125,7 @@ curl --request GET \
   - [사례 34: 번개 스트라이커의 애니메이션 골 (작성자 @CharaspowerAI)](#action-fantasy-case-34)
   - [사례 35: 야생화 계곡을 나는 그리핀 (작성자 @Mayz1169)](#action-fantasy-case-35)
   - [사례 36: 몽골 기병의 파르티안 샷 (작성자 @Ankit_patel211)](#action-fantasy-case-36)
+  - [사례 37: 거대 개구리 전령의 질주 (작성자 @0xbisc)](#action-fantasy-case-37)
 - [🎞️ 시네마틱 리얼리즘](#cinematic-realism) (6)
   - [사례 1: 현대 일본 다큐멘터리 시퀀스 (작성자 @kuranoayashi)](#cinematic-realism-case-1)
   - [사례 2: 그림자를 추적하는 롱보드 내리막 (작성자 @Dheepanratnam)](#cinematic-realism-case-2)
@@ -153,7 +154,7 @@ curl --request GET \
   - [사례 18: 화산 동굴 중력 다이빙 (작성자 @LudovicCreator)](#pov-fpv-case-18)
   - [사례 19: 초음속 사막 협곡 POV (작성자 @LudovicCreator)](#pov-fpv-case-19)
   - [사례 20: 프랑스 불꽃놀이 FPV 비행 (작성자 @LudovicCreator)](#pov-fpv-case-20)
-- [🏷️ 광고 / 제품](#commercial-product) (26)
+- [🏷️ 광고 / 제품](#commercial-product) (27)
   - [사례 1: 향수 광고풍 애니메이션 3인조 댄스 무대 (작성자 @ShadeLurk)](#commercial-product-case-1)
   - [사례 2: 다크 판타지 교회 결투 (작성자 @ZaraIrahh)](#commercial-product-case-2)
   - [사례 3: 다크 판타지 신사 전각 결투 (작성자 @MiraMusic_AI)](#commercial-product-case-3)
@@ -180,6 +181,7 @@ curl --request GET \
   - [사례 24: 비트 동기화 방수 스니커즈 필름 (작성자 @madpencil_)](#commercial-product-case-24)
   - [사례 25: 망고스틴 세럼 제품 리빌 (작성자 @ritesh_ai)](#commercial-product-case-25)
   - [사례 26: 뭄바이 여행가방 택시 공개 (작성자 @rahulnanda86)](#commercial-product-case-26)
+  - [사례 27: 인플루언서의 절벽 위 빌라 룸투어 (작성자 @Ankit_patel211)](#commercial-product-case-27)
 - [🖼️ 레퍼런스 기반](#reference-driven) (21)
   - [사례 1: 해골 피아니스트의 미니어처 디오라마 공연 (작성자 @tea_story_hoshi)](#reference-driven-case-1)
   - [사례 2: 폭풍 속 배의 공주 대 크라켄 (작성자 @applete77191758)](#reference-driven-case-2)
@@ -217,7 +219,7 @@ curl --request GET \
   - [사례 12: 불꽃 여제의 변신 시퀀스 (작성자 @LudovicCreator)](#surreal-vfx-case-12)
   - [사례 13: 사막의 샌드 타이탄 변신 (작성자 @LudovicCreator)](#surreal-vfx-case-13)
   - [사례 14: 도주 차량의 쓰레기차 변신 (작성자 @LavrionX)](#surreal-vfx-case-14)
-- [📐 템플릿 및 구조화 형식](#templates-structured) (17)
+- [📐 템플릿 및 구조화 형식](#templates-structured) (18)
   - [사례 1: 초대형 항공모함의 재앙적 침몰 (작성자 @johnAGI168)](#templates-structured-case-1)
   - [사례 2: 기억 파편 재구성 (작성자 @TechTalkNAVI)](#templates-structured-case-2)
   - [사례 3: 설계도에서 현실로 — 단층 주택 변신 (작성자 @craftian_keskin)](#templates-structured-case-3)
@@ -235,7 +237,8 @@ curl --request GET \
   - [사례 15: 스타일리시한 3D 이발소 변신 시퀀스 (작성자 @ShamiWeb3)](#templates-structured-case-15)
   - [사례 16: 인상주의 노 젓는 손 템플릿 (작성자 @0xbisc)](#templates-structured-case-16)
   - [사례 17: 여전사 — 구조화된 피사체 프롬프트 (작성자 @noman23761)](#templates-structured-case-17)
-- [🎬 일반 시네마틱](#general-cinematic) (36)
+  - [사례 18: 상자에서 펼쳐지는 로프트 인테리어 (작성자 @samaote)](#templates-structured-case-18)
+- [🎬 일반 시네마틱](#general-cinematic) (37)
   - [사례 1: 하이힐과 비트가 동기화된 패션 클로즈업 (작성자 @TingFengAIAI)](#general-cinematic-case-1)
   - [사례 2: 아이 방에서 미니 스케이트보드 탈출 (작성자 @anson7956)](#general-cinematic-case-2)
   - [사례 3: 러커 파크 할머니 대결 (작성자 @techhalla)](#general-cinematic-case-3)
@@ -272,6 +275,7 @@ curl --request GET \
   - [사례 34: 종이 인형 공포 애니메이션 (작성자 @TomaAIbijo)](#general-cinematic-case-34)
   - [사례 35: 붉은 사막 오토바이 트래킹 숏 (작성자 @LudovicCreator)](#general-cinematic-case-35)
   - [사례 36: 폼페이 재난 현장 DV 영상 (작성자 @venturetwins)](#general-cinematic-case-36)
+  - [사례 37: 버려진 놀이공원을 걷는 우주비행사 (작성자 @LudovicCreator)](#general-cinematic-case-37)
 <a id="action-fantasy"></a>
 ## ⚔️ 액션 / 판타지
 
@@ -1004,6 +1008,27 @@ A French superstar striker inspired by Kylian Mbappé, explosive speed, sharp go
 ```
 Endless golden grassland, low sun, wind rippling the grass like water. A Mongol woman rides a compact steppe pony at a controlled canter, bow drawn. She's harassing a Jin cavalry patrol — feigned retreat, turning in the saddle for the Parthian shot, arrow after arrow finding gaps in lamellar armor. The horsemanship is the star: no hands on reins, controlling the horse with legs and weight, the pony reading her body. When one pursuer closes, she drops the bow to a saddle loop, draws a curved saber, and executes a single passing cut. The pursuit becomes a wide sweeping shot — dozens of riders spread across the plain, dust trails behind each one.
 ```
+
+<a id="action-fantasy-case-37"></a>
+<!-- Case 37: Giant Frog Courier Sprint (by @0xbisc) -->
+### 사례 37: [거대 개구리 전령의 질주](https://x.com/0xbisc/status/2077696618418377017) (작성자 [@0xbisc](https://x.com/0xbisc))
+
+| 결과 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-37"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2077696618418377017.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**프롬프트:**
+
+```
+SHOT 1: Medium close-up, 24mm, ground-level follow. Giant frog runs fast on wet stone path, front paws slap ground, hind legs push off to jump. Messenger leans on frog’s back, holding reins. Sound: dense footsteps, wind, stones bouncing.
+SHOT 2: Full shot, 85mm, side follow. Giant frog runs on stone path at terraced field edge, right front paw turns, hind legs step over broken steps and ridges, lowers body after landing to move on. Messenger crouches on back. Sound: footsteps, wind, clothes friction, stones rolling.
+SHOT 3: Long shot to medium shot, 28mm, dive follow. Mountain road breaks at bridge, giant frog pushes off on plank, plank breaks. Frog stretches limbs to cross deep gap. Camera follows frog falling, lands on opposite rock platform, limbs bent. Sound: plank breaking, wind, landing.
+SHOT 4: Medium shot, 35mm, low angle up follow. Frog lands and pushes off again, rushes into shallow stream, steps on three slippery rocks, hind legs push body over water. Last step crushes stone, pounces on steep slope, front paws grip edge, hind legs push up slope. Sound: water splashing, friction, stones falling, exertion.
+SHOT 5: Medium close-up, 50mm, front-side follow. Giant frog enters bamboo forest, moves between trunks, body brushes trunks, hind legs push stone to change direction, jumps over log and fence, contracts after landing to move on, bamboo leaves brush lens. Sound: wind in leaves, brushing bamboo, footsteps, landing sounds.
+SHOT 6: Full shot to medium shot, 35mm, forward follow and side move. Station appears ahead, giant frog runs downhill stone path, crosses steps, lowers body, brushes stone lamp and stake, jumps onto platform, limbs spread, stops still, water marks on ground, stones roll forward. Sound: continuous footsteps, wind, friction, landing.
+SHOT 7: Medium close-up to close-up, 50mm, camera moves behind messenger, approaches forward. Frog stops and stands firm, messenger turns to open back mailbox, takes out envelope, turns and hands to extended hand. Sound: latch opening, lid sound, envelope pulled out, handover, wind fades.
+```
+
 
 <a id="cinematic-realism"></a>
 
@@ -2234,6 +2259,43 @@ The recording ends naturally while still following them into the distance.
 
 Maximum realism. Looks exactly like accidental viral smartphone footage filmed outside Mumbai Airport on a quiet morning. No cinematic shots, no cuts, no impossible camera angles—only authentic handheld bystander footage with believable phone-camera imperfections throughout.
 ```
+
+<a id="commercial-product-case-27"></a>
+<!-- Case 27: Clifftop Villa Influencer Tour (by @Ankit_patel211) -->
+### 사례 27: [인플루언서의 절벽 위 빌라 룸투어](https://x.com/Ankit_patel211/status/2077762917198671925) (작성자 [@Ankit_patel211](https://x.com/Ankit_patel211))
+
+| 결과 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-27"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2077762917198671925.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+모델 변형: Seedance 2 Mini
+
+**프롬프트:**
+
+```
+Raw vertical iPhone footage style, real mobile phone recording shot on iPhone 16 Pro, natural bright daylight on a private clifftop, strong sun, endless horizon views, handheld with natural shake and micro movements, authentic phone camera look, no cinematic emulation, no film grain, no photorealism, looks exactly like a real influencer video posted on Instagram, natural vibrant colors.
+
+[IMAGE REFERENCES]
+
+Ref image is wearing a stylish casual-luxury outfit with subtle yellow and green accents, very expressive and excited when showing details.
+
+[TIMELINE SECOND BY SECOND]
+
+0-3s: [Handheld phone shot, natural shake] The influencer walks toward a modern luxury villa built on a private clifftop with 360º views. The villa has a distinctive rounded yellow and white design. Parked outside is a small, quirky luxury car in bright yellow. She points at it smiling: "Look at this. They actually made the car real."
+
+3-6s: [Quick cut to main living area] She enters the bright open-plan living space. The entire back wall is glass with insane views of the sea and horizon. She gestures at the minimalist but warm interior and says: "Everything is designed so you feel like you're floating above the world."
+
+6-9s: [Quick cut to garden terrace] She walks out onto a large circular terrace with perfectly cut grass and a small garden area. There’s a big round stone table in the center. She runs her hand over it and says: "This is where you sit and watch the clouds go by for hours."
+
+9-12s: [Quick cut inside special room] She enters a round meditation-style room with floor-to-ceiling curved windows. The light fills the entire space. She turns slowly and says with a smile: "This room… you can literally see the whole world from here. No exaggeration."
+
+12-15s: [Quick cut to edge of terrace] She stands at the very edge of the terrace, wind in her hair, with nothing but open sky and sea behind her. She looks at the camera and says: "Private clifftop villa. Feels like your own little planet. Would you live here?"
+
+[STYLE & QUALITY BOOSTERS]
+
+Real iPhone 16 Pro footage look, natural bright daylight, authentic mobile camera movement and slight shake, natural vibrant colors, coherent physics, stable character, real phone video quality, no film look, no artifacts, looks like genuine Instagram Reel footage shot on location.
+```
+
 
 <a id="reference-driven"></a>
 
@@ -4057,6 +4119,32 @@ Subject 1: First-person perspective hands (rendered in Monet impressionist oil p
 "SUBJECTS: A female warrior with shoulder-length hair, the ends naturally flipping outward, pressed backward and slightly disheveled by air resistance during high-speed movement. She wears a dark, form-fitting tactical suit combining real fabric and worn metal elements, with visible water stains, dust, and signs of use. A dual mechanical grappling hook system mounted on her back, capable of firing steel cables that retract to generate pulling force. The hook tips are metal impact heads used for attaching to or striking solid structures. The cable only triggers when support is lost or during a fall, and must latch onto a solid object before generating tension. Movement relies on: sliding, stepping, grappling pull, swinging, contact, and displacement through reaction forces. A massive stone hand connected to a giant’s body (not severed, the arm extending upward into the clouds), descending vertically into frame from the cloud layer. Enormous in scale, with a weathered, rough surface, no glow, no regular structure. Each downward press carries clear weight, acceleration, air compression, and impact inertia. ENVIRONMENT: A high-altitude fractured bridge structure with wet, slippery concrete surfaces, showing water traces, cracks, and scattered debris. The bridge is heavily damaged, with irregular टूट sections, exposed and bent rebar, and hanging steel cables. Below the bridge is an empty abyss, swallowed by fog, with no visible ground. A distant city appears low and ruined, with r
 ```
 
+<a id="templates-structured-case-18"></a>
+<!-- Case 18: Loft-in-a-Box Interior Reveal (by @samaote) -->
+### 사례 18: [상자에서 펼쳐지는 로프트 인테리어](https://x.com/samaote/status/2077757783966183428) (작성자 [@samaote](https://x.com/samaote))
+
+| 결과 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-18"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2077757783966183428.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**프롬프트:**
+
+```
+Image Prompt:
+A modern loft living room at golden hour, concrete floors, tall windows, neutral modular sofa, glass coffee table, warm LED accents, oversized abstract art, calm and quietly luxurious.
+
+Video Prompt:
+Start with a wide, locked-off cinematic shot of the bright empty room. A single IKEA cardboard box sits in the exact center of the floor. Keep the camera completely stable and preserve the room perspective.
+After a brief pause, the box begins to vibrate subtly. The lid lifts and warm golden light glows from inside. Furniture pieces and interior elements rapidly unfold, expand, and assemble outward from the box in a clean, elegant transformation sequence.
+The floor smoothly transitions from pale wood into polished concrete. A large neutral modular sofa unfolds and slides into position on the left. A textured rug spreads naturally beneath it. A sleek glass coffee table assembles in the center. Two modern lounge chairs glide into place on the right. A floating wooden console appears against the back wall. Oversized abstract artwork rises and mounts itself cleanly on the walls. Decorative lamps, plants, books, and vases settle into position with realistic motion. Warm LED strips illuminate along the ceiling edge and wall corner.
+As the transformation completes, the daylight gradually shifts into golden hour. Soft sunset light streams through the tall windows, casting warm shadows across the finished modern loft living room.
+End on the fully furnished, calm, quietly luxurious interior. Hold the final composition for a moment.
+Motion style: smooth premium interior-design reveal, realistic physics, elegant unfolding animation, clean assembly sequence, no chaotic explosions, no floating objects after placement.
+Camera: fixed wide-angle shot, no zoom, no camera shake, no angle change.
+Negative prompt: no people, no extra rooms, no duplicated furniture, no distorted furniture, no warped walls, no text changes, no logo distortion, no sudden cuts, no messy construction debris, no cartoon animation.
+```
+
+
 <a id="general-cinematic"></a>
 
 <a id="general-cinematic"></a>
@@ -4821,6 +4909,21 @@ Natural sound only: the noise of the street, footsteps on stone, people murmurin
 The result must feel like authentic, raw footage of ordinary people in Pompeii experiencing the beginning of the eruption of Mount Vesuvius, captured on an old DV camcorder.
 ```
 
+<a id="general-cinematic-case-37"></a>
+<!-- Case 37: Abandoned Carnival Astronaut Walk (by @LudovicCreator) -->
+### 사례 37: [버려진 놀이공원을 걷는 우주비행사](https://x.com/LudovicCreator/status/2077694836845465993) (작성자 [@LudovicCreator](https://x.com/LudovicCreator))
+
+| 결과 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-37"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2077694836845465993.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**프롬프트:**
+
+```
+An astronaut in a full white suit walks alone through an abandoned amusement park at twilight. Rusted rides stand motionless, faded carnival lights flicker sporadically, and fog drifts low across cracked pavement. The helmet visor reflects broken roller coasters, carousel horses, and shredded flags fluttering in the wind. The camera follows from behind in a slow tracking shot, then cuts to low angles and haunting wide frames that emphasize the surreal contrast between the futuristic astronaut and the decaying park. As the astronaut passes the giant Ferris wheel, it suddenly creaks into motion on its own. Old speakers crackle with distant carnival music. The sequence feels eerie, dreamlike, and cinematic, like a science-fiction mystery with emotional loneliness at its core.
+```
+
+
 <a id="related-repositories"></a>
 ## 🔗 관련 저장소
 
@@ -4850,7 +4953,7 @@ The result must feel like authentic, raw footage of ordinary people in Pompeii e
 
 Seedance 2.0 실험을 공개한 제작자 여러분께 감사드립니다.
 
-[@liyue_ai](https://x.com/liyue_ai), [@TingFengAIAI](https://x.com/TingFengAIAI), [@anson7956](https://x.com/anson7956), [@genel_ai](https://x.com/genel_ai), [@Adam38363368936](https://x.com/Adam38363368936), [@Just_sharon7](https://x.com/Just_sharon7), [@BarlowHakusyaku](https://x.com/BarlowHakusyaku), [@ShadeLurk](https://x.com/ShadeLurk), [@ZaraIrahh](https://x.com/ZaraIrahh), [@drjoetw](https://x.com/drjoetw), [@johnAGI168](https://x.com/johnAGI168), [@tea_story_hoshi](https://x.com/tea_story_hoshi), [@MiraMusic_AI](https://x.com/MiraMusic_AI), [@aigeboku](https://x.com/aigeboku), [@applete77191758](https://x.com/applete77191758), [@mikeymansta](https://x.com/mikeymansta), [@CharaspowerAI](https://x.com/CharaspowerAI), [@TechTalkNAVI](https://x.com/TechTalkNAVI), [@Viafin23](https://x.com/Viafin23), [@songguoxiansen](https://x.com/songguoxiansen), [@JiahaoYang_art](https://x.com/JiahaoYang_art), [@techhalla](https://x.com/techhalla), [@craftian_keskin](https://x.com/craftian_keskin), [@AITalesNBH](https://x.com/AITalesNBH), [@nopinduoduo](https://x.com/nopinduoduo), [@gkxspace](https://x.com/gkxspace), [@ChiakiAkagi](https://x.com/ChiakiAkagi), [@xingsthatmatter](https://x.com/xingsthatmatter), [@tebasaki3D](https://x.com/tebasaki3D), [@starks_arq](https://x.com/starks_arq), [@simple__dev](https://x.com/simple__dev), [@sebatheepan](https://x.com/sebatheepan), [@sailorv321](https://x.com/sailorv321), [@roco_kn_roco](https://x.com/roco_kn_roco), [@maxescu](https://x.com/maxescu), [@kuranoayashi](https://x.com/kuranoayashi), [@itsPixieVerse](https://x.com/itsPixieVerse), [@chaosdotjpg](https://x.com/chaosdotjpg), [@aisavvy1](https://x.com/aisavvy1), [@aimikoda](https://x.com/aimikoda), [@aiehon_aya](https://x.com/aiehon_aya), [@adrianaia_](https://x.com/adrianaia_), [@_3912657840](https://x.com/_3912657840), [@ZikinArt](https://x.com/ZikinArt), [@YaReYaRu30Life](https://x.com/YaReYaRu30Life), [@ShamiWeb3](https://x.com/ShamiWeb3), [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN), [@Rufus87078959](https://x.com/Rufus87078959), [@Mayz1169](https://x.com/Mayz1169), [@LudovicCreator](https://x.com/LudovicCreator), [@IamEmily2050](https://x.com/IamEmily2050), [@Gwsubsa](https://x.com/Gwsubsa), [@Dheepanratnam](https://x.com/Dheepanratnam), [@David_eficaz](https://x.com/David_eficaz), [@ChrisTheNerv](https://x.com/ChrisTheNerv), [@Artedeingenio](https://x.com/Artedeingenio), [@Alin_Reaper05](https://x.com/Alin_Reaper05), [@AIARTGALLARY](https://x.com/AIARTGALLARY), [@0xbisc](https://x.com/0xbisc), [@zasuko_michiksa](https://x.com/zasuko_michiksa), [@naoyuki_okada](https://x.com/naoyuki_okada), [@john87445528](https://x.com/john87445528), [@cdexsta](https://x.com/cdexsta), [@NimEshed](https://x.com/NimEshed), [@ImperfectEngel](https://web.archive.org/web/*/https://x.com/ImperfectEngel), [@BrennanErbz](https://x.com/BrennanErbz), [@AskVenice](https://x.com/AskVenice), [@AngelNwoha](https://x.com/AngelNwoha), [@umitsuru_fire](https://x.com/umitsuru_fire), [@Yuupapa_free](https://x.com/Yuupapa_free), [@ChrisGwinnLA](https://x.com/ChrisGwinnLA), [@vladimircherner](https://x.com/vladimircherner), [@patchworkfilmuk](https://x.com/patchworkfilmuk), [@sravs_AI_labs](https://x.com/sravs_AI_labs), [@iX00AI](https://x.com/iX00AI), [@ivanka_humeniuk](https://x.com/ivanka_humeniuk), [@crayon1267](https://x.com/crayon1267), [@pan_soramame_da](https://x.com/pan_soramame_da), [@kinopioai_ai](https://x.com/kinopioai_ai), [@a_shimanski](https://x.com/a_shimanski), [@noman23761](https://x.com/noman23761), [@SPEEDAI07](https://x.com/SPEEDAI07), [@lynneatyoumind](https://x.com/lynneatyoumind), [@EHuanglu](https://x.com/EHuanglu), [@tanabe_fragm](https://x.com/tanabe_fragm), [@Reiria123](https://x.com/Reiria123), [@TomaAIbijo](https://x.com/TomaAIbijo), [@LavrionX](https://x.com/LavrionX), [@kinovi_ai](https://x.com/kinovi_ai), [@umesh_ai](https://x.com/umesh_ai), [@Ankit_patel211](https://x.com/Ankit_patel211)
+[@liyue_ai](https://x.com/liyue_ai), [@TingFengAIAI](https://x.com/TingFengAIAI), [@anson7956](https://x.com/anson7956), [@genel_ai](https://x.com/genel_ai), [@Adam38363368936](https://x.com/Adam38363368936), [@Just_sharon7](https://x.com/Just_sharon7), [@BarlowHakusyaku](https://x.com/BarlowHakusyaku), [@ShadeLurk](https://x.com/ShadeLurk), [@ZaraIrahh](https://x.com/ZaraIrahh), [@drjoetw](https://x.com/drjoetw), [@johnAGI168](https://x.com/johnAGI168), [@tea_story_hoshi](https://x.com/tea_story_hoshi), [@MiraMusic_AI](https://x.com/MiraMusic_AI), [@aigeboku](https://x.com/aigeboku), [@applete77191758](https://x.com/applete77191758), [@mikeymansta](https://x.com/mikeymansta), [@CharaspowerAI](https://x.com/CharaspowerAI), [@TechTalkNAVI](https://x.com/TechTalkNAVI), [@Viafin23](https://x.com/Viafin23), [@songguoxiansen](https://x.com/songguoxiansen), [@JiahaoYang_art](https://x.com/JiahaoYang_art), [@techhalla](https://x.com/techhalla), [@craftian_keskin](https://x.com/craftian_keskin), [@AITalesNBH](https://x.com/AITalesNBH), [@nopinduoduo](https://x.com/nopinduoduo), [@gkxspace](https://x.com/gkxspace), [@ChiakiAkagi](https://x.com/ChiakiAkagi), [@xingsthatmatter](https://x.com/xingsthatmatter), [@tebasaki3D](https://x.com/tebasaki3D), [@starks_arq](https://x.com/starks_arq), [@simple__dev](https://x.com/simple__dev), [@sebatheepan](https://x.com/sebatheepan), [@sailorv321](https://x.com/sailorv321), [@roco_kn_roco](https://x.com/roco_kn_roco), [@maxescu](https://x.com/maxescu), [@kuranoayashi](https://x.com/kuranoayashi), [@itsPixieVerse](https://x.com/itsPixieVerse), [@chaosdotjpg](https://x.com/chaosdotjpg), [@aisavvy1](https://x.com/aisavvy1), [@aimikoda](https://x.com/aimikoda), [@aiehon_aya](https://x.com/aiehon_aya), [@adrianaia_](https://x.com/adrianaia_), [@_3912657840](https://x.com/_3912657840), [@ZikinArt](https://x.com/ZikinArt), [@YaReYaRu30Life](https://x.com/YaReYaRu30Life), [@ShamiWeb3](https://x.com/ShamiWeb3), [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN), [@Rufus87078959](https://x.com/Rufus87078959), [@Mayz1169](https://x.com/Mayz1169), [@LudovicCreator](https://x.com/LudovicCreator), [@IamEmily2050](https://x.com/IamEmily2050), [@Gwsubsa](https://x.com/Gwsubsa), [@Dheepanratnam](https://x.com/Dheepanratnam), [@David_eficaz](https://x.com/David_eficaz), [@ChrisTheNerv](https://x.com/ChrisTheNerv), [@Artedeingenio](https://x.com/Artedeingenio), [@Alin_Reaper05](https://x.com/Alin_Reaper05), [@AIARTGALLARY](https://x.com/AIARTGALLARY), [@0xbisc](https://x.com/0xbisc), [@zasuko_michiksa](https://x.com/zasuko_michiksa), [@naoyuki_okada](https://x.com/naoyuki_okada), [@john87445528](https://x.com/john87445528), [@cdexsta](https://x.com/cdexsta), [@NimEshed](https://x.com/NimEshed), [@ImperfectEngel](https://web.archive.org/web/*/https://x.com/ImperfectEngel), [@BrennanErbz](https://x.com/BrennanErbz), [@AskVenice](https://x.com/AskVenice), [@AngelNwoha](https://x.com/AngelNwoha), [@umitsuru_fire](https://x.com/umitsuru_fire), [@Yuupapa_free](https://x.com/Yuupapa_free), [@ChrisGwinnLA](https://x.com/ChrisGwinnLA), [@vladimircherner](https://x.com/vladimircherner), [@patchworkfilmuk](https://x.com/patchworkfilmuk), [@sravs_AI_labs](https://x.com/sravs_AI_labs), [@iX00AI](https://x.com/iX00AI), [@ivanka_humeniuk](https://x.com/ivanka_humeniuk), [@crayon1267](https://x.com/crayon1267), [@pan_soramame_da](https://x.com/pan_soramame_da), [@kinopioai_ai](https://x.com/kinopioai_ai), [@a_shimanski](https://x.com/a_shimanski), [@noman23761](https://x.com/noman23761), [@SPEEDAI07](https://x.com/SPEEDAI07), [@lynneatyoumind](https://x.com/lynneatyoumind), [@EHuanglu](https://x.com/EHuanglu), [@tanabe_fragm](https://x.com/tanabe_fragm), [@Reiria123](https://x.com/Reiria123), [@TomaAIbijo](https://x.com/TomaAIbijo), [@LavrionX](https://x.com/LavrionX), [@kinovi_ai](https://x.com/kinovi_ai), [@umesh_ai](https://x.com/umesh_ai), [@Ankit_patel211](https://x.com/Ankit_patel211), [@samaote](https://x.com/samaote)
 
 *출처, 라이선스 또는 삭제 정보 수정은 원본 URL과 함께 issue로 알려 주세요.*
 
