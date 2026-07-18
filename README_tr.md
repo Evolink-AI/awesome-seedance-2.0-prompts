@@ -25,7 +25,7 @@
 
 Awesome Seedance 2.0 Prompts deposuna hoş geldiniz! 🤗
 
-**Bu depo, sinematik video üretimi için kaynakları belirtilmiş 166 benzersiz Seedance 2.0 prompt örneği içerir.**
+**Bu depo, sinematik video üretimi için kaynakları belirtilmiş 185 benzersiz Seedance 2.0 prompt örneği içerir.**
 
 Promptlar herkese açık üretici paylaşımlarından seçilir ve yeniden kullanılabilir kaynak olarak korunur.
 
@@ -73,7 +73,7 @@ Destekleyici kaynaklar: [API örnekleri](https://github.com/Evolink-AI/Seedance-
 <a id="statistics"></a>
 ## 📊 İstatistikler
 
-8 kategoride 171 benzersiz örnek, 11 README dosyasında eşitlenmiştir.
+185 kategoride 171 benzersiz örnek, 11 README dosyasında eşitlenmiştir.
 
 <a id="how-to-use"></a>
 ## 🧭 Bu Depo Nasıl Kullanılır
@@ -88,7 +88,7 @@ Bir kategori seçin, kaynaklı örneği açın, promptu kopyalayın ve yalnızca
 - [İstatistikler](#statistics)
 - [Bu Depo Nasıl Kullanılır](#how-to-use)
 - [Menü](#menu)
-- [⚔️ Aksiyon / Fantastik](#action-fantasy) (37)
+- [⚔️ Aksiyon / Fantastik](#action-fantasy) (40)
   - [Örnek 1: Sokak rap müzik videosu performansı (yazan @songguoxiansen)](#action-fantasy-case-1)
   - [Örnek 2: Kara kedinin çölde dövüş sanatları düellosu (yazan @nopinduoduo)](#action-fantasy-case-2)
   - [Örnek 3: Canlı çekim nefes tekniği düellosu (yazan @johnAGI168)](#action-fantasy-case-3)
@@ -126,13 +126,17 @@ Bir kategori seçin, kaynaklı örneği açın, promptu kopyalayın ve yalnızca
   - [Örnek 35: Kır çiçekli vadide grifon uçuşu (yazan @Mayz1169)](#action-fantasy-case-35)
   - [Örnek 36: Moğol süvarisinin Part atışı (yazan @Ankit_patel211)](#action-fantasy-case-36)
   - [Örnek 37: Dev kurbağa ulak koşusu (yazan @0xbisc)](#action-fantasy-case-37)
-- [🎞️ Sinematik Gerçekçilik](#cinematic-realism) (6)
+  - [Örnek 38: Gök gürültüsü savaşçısının zombi kuşatması (yazan @MO_IAI)](#action-fantasy-case-38)
+  - [Örnek 39: Beyaz kaplan tapınağında fırtına (yazan @LudovicCreator)](#action-fantasy-case-39)
+  - [Örnek 40: Erzak mavnasına dev köpekbalığı saldırısı (yazan @rahulnanda86)](#action-fantasy-case-40)
+- [🎞️ Sinematik Gerçekçilik](#cinematic-realism) (7)
   - [Örnek 1: Modern Japonya belgesel sekansı (yazan @kuranoayashi)](#cinematic-realism-case-1)
   - [Örnek 2: Gölgeyi takip eden longboard inişi (yazan @Dheepanratnam)](#cinematic-realism-case-2)
   - [Örnek 3: Meteorla uyanan savaş kahramanı (yazan @ChrisTheNerv)](#cinematic-realism-case-3)
   - [Örnek 4: Sisli kapsül adası draması (yazan @umesh_ai)](#cinematic-realism-case-4)
   - [Örnek 5: Fırtınalı uçurumda samurayın ortaya çıkışı (yazan @umesh_ai)](#cinematic-realism-case-5)
   - [Örnek 6: VHS havuz cannonball hakemi (yazan @Ankit_patel211)](#cinematic-realism-case-6)
+  - [Örnek 7: Klasik siyah otomobille fırtına sürüşü (yazan @LudovicCreator)](#cinematic-realism-case-7)
 - [🥽 POV / FPV](#pov-fpv) (20)
   - [Örnek 1: Göğüs kameralı kamuflaj kovalamacası (yazan @genel_ai)](#pov-fpv-case-1)
   - [Örnek 2: Şanghay siberpunk şehir tanıtım videosu (yazan @Adam38363368936)](#pov-fpv-case-2)
@@ -238,7 +242,7 @@ Bir kategori seçin, kaynaklı örneği açın, promptu kopyalayın ve yalnızca
   - [Örnek 16: İzlenimci kürek çeken eller şablonu (yazan @0xbisc)](#templates-structured-case-16)
   - [Örnek 17: Kadın savaşçı — yapılandırılmış özne istemi (yazan @noman23761)](#templates-structured-case-17)
   - [Örnek 18: Kutudan çıkan loft iç mekânı (yazan @samaote)](#templates-structured-case-18)
-- [🎬 Genel Sinematik](#general-cinematic) (37)
+- [🎬 Genel Sinematik](#general-cinematic) (38)
   - [Örnek 1: Topuklu ayakkabı ritim eşlemeli moda yakın planı (yazan @TingFengAIAI)](#general-cinematic-case-1)
   - [Örnek 2: Çocuk odasında mini kaykayla kaçış (yazan @anson7956)](#general-cinematic-case-2)
   - [Örnek 3: Rucker Park’ta büyükanne kapışması (yazan @techhalla)](#general-cinematic-case-3)
@@ -276,6 +280,7 @@ Bir kategori seçin, kaynaklı örneği açın, promptu kopyalayın ve yalnızca
   - [Örnek 35: Kızıl çölde motosiklet takip çekimi (yazan @LudovicCreator)](#general-cinematic-case-35)
   - [Örnek 36: Pompeii felaketinin DV görüntüleri (yazan @venturetwins)](#general-cinematic-case-36)
   - [Örnek 37: Terk edilmiş lunaparkta astronot yürüyüşü (yazan @LudovicCreator)](#general-cinematic-case-37)
+  - [Örnek 38: Korsan ördeğin küvet yolculuğu (yazan @CharaspowerAI)](#general-cinematic-case-38)
 <a id="action-fantasy"></a>
 ## ⚔️ Aksiyon / Fantastik
 
@@ -1030,6 +1035,61 @@ SHOT 7: Medium close-up to close-up, 50mm, camera moves behind messenger, approa
 ```
 
 
+<a id="action-fantasy-case-38"></a>
+<!-- Case 38: Thunder Warrior Zombie Siege (by @MO_IAI) -->
+### Örnek 38: [Gök gürültüsü savaşçısının zombi kuşatması](https://x.com/MO_IAI/status/2078252502755983855) (yazan [@MO_IAI](https://x.com/MO_IAI))
+
+| Çıktı |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-38"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078252502755983855.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**İstem:**
+
+```
+One continuous unbroken take, no cuts: the camera starts low behind the white-haired armored warrior, her cyan-veined suit glowing faintly as she faces a ruined torii gate with a white tiger prowling beside her and a horde of gray zombies filling the shattered street beyond. The lens begins a slow push forward past her shoulder, then whips into a fast low orbit around her right side as she launches upward, the camera tilting and rising with her leap, chasing her axe as it trails a ribbon of electric blue light through the air. As she crashes down onto the horde, the camera dives with her, snapping into a violent handheld shake at ground level, lightning bursts erupting outward as the axe connects, the white tiger lunging into frame past the lens. Without cutting, the camera rockets straight upward into a vertigo-inducing aerial pull-back, spiraling higher and higher until the entire ruined city and the swarming crowd below become a churning sea of bodies split by a jagged vein of electric light — then the camera plunges back down in a swooping vertical dive, hurtling toward the fight and snapping into extreme close-up as her glowing gauntlet grips a zombie's face, sparks scattering across the lens. The camera swings around her in a tight 180-degree arc, revealing a clawed beast lunging from the far side; she pivots her axe defensively, and the camera whip-pans with the motion, dust and debris flying past frame. It then drifts backward and rises into a wide crane shot as she plants her weapon into the ground beneath a churning storm-lit sky, chains of energy crawling up her arms — the camera slowly rotates around her rising silhouette. Suddenly the light detonates outward and the camera is thrown backward as if caught in the blast, shuddering and rolling through the shockwave, streaks of lightning tearing across the frame as bodies are hurled aside. Finally, the camera stabilizes and glides backward in a slow, steady pull, rising just slightly to frame her standing alone amid the wreckage and fallen torii gate, hair and cloak settling in the wind, the devastated skyline stretching behind her as the single take comes to rest. Mandatory: never show the storyboard ref in the video
+```
+
+<a id="action-fantasy-case-39"></a>
+<!-- Case 39: White Tiger Temple Storm (by @LudovicCreator) -->
+### Örnek 39: [Beyaz kaplan tapınağında fırtına](https://x.com/LudovicCreator/status/2078215686690590829) (yazan [@LudovicCreator](https://x.com/LudovicCreator))
+
+| Çıktı |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-39"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078215686690590829.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**İstem:**
+
+```
+A massive white tiger with glowing blue markings walks through a ruined mountain temple during a violent thunderstorm. Rain pours through broken stone arches, lightning flashes behind giant statues, and mist crawls across the wet floor.
+The tiger roars, and the entire temple reacts, ancient symbols ignite across the walls, stone pillars crack, and blue energy pulses through the ground beneath its paws. The camera tracks low beside the tiger, close to the wet fur, claws, breath, and glowing eyes.
+Final moment: the tiger leaps onto a broken altar as lightning strikes behind it, revealing its gigantic shadow across the temple walls.
+Mythic creature realism, storm atmosphere, glowing markings, cinematic 4K.
+```
+
+<a id="action-fantasy-case-40"></a>
+<!-- Case 40: Ration Barge Mega Shark (by @rahulnanda86) -->
+### Örnek 40: [Erzak mavnasına dev köpekbalığı saldırısı](https://x.com/rahulnanda86/status/2077915652141285405) (yazan [@rahulnanda86](https://x.com/rahulnanda86))
+
+| Çıktı |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-40"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2077915652141285405.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**İstem:**
+
+```
+A wide river in bright daylight, a flat supply barge loaded with ration crates crossing toward the far bank. A megalodon, whale-sized with scarred grey hide, rams the barge hard from below, tilting it as the crew grabs the rails. On the far-bank dock, a gunner is already loaded, posted there to watch every barge crossing this stretch. Sound: crashing waves, groaning barge, shark thrashing, shouting, radio voices.
+
+Shot 1 (0–3s) — THE HOOK: Low shot across the water. The megalodon rams the barge from below, crates sliding and crashing into the river as the deck tilts hard, the crew clinging to the rails. One shouts into his radio: "IT'S RAMMING THE BARGE! WE'RE GOING OVER!"
+
+Shot 2 (3–6s): On the dock, the gunner lifts the bazooka onto his shoulder, tracking the shark's shadow in the water — but holds his fire, a rescue boat pulling alongside the barge with the crew still climbing across. He calls on the radio: "Get to the rescue boat! Jump now!"
+
+Shot 3 (6–9s): The crew leaps from the tilting barge onto the rescue boat and it pulls away fast toward the dock. The megalodon circles back into open water beside the empty barge, alone now, no crew or boat anywhere near it.
+
+Shot 4 (9–13s) — BIG SLOW-MOTION MOMENT: The shark circles alone in the open water now. The gunner fires. Bullet time — the bazooka kicks back, smoke bursting from the tube, the rocket streaking down into the river in slow motion, spray hanging bright in the daylight.
+
+Shot 5 (13–15s): Time snaps back. A huge blast erupts in the water beside the drifting barge, fire and spray shooting high into the sky. The rescue boat reaches the dock safely as the crew watches the water settle.
+```
+
 <a id="cinematic-realism"></a>
 
 <a id="cinematic-realism"></a>
@@ -1167,6 +1227,20 @@ Natural sound only. Crowd chanting, loud applause, laughter, splashing water, ec
 The result must feel like authentic raw 1990s home video footage capturing a completely ordinary pool jump that somehow turned into an Olympic-level celebration.
 ```
 
+
+<a id="cinematic-realism-case-7"></a>
+<!-- Case 7: Vintage Black Car Storm Run (by @LudovicCreator) -->
+### Örnek 7: [Klasik siyah otomobille fırtına sürüşü](https://x.com/LudovicCreator/status/2078057220512629018) (yazan [@LudovicCreator](https://x.com/LudovicCreator))
+
+| Çıktı |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-realism-case-7"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078057220512629018.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**İstem:**
+
+```
+A vintage black car speeds along a winding mountain road in heavy rain at dusk, its headlights slicing through fog and wet air. Pine forests blur past on one side while a steep cliff drops into darkness on the other. Inside the car, a sharply dressed driver grips the steering wheel in silence, illuminated by passing flashes of lightning and the soft amber glow of the dashboard. The camera begins with sweeping aerial shots of the serpentine road and the lonely car threading through the storm, then cuts to low exterior angles capturing tires cutting through water, reflections streaking across chrome, and the car’s body gleaming under rain. The windshield wipers beat rhythmically as the road becomes more treacherous, and at one point the car skids slightly around a tight bend near the cliff edge. The whole sequence feels moody, elegant, and suspenseful, like a neo-noir road film with classic cinematic style.
+```
 
 <a id="pov-fpv"></a>
 ## 🥽 POV / FPV
@@ -4923,6 +4997,23 @@ The result must feel like authentic, raw footage of ordinary people in Pompeii e
 An astronaut in a full white suit walks alone through an abandoned amusement park at twilight. Rusted rides stand motionless, faded carnival lights flicker sporadically, and fog drifts low across cracked pavement. The helmet visor reflects broken roller coasters, carousel horses, and shredded flags fluttering in the wind. The camera follows from behind in a slow tracking shot, then cuts to low angles and haunting wide frames that emphasize the surreal contrast between the futuristic astronaut and the decaying park. As the astronaut passes the giant Ferris wheel, it suddenly creaks into motion on its own. Old speakers crackle with distant carnival music. The sequence feels eerie, dreamlike, and cinematic, like a science-fiction mystery with emotional loneliness at its core.
 ```
 
+
+<a id="general-cinematic-case-38"></a>
+<!-- Case 38: Pirate Duck Bathtub Voyage (by @CharaspowerAI) -->
+### Örnek 38: [Korsan ördeğin küvet yolculuğu](https://x.com/CharaspowerAI/status/2078072313686184334) (yazan [@CharaspowerAI](https://x.com/CharaspowerAI))
+
+| Çıktı |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-38"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078072313686184334.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**İstem:**
+
+```
+A clay pirate captain duck with a tiny hat, wooden sword, eye patch and dramatic pose
+Sails across a bathtub ocean, battling giant soap waves and riding a sponge ship toward a rubber duck treasure island
+Bathroom fantasy world with bubbles, towels as cliffs and warm light reflecting on water
+3D clay, Pixar-style playful adventure, soft clay textures, rounded props, dynamic camera glide over water, bright cheerful atmosphere, ending with the duck discovering a golden bath plug treasure.
+```
 
 <a id="related-repositories"></a>
 ## 🔗 İlgili Depolar

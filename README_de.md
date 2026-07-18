@@ -4,7 +4,7 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Seedance 2.0 im Browser testen](https://img.shields.io/badge/Try_in-Browser-black)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts&utm_content=model_try)
-[![Prompts-166 einzigartige Fälle](https://img.shields.io/badge/Prompts-166_einzigartige_F%C3%A4lle-111111)](README.md)
+[![Prompts-185 einzigartige Fälle](https://img.shields.io/badge/Prompts-185_einzigartige_F%C3%A4lle-111111)](README.md)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -25,7 +25,7 @@
 
 Willkommen im Repository Awesome Seedance 2.0 Prompts! 🤗
 
-**Dieses Repository enthält 166 einzigartige, quellennachgewiesene Seedance-2.0-Prompt-Beispiele für filmische Videogenerierung.**
+**Dieses Repository enthält 185 einzigartige, quellennachgewiesene Seedance-2.0-Prompt-Beispiele für filmische Videogenerierung.**
 
 Die Prompts stammen aus öffentlichen Creator-Beiträgen und werden als wiederverwendbares Material bewahrt.
 
@@ -73,7 +73,7 @@ Weiterführende Ressourcen: [API-Beispiele](https://github.com/Evolink-AI/Seedan
 <a id="statistics"></a>
 ## 📊 Statistik
 
-180 einzigartige Fälle in 8 Kategorien, synchronisiert über 11 README-Dateien.
+185 einzigartige Fälle in 8 Kategorien, synchronisiert über 11 README-Dateien.
 
 <a id="how-to-use"></a>
 ## 🧭 So nutzt du dieses Repository
@@ -88,7 +88,7 @@ Wähle eine Kategorie, öffne einen Fall mit Quelle, kopiere den Prompt und erse
 - [Statistik](#statistics)
 - [So nutzt du dieses Repository](#how-to-use)
 - [Menü](#menu)
-- [⚔️ Action / Fantasy](#action-fantasy) (37)
+- [⚔️ Action / Fantasy](#action-fantasy) (40)
   - [Fall 1: Street-Rap-Auftritt im Musikvideo (von @songguoxiansen)](#action-fantasy-case-1)
   - [Fall 2: Wüsten-Kampfkunstduell der schwarzen Katze (von @nopinduoduo)](#action-fantasy-case-2)
   - [Fall 3: Realfilm-Duell der Atemtechniken (von @johnAGI168)](#action-fantasy-case-3)
@@ -126,13 +126,17 @@ Wähle eine Kategorie, öffne einen Fall mit Quelle, kopiere den Prompt und erse
   - [Fall 35: Greifenflug durchs Wildblumental (von @Mayz1169)](#action-fantasy-case-35)
   - [Fall 36: Parthischer Schuss der mongolischen Kavallerie (von @Ankit_patel211)](#action-fantasy-case-36)
   - [Fall 37: Riesiger Froschkurier im Sprint (von @0xbisc)](#action-fantasy-case-37)
-- [🎞️ Filmischer Realismus](#cinematic-realism) (6)
+  - [Fall 38: Zombie-Belagerung der Donnerkriegerin (von @MO_IAI)](#action-fantasy-case-38)
+  - [Fall 39: Sturm am Tempel des weißen Tigers (von @LudovicCreator)](#action-fantasy-case-39)
+  - [Fall 40: Rationskahn gegen Riesenhai (von @rahulnanda86)](#action-fantasy-case-40)
+- [🎞️ Filmischer Realismus](#cinematic-realism) (7)
   - [Fall 1: Dokumentarische Sequenz über das moderne Japan (von @kuranoayashi)](#cinematic-realism-case-1)
   - [Fall 2: Longboard-Abfahrt auf den Spuren eines Schattens (von @Dheepanratnam)](#cinematic-realism-case-2)
   - [Fall 3: Vom Meteor erweckte Kriegsheldin (von @ChrisTheNerv)](#cinematic-realism-case-3)
   - [Fall 4: Drama auf einer nebligen Kapselhaus-Insel (von @umesh_ai)](#cinematic-realism-case-4)
   - [Fall 5: Samurai-Enthüllung an der Sturmklippe (von @umesh_ai)](#cinematic-realism-case-5)
   - [Fall 6: VHS-Pool-Cannonball-Juror (von @Ankit_patel211)](#cinematic-realism-case-6)
+  - [Fall 7: Sturmfahrt im schwarzen Oldtimer (von @LudovicCreator)](#cinematic-realism-case-7)
 - [🥽 POV / FPV](#pov-fpv) (20)
   - [Fall 1: Tarnverfolgung mit Brustkamera (von @genel_ai)](#pov-fpv-case-1)
   - [Fall 2: Cyberpunk-Stadttrailer aus Shanghai (von @Adam38363368936)](#pov-fpv-case-2)
@@ -238,7 +242,7 @@ Wähle eine Kategorie, öffne einen Fall mit Quelle, kopiere den Prompt und erse
   - [Fall 16: Impressionistische Vorlage rudernder Hände (von @0xbisc)](#templates-structured-case-16)
   - [Fall 17: Kriegerin – strukturierter Motiv-Prompt (von @noman23761)](#templates-structured-case-17)
   - [Fall 18: Loft-Interieur aus dem Karton (von @samaote)](#templates-structured-case-18)
-- [🎬 Allgemein filmisch](#general-cinematic) (37)
+- [🎬 Allgemein filmisch](#general-cinematic) (38)
   - [Fall 1: Beat-synchrone Mode-Nahaufnahme mit hohen Absätzen (von @TingFengAIAI)](#general-cinematic-case-1)
   - [Fall 2: Mini-Skateboard-Flucht in einem Kinderzimmer (von @anson7956)](#general-cinematic-case-2)
   - [Fall 3: Großmutter-Duell im Rucker Park (von @techhalla)](#general-cinematic-case-3)
@@ -276,6 +280,7 @@ Wähle eine Kategorie, öffne einen Fall mit Quelle, kopiere den Prompt und erse
   - [Fall 35: Motorrad-Verfolgungsfahrt durch die rote Wüste (von @LudovicCreator)](#general-cinematic-case-35)
   - [Fall 36: DV-Katastrophenaufnahmen aus Pompeji (von @venturetwins)](#general-cinematic-case-36)
   - [Fall 37: Astronaut im verlassenen Vergnügungspark (von @LudovicCreator)](#general-cinematic-case-37)
+  - [Fall 38: Badewannenreise der Piratenente (von @CharaspowerAI)](#general-cinematic-case-38)
 <a id="action-fantasy"></a>
 ## ⚔️ Action / Fantasy
 
@@ -1030,6 +1035,63 @@ SHOT 7: Medium close-up to close-up, 50mm, camera moves behind messenger, approa
 ```
 
 
+
+
+<a id="action-fantasy-case-38"></a>
+<!-- Case 38: Thunder Warrior Zombie Siege (by @MO_IAI) -->
+### Fall 38: [Zombie-Belagerung der Donnerkriegerin](https://x.com/MO_IAI/status/2078252502755983855) (von [@MO_IAI](https://x.com/MO_IAI))
+
+| Ausgabe |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-38"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078252502755983855.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+One continuous unbroken take, no cuts: the camera starts low behind the white-haired armored warrior, her cyan-veined suit glowing faintly as she faces a ruined torii gate with a white tiger prowling beside her and a horde of gray zombies filling the shattered street beyond. The lens begins a slow push forward past her shoulder, then whips into a fast low orbit around her right side as she launches upward, the camera tilting and rising with her leap, chasing her axe as it trails a ribbon of electric blue light through the air. As she crashes down onto the horde, the camera dives with her, snapping into a violent handheld shake at ground level, lightning bursts erupting outward as the axe connects, the white tiger lunging into frame past the lens. Without cutting, the camera rockets straight upward into a vertigo-inducing aerial pull-back, spiraling higher and higher until the entire ruined city and the swarming crowd below become a churning sea of bodies split by a jagged vein of electric light — then the camera plunges back down in a swooping vertical dive, hurtling toward the fight and snapping into extreme close-up as her glowing gauntlet grips a zombie's face, sparks scattering across the lens. The camera swings around her in a tight 180-degree arc, revealing a clawed beast lunging from the far side; she pivots her axe defensively, and the camera whip-pans with the motion, dust and debris flying past frame. It then drifts backward and rises into a wide crane shot as she plants her weapon into the ground beneath a churning storm-lit sky, chains of energy crawling up her arms — the camera slowly rotates around her rising silhouette. Suddenly the light detonates outward and the camera is thrown backward as if caught in the blast, shuddering and rolling through the shockwave, streaks of lightning tearing across the frame as bodies are hurled aside. Finally, the camera stabilizes and glides backward in a slow, steady pull, rising just slightly to frame her standing alone amid the wreckage and fallen torii gate, hair and cloak settling in the wind, the devastated skyline stretching behind her as the single take comes to rest. Mandatory: never show the storyboard ref in the video
+```
+
+<a id="action-fantasy-case-39"></a>
+<!-- Case 39: White Tiger Temple Storm (by @LudovicCreator) -->
+### Fall 39: [Sturm am Tempel des weißen Tigers](https://x.com/LudovicCreator/status/2078215686690590829) (von [@LudovicCreator](https://x.com/LudovicCreator))
+
+| Ausgabe |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-39"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078215686690590829.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+A massive white tiger with glowing blue markings walks through a ruined mountain temple during a violent thunderstorm. Rain pours through broken stone arches, lightning flashes behind giant statues, and mist crawls across the wet floor.
+The tiger roars, and the entire temple reacts, ancient symbols ignite across the walls, stone pillars crack, and blue energy pulses through the ground beneath its paws. The camera tracks low beside the tiger, close to the wet fur, claws, breath, and glowing eyes.
+Final moment: the tiger leaps onto a broken altar as lightning strikes behind it, revealing its gigantic shadow across the temple walls.
+Mythic creature realism, storm atmosphere, glowing markings, cinematic 4K.
+```
+
+<a id="action-fantasy-case-40"></a>
+<!-- Case 40: Ration Barge Mega Shark (by @rahulnanda86) -->
+### Fall 40: [Rationskahn gegen Riesenhai](https://x.com/rahulnanda86/status/2077915652141285405) (von [@rahulnanda86](https://x.com/rahulnanda86))
+
+| Ausgabe |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-40"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2077915652141285405.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+A wide river in bright daylight, a flat supply barge loaded with ration crates crossing toward the far bank. A megalodon, whale-sized with scarred grey hide, rams the barge hard from below, tilting it as the crew grabs the rails. On the far-bank dock, a gunner is already loaded, posted there to watch every barge crossing this stretch. Sound: crashing waves, groaning barge, shark thrashing, shouting, radio voices.
+
+Shot 1 (0–3s) — THE HOOK: Low shot across the water. The megalodon rams the barge from below, crates sliding and crashing into the river as the deck tilts hard, the crew clinging to the rails. One shouts into his radio: "IT'S RAMMING THE BARGE! WE'RE GOING OVER!"
+
+Shot 2 (3–6s): On the dock, the gunner lifts the bazooka onto his shoulder, tracking the shark's shadow in the water — but holds his fire, a rescue boat pulling alongside the barge with the crew still climbing across. He calls on the radio: "Get to the rescue boat! Jump now!"
+
+Shot 3 (6–9s): The crew leaps from the tilting barge onto the rescue boat and it pulls away fast toward the dock. The megalodon circles back into open water beside the empty barge, alone now, no crew or boat anywhere near it.
+
+Shot 4 (9–13s) — BIG SLOW-MOTION MOMENT: The shark circles alone in the open water now. The gunner fires. Bullet time — the bazooka kicks back, smoke bursting from the tube, the rocket streaking down into the river in slow motion, spray hanging bright in the daylight.
+
+Shot 5 (13–15s): Time snaps back. A huge blast erupts in the water beside the drifting barge, fire and spray shooting high into the sky. The rescue boat reaches the dock safely as the crew watches the water settle.
+```
+
 <a id="cinematic-realism"></a>
 
 <a id="cinematic-realism"></a>
@@ -1167,6 +1229,20 @@ Natural sound only. Crowd chanting, loud applause, laughter, splashing water, ec
 The result must feel like authentic raw 1990s home video footage capturing a completely ordinary pool jump that somehow turned into an Olympic-level celebration.
 ```
 
+
+<a id="cinematic-realism-case-7"></a>
+<!-- Case 7: Vintage Black Car Storm Run (by @LudovicCreator) -->
+### Fall 7: [Sturmfahrt im schwarzen Oldtimer](https://x.com/LudovicCreator/status/2078057220512629018) (von [@LudovicCreator](https://x.com/LudovicCreator))
+
+| Ausgabe |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-realism-case-7"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078057220512629018.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+A vintage black car speeds along a winding mountain road in heavy rain at dusk, its headlights slicing through fog and wet air. Pine forests blur past on one side while a steep cliff drops into darkness on the other. Inside the car, a sharply dressed driver grips the steering wheel in silence, illuminated by passing flashes of lightning and the soft amber glow of the dashboard. The camera begins with sweeping aerial shots of the serpentine road and the lonely car threading through the storm, then cuts to low exterior angles capturing tires cutting through water, reflections streaking across chrome, and the car’s body gleaming under rain. The windshield wipers beat rhythmically as the road becomes more treacherous, and at one point the car skids slightly around a tight bend near the cliff edge. The whole sequence feels moody, elegant, and suspenseful, like a neo-noir road film with classic cinematic style.
+```
 
 <a id="pov-fpv"></a>
 ## 🥽 POV / FPV
@@ -4923,6 +4999,23 @@ The result must feel like authentic, raw footage of ordinary people in Pompeii e
 An astronaut in a full white suit walks alone through an abandoned amusement park at twilight. Rusted rides stand motionless, faded carnival lights flicker sporadically, and fog drifts low across cracked pavement. The helmet visor reflects broken roller coasters, carousel horses, and shredded flags fluttering in the wind. The camera follows from behind in a slow tracking shot, then cuts to low angles and haunting wide frames that emphasize the surreal contrast between the futuristic astronaut and the decaying park. As the astronaut passes the giant Ferris wheel, it suddenly creaks into motion on its own. Old speakers crackle with distant carnival music. The sequence feels eerie, dreamlike, and cinematic, like a science-fiction mystery with emotional loneliness at its core.
 ```
 
+
+<a id="general-cinematic-case-38"></a>
+<!-- Case 38: Pirate Duck Bathtub Voyage (by @CharaspowerAI) -->
+### Fall 38: [Badewannenreise der Piratenente](https://x.com/CharaspowerAI/status/2078072313686184334) (von [@CharaspowerAI](https://x.com/CharaspowerAI))
+
+| Ausgabe |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-38"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078072313686184334.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+A clay pirate captain duck with a tiny hat, wooden sword, eye patch and dramatic pose
+Sails across a bathtub ocean, battling giant soap waves and riding a sponge ship toward a rubber duck treasure island
+Bathroom fantasy world with bubbles, towels as cliffs and warm light reflecting on water
+3D clay, Pixar-style playful adventure, soft clay textures, rounded props, dynamic camera glide over water, bright cheerful atmosphere, ending with the duck discovering a golden bath plug treasure.
+```
 
 <a id="related-repositories"></a>
 ## 🔗 Verwandte Repositories

@@ -2,17 +2,17 @@
   "schema_version": 1,
   "repository": "Evolink-AI/awesome-seedance-2.0-prompts",
   "model": "Seedance 2.0",
-  "case_count": 180,
+  "case_count": 185,
   "categories": [
     {
       "slug": "action-fantasy",
       "name": "⚔️ Action / Fantasy",
-      "count": 37
+      "count": 40
     },
     {
       "slug": "cinematic-realism",
       "name": "🎞️ Cinematic Realism",
-      "count": 6
+      "count": 7
     },
     {
       "slug": "pov-fpv",
@@ -42,7 +42,7 @@
     {
       "slug": "general-cinematic",
       "name": "🎬 General Cinematic",
-      "count": 37
+      "count": 38
     }
   ],
   "cases": [
@@ -499,6 +499,45 @@
       "prompt_text": "SHOT 1: Medium close-up, 24mm, ground-level follow. Giant frog runs fast on wet stone path, front paws slap ground, hind legs push off to jump. Messenger leans on frog’s back, holding reins. Sound: dense footsteps, wind, stones bouncing.\nSHOT 2: Full shot, 85mm, side follow. Giant frog runs on stone path at terraced field edge, right front paw turns, hind legs step over broken steps and ridges, lowers body after landing to move on. Messenger crouches on back. Sound: footsteps, wind, clothes friction, stones rolling.\nSHOT 3: Long shot to medium shot, 28mm, dive follow. Mountain road breaks at bridge, giant frog pushes off on plank, plank breaks. Frog stretches limbs to cross deep gap. Camera follows frog falling, lands on opposite rock platform, limbs bent. Sound: plank breaking, wind, landing.\nSHOT 4: Medium shot, 35mm, low angle up follow. Frog lands and pushes off again, rushes into shallow stream, steps on three slippery rocks, hind legs push body over water. Last step crushes stone, pounces on steep slope, front paws grip edge, hind legs push up slope. Sound: water splashing, friction, stones falling, exertion.\nSHOT 5: Medium close-up, 50mm, front-side follow. Giant frog enters bamboo forest, moves between trunks, body brushes trunks, hind legs push stone to change direction, jumps over log and fence, contracts after landing to move on, bamboo leaves brush lens. Sound: wind in leaves, brushing bamboo, footsteps, landing sounds.\nSHOT 6: Full shot to medium shot, 35mm, forward follow and side move. Station appears ahead, giant frog runs downhill stone path, crosses steps, lowers body, brushes stone lamp and stake, jumps onto platform, limbs spread, stops still, water marks on ground, stones roll forward. Sound: continuous footsteps, wind, friction, landing.\nSHOT 7: Medium close-up to close-up, 50mm, camera moves behind messenger, approaches forward. Frog stops and stands firm, messenger turns to open back mailbox, takes out envelope, turns and hands to extended hand. Sound: latch opening, lid sound, envelope pulled out, handover, wind fades."
     },
     {
+      "id": "action-fantasy-case-38",
+      "category": "⚔️ Action / Fantasy",
+      "case_number": 38,
+      "title": "Thunder Warrior Zombie Siege",
+      "source_url": "https://x.com/MO_IAI/status/2078252502755983855",
+      "prompt_source_url": "https://x.com/MO_IAI/status/2078252502755983855",
+      "author_handle": "MO_IAI",
+      "author_url": "https://x.com/MO_IAI",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078252502755983855.jpg",
+      "prompt_sha256": "d58541531e3ae4d46a4eaa493e96c8d1ace0881427aa9a23a482a0b63abe059c",
+      "prompt_text": "One continuous unbroken take, no cuts: the camera starts low behind the white-haired armored warrior, her cyan-veined suit glowing faintly as she faces a ruined torii gate with a white tiger prowling beside her and a horde of gray zombies filling the shattered street beyond. The lens begins a slow push forward past her shoulder, then whips into a fast low orbit around her right side as she launches upward, the camera tilting and rising with her leap, chasing her axe as it trails a ribbon of electric blue light through the air. As she crashes down onto the horde, the camera dives with her, snapping into a violent handheld shake at ground level, lightning bursts erupting outward as the axe connects, the white tiger lunging into frame past the lens. Without cutting, the camera rockets straight upward into a vertigo-inducing aerial pull-back, spiraling higher and higher until the entire ruined city and the swarming crowd below become a churning sea of bodies split by a jagged vein of electric light — then the camera plunges back down in a swooping vertical dive, hurtling toward the fight and snapping into extreme close-up as her glowing gauntlet grips a zombie's face, sparks scattering across the lens. The camera swings around her in a tight 180-degree arc, revealing a clawed beast lunging from the far side; she pivots her axe defensively, and the camera whip-pans with the motion, dust and debris flying past frame. It then drifts backward and rises into a wide crane shot as she plants her weapon into the ground beneath a churning storm-lit sky, chains of energy crawling up her arms — the camera slowly rotates around her rising silhouette. Suddenly the light detonates outward and the camera is thrown backward as if caught in the blast, shuddering and rolling through the shockwave, streaks of lightning tearing across the frame as bodies are hurled aside. Finally, the camera stabilizes and glides backward in a slow, steady pull, rising just slightly to frame her standing alone amid the wreckage and fallen torii gate, hair and cloak settling in the wind, the devastated skyline stretching behind her as the single take comes to rest. Mandatory: never show the storyboard ref in the video"
+    },
+    {
+      "id": "action-fantasy-case-39",
+      "category": "⚔️ Action / Fantasy",
+      "case_number": 39,
+      "title": "White Tiger Temple Storm",
+      "source_url": "https://x.com/LudovicCreator/status/2078215686690590829",
+      "prompt_source_url": "https://x.com/LudovicCreator/status/2078215686690590829",
+      "author_handle": "LudovicCreator",
+      "author_url": "https://x.com/LudovicCreator",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078215686690590829.jpg",
+      "prompt_sha256": "76530d837c1a751ba51ecdf3b10edcd6e1136087b7b0d94306c7512c1bf391e8",
+      "prompt_text": "A massive white tiger with glowing blue markings walks through a ruined mountain temple during a violent thunderstorm. Rain pours through broken stone arches, lightning flashes behind giant statues, and mist crawls across the wet floor.\nThe tiger roars, and the entire temple reacts, ancient symbols ignite across the walls, stone pillars crack, and blue energy pulses through the ground beneath its paws. The camera tracks low beside the tiger, close to the wet fur, claws, breath, and glowing eyes.\nFinal moment: the tiger leaps onto a broken altar as lightning strikes behind it, revealing its gigantic shadow across the temple walls.\nMythic creature realism, storm atmosphere, glowing markings, cinematic 4K."
+    },
+    {
+      "id": "action-fantasy-case-40",
+      "category": "⚔️ Action / Fantasy",
+      "case_number": 40,
+      "title": "Ration Barge Mega Shark",
+      "source_url": "https://x.com/rahulnanda86/status/2077915652141285405",
+      "prompt_source_url": "https://x.com/rahulnanda86/status/2077915652141285405",
+      "author_handle": "rahulnanda86",
+      "author_url": "https://x.com/rahulnanda86",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2077915652141285405.jpg",
+      "prompt_sha256": "afb81994c4134a99eda3bdbbf0069c528fe72127d70b2b24f54bd89988798df2",
+      "prompt_text": "A wide river in bright daylight, a flat supply barge loaded with ration crates crossing toward the far bank. A megalodon, whale-sized with scarred grey hide, rams the barge hard from below, tilting it as the crew grabs the rails. On the far-bank dock, a gunner is already loaded, posted there to watch every barge crossing this stretch. Sound: crashing waves, groaning barge, shark thrashing, shouting, radio voices.\n\nShot 1 (0–3s) — THE HOOK: Low shot across the water. The megalodon rams the barge from below, crates sliding and crashing into the river as the deck tilts hard, the crew clinging to the rails. One shouts into his radio: \"IT'S RAMMING THE BARGE! WE'RE GOING OVER!\"\n\nShot 2 (3–6s): On the dock, the gunner lifts the bazooka onto his shoulder, tracking the shark's shadow in the water — but holds his fire, a rescue boat pulling alongside the barge with the crew still climbing across. He calls on the radio: \"Get to the rescue boat! Jump now!\"\n\nShot 3 (6–9s): The crew leaps from the tilting barge onto the rescue boat and it pulls away fast toward the dock. The megalodon circles back into open water beside the empty barge, alone now, no crew or boat anywhere near it.\n\nShot 4 (9–13s) — BIG SLOW-MOTION MOMENT: The shark circles alone in the open water now. The gunner fires. Bullet time — the bazooka kicks back, smoke bursting from the tube, the rocket streaking down into the river in slow motion, spray hanging bright in the daylight.\n\nShot 5 (13–15s): Time snaps back. A huge blast erupts in the water beside the drifting barge, fire and spray shooting high into the sky. The rescue boat reaches the dock safely as the crew watches the water settle."
+    },
+    {
       "id": "cinematic-realism-case-1",
       "category": "🎞️ Cinematic Realism",
       "case_number": 1,
@@ -573,6 +612,19 @@
       "prompt_sha256": "30e37afaef9410934ae0b90738994b2245a9203449275198848d89301e835417",
       "prompt_text": "This is real 1990s home video footage shot on a VHS camcorder at a crowded public swimming pool. The video has the typical faded colors, analog grain, soft image quality, slight tracking distortion, and subtle tape noise characteristic of consumer VHS recordings from that era.\nThe camera is handheld and very shaky, filming from a distance across the pool. In the background, a woman wearing a colorful floral one-piece swimsuit stands nervously at the top of the diving board. A large crowd around the pool begins cheering rhythmically with loud \"eh-eh-eh\" chants, encouraging her to jump.\nAfter several seconds she finally runs forward and performs a surprisingly perfect cannonball. She hits the water with tremendous force, creating an enormous splash that reaches several meters into the air and completely drenches nearby spectators.\nFor a brief moment everything becomes silent. Then an elderly man wearing sandals, white tube socks, sunglasses, and a sun visor slowly walks into frame carrying a homemade cardboard sign with a large handwritten \"10.0.\" Without saying anything he raises it high above his head exactly like an Olympic diving judge.\nThe entire crowd immediately erupts into loud cheering, applause, laughter, whistles, and celebration. Several strangers begin chanting her name while children clap excitedly. The woman climbs out of the pool laughing as spectators congratulate her like she has just won an international championship. People gather around asking to take photos with her while the elderly judge proudly continues displaying the scorecard.\nThe camera movement remains extremely handheld and shaky throughout, with natural motion blur, imperfect zooming, accidental reframing, and several unplanned cuts as the person filming struggles to follow the celebration.\nNatural sound only. Crowd chanting, loud applause, laughter, splashing water, echoing pool ambience, and authentic VHS microphone audio. No background music or narration.\nThe result must feel like authentic raw 1990s home video footage capturing a completely ordinary pool jump that somehow turned into an Olympic-level celebration.",
       "model_variant": "Seedance 2 Mini"
+    },
+    {
+      "id": "cinematic-realism-case-7",
+      "category": "🎞️ Cinematic Realism",
+      "case_number": 7,
+      "title": "Vintage Black Car Storm Run",
+      "source_url": "https://x.com/LudovicCreator/status/2078057220512629018",
+      "prompt_source_url": "https://x.com/LudovicCreator/status/2078057220512629018",
+      "author_handle": "LudovicCreator",
+      "author_url": "https://x.com/LudovicCreator",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078057220512629018.jpg",
+      "prompt_sha256": "463dd688fd88a52d99abbdb2f1a7bde1cc83e1b69cd7aa5174740350b450430b",
+      "prompt_text": "A vintage black car speeds along a winding mountain road in heavy rain at dusk, its headlights slicing through fog and wet air. Pine forests blur past on one side while a steep cliff drops into darkness on the other. Inside the car, a sharply dressed driver grips the steering wheel in silence, illuminated by passing flashes of lightning and the soft amber glow of the dashboard. The camera begins with sweeping aerial shots of the serpentine road and the lonely car threading through the storm, then cuts to low exterior angles capturing tires cutting through water, reflections streaking across chrome, and the car’s body gleaming under rain. The windshield wipers beat rhythmically as the road becomes more treacherous, and at one point the car skids slightly around a tight bend near the cliff edge. The whole sequence feels moody, elegant, and suspenseful, like a neo-noir road film with classic cinematic style."
     },
     {
       "id": "pov-fpv-case-1",
@@ -2238,6 +2290,19 @@
       "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2077694836845465993.jpg",
       "prompt_sha256": "e651dfa08bb527c2d5c3203fb6039cd7ea04f2600eefc5551dd5b6f9286a63cf",
       "prompt_text": "An astronaut in a full white suit walks alone through an abandoned amusement park at twilight. Rusted rides stand motionless, faded carnival lights flicker sporadically, and fog drifts low across cracked pavement. The helmet visor reflects broken roller coasters, carousel horses, and shredded flags fluttering in the wind. The camera follows from behind in a slow tracking shot, then cuts to low angles and haunting wide frames that emphasize the surreal contrast between the futuristic astronaut and the decaying park. As the astronaut passes the giant Ferris wheel, it suddenly creaks into motion on its own. Old speakers crackle with distant carnival music. The sequence feels eerie, dreamlike, and cinematic, like a science-fiction mystery with emotional loneliness at its core."
+    },
+    {
+      "id": "general-cinematic-case-38",
+      "category": "🎬 General Cinematic",
+      "case_number": 38,
+      "title": "Pirate Duck Bathtub Voyage",
+      "source_url": "https://x.com/CharaspowerAI/status/2078072313686184334",
+      "prompt_source_url": "https://x.com/CharaspowerAI/status/2078072313686184334",
+      "author_handle": "CharaspowerAI",
+      "author_url": "https://x.com/CharaspowerAI",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078072313686184334.jpg",
+      "prompt_sha256": "4d5416d05073ccbd995c08a276c8cf92297008b139aa4e378539efe19aecf3c7",
+      "prompt_text": "A clay pirate captain duck with a tiny hat, wooden sword, eye patch and dramatic pose\nSails across a bathtub ocean, battling giant soap waves and riding a sponge ship toward a rubber duck treasure island\nBathroom fantasy world with bubbles, towels as cliffs and warm light reflecting on water\n3D clay, Pixar-style playful adventure, soft clay textures, rounded props, dynamic camera glide over water, bright cheerful atmosphere, ending with the duck discovering a golden bath plug treasure."
     }
   ]
 }

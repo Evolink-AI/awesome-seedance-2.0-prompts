@@ -25,7 +25,7 @@
 
 Awesome Seedance 2.0 Prompts 저장소에 오신 것을 환영합니다! 🤗
 
-**이 저장소에는 출처가 표시된 Seedance 2.0 영상 생성 프롬프트 166개가 있습니다.**
+**이 저장소에는 출처가 표시된 Seedance 185.0 영상 생성 프롬프트 166개가 있습니다.**
 
 공개된 크리에이터 게시물에서 프롬프트를 선별해 재사용 가능한 자료로 보존합니다.
 
@@ -73,7 +73,7 @@ curl --request GET \
 <a id="statistics"></a>
 ## 📊 통계
 
-8개 카테고리의 고유 사례 180개를 11개 README에 동기화했습니다.
+8개 카테고리의 고유 사례 185개를 11개 README에 동기화했습니다.
 
 <a id="how-to-use"></a>
 ## 🧭 이 저장소 사용법
@@ -88,7 +88,7 @@ curl --request GET \
 - [통계](#statistics)
 - [이 저장소 사용법](#how-to-use)
 - [메뉴](#menu)
-- [⚔️ 액션 / 판타지](#action-fantasy) (37)
+- [⚔️ 액션 / 판타지](#action-fantasy) (40)
   - [사례 1: 거리 랩 뮤직비디오 공연 (작성자 @songguoxiansen)](#action-fantasy-case-1)
   - [사례 2: 검은 고양이의 사막 무술 대결 (작성자 @nopinduoduo)](#action-fantasy-case-2)
   - [사례 3: 실사판 호흡 기술 결투 (작성자 @johnAGI168)](#action-fantasy-case-3)
@@ -126,13 +126,17 @@ curl --request GET \
   - [사례 35: 야생화 계곡을 나는 그리핀 (작성자 @Mayz1169)](#action-fantasy-case-35)
   - [사례 36: 몽골 기병의 파르티안 샷 (작성자 @Ankit_patel211)](#action-fantasy-case-36)
   - [사례 37: 거대 개구리 전령의 질주 (작성자 @0xbisc)](#action-fantasy-case-37)
-- [🎞️ 시네마틱 리얼리즘](#cinematic-realism) (6)
+  - [사례 38: 천둥 전사의 좀비 포위전 (작성자 @MO_IAI)](#action-fantasy-case-38)
+  - [사례 39: 백호 사원의 폭풍우 (작성자 @LudovicCreator)](#action-fantasy-case-39)
+  - [사례 40: 식량 바지선과 거대 상어 (작성자 @rahulnanda86)](#action-fantasy-case-40)
+- [🎞️ 시네마틱 리얼리즘](#cinematic-realism) (7)
   - [사례 1: 현대 일본 다큐멘터리 시퀀스 (작성자 @kuranoayashi)](#cinematic-realism-case-1)
   - [사례 2: 그림자를 추적하는 롱보드 내리막 (작성자 @Dheepanratnam)](#cinematic-realism-case-2)
   - [사례 3: 유성으로 각성한 전쟁의 여주인공 (작성자 @ChrisTheNerv)](#cinematic-realism-case-3)
   - [사례 4: 안개 낀 캡슐 섬 드라마 (작성자 @umesh_ai)](#cinematic-realism-case-4)
   - [사례 5: 폭풍 절벽의 사무라이 등장 (작성자 @umesh_ai)](#cinematic-realism-case-5)
   - [사례 6: VHS 수영장 캐넌볼 심판 (작성자 @Ankit_patel211)](#cinematic-realism-case-6)
+  - [사례 7: 빈티지 블랙카 폭풍 질주 (작성자 @LudovicCreator)](#cinematic-realism-case-7)
 - [🥽 POV / FPV](#pov-fpv) (20)
   - [사례 1: 가슴 장착 카메라 위장 추격전 (작성자 @genel_ai)](#pov-fpv-case-1)
   - [사례 2: 상하이 사이버펑크 도시 하이라이트 영상 (작성자 @Adam38363368936)](#pov-fpv-case-2)
@@ -238,7 +242,7 @@ curl --request GET \
   - [사례 16: 인상주의 노 젓는 손 템플릿 (작성자 @0xbisc)](#templates-structured-case-16)
   - [사례 17: 여전사 — 구조화된 피사체 프롬프트 (작성자 @noman23761)](#templates-structured-case-17)
   - [사례 18: 상자에서 펼쳐지는 로프트 인테리어 (작성자 @samaote)](#templates-structured-case-18)
-- [🎬 일반 시네마틱](#general-cinematic) (37)
+- [🎬 일반 시네마틱](#general-cinematic) (38)
   - [사례 1: 하이힐과 비트가 동기화된 패션 클로즈업 (작성자 @TingFengAIAI)](#general-cinematic-case-1)
   - [사례 2: 아이 방에서 미니 스케이트보드 탈출 (작성자 @anson7956)](#general-cinematic-case-2)
   - [사례 3: 러커 파크 할머니 대결 (작성자 @techhalla)](#general-cinematic-case-3)
@@ -276,6 +280,7 @@ curl --request GET \
   - [사례 35: 붉은 사막 오토바이 트래킹 숏 (작성자 @LudovicCreator)](#general-cinematic-case-35)
   - [사례 36: 폼페이 재난 현장 DV 영상 (작성자 @venturetwins)](#general-cinematic-case-36)
   - [사례 37: 버려진 놀이공원을 걷는 우주비행사 (작성자 @LudovicCreator)](#general-cinematic-case-37)
+  - [사례 38: 해적 오리의 욕조 항해 (작성자 @CharaspowerAI)](#general-cinematic-case-38)
 <a id="action-fantasy"></a>
 ## ⚔️ 액션 / 판타지
 
@@ -1030,6 +1035,61 @@ SHOT 7: Medium close-up to close-up, 50mm, camera moves behind messenger, approa
 ```
 
 
+<a id="action-fantasy-case-38"></a>
+<!-- Case 38: Thunder Warrior Zombie Siege (by @MO_IAI) -->
+### 사례 38: [천둥 전사의 좀비 포위전](https://x.com/MO_IAI/status/2078252502755983855) (작성자 [@MO_IAI](https://x.com/MO_IAI))
+
+| 결과 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-38"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078252502755983855.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**프롬프트:**
+
+```
+One continuous unbroken take, no cuts: the camera starts low behind the white-haired armored warrior, her cyan-veined suit glowing faintly as she faces a ruined torii gate with a white tiger prowling beside her and a horde of gray zombies filling the shattered street beyond. The lens begins a slow push forward past her shoulder, then whips into a fast low orbit around her right side as she launches upward, the camera tilting and rising with her leap, chasing her axe as it trails a ribbon of electric blue light through the air. As she crashes down onto the horde, the camera dives with her, snapping into a violent handheld shake at ground level, lightning bursts erupting outward as the axe connects, the white tiger lunging into frame past the lens. Without cutting, the camera rockets straight upward into a vertigo-inducing aerial pull-back, spiraling higher and higher until the entire ruined city and the swarming crowd below become a churning sea of bodies split by a jagged vein of electric light — then the camera plunges back down in a swooping vertical dive, hurtling toward the fight and snapping into extreme close-up as her glowing gauntlet grips a zombie's face, sparks scattering across the lens. The camera swings around her in a tight 180-degree arc, revealing a clawed beast lunging from the far side; she pivots her axe defensively, and the camera whip-pans with the motion, dust and debris flying past frame. It then drifts backward and rises into a wide crane shot as she plants her weapon into the ground beneath a churning storm-lit sky, chains of energy crawling up her arms — the camera slowly rotates around her rising silhouette. Suddenly the light detonates outward and the camera is thrown backward as if caught in the blast, shuddering and rolling through the shockwave, streaks of lightning tearing across the frame as bodies are hurled aside. Finally, the camera stabilizes and glides backward in a slow, steady pull, rising just slightly to frame her standing alone amid the wreckage and fallen torii gate, hair and cloak settling in the wind, the devastated skyline stretching behind her as the single take comes to rest. Mandatory: never show the storyboard ref in the video
+```
+
+<a id="action-fantasy-case-39"></a>
+<!-- Case 39: White Tiger Temple Storm (by @LudovicCreator) -->
+### 사례 39: [백호 사원의 폭풍우](https://x.com/LudovicCreator/status/2078215686690590829) (작성자 [@LudovicCreator](https://x.com/LudovicCreator))
+
+| 결과 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-39"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078215686690590829.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**프롬프트:**
+
+```
+A massive white tiger with glowing blue markings walks through a ruined mountain temple during a violent thunderstorm. Rain pours through broken stone arches, lightning flashes behind giant statues, and mist crawls across the wet floor.
+The tiger roars, and the entire temple reacts, ancient symbols ignite across the walls, stone pillars crack, and blue energy pulses through the ground beneath its paws. The camera tracks low beside the tiger, close to the wet fur, claws, breath, and glowing eyes.
+Final moment: the tiger leaps onto a broken altar as lightning strikes behind it, revealing its gigantic shadow across the temple walls.
+Mythic creature realism, storm atmosphere, glowing markings, cinematic 4K.
+```
+
+<a id="action-fantasy-case-40"></a>
+<!-- Case 40: Ration Barge Mega Shark (by @rahulnanda86) -->
+### 사례 40: [식량 바지선과 거대 상어](https://x.com/rahulnanda86/status/2077915652141285405) (작성자 [@rahulnanda86](https://x.com/rahulnanda86))
+
+| 결과 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-40"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2077915652141285405.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**프롬프트:**
+
+```
+A wide river in bright daylight, a flat supply barge loaded with ration crates crossing toward the far bank. A megalodon, whale-sized with scarred grey hide, rams the barge hard from below, tilting it as the crew grabs the rails. On the far-bank dock, a gunner is already loaded, posted there to watch every barge crossing this stretch. Sound: crashing waves, groaning barge, shark thrashing, shouting, radio voices.
+
+Shot 1 (0–3s) — THE HOOK: Low shot across the water. The megalodon rams the barge from below, crates sliding and crashing into the river as the deck tilts hard, the crew clinging to the rails. One shouts into his radio: "IT'S RAMMING THE BARGE! WE'RE GOING OVER!"
+
+Shot 2 (3–6s): On the dock, the gunner lifts the bazooka onto his shoulder, tracking the shark's shadow in the water — but holds his fire, a rescue boat pulling alongside the barge with the crew still climbing across. He calls on the radio: "Get to the rescue boat! Jump now!"
+
+Shot 3 (6–9s): The crew leaps from the tilting barge onto the rescue boat and it pulls away fast toward the dock. The megalodon circles back into open water beside the empty barge, alone now, no crew or boat anywhere near it.
+
+Shot 4 (9–13s) — BIG SLOW-MOTION MOMENT: The shark circles alone in the open water now. The gunner fires. Bullet time — the bazooka kicks back, smoke bursting from the tube, the rocket streaking down into the river in slow motion, spray hanging bright in the daylight.
+
+Shot 5 (13–15s): Time snaps back. A huge blast erupts in the water beside the drifting barge, fire and spray shooting high into the sky. The rescue boat reaches the dock safely as the crew watches the water settle.
+```
+
 <a id="cinematic-realism"></a>
 
 <a id="cinematic-realism"></a>
@@ -1167,6 +1227,20 @@ Natural sound only. Crowd chanting, loud applause, laughter, splashing water, ec
 The result must feel like authentic raw 1990s home video footage capturing a completely ordinary pool jump that somehow turned into an Olympic-level celebration.
 ```
 
+
+<a id="cinematic-realism-case-7"></a>
+<!-- Case 7: Vintage Black Car Storm Run (by @LudovicCreator) -->
+### 사례 7: [빈티지 블랙카 폭풍 질주](https://x.com/LudovicCreator/status/2078057220512629018) (작성자 [@LudovicCreator](https://x.com/LudovicCreator))
+
+| 결과 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-realism-case-7"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078057220512629018.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**프롬프트:**
+
+```
+A vintage black car speeds along a winding mountain road in heavy rain at dusk, its headlights slicing through fog and wet air. Pine forests blur past on one side while a steep cliff drops into darkness on the other. Inside the car, a sharply dressed driver grips the steering wheel in silence, illuminated by passing flashes of lightning and the soft amber glow of the dashboard. The camera begins with sweeping aerial shots of the serpentine road and the lonely car threading through the storm, then cuts to low exterior angles capturing tires cutting through water, reflections streaking across chrome, and the car’s body gleaming under rain. The windshield wipers beat rhythmically as the road becomes more treacherous, and at one point the car skids slightly around a tight bend near the cliff edge. The whole sequence feels moody, elegant, and suspenseful, like a neo-noir road film with classic cinematic style.
+```
 
 <a id="pov-fpv"></a>
 ## 🥽 POV / FPV
@@ -4923,6 +4997,23 @@ The result must feel like authentic, raw footage of ordinary people in Pompeii e
 An astronaut in a full white suit walks alone through an abandoned amusement park at twilight. Rusted rides stand motionless, faded carnival lights flicker sporadically, and fog drifts low across cracked pavement. The helmet visor reflects broken roller coasters, carousel horses, and shredded flags fluttering in the wind. The camera follows from behind in a slow tracking shot, then cuts to low angles and haunting wide frames that emphasize the surreal contrast between the futuristic astronaut and the decaying park. As the astronaut passes the giant Ferris wheel, it suddenly creaks into motion on its own. Old speakers crackle with distant carnival music. The sequence feels eerie, dreamlike, and cinematic, like a science-fiction mystery with emotional loneliness at its core.
 ```
 
+
+<a id="general-cinematic-case-38"></a>
+<!-- Case 38: Pirate Duck Bathtub Voyage (by @CharaspowerAI) -->
+### 사례 38: [해적 오리의 욕조 항해](https://x.com/CharaspowerAI/status/2078072313686184334) (작성자 [@CharaspowerAI](https://x.com/CharaspowerAI))
+
+| 결과 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-38"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078072313686184334.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**프롬프트:**
+
+```
+A clay pirate captain duck with a tiny hat, wooden sword, eye patch and dramatic pose
+Sails across a bathtub ocean, battling giant soap waves and riding a sponge ship toward a rubber duck treasure island
+Bathroom fantasy world with bubbles, towels as cliffs and warm light reflecting on water
+3D clay, Pixar-style playful adventure, soft clay textures, rounded props, dynamic camera glide over water, bright cheerful atmosphere, ending with the duck discovering a golden bath plug treasure.
+```
 
 <a id="related-repositories"></a>
 ## 🔗 관련 저장소
