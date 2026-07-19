@@ -45,6 +45,7 @@ cinematic-realism-case-4	Drame sur une île à maison capsule dans la brume
 cinematic-realism-case-5	Révélation d’un samouraï sur une falaise en tempête
 cinematic-realism-case-6	Juge de cannonball à la piscine VHS
 cinematic-realism-case-7	Course sous l’orage en voiture noire vintage
+cinematic-realism-case-8	Séquence du phare sur la côte en tempête
 pov-fpv-case-1	Séquence de poursuite camouflée avec caméra pectorale
 pov-fpv-case-2	Bande-annonce d’une Shanghai cyberpunk
 pov-fpv-case-3	Prompt d’action cohérent d’un samouraï maudit
@@ -113,6 +114,7 @@ reference-driven-case-18	Hiérarchie de références verrouillée par storyboard
 reference-driven-case-19	Montage d'absorption d'énergie VOLTIA
 reference-driven-case-20	Confession de Cléopâtre au palais
 reference-driven-case-21	Retrouvailles pluvieuses sous la lanterne
+reference-driven-case-22	Transformation en plan-séquence dans les coulisses du kunqu
 surreal-vfx-case-1	Combat au katana en apesanteur
 surreal-vfx-case-2	Baleine dans les nuages — épopée surréaliste
 surreal-vfx-case-3	Métamorphose d’un plongeur des abysses en créature marine
@@ -127,6 +129,7 @@ surreal-vfx-case-11	Transformation de scène avec roue chromatique flottante dan
 surreal-vfx-case-12	Séquence de transformation de l’impératrice du feu
 surreal-vfx-case-13	Transformation du titan de sable dans le désert
 surreal-vfx-case-14	Voiture en fuite transformée en camion-benne
+surreal-vfx-case-15	Transformation calligraphique de la gardienne de la forêt
 templates-structured-case-1	Naufrage catastrophique d’un superporte-avions
 templates-structured-case-2	Reconstruction de fragments de mémoire
 templates-structured-case-3	Du plan à la réalité — transformation d’une maison de plain-pied
@@ -145,6 +148,7 @@ templates-structured-case-15	Séquence stylisée de transformation dans un salon
 templates-structured-case-16	Modèle impressionniste de mains ramant
 templates-structured-case-17	Guerrière — prompt de sujet structuré
 templates-structured-case-18	Révélation d’un loft sorti d’une boîte
+templates-structured-case-19	Test de détail des expressions faciales
 general-cinematic-case-1	Gros plan de mode sur des talons synchronisés au rythme
 general-cinematic-case-2	Évasion en mini-skateboard dans une chambre d’enfant
 general-cinematic-case-3	Duel de grands-mères à Rucker Park

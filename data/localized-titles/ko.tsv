@@ -45,6 +45,7 @@ cinematic-realism-case-4	안개 낀 캡슐 섬 드라마
 cinematic-realism-case-5	폭풍 절벽의 사무라이 등장
 cinematic-realism-case-6	VHS 수영장 캐넌볼 심판
 cinematic-realism-case-7	빈티지 블랙카 폭풍 질주
+cinematic-realism-case-8	폭풍 해안 등대 시퀀스
 pov-fpv-case-1	가슴 장착 카메라 위장 추격전
 pov-fpv-case-2	상하이 사이버펑크 도시 하이라이트 영상
 pov-fpv-case-3	저주받은 사무라이의 일관된 액션 프롬프트
@@ -113,6 +114,7 @@ reference-driven-case-18	고정 스토리보드 참조 계층
 reference-driven-case-19	VOLTIA 전력 흡수 몽타주
 reference-driven-case-20	클레오파트라의 궁전 고백
 reference-driven-case-21	가로등 아래 빗속 재회
+reference-driven-case-22	곤극 분장실 원테이크 변신
 surreal-vfx-case-1	무중력 카타나 전투
 surreal-vfx-case-2	구름 속 고래의 초현실적 서사시
 surreal-vfx-case-3	심해 잠수부의 해양 생물 변신
@@ -127,6 +129,7 @@ surreal-vfx-case-11	떠 있는 UI 색상환의 장면 전환
 surreal-vfx-case-12	불꽃 여제의 변신 시퀀스
 surreal-vfx-case-13	사막의 샌드 타이탄 변신
 surreal-vfx-case-14	도주 차량의 쓰레기차 변신
+surreal-vfx-case-15	숲의 수호자 서예 변신
 templates-structured-case-1	초대형 항공모함의 재앙적 침몰
 templates-structured-case-2	기억 파편 재구성
 templates-structured-case-3	설계도에서 현실로 — 단층 주택 변신
@@ -145,6 +148,7 @@ templates-structured-case-15	스타일리시한 3D 이발소 변신 시퀀스
 templates-structured-case-16	인상주의 노 젓는 손 템플릿
 templates-structured-case-17	여전사 — 구조화된 피사체 프롬프트
 templates-structured-case-18	상자에서 펼쳐지는 로프트 인테리어
+templates-structured-case-19	표정 디테일 테스트
 general-cinematic-case-1	하이힐과 비트가 동기화된 패션 클로즈업
 general-cinematic-case-2	아이 방에서 미니 스케이트보드 탈출
 general-cinematic-case-3	러커 파크 할머니 대결

@@ -25,7 +25,7 @@
 
 Добро пожаловать в Awesome Seedance 2.0 Prompts! 🤗
 
-**Репозиторий содержит 185 уникальных промптов Seedance 2.0 с указанием источников для кинематографической генерации видео.**
+**Репозиторий содержит 189 уникальных промптов Seedance 2.0 с указанием источников для кинематографической генерации видео.**
 
 Промпты отобраны из публичных публикаций авторов и сохранены как повторно используемые материалы.
 
@@ -73,7 +73,7 @@ curl --request GET \
 <a id="statistics"></a>
 ## 📊 Статистика
 
-185 уникальных примеров в 8 категориях, синхронизированных в 11 файлах README.
+189 уникальных примеров в 8 категориях, синхронизированных в 11 файлах README.
 
 <a id="how-to-use"></a>
 ## 🧭 Как пользоваться репозиторием
@@ -129,7 +129,7 @@ curl --request GET \
   - [Пример 38: Зомби-осада громовой воительницы (автор @MO_IAI)](#action-fantasy-case-38)
   - [Пример 39: Буря в храме белого тигра (автор @LudovicCreator)](#action-fantasy-case-39)
   - [Пример 40: Гигантская акула у продовольственной баржи (автор @rahulnanda86)](#action-fantasy-case-40)
-- [🎞️ Кинематографический реализм](#cinematic-realism) (7)
+- [🎞️ Кинематографический реализм](#cinematic-realism) (8)
   - [Пример 1: Документальная сцена о современной Японии (автор @kuranoayashi)](#cinematic-realism-case-1)
   - [Пример 2: Спуск на лонгборде по следу тени (автор @Dheepanratnam)](#cinematic-realism-case-2)
   - [Пример 3: Воительница, пробуждённая метеором (автор @ChrisTheNerv)](#cinematic-realism-case-3)
@@ -137,6 +137,7 @@ curl --request GET \
   - [Пример 5: Появление самурая на штормовом утёсе (автор @umesh_ai)](#cinematic-realism-case-5)
   - [Пример 6: Судья каннонбола у VHS-бассейна (автор @Ankit_patel211)](#cinematic-realism-case-6)
   - [Пример 7: Штормовая гонка на винтажном чёрном автомобиле (автор @LudovicCreator)](#cinematic-realism-case-7)
+  - [Пример 8: Сцена маяка на штормовом побережье (автор @LudovicCreator)](#cinematic-realism-case-8)
 - [🥽 POV / FPV](#pov-fpv) (20)
   - [Пример 1: Погоня в камуфляже с нагрудной камерой (автор @genel_ai)](#pov-fpv-case-1)
   - [Пример 2: Динамичный ролик о киберпанковском Шанхае (автор @Adam38363368936)](#pov-fpv-case-2)
@@ -186,7 +187,7 @@ curl --request GET \
   - [Пример 25: Презентация сыворотки с мангостином (автор @ritesh_ai)](#commercial-product-case-25)
   - [Пример 26: Показ чемодана-такси в Мумбаи (автор @rahulnanda86)](#commercial-product-case-26)
   - [Пример 27: Инфлюенсер-тур по вилле на утёсе (автор @Ankit_patel211)](#commercial-product-case-27)
-- [🖼️ На основе референсов](#reference-driven) (21)
+- [🖼️ На основе референсов](#reference-driven) (22)
   - [Пример 1: Выступление пианиста-скелета в миниатюрной диораме (автор @tea_story_hoshi)](#reference-driven-case-1)
   - [Пример 2: Принцесса на корабле в шторме против кракена (автор @applete77191758)](#reference-driven-case-2)
   - [Пример 3: Танец клинков служанок: Мэй против Коко (автор @MiraMusic_AI)](#reference-driven-case-3)
@@ -208,7 +209,8 @@ curl --request GET \
   - [Пример 19: Монтаж поглощения энергии VOLTIA (автор @itsPixieVerse)](#reference-driven-case-19)
   - [Пример 20: Дворцовое признание Клеопатры (автор @kinovi_ai)](#reference-driven-case-20)
   - [Пример 21: Дождливое воссоединение под фонарём (автор @umesh_ai)](#reference-driven-case-21)
-- [🌀 Сюрреализм / VFX](#surreal-vfx) (14)
+  - [Пример 22: Однокадровое превращение за кулисами куньцюй (автор @ou_zhen599)](#reference-driven-case-22)
+- [🌀 Сюрреализм / VFX](#surreal-vfx) (15)
   - [Пример 1: Бой на катанах в невесомости (автор @MiraMusic_AI)](#surreal-vfx-case-1)
   - [Пример 2: Кит в облаках — сюрреалистическая эпопея (автор @chaosdotjpg)](#surreal-vfx-case-2)
   - [Пример 3: Превращение глубоководного ныряльщика в морское существо (автор @AIARTGALLARY)](#surreal-vfx-case-3)
@@ -223,7 +225,8 @@ curl --request GET \
   - [Пример 12: Сцена превращения огненной императрицы (автор @LudovicCreator)](#surreal-vfx-case-12)
   - [Пример 13: Превращение в песчаного титана в пустыне (автор @LudovicCreator)](#surreal-vfx-case-13)
   - [Пример 14: Машина для побега, ставшая мусоровозом (автор @LavrionX)](#surreal-vfx-case-14)
-- [📐 Шаблоны и структурированные форматы](#templates-structured) (18)
+  - [Пример 15: Каллиграфическое превращение хранительницы леса (автор @LudovicCreator)](#surreal-vfx-case-15)
+- [📐 Шаблоны и структурированные форматы](#templates-structured) (19)
   - [Пример 1: Катастрофическое затопление суперавианосца (автор @johnAGI168)](#templates-structured-case-1)
   - [Пример 2: Восстановление осколков памяти (автор @TechTalkNAVI)](#templates-structured-case-2)
   - [Пример 3: От чертежа к реальности — превращение одноэтажного дома (автор @craftian_keskin)](#templates-structured-case-3)
@@ -242,6 +245,7 @@ curl --request GET \
   - [Пример 16: Импрессионистский шаблон рук с вёслами (автор @0xbisc)](#templates-structured-case-16)
   - [Пример 17: Женщина-воин — структурированный промпт объекта (автор @noman23761)](#templates-structured-case-17)
   - [Пример 18: Лофт-интерьер из коробки (автор @samaote)](#templates-structured-case-18)
+  - [Пример 19: Тест детализации мимики (автор @ou_zhen599)](#templates-structured-case-19)
 - [🎬 Общая кинематография](#general-cinematic) (38)
   - [Пример 1: Модный крупный план каблуков в такт музыке (автор @TingFengAIAI)](#general-cinematic-case-1)
   - [Пример 2: Побег на мини-скейтборде в детской спальне (автор @anson7956)](#general-cinematic-case-2)
@@ -1240,6 +1244,20 @@ The result must feel like authentic raw 1990s home video footage capturing a com
 
 ```
 A vintage black car speeds along a winding mountain road in heavy rain at dusk, its headlights slicing through fog and wet air. Pine forests blur past on one side while a steep cliff drops into darkness on the other. Inside the car, a sharply dressed driver grips the steering wheel in silence, illuminated by passing flashes of lightning and the soft amber glow of the dashboard. The camera begins with sweeping aerial shots of the serpentine road and the lonely car threading through the storm, then cuts to low exterior angles capturing tires cutting through water, reflections streaking across chrome, and the car’s body gleaming under rain. The windshield wipers beat rhythmically as the road becomes more treacherous, and at one point the car skids slightly around a tight bend near the cliff edge. The whole sequence feels moody, elegant, and suspenseful, like a neo-noir road film with classic cinematic style.
+```
+
+<a id="cinematic-realism-case-8"></a>
+<!-- Case 8: Storm Coast Lighthouse Sequence (by @LudovicCreator) -->
+### Пример 8: [Сцена маяка на штормовом побережье](https://x.com/LudovicCreator/status/2078540378387415126) (автор [@LudovicCreator](https://x.com/LudovicCreator))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-realism-case-8"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078540378387415126.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Промпт:**
+
+```
+A solitary lighthouse stands on a jagged black cliff as a monstrous storm crashes against the coast at night. Waves explode against the rocks far below, sending white spray into the air like smoke, while the lighthouse beam cuts through sheets of rain and drifting sea mist. Inside, an old keeper climbs the narrow spiral staircase with a lantern in hand, his coat soaked, the light flickering with every thunderclap. The camera moves between wide shots of the lighthouse dwarfed by the fury of the ocean and intimate interior close-ups of wet stone walls, rattling glass, trembling hands, and the golden lantern glow in the darkness. As the storm intensifies, lightning reveals a ghostly ship in the distance, barely visible between walls of rain. The sequence feels haunting, dramatic, and timeless, with crashing waves, thunder, and a powerful sense of isolation.
 ```
 
 <a id="pov-fpv"></a>
@@ -3335,6 +3353,21 @@ Scene 6: Distant pullback across a reflective puddle, framing them beneath the e
 ```
 
 
+
+<a id="reference-driven-case-22"></a>
+<!-- Case 22: Kunqu Backstage One-Take Transformation (by @ou_zhen599) -->
+### Пример 22: [Однокадровое превращение за кулисами куньцюй](https://x.com/ou_zhen599/status/2078394020741673439) (автор [@ou_zhen599](https://x.com/ou_zhen599))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-22"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078394020741673439.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Промпт:**
+
+```
+- 15秒电影短片《粉墨》，一镜到底，Steadicam跟拍，微距起幅，焦点丝滑转换；参考图1统一人物，年轻昆剧女演员，粉色刺绣戏服，白粉色长水袖，蓝银点翠头面，古典戏曲妆容；场景是简陋戏曲后台化妆间，旧木妆台、胭脂盒、红木梳、珠钗散落，远处红幕低垂，背景隐约人影走动和后台低语，暖黄偏红低照度光，复古东方电影质感，浅景深。0-4秒微距缓推妆台，停在她搭在桌沿的手上，无名指极轻收拢，手腕缓慢转动，水袖泛起波纹；4-8秒镜头顺手向上弧线抬起到半身，她微偏头，低垂眼睑，右手轻轻摩挲下巴，左肩微塌，整个人被心事压住；第5秒开始滑入极空灵悠长的昆曲竹笛，后台杂音逐渐退远；8-11秒动作增强，指腹忽然停住，右手沿下颌和锁骨缓慢滑落到心口，五指轻压胸前衣料，呼吸一滞，头一点点抬正，肩线收起，脊背被缓缓提直，颈线拉长；11-13秒镜头微环绕，她按心口的手顺势带着水袖划出一道柔而有力的弧线，整个人慢慢起身，不猛，极稳，腰肩颈背一寸寸立住；13-15秒她半转身朝向上场门或强光方向，水袖落下，珠串轻晃，目光先看向远处再一点点凝回，眼神里有旧伤、认命、不甘、成全和决绝，不哭不喊，只是彻底立住，完成从人到戏中人的转化，定格半秒后极轻淡出；不要古风写真感，不要夸张甩袖，不要舞台化过重，不要镜头乱晃。
+```
+
 <a id="surreal-vfx"></a>
 ## 🌀 Сюрреализм / VFX
 
@@ -3718,6 +3751,20 @@ She pauses, watches the police pass… then slowly turns toward camera and winks
 Ambient city sound returns. No hard cut.
 ```
 
+
+<a id="surreal-vfx-case-15"></a>
+<!-- Case 15: Forest Guardian Calligraphy Transformation (by @LudovicCreator) -->
+### Пример 15: [Каллиграфическое превращение хранительницы леса](https://x.com/LudovicCreator/status/2078346662699798878) (автор [@LudovicCreator](https://x.com/LudovicCreator))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-15"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078346662699798878.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Промпт:**
+
+```
+Full magical transformation sequence: a forest guardian floating in an aged moss-green parchment void as deep emerald ink spreads through the air like liquid leaves blooming in water ,calligraphy strokes whip around the body, staining the hair into soft jade green, sketching layered nature armor, glowing vine markings across the face, and a long spear silhouette in sweeping green brushwork. A circular ancient seal script sigil blooms underfoot with splashes of pearl-white light, the camera pushing in through drifting ink veils like torn leaves in a storm, each brush impact synced to a rising drumbeat, ending in a spear-planted signature pose locked inside an emerald-and-pearl calligraphy burst. Stock-footage grandeur, played sincere.
+```
 
 <a id="templates-structured"></a>
 ## 📐 Шаблоны и структурированные форматы
@@ -4218,6 +4265,33 @@ Camera: fixed wide-angle shot, no zoom, no camera shake, no angle change.
 Negative prompt: no people, no extra rooms, no duplicated furniture, no distorted furniture, no warped walls, no text changes, no logo distortion, no sudden cuts, no messy construction debris, no cartoon animation.
 ```
 
+
+<a id="templates-structured-case-19"></a>
+<!-- Case 19: Facial Expression Detail Test (by @ou_zhen599) -->
+### Пример 19: [Тест детализации мимики](https://x.com/ou_zhen599/status/2078137477425172769) (автор [@ou_zhen599](https://x.com/ou_zhen599))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-19"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078137477425172769.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Промпт:**
+
+```
+0–2 seconds: Head bowed, eyes cast downward, with a subtle, faint smile playing at the corners of her lips—without showing her teeth—her expression gentle and serene.
+2–4 seconds: The smile gradually fades, and the corners of her mouth return to neutral; her eyes and head slowly lift, her gaze shifting to the right side of the frame, her expression turning to one of focused attention.
+4–6 seconds: She continues to look to the right, her eyes taking on a hint of mild confusion and concern; her eyes widen slightly (naturally), her lips part slightly as if she’s about to speak but holds back, and her eyebrows and eyes narrow slightly without furrowing.
+6–8 seconds: Her gaze slowly drifts downward, her head tilts slightly; the smile fades completely, her expression becoming quiet and forlorn, as she suppresses her emotions inwardly—without shedding tears or crying.
+8–10 seconds: Lower your head and gently close your eyes to compose yourself; a faint, self-deprecating smile—concealing your sadness—appears at the corners of your mouth. Breathe naturally, and move with the utmost subtlety.
+10–12 seconds: Slowly lift your head; your eyes meet the soft light once more, gradually brightening yet remaining restrained. Turn your face forward or slightly to the right, with a hint of tenderness and slight resentment at the corners of your lips.
+12–15 seconds: Look straight ahead or toward the right side of the frame, with a soft, slightly moist gaze. The lips move slightly as if on the verge of speaking but hold back; ultimately, maintain a quiet, fixed gaze, frozen in a gentle, cool, and slightly melancholic mood. The scene ends without a black screen or transition.
+0-2秒：低头垂眸，嘴角噙着含蓄淡笑，不露齿，神态温柔安静。
+2-4秒：笑意缓缓收敛，嘴角归平；双眼、头部慢慢抬起，视线转向画面右侧，神情转为认真留意。
+4-6秒：持续望向右方，眼神添上浅淡疑惑与担忧，双眼微睁（幅度自然），嘴唇轻启呈欲言又止状，眉眼微收，不皱眉。
+6-8秒：视线缓缓下沉，头部微低，笑意尽数褪去，神情安静失落，内敛压抑情绪，不流泪、不哭泣。
+8-10秒：低头轻阖双眼，平复心绪，嘴角浮现一抹藏起难过的浅淡自嘲式浅笑，呼吸自然，动作极轻。
+10-12秒：缓缓抬头，眼眸重新迎向柔光，眼神渐亮却依旧克制，面部转向前方/偏右，唇角带一丝温柔又委屈的淡意。
+12-15秒：目视前方/画面右侧，眼神柔和微润，唇瓣轻动似欲语还休，最终保持安静凝视状态，定格在温柔清冷、略带忧郁的情绪中，结尾无黑屏、无转场。
+```
 
 <a id="general-cinematic"></a>
 

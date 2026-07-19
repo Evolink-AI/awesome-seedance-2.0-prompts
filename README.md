@@ -25,7 +25,7 @@
 
 Welcome to the Awesome Seedance 2.0 Prompts repository! 🤗
 
-**This repository contains 185 unique, source-attributed Seedance 2.0 prompt cases for cinematic video generation.**
+**This repository contains 189 unique, source-attributed Seedance 2.0 prompt cases for cinematic video generation.**
 
 Prompts are curated from public creator posts and preserved as reusable source material for GitHub-native browsing.
 
@@ -73,7 +73,7 @@ Supporting resources: [API examples](https://github.com/Evolink-AI/Seedance-2.0-
 <a id="statistics"></a>
 ## 📊 Statistics
 
-185 unique cases across 8 categories, synchronized across 11 README files.
+189 unique cases across 8 categories, synchronized across 11 README files.
 
 <a id="how-to-use"></a>
 ## 🧭 How to Use This Repository
@@ -129,7 +129,7 @@ Choose a category, open a source-attributed case, copy its prompt block, replace
   - [Case 38: Thunder Warrior Zombie Siege (by @MO_IAI)](#action-fantasy-case-38)
   - [Case 39: White Tiger Temple Storm (by @LudovicCreator)](#action-fantasy-case-39)
   - [Case 40: Ration Barge Mega Shark (by @rahulnanda86)](#action-fantasy-case-40)
-- [🎞️ Cinematic Realism](#cinematic-realism) (7)
+- [🎞️ Cinematic Realism](#cinematic-realism) (8)
   - [Case 1: Modern Japan Documentary Sequence (by @kuranoayashi)](#cinematic-realism-case-1)
   - [Case 2: Shadow-Tracking Longboard Descent (by @Dheepanratnam)](#cinematic-realism-case-2)
   - [Case 3: Meteor Awakening War Heroine (by @ChrisTheNerv)](#cinematic-realism-case-3)
@@ -137,6 +137,7 @@ Choose a category, open a source-attributed case, copy its prompt block, replace
   - [Case 5: Storm Cliff Samurai Reveal (by @umesh_ai)](#cinematic-realism-case-5)
   - [Case 6: VHS Pool Cannonball Judge (by @Ankit_patel211)](#cinematic-realism-case-6)
   - [Case 7: Vintage Black Car Storm Run (by @LudovicCreator)](#cinematic-realism-case-7)
+  - [Case 8: Storm Coast Lighthouse Sequence (by @LudovicCreator)](#cinematic-realism-case-8)
 - [🥽 POV / FPV](#pov-fpv) (20)
   - [Case 1: Chest-Mounted Camouflage Chase Sequence (by @genel_ai)](#pov-fpv-case-1)
   - [Case 2: Shanghai Cyberpunk City Sizzle Reel (by @Adam38363368936)](#pov-fpv-case-2)
@@ -186,7 +187,7 @@ Choose a category, open a source-attributed case, copy its prompt block, replace
   - [Case 25: Mangosteen Serum Product Reveal (by @ritesh_ai)](#commercial-product-case-25)
   - [Case 26: Mumbai Suitcase Taxi Reveal (by @rahulnanda86)](#commercial-product-case-26)
   - [Case 27: Clifftop Villa Influencer Tour (by @Ankit_patel211)](#commercial-product-case-27)
-- [🖼️ Reference-Driven](#reference-driven) (21)
+- [🖼️ Reference-Driven](#reference-driven) (22)
   - [Case 1: Skeleton Pianist Miniature Diorama Performance (by @tea_story_hoshi)](#reference-driven-case-1)
   - [Case 2: Storm Ship Princess vs Kraken (by @applete77191758)](#reference-driven-case-2)
   - [Case 3: Maid Blade Dance: Mei vs Coco (by @MiraMusic_AI)](#reference-driven-case-3)
@@ -208,7 +209,8 @@ Choose a category, open a source-attributed case, copy its prompt block, replace
   - [Case 19: VOLTIA Power-Drain Montage (by @itsPixieVerse)](#reference-driven-case-19)
   - [Case 20: Cleopatra Chamber Confession (by @kinovi_ai)](#reference-driven-case-20)
   - [Case 21: Rainy Reunion Under Lantern (by @umesh_ai)](#reference-driven-case-21)
-- [🌀 Surreal / VFX](#surreal-vfx) (14)
+  - [Case 22: Kunqu Backstage One-Take Transformation (by @ou_zhen599)](#reference-driven-case-22)
+- [🌀 Surreal / VFX](#surreal-vfx) (15)
   - [Case 1: Zero-Gravity Katana Combat (by @MiraMusic_AI)](#surreal-vfx-case-1)
   - [Case 2: Whale in the Clouds Surreal Epic (by @chaosdotjpg)](#surreal-vfx-case-2)
   - [Case 3: Abyss Diver Sea Creature Metamorphosis (by @AIARTGALLARY)](#surreal-vfx-case-3)
@@ -223,7 +225,8 @@ Choose a category, open a source-attributed case, copy its prompt block, replace
   - [Case 12: Fire Empress Transformation Sequence (by @LudovicCreator)](#surreal-vfx-case-12)
   - [Case 13: Sand Titan Desert Transformation (by @LudovicCreator)](#surreal-vfx-case-13)
   - [Case 14: Escape Car Garbage Morph (by @LavrionX)](#surreal-vfx-case-14)
-- [📐 Templates & Structured Formats](#templates-structured) (18)
+  - [Case 15: Forest Guardian Calligraphy Transformation (by @LudovicCreator)](#surreal-vfx-case-15)
+- [📐 Templates & Structured Formats](#templates-structured) (19)
   - [Case 1: Supercarrier Catastrophic Sinking (by @johnAGI168)](#templates-structured-case-1)
   - [Case 2: Reconstruction of Memory Shards (by @TechTalkNAVI)](#templates-structured-case-2)
   - [Case 3: Blueprint to Reality – Single-Story House Transformation (by @craftian_keskin)](#templates-structured-case-3)
@@ -242,6 +245,7 @@ Choose a category, open a source-attributed case, copy its prompt block, replace
   - [Case 16: Impressionist Rowing Hands Template (by @0xbisc)](#templates-structured-case-16)
   - [Case 17: Female Warrior — Structured Subject Prompt (by @noman23761)](#templates-structured-case-17)
   - [Case 18: Loft-in-a-Box Interior Reveal (by @samaote)](#templates-structured-case-18)
+  - [Case 19: Facial Expression Detail Test (by @ou_zhen599)](#templates-structured-case-19)
 - [🎬 General Cinematic](#general-cinematic) (38)
   - [Case 1: High-Heel Beat Sync Fashion Close-Up (by @TingFengAIAI)](#general-cinematic-case-1)
   - [Case 2: Mini Skateboard Escape in a Child Bedroom (by @anson7956)](#general-cinematic-case-2)
@@ -1241,6 +1245,20 @@ The result must feel like authentic raw 1990s home video footage capturing a com
 A vintage black car speeds along a winding mountain road in heavy rain at dusk, its headlights slicing through fog and wet air. Pine forests blur past on one side while a steep cliff drops into darkness on the other. Inside the car, a sharply dressed driver grips the steering wheel in silence, illuminated by passing flashes of lightning and the soft amber glow of the dashboard. The camera begins with sweeping aerial shots of the serpentine road and the lonely car threading through the storm, then cuts to low exterior angles capturing tires cutting through water, reflections streaking across chrome, and the car’s body gleaming under rain. The windshield wipers beat rhythmically as the road becomes more treacherous, and at one point the car skids slightly around a tight bend near the cliff edge. The whole sequence feels moody, elegant, and suspenseful, like a neo-noir road film with classic cinematic style.
 ```
 
+
+<a id="cinematic-realism-case-8"></a>
+<!-- Case 8: Storm Coast Lighthouse Sequence (by @LudovicCreator) -->
+### Case 8: [Storm Coast Lighthouse Sequence](https://x.com/LudovicCreator/status/2078540378387415126) (by [@LudovicCreator](https://x.com/LudovicCreator))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-realism-case-8"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078540378387415126.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+A solitary lighthouse stands on a jagged black cliff as a monstrous storm crashes against the coast at night. Waves explode against the rocks far below, sending white spray into the air like smoke, while the lighthouse beam cuts through sheets of rain and drifting sea mist. Inside, an old keeper climbs the narrow spiral staircase with a lantern in hand, his coat soaked, the light flickering with every thunderclap. The camera moves between wide shots of the lighthouse dwarfed by the fury of the ocean and intimate interior close-ups of wet stone walls, rattling glass, trembling hands, and the golden lantern glow in the darkness. As the storm intensifies, lightning reveals a ghostly ship in the distance, barely visible between walls of rain. The sequence feels haunting, dramatic, and timeless, with crashing waves, thunder, and a powerful sense of isolation.
+```
 
 <a id="pov-fpv"></a>
 ## 🥽 POV / FPV
@@ -3335,6 +3353,21 @@ Scene 6: Distant pullback across a reflective puddle, framing them beneath the e
 ```
 
 
+
+<a id="reference-driven-case-22"></a>
+<!-- Case 22: Kunqu Backstage One-Take Transformation (by @ou_zhen599) -->
+### Case 22: [Kunqu Backstage One-Take Transformation](https://x.com/ou_zhen599/status/2078394020741673439) (by [@ou_zhen599](https://x.com/ou_zhen599))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-22"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078394020741673439.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+- 15秒电影短片《粉墨》，一镜到底，Steadicam跟拍，微距起幅，焦点丝滑转换；参考图1统一人物，年轻昆剧女演员，粉色刺绣戏服，白粉色长水袖，蓝银点翠头面，古典戏曲妆容；场景是简陋戏曲后台化妆间，旧木妆台、胭脂盒、红木梳、珠钗散落，远处红幕低垂，背景隐约人影走动和后台低语，暖黄偏红低照度光，复古东方电影质感，浅景深。0-4秒微距缓推妆台，停在她搭在桌沿的手上，无名指极轻收拢，手腕缓慢转动，水袖泛起波纹；4-8秒镜头顺手向上弧线抬起到半身，她微偏头，低垂眼睑，右手轻轻摩挲下巴，左肩微塌，整个人被心事压住；第5秒开始滑入极空灵悠长的昆曲竹笛，后台杂音逐渐退远；8-11秒动作增强，指腹忽然停住，右手沿下颌和锁骨缓慢滑落到心口，五指轻压胸前衣料，呼吸一滞，头一点点抬正，肩线收起，脊背被缓缓提直，颈线拉长；11-13秒镜头微环绕，她按心口的手顺势带着水袖划出一道柔而有力的弧线，整个人慢慢起身，不猛，极稳，腰肩颈背一寸寸立住；13-15秒她半转身朝向上场门或强光方向，水袖落下，珠串轻晃，目光先看向远处再一点点凝回，眼神里有旧伤、认命、不甘、成全和决绝，不哭不喊，只是彻底立住，完成从人到戏中人的转化，定格半秒后极轻淡出；不要古风写真感，不要夸张甩袖，不要舞台化过重，不要镜头乱晃。
+```
+
 <a id="surreal-vfx"></a>
 ## 🌀 Surreal / VFX
 
@@ -3718,6 +3751,20 @@ She pauses, watches the police pass… then slowly turns toward camera and winks
 Ambient city sound returns. No hard cut.
 ```
 
+
+<a id="surreal-vfx-case-15"></a>
+<!-- Case 15: Forest Guardian Calligraphy Transformation (by @LudovicCreator) -->
+### Case 15: [Forest Guardian Calligraphy Transformation](https://x.com/LudovicCreator/status/2078346662699798878) (by [@LudovicCreator](https://x.com/LudovicCreator))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-15"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078346662699798878.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+Full magical transformation sequence: a forest guardian floating in an aged moss-green parchment void as deep emerald ink spreads through the air like liquid leaves blooming in water ,calligraphy strokes whip around the body, staining the hair into soft jade green, sketching layered nature armor, glowing vine markings across the face, and a long spear silhouette in sweeping green brushwork. A circular ancient seal script sigil blooms underfoot with splashes of pearl-white light, the camera pushing in through drifting ink veils like torn leaves in a storm, each brush impact synced to a rising drumbeat, ending in a spear-planted signature pose locked inside an emerald-and-pearl calligraphy burst. Stock-footage grandeur, played sincere.
+```
 
 <a id="templates-structured"></a>
 ## 📐 Templates & Structured Formats
@@ -4218,6 +4265,33 @@ Camera: fixed wide-angle shot, no zoom, no camera shake, no angle change.
 Negative prompt: no people, no extra rooms, no duplicated furniture, no distorted furniture, no warped walls, no text changes, no logo distortion, no sudden cuts, no messy construction debris, no cartoon animation.
 ```
 
+
+<a id="templates-structured-case-19"></a>
+<!-- Case 19: Facial Expression Detail Test (by @ou_zhen599) -->
+### Case 19: [Facial Expression Detail Test](https://x.com/ou_zhen599/status/2078137477425172769) (by [@ou_zhen599](https://x.com/ou_zhen599))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-19"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078137477425172769.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+0–2 seconds: Head bowed, eyes cast downward, with a subtle, faint smile playing at the corners of her lips—without showing her teeth—her expression gentle and serene.
+2–4 seconds: The smile gradually fades, and the corners of her mouth return to neutral; her eyes and head slowly lift, her gaze shifting to the right side of the frame, her expression turning to one of focused attention.
+4–6 seconds: She continues to look to the right, her eyes taking on a hint of mild confusion and concern; her eyes widen slightly (naturally), her lips part slightly as if she’s about to speak but holds back, and her eyebrows and eyes narrow slightly without furrowing.
+6–8 seconds: Her gaze slowly drifts downward, her head tilts slightly; the smile fades completely, her expression becoming quiet and forlorn, as she suppresses her emotions inwardly—without shedding tears or crying.
+8–10 seconds: Lower your head and gently close your eyes to compose yourself; a faint, self-deprecating smile—concealing your sadness—appears at the corners of your mouth. Breathe naturally, and move with the utmost subtlety.
+10–12 seconds: Slowly lift your head; your eyes meet the soft light once more, gradually brightening yet remaining restrained. Turn your face forward or slightly to the right, with a hint of tenderness and slight resentment at the corners of your lips.
+12–15 seconds: Look straight ahead or toward the right side of the frame, with a soft, slightly moist gaze. The lips move slightly as if on the verge of speaking but hold back; ultimately, maintain a quiet, fixed gaze, frozen in a gentle, cool, and slightly melancholic mood. The scene ends without a black screen or transition.
+0-2秒：低头垂眸，嘴角噙着含蓄淡笑，不露齿，神态温柔安静。
+2-4秒：笑意缓缓收敛，嘴角归平；双眼、头部慢慢抬起，视线转向画面右侧，神情转为认真留意。
+4-6秒：持续望向右方，眼神添上浅淡疑惑与担忧，双眼微睁（幅度自然），嘴唇轻启呈欲言又止状，眉眼微收，不皱眉。
+6-8秒：视线缓缓下沉，头部微低，笑意尽数褪去，神情安静失落，内敛压抑情绪，不流泪、不哭泣。
+8-10秒：低头轻阖双眼，平复心绪，嘴角浮现一抹藏起难过的浅淡自嘲式浅笑，呼吸自然，动作极轻。
+10-12秒：缓缓抬头，眼眸重新迎向柔光，眼神渐亮却依旧克制，面部转向前方/偏右，唇角带一丝温柔又委屈的淡意。
+12-15秒：目视前方/画面右侧，眼神柔和微润，唇瓣轻动似欲语还休，最终保持安静凝视状态，定格在温柔清冷、略带忧郁的情绪中，结尾无黑屏、无转场。
+```
 
 <a id="general-cinematic"></a>
 
