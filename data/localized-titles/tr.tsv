@@ -38,6 +38,8 @@ action-fantasy-case-37	Dev kurbağa ulak koşusu
 action-fantasy-case-38	Gök gürültüsü savaşçısının zombi kuşatması
 action-fantasy-case-39	Beyaz kaplan tapınağında fırtına
 action-fantasy-case-40	Erzak mavnasına dev köpekbalığı saldırısı
+action-fantasy-case-41	Arenada dev kadının sürpriz zaferi
+action-fantasy-case-42	Depoda korumanın saldırganları indirmesi
 cinematic-realism-case-1	Modern Japonya belgesel sekansı
 cinematic-realism-case-2	Gölgeyi takip eden longboard inişi
 cinematic-realism-case-3	Meteorla uyanan savaş kahramanı
@@ -46,6 +48,7 @@ cinematic-realism-case-5	Fırtınalı uçurumda samurayın ortaya çıkışı
 cinematic-realism-case-6	VHS havuz cannonball hakemi
 cinematic-realism-case-7	Klasik siyah otomobille fırtına sürüşü
 cinematic-realism-case-8	Fırtınalı kıyı feneri sekansı
+cinematic-realism-case-9	Kum fırtınasında buggy kaçışı
 pov-fpv-case-1	Göğüs kameralı kamuflaj kovalamacası
 pov-fpv-case-2	Şanghay siberpunk şehir tanıtım videosu
 pov-fpv-case-3	Lanetli samuray için tutarlı aksiyon istemi
@@ -66,6 +69,7 @@ pov-fpv-case-17	Aşırı makro FPV — peri kanadı takip çekimi
 pov-fpv-case-18	Volkanik mağarada yerçekimi dalışı
 pov-fpv-case-19	Süpersonik çöl kanyonu birinci şahıs uçuşu
 pov-fpv-case-20	Fransa havai fişek FPV uçuşu
+pov-fpv-case-21	Sibernetik savaş alanına FPV dalışı
 commercial-product-case-1	Parfüm reklamı tarzında anime üçlüsü dans sahnesi
 commercial-product-case-2	Karanlık fantezi kilise düellosu
 commercial-product-case-3	Karanlık fantezi tapınak salonu düellosu
@@ -149,6 +153,7 @@ templates-structured-case-16	İzlenimci kürek çeken eller şablonu
 templates-structured-case-17	Kadın savaşçı — yapılandırılmış özne istemi
 templates-structured-case-18	Kutudan çıkan loft iç mekânı
 templates-structured-case-19	Yüz ifadesi ayrıntı testi
+templates-structured-case-20	Su basmış balo salonundan kaçış hikâye panosu
 general-cinematic-case-1	Topuklu ayakkabı ritim eşlemeli moda yakın planı
 general-cinematic-case-2	Çocuk odasında mini kaykayla kaçış
 general-cinematic-case-3	Rucker Park’ta büyükanne kapışması

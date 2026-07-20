@@ -38,6 +38,8 @@ action-fantasy-case-37	Course du messager à dos de grenouille géante
 action-fantasy-case-38	Siège zombie de la guerrière du tonnerre
 action-fantasy-case-39	Tempête au temple du tigre blanc
 action-fantasy-case-40	Mégalodon contre péniche de ravitaillement
+action-fantasy-case-41	Renversement surprise de la géante dans l’arène
+action-fantasy-case-42	Neutralisation des assaillants dans un entrepôt par un garde du corps
 cinematic-realism-case-1	Séquence documentaire sur le Japon moderne
 cinematic-realism-case-2	Descente en longboard à la poursuite d’une ombre
 cinematic-realism-case-3	Héroïne de guerre réveillée par un météore
@@ -46,6 +48,7 @@ cinematic-realism-case-5	Révélation d’un samouraï sur une falaise en tempê
 cinematic-realism-case-6	Juge de cannonball à la piscine VHS
 cinematic-realism-case-7	Course sous l’orage en voiture noire vintage
 cinematic-realism-case-8	Séquence du phare sur la côte en tempête
+cinematic-realism-case-9	Évasion en buggy dans une tempête de sable
 pov-fpv-case-1	Séquence de poursuite camouflée avec caméra pectorale
 pov-fpv-case-2	Bande-annonce d’une Shanghai cyberpunk
 pov-fpv-case-3	Prompt d’action cohérent d’un samouraï maudit
@@ -66,6 +69,7 @@ pov-fpv-case-17	Macro FPV extrême — suivi d’ailes de fée
 pov-fpv-case-18	Plongée gravitationnelle dans une grotte volcanique
 pov-fpv-case-19	POV supersonique dans un canyon désertique
 pov-fpv-case-20	Survol FPV des feux d’artifice en France
+pov-fpv-case-21	Plongée FPV sur un champ de bataille cybernétique
 commercial-product-case-1	Scène de danse d’un trio d’anime façon publicité de parfum
 commercial-product-case-2	Duel dans une église de dark fantasy
 commercial-product-case-3	Duel dans la grande salle d’un sanctuaire de dark fantasy
@@ -149,6 +153,7 @@ templates-structured-case-16	Modèle impressionniste de mains ramant
 templates-structured-case-17	Guerrière — prompt de sujet structuré
 templates-structured-case-18	Révélation d’un loft sorti d’une boîte
 templates-structured-case-19	Test de détail des expressions faciales
+templates-structured-case-20	Storyboard d’évasion d’une salle de bal inondée
 general-cinematic-case-1	Gros plan de mode sur des talons synchronisés au rythme
 general-cinematic-case-2	Évasion en mini-skateboard dans une chambre d’enfant
 general-cinematic-case-3	Duel de grands-mères à Rucker Park

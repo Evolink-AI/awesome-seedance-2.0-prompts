@@ -38,6 +38,8 @@ action-fantasy-case-37	巨蛙信使疾奔
 action-fantasy-case-38	雷霆女戰士殭屍圍城
 action-fantasy-case-39	白虎古廟雷暴
 action-fantasy-case-40	補給駁船大戰巨齒鯊
+action-fantasy-case-41	競技場女巨人逆襲
+action-fantasy-case-42	倉庫保鑣制伏戰
 cinematic-realism-case-1	現代日本紀錄片序列
 cinematic-realism-case-2	追逐影子的長板下坡
 cinematic-realism-case-3	流星覺醒的戰爭女英雄
@@ -46,6 +48,7 @@ cinematic-realism-case-5	風暴懸崖武士現身
 cinematic-realism-case-6	VHS 泳池炮彈跳裁判
 cinematic-realism-case-7	復古黑車暴雨疾馳
 cinematic-realism-case-8	風暴海岸燈塔長鏡頭
+cinematic-realism-case-9	沙暴越野車逃脫
 pov-fpv-case-1	胸前相機迷彩追逐序列
 pov-fpv-case-2	上海賽博龐克城市炫剪
 pov-fpv-case-3	受詛咒武士一致性動作提示詞
@@ -66,6 +69,7 @@ pov-fpv-case-17	極致微距 FPV——仙女翅膀跟拍
 pov-fpv-case-18	火山洞穴重力俯衝
 pov-fpv-case-19	超音速沙漠峽谷 POV
 pov-fpv-case-20	法國煙火 FPV 飛越
+pov-fpv-case-21	賽博戰場 FPV 俯衝
 commercial-product-case-1	香水廣告風動畫三人舞台
 commercial-product-case-2	暗黑奇幻教堂決鬥
 commercial-product-case-3	暗黑奇幻神社大殿決鬥
@@ -149,6 +153,7 @@ templates-structured-case-16	印象派划船手部模板
 templates-structured-case-17	女戰士——結構化主體提示詞
 templates-structured-case-18	盒中展開的閣樓室內亮相
 templates-structured-case-19	臉部表情細節測試
+templates-structured-case-20	淹水舞廳逃脫分鏡
 general-cinematic-case-1	高跟鞋節拍同步時尚特寫
 general-cinematic-case-2	兒童臥室裡的迷你滑板逃脫
 general-cinematic-case-3	洛克公園奶奶對決

@@ -38,6 +38,8 @@ action-fantasy-case-37	Riesiger Froschkurier im Sprint
 action-fantasy-case-38	Zombie-Belagerung der Donnerkriegerin
 action-fantasy-case-39	Sturm am Tempel des weißen Tigers
 action-fantasy-case-40	Rationskahn gegen Riesenhai
+action-fantasy-case-41	Überraschungssieg der Arenariesin
+action-fantasy-case-42	Bodyguard-Takedown im Lagerhaus
 cinematic-realism-case-1	Dokumentarische Sequenz über das moderne Japan
 cinematic-realism-case-2	Longboard-Abfahrt auf den Spuren eines Schattens
 cinematic-realism-case-3	Vom Meteor erweckte Kriegsheldin
@@ -46,6 +48,7 @@ cinematic-realism-case-5	Samurai-Enthüllung an der Sturmklippe
 cinematic-realism-case-6	VHS-Pool-Cannonball-Juror
 cinematic-realism-case-7	Sturmfahrt im schwarzen Oldtimer
 cinematic-realism-case-8	Leuchtturmsequenz an der Sturmküste
+cinematic-realism-case-9	Sandsturm-Buggy-Flucht
 pov-fpv-case-1	Tarnverfolgung mit Brustkamera
 pov-fpv-case-2	Cyberpunk-Stadttrailer aus Shanghai
 pov-fpv-case-3	Konsistenter Action-Prompt eines verfluchten Samurai
@@ -66,6 +69,7 @@ pov-fpv-case-17	Extreme Makro-FPV-Aufnahme mit Verfolgung von Feenflügeln
 pov-fpv-case-18	Schwerkraftsturz in einer Vulkanhöhle
 pov-fpv-case-19	Überschall-POV durch den Wüstencanyon
 pov-fpv-case-20	FPV-Überflug mit Feuerwerk über Frankreich
+pov-fpv-case-21	FPV-Sturzflug über ein kybernetisches Schlachtfeld
 commercial-product-case-1	Anime-Trio-Tanzbühne im Stil einer Parfümwerbung
 commercial-product-case-2	Duell in einer düsteren Fantasykirche
 commercial-product-case-3	Duell in der Halle eines düsteren Fantasyschreins
@@ -149,6 +153,7 @@ templates-structured-case-16	Impressionistische Vorlage rudernder Hände
 templates-structured-case-17	Kriegerin – strukturierter Motiv-Prompt
 templates-structured-case-18	Loft-Interieur aus dem Karton
 templates-structured-case-19	Test feiner Gesichtsausdrücke
+templates-structured-case-20	Storyboard einer Flucht aus dem überfluteten Ballsaal
 general-cinematic-case-1	Beat-synchrone Mode-Nahaufnahme mit hohen Absätzen
 general-cinematic-case-2	Mini-Skateboard-Flucht in einem Kinderzimmer
 general-cinematic-case-3	Großmutter-Duell im Rucker Park

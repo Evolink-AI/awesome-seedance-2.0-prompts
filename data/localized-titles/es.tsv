@@ -38,6 +38,8 @@ action-fantasy-case-37	Carrera del mensajero a lomos de una rana gigante
 action-fantasy-case-38	Asedio zombi de la guerrera del trueno
 action-fantasy-case-39	Tormenta en el templo del tigre blanco
 action-fantasy-case-40	Tiburón gigante contra barcaza de raciones
+action-fantasy-case-41	La giganta da la sorpresa en la arena
+action-fantasy-case-42	Guardaespaldas reduce atacantes en un almacén
 cinematic-realism-case-1	Secuencia documental del Japón moderno
 cinematic-realism-case-2	Descenso en longboard siguiendo una sombra
 cinematic-realism-case-3	Heroína de guerra despertada por un meteorito
@@ -46,6 +48,7 @@ cinematic-realism-case-5	Revelación de samurái en acantilado tormentoso
 cinematic-realism-case-6	Juez del cannonball en piscina VHS
 cinematic-realism-case-7	Carrera bajo la tormenta en coche negro vintage
 cinematic-realism-case-8	Secuencia del faro en la costa tormentosa
+cinematic-realism-case-9	Escape en buggy en plena tormenta de arena
 pov-fpv-case-1	Secuencia de persecución camuflada con cámara en el pecho
 pov-fpv-case-2	Vídeo promocional de una Shanghái ciberpunk
 pov-fpv-case-3	Prompt de acción consistente de un samurái maldito
@@ -66,6 +69,7 @@ pov-fpv-case-17	FPV macro extremo: seguimiento de alas de hada
 pov-fpv-case-18	Picado gravitacional en una cueva volcánica
 pov-fpv-case-19	POV supersónica por un cañón desértico
 pov-fpv-case-20	Sobrevuelo FPV de fuegos artificiales en Francia
+pov-fpv-case-21	Picado FPV en un campo de batalla cibernético
 commercial-product-case-1	Escenario de baile de trío anime con estilo de anuncio de perfume
 commercial-product-case-2	Duelo en una iglesia de fantasía oscura
 commercial-product-case-3	Duelo en el salón de un santuario de fantasía oscura
@@ -149,6 +153,7 @@ templates-structured-case-16	Plantilla impresionista de manos remando
 templates-structured-case-17	Guerrera: prompt de sujeto estructurado
 templates-structured-case-18	Revelación del interior de un loft desde una caja
 templates-structured-case-19	Prueba de detalle de expresiones faciales
+templates-structured-case-20	Guion gráfico de escape en un salón de baile inundado
 general-cinematic-case-1	Primer plano de moda con tacones sincronizados al ritmo
 general-cinematic-case-2	Huida en monopatín miniatura dentro de un dormitorio infantil
 general-cinematic-case-3	Duelo de abuelas en Rucker Park

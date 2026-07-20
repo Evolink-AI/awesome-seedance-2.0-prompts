@@ -1,5 +1,13 @@
 # Update Log
 
+## 2026-07-20 — 48-hour Seedance 2 prompt update
+
+- searched the exact phrase `"seedance 2"` across the fixed 2026-07-18T02:05:29Z to 2026-07-20T02:05:29Z window
+- semantically reviewed 100 candidates, selected the 5-case cap, deferred 1 additional high-confidence case, marked 0 unsure, and dropped 94 weak or ineligible records
+- added 5 source-backed prompts across ⚔️ Action / Fantasy, 🎞️ Cinematic Realism, 🥽 POV / FPV, and 📐 Templates & Structured Formats
+- detected 6 explicit source mentions of Seedance 2 Mini; selected 0 and recorded missing required Mini notes as 0
+- uploaded and read back all 5 selected preview frames from the locked R2 namespace before README mutation
+
 ## 2026-07-19 — 48-hour Seedance 2 prompt update
 
 - searched the exact phrase `"seedance 2"` across the fixed 2026-07-17T02:06:06Z to 2026-07-19T02:06:06Z window

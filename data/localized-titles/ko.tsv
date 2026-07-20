@@ -38,6 +38,8 @@ action-fantasy-case-37	거대 개구리 전령의 질주
 action-fantasy-case-38	천둥 전사의 좀비 포위전
 action-fantasy-case-39	백호 사원의 폭풍우
 action-fantasy-case-40	식량 바지선과 거대 상어
+action-fantasy-case-41	투기장 거대 여전사 대역전
+action-fantasy-case-42	창고 경호원 제압전
 cinematic-realism-case-1	현대 일본 다큐멘터리 시퀀스
 cinematic-realism-case-2	그림자를 추적하는 롱보드 내리막
 cinematic-realism-case-3	유성으로 각성한 전쟁의 여주인공
@@ -46,6 +48,7 @@ cinematic-realism-case-5	폭풍 절벽의 사무라이 등장
 cinematic-realism-case-6	VHS 수영장 캐넌볼 심판
 cinematic-realism-case-7	빈티지 블랙카 폭풍 질주
 cinematic-realism-case-8	폭풍 해안 등대 시퀀스
+cinematic-realism-case-9	모래폭풍 버기 탈출
 pov-fpv-case-1	가슴 장착 카메라 위장 추격전
 pov-fpv-case-2	상하이 사이버펑크 도시 하이라이트 영상
 pov-fpv-case-3	저주받은 사무라이의 일관된 액션 프롬프트
@@ -66,6 +69,7 @@ pov-fpv-case-17	극한 매크로 FPV — 요정 날개 추적 숏
 pov-fpv-case-18	화산 동굴 중력 다이빙
 pov-fpv-case-19	초음속 사막 협곡 POV
 pov-fpv-case-20	프랑스 불꽃놀이 FPV 비행
+pov-fpv-case-21	사이버네틱 전장의 FPV 급강하
 commercial-product-case-1	향수 광고풍 애니메이션 3인조 댄스 무대
 commercial-product-case-2	다크 판타지 교회 결투
 commercial-product-case-3	다크 판타지 신사 전각 결투
@@ -149,6 +153,7 @@ templates-structured-case-16	인상주의 노 젓는 손 템플릿
 templates-structured-case-17	여전사 — 구조화된 피사체 프롬프트
 templates-structured-case-18	상자에서 펼쳐지는 로프트 인테리어
 templates-structured-case-19	표정 디테일 테스트
+templates-structured-case-20	물에 잠긴 무도회장 탈출 스토리보드
 general-cinematic-case-1	하이힐과 비트가 동기화된 패션 클로즈업
 general-cinematic-case-2	아이 방에서 미니 스케이트보드 탈출
 general-cinematic-case-3	러커 파크 할머니 대결

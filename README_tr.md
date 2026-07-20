@@ -4,7 +4,7 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Seedance 2.0'i tarayicida dene](https://img.shields.io/badge/Try_in-Browser-black)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts&utm_content=model_try)
-[![İstemler-166 benzersiz örnek](https://img.shields.io/badge/%C4%B0stemler-166_benzersiz_%C3%B6rnek-111111)](README.md)
+[![İstemler-194 benzersiz örnek](https://img.shields.io/badge/%C4%B0stemler-194%20benzersiz%20%C3%B6rnek-111111)](README.md)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -25,7 +25,7 @@
 
 Awesome Seedance 2.0 Prompts deposuna hoş geldiniz! 🤗
 
-**Bu depo, sinematik video üretimi için kaynakları belirtilmiş 189 benzersiz Seedance 2.0 prompt örneği içerir.**
+**Bu depo, sinematik video üretimi için kaynakları belirtilmiş 194 benzersiz Seedance 2.0 prompt örneği içerir.**
 
 Promptlar herkese açık üretici paylaşımlarından seçilir ve yeniden kullanılabilir kaynak olarak korunur.
 
@@ -73,7 +73,7 @@ Destekleyici kaynaklar: [API örnekleri](https://github.com/Evolink-AI/Seedance-
 <a id="statistics"></a>
 ## 📊 İstatistikler
 
-189 kategoride 171 benzersiz örnek, 11 README dosyasında eşitlenmiştir.
+8 kategoride 194 benzersiz örnek, 11 README dosyasında eşitlenmiştir.
 
 <a id="how-to-use"></a>
 ## 🧭 Bu Depo Nasıl Kullanılır
@@ -129,6 +129,8 @@ Bir kategori seçin, kaynaklı örneği açın, promptu kopyalayın ve yalnızca
   - [Örnek 38: Gök gürültüsü savaşçısının zombi kuşatması (yazan @MO_IAI)](#action-fantasy-case-38)
   - [Örnek 39: Beyaz kaplan tapınağında fırtına (yazan @LudovicCreator)](#action-fantasy-case-39)
   - [Örnek 40: Erzak mavnasına dev köpekbalığı saldırısı (yazan @rahulnanda86)](#action-fantasy-case-40)
+  - [Örnek 41: Arenada dev kadının sürpriz zaferi (by @rahulnanda86)](#action-fantasy-case-41)
+  - [Örnek 42: Depoda korumanın saldırganları indirmesi (by @Rosey_watson)](#action-fantasy-case-42)
 - [🎞️ Sinematik Gerçekçilik](#cinematic-realism) (8)
   - [Örnek 1: Modern Japonya belgesel sekansı (yazan @kuranoayashi)](#cinematic-realism-case-1)
   - [Örnek 2: Gölgeyi takip eden longboard inişi (yazan @Dheepanratnam)](#cinematic-realism-case-2)
@@ -138,7 +140,8 @@ Bir kategori seçin, kaynaklı örneği açın, promptu kopyalayın ve yalnızca
   - [Örnek 6: VHS havuz cannonball hakemi (yazan @Ankit_patel211)](#cinematic-realism-case-6)
   - [Örnek 7: Klasik siyah otomobille fırtına sürüşü (yazan @LudovicCreator)](#cinematic-realism-case-7)
   - [Örnek 8: Fırtınalı kıyı feneri sekansı (yazan @LudovicCreator)](#cinematic-realism-case-8)
-- [🥽 POV / FPV](#pov-fpv) (20)
+  - [Örnek 9: Kum fırtınasında buggy kaçışı (by @umesh_ai)](#cinematic-realism-case-9)
+- [🥽 POV / FPV](#pov-fpv) (21)
   - [Örnek 1: Göğüs kameralı kamuflaj kovalamacası (yazan @genel_ai)](#pov-fpv-case-1)
   - [Örnek 2: Şanghay siberpunk şehir tanıtım videosu (yazan @Adam38363368936)](#pov-fpv-case-2)
   - [Örnek 3: Lanetli samuray için tutarlı aksiyon istemi (yazan @Just_sharon7)](#pov-fpv-case-3)
@@ -159,6 +162,7 @@ Bir kategori seçin, kaynaklı örneği açın, promptu kopyalayın ve yalnızca
   - [Örnek 18: Volkanik mağarada yerçekimi dalışı (yazan @LudovicCreator)](#pov-fpv-case-18)
   - [Örnek 19: Süpersonik çöl kanyonu birinci şahıs uçuşu (yazan @LudovicCreator)](#pov-fpv-case-19)
   - [Örnek 20: Fransa havai fişek FPV uçuşu (yazan @LudovicCreator)](#pov-fpv-case-20)
+  - [Örnek 21: Sibernetik savaş alanına FPV dalışı (by @LudovicCreator)](#pov-fpv-case-21)
 - [🏷️ Reklam / Ürün](#commercial-product) (27)
   - [Örnek 1: Parfüm reklamı tarzında anime üçlüsü dans sahnesi (yazan @ShadeLurk)](#commercial-product-case-1)
   - [Örnek 2: Karanlık fantezi kilise düellosu (yazan @ZaraIrahh)](#commercial-product-case-2)
@@ -246,6 +250,7 @@ Bir kategori seçin, kaynaklı örneği açın, promptu kopyalayın ve yalnızca
   - [Örnek 17: Kadın savaşçı — yapılandırılmış özne istemi (yazan @noman23761)](#templates-structured-case-17)
   - [Örnek 18: Kutudan çıkan loft iç mekânı (yazan @samaote)](#templates-structured-case-18)
   - [Örnek 19: Yüz ifadesi ayrıntı testi (yazan @ou_zhen599)](#templates-structured-case-19)
+  - [Örnek 20: Su basmış balo salonundan kaçış hikâye panosu (by @ChangningL29508)](#templates-structured-case-20)
 - [🎬 Genel Sinematik](#general-cinematic) (38)
   - [Örnek 1: Topuklu ayakkabı ritim eşlemeli moda yakın planı (yazan @TingFengAIAI)](#general-cinematic-case-1)
   - [Örnek 2: Çocuk odasında mini kaykayla kaçış (yazan @anson7956)](#general-cinematic-case-2)
@@ -1094,6 +1099,90 @@ Shot 4 (9–13s) — BIG SLOW-MOTION MOMENT: The shark circles alone in the open
 Shot 5 (13–15s): Time snaps back. A huge blast erupts in the water beside the drifting barge, fire and spray shooting high into the sky. The rescue boat reaches the dock safely as the crew watches the water settle.
 ```
 
+
+<a id="action-fantasy-case-41"></a>
+<!-- Case 41: Arena Giantess Upset (by @rahulnanda86) -->
+### Örnek 41: [Arenada dev kadının sürpriz zaferi](https://x.com/rahulnanda86/status/2078861067896357244) (yazan [@rahulnanda86](https://x.com/rahulnanda86))
+
+| Çıktı |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-41"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078861067896357244.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**İstem:**
+
+```
+PROMPT 1 (15 Seconds) — "The Champion's Throw"
+
+Ultra-realistic cinematic medieval fantasy. No animation, no stylized CGI, no video-game look. Photorealistic live-action with grounded physics, natural facial performances, cinematic camera movement, premium production value. Set inside a gigantic ancient stone coliseum packed with over fifty thousand roaring spectators. Bright overcast afternoon with soft diffused light. Dust, mud, torn banners and weathered stone create a gritty arena atmosphere.
+
+A terrifying gladiator champion stands in the centre of the arena. He is over 8 feet tall, enormously muscular, scarred from countless battles, wearing brutal blackened steel armour with a heavy fur cape. In one hand, he effortlessly holds a beautiful young warrior woman by the throat, lifting her completely off the ground. She is around 5'6", athletic, wearing a medieval leather crop top, short leather battle skirt, knee-high boots and light armour pieces. She struggles desperately, kicking helplessly while trying to pry his hand away. The crowd cheers wildly for the giant champion.
+
+Without warning, the gladiator violently throws her across the arena. She crashes into the muddy ground, skids several metres and lies groaning, clearly injured. The arena suddenly becomes quiet.
+
+From deep within the crowd, a mysterious hooded old man stands and shouts:
+
+"Eat it!! Trust me!"
+
+She barely hears him through the ringing in her ears.
+
+The old man throws a strange glowing forest mushroom into the arena. It lands in the mud inches from her face.
+
+She slowly reaches toward it with trembling fingers.
+
+PROMPT 2 (15 Seconds) — "The Upset"
+
+Continue directly from the previous scene.
+
+The injured warrior looks at the strange mushroom lying beside her. The giant gladiator laughs confidently and begins walking toward her, believing the fight is already over.
+
+She quickly eats the mushroom.
+
+Nothing happens for a split second.
+
+Then her body rapidly grows.
+
+Her muscles strengthen, her armour stretches naturally, and within moments she transforms into a towering 12-foot-tall version of herself, keeping the exact same appearance, clothing and proportions—only massively larger. The crowd gasps in disbelief. The giant gladiator freezes.
+
+He whispers:
+
+"No... no..."
+
+She slowly stands, towering over him.
+
+He tries to run.
+
+She grabs him effortlessly by one leg before he can escape and swings him through the air. She lands five brutally fast punches directly into his face, each impact snapping his head backward while the crowd erupts louder with every hit.
+
+Finally, she lifts him high overhead and hurls him across the arena.
+
+He flies through the air and crashes into the enormous bronze victory bell mounted on the coliseum wall.
+
+BOOOONNNGGG!
+
+The bell echoes across the entire arena.
+
+The gladiator falls unconscious.
+
+She raises both arms high above her head and laughs triumphantly.
+
+"YEAH"
+
+The entire coliseum explodes into deafening celebration as thousands of spectators leap to their feet, cheering and chanting her victory.
+```
+
+<a id="action-fantasy-case-42"></a>
+<!-- Case 42: Warehouse Bodyguard Takedown (by @Rosey_watson) -->
+### Örnek 42: [Depoda korumanın saldırganları indirmesi](https://x.com/Rosey_watson/status/2078858021854130433) (yazan [@Rosey_watson](https://x.com/Rosey_watson))
+
+| Çıktı |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-42"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078858021854130433.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**İstem:**
+
+```
+A cinematic 15-second action sequence set inside a dark, gritty industrial warehouse at night, featuring moody teal-green lighting, chain-link fences, metal scaffolding, peeling green walls, and floating dust particles. A powerful, elegant East Asian Boss Lady wears a sleek black pantsuit with long flowing black hair and a calm, commanding expression. Standing beside her is a handsome, athletic male bodyguard in an all-black tailored suit with a heroic presence. As multiple attackers rush in, the bodyguard instantly steps in front of the Boss Lady, protecting her with lightning-fast punches, powerful kicks, evasive movements, and cinematic takedowns. The Boss Lady remains composed and confident, watching as her protector defeats every attacker. The sequence ends with the bodyguard standing protectively beside the Boss Lady as they walk forward together in slow motion, dust swirling around them. Handheld and tracking camera shots, dramatic low angles, realistic fabric movement, cinematic motion blur, ultra-detailed choreography, film-quality lighting, emotional heroism, 4K ultra-realistic cinematic masterpiece.
+```
 <a id="cinematic-realism"></a>
 
 <a id="cinematic-realism"></a>
@@ -1260,6 +1349,20 @@ A vintage black car speeds along a winding mountain road in heavy rain at dusk, 
 A solitary lighthouse stands on a jagged black cliff as a monstrous storm crashes against the coast at night. Waves explode against the rocks far below, sending white spray into the air like smoke, while the lighthouse beam cuts through sheets of rain and drifting sea mist. Inside, an old keeper climbs the narrow spiral staircase with a lantern in hand, his coat soaked, the light flickering with every thunderclap. The camera moves between wide shots of the lighthouse dwarfed by the fury of the ocean and intimate interior close-ups of wet stone walls, rattling glass, trembling hands, and the golden lantern glow in the darkness. As the storm intensifies, lightning reveals a ghostly ship in the distance, barely visible between walls of rain. The sequence feels haunting, dramatic, and timeless, with crashing waves, thunder, and a powerful sense of isolation.
 ```
 
+
+<a id="cinematic-realism-case-9"></a>
+<!-- Case 9: Sandstorm Buggy Escape (by @umesh_ai) -->
+### Örnek 9: [Kum fırtınasında buggy kaçışı](https://x.com/umesh_ai/status/2078781951377555966) (yazan [@umesh_ai](https://x.com/umesh_ai))
+
+| Çıktı |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-realism-case-9"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078781951377555966.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**İstem:**
+
+```
+Towering sandstone cliffs crack under the pressure of a violent sandstorm. From a sweeping aerial over a vast desert basin, the camera dives aggressively toward a high-speed off-road buggy tearing through collapsing dunes. It slingshots past the front grill, whips around the roll cage, then drops tight to the spinning tires as sand blasts outward in golden waves. Chunks of rock tumble from above, dust spirals across the route, and the driver threads through narrow canyon gaps as entire ridgelines slump into avalanches of sand. The buggy surges through a curtain of blowing grit, bursts free, and races onto a surreal salt flat glowing in sunset orange. The camera rockets upward into a giant reveal as the storm fades behind. The engine cuts. Silence swallows the desert.
+```
 <a id="pov-fpv"></a>
 ## 🥽 POV / FPV
 
@@ -1755,6 +1858,20 @@ Pure first-person camera perspective, no visible drone, no cockpit, no aircraft 
 Immersive first-person flying camera perspective, no visible drone or flying device. The entire sequence takes place at night beneath a deep blue sky. The camera races above the illuminated lavender fields of Provence while fireworks burst continuously in blue, white, and red across the horizon. It weaves through glowing medieval villages, vineyards, French châteaux, the cliffs of Normandy, and Mont-Saint-Michel reflected in the dark tide, with fireworks erupting above every location. The camera then follows the Seine into Paris at extreme speed, skimming beneath historic bridges, banking around the Arc de Triomphe, and climbing beside the fully illuminated Eiffel Tower as enormous synchronized fireworks fill the sky and reflect across the river. At the finale, the camera pulls back above Paris while the fireworks create a vast tricolor glow. A gigantic French flag unfurls naturally from the top of the Eiffel Tower, waving majestically above the city as the final fireworks burst behind it. No text, no words, no letters. Continuous POV shot, no cuts, aggressive banking, cinematic motion blur, realistic night lighting, volumetric smoke, detailed fireworks, ultra-realistic travel cinematography, spectacular blockbuster VFX, IMAX quality.
 ```
 
+
+<a id="pov-fpv-case-21"></a>
+<!-- Case 21: Cybernetic Battlefield FPV Dive (by @LudovicCreator) -->
+### Örnek 21: [Sibernetik savaş alanına FPV dalışı](https://x.com/LudovicCreator/status/2078842368661315786) (yazan [@LudovicCreator](https://x.com/LudovicCreator))
+
+| Çıktı |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=pov-fpv-case-21"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078842368661315786.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**İstem:**
+
+```
+Immersive first-person flying camera perspective, no visible drone or flying device. The camera launches at insane speed across a colossal dystopian cyborg battlefield at night, flying only centimeters above shattered metal, burning wreckage, and rivers of glowing energy. It violently snap-rolls between the legs of towering combat mechs, knife-edges through collapsing steel structures, dives beneath gigantic walking war machines, then instantly climbs through exploding industrial ruins. Swarms of autonomous combat drones streak overhead while colossal cybernetic titans exchange devastating energy blasts that illuminate the battlefield. The camera constantly changes direction with brutal FPV precision,rapid S-turns, vertical dives, barrel rolls, power loops around gigantic reactor towers, split-S reversals, wall-hugging passes through ruined megafactories, and razor-close proximity flights beneath collapsing bridges. Neon holograms flicker through dense smoke as thousands of laser tracers, plasma arcs, sparks, and electrical storms fill the sky. Gigantic cybernetic creatures emerge from the darkness while endless ranks of futuristic soldiers and armored exosuits advance across the battlefield beneath towering ruined skyscrapers. The camera threads through impossibly tight gaps as collapsing buildings, burning aircraft, and massive mechanical debris crash around it, then rockets into a colossal mechanical canyon formed by fallen war machines. At the climax, the battlefield opens into an unimaginably vast cybernetic wasteland where a planet-sized artificial intelligence core rises above the horizon, surrounded by colossal rotating rings, lightning storms, and endless mechanical cities stretching to infinity. Continuous POV shot, no cuts, relentless acceleration, extreme high-speed FPV racing, aggressive banking, rapid altitude changes, barrel rolls, corkscrews, split-S maneuvers, power loops, knife-edge turns, realistic inertia, cinematic motion blur, volumetric smoke, dynamic lighting, neon reflections, hyper-detailed dystopian environments, surreal cyberpunk architecture, blockbuster sci-fi VFX, IMAX quality.
+```
 <a id="commercial-product"></a>
 ## 🏷️ Reklam / Ürün
 
@@ -4293,6 +4410,20 @@ Negative prompt: no people, no extra rooms, no duplicated furniture, no distorte
 12-15秒：目视前方/画面右侧，眼神柔和微润，唇瓣轻动似欲语还休，最终保持安静凝视状态，定格在温柔清冷、略带忧郁的情绪中，结尾无黑屏、无转场。
 ```
 
+
+<a id="templates-structured-case-20"></a>
+<!-- Case 20: Flooded Ballroom Escape Storyboard (by @ChangningL29508) -->
+### Örnek 20: [Su basmış balo salonundan kaçış hikâye panosu](https://x.com/ChangningL29508/status/2078684698394636544) (yazan [@ChangningL29508](https://x.com/ChangningL29508))
+
+| Çıktı |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-20"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078684698394636544.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**İstem:**
+
+```
+@Image1 storyboard is a temporal beat map only. Create one continuous full-screen 16:9 cinematic 15-second live-action sequence, never show a panel grid, black gutters, collage, captions, or text. Same young adult bride with wet black hair, ivory satin wedding dress and red rubber boots; same soaked groom in a black tuxedo; same red-dress bridesmaid; same waiter in black vest. In a flooded Art Deco ballroom at night, follow the storyboard left to right, top to bottom: the bride pulls the groom through knee-deep water toward the warm exit; the bridesmaid follows with her shoes; the waiter opens and holds the door; guests plausibly clear the path and evacuate; the couple and bridesmaid reach the doorway. Cold blue-green storm light and warm chandelier reflections, believable water physics, cinematic 35mm camera, one natural continuous progression. Stable faces and identities, anatomically correct hands, no duplicate people, no warped anatomy, no elderly bride, no police, no weapons, no random actions, no watermark, no logo, no subtitles.
+```
 <a id="general-cinematic"></a>
 
 <a id="general-cinematic"></a>

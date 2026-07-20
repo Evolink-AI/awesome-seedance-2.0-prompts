@@ -38,6 +38,8 @@ action-fantasy-case-37	巨大カエルの飛脚疾走
 action-fantasy-case-38	雷の戦士ゾンビ包囲戦
 action-fantasy-case-39	白虎の古寺雷雨
 action-fantasy-case-40	補給船と巨大ザメ
+action-fantasy-case-41	闘技場の女巨人による大逆転
+action-fantasy-case-42	倉庫でのボディガード制圧劇
 cinematic-realism-case-1	現代日本のドキュメンタリーシーケンス
 cinematic-realism-case-2	影を追うロングボードのダウンヒル
 cinematic-realism-case-3	隕石で覚醒する戦乙女
@@ -46,6 +48,7 @@ cinematic-realism-case-5	嵐の断崖に現れる侍
 cinematic-realism-case-6	VHSプール大飛び込み審査員
 cinematic-realism-case-7	黒のヴィンテージカー嵐の疾走
 cinematic-realism-case-8	嵐の海岸灯台シーケンス
+cinematic-realism-case-9	砂嵐を突っ切るバギー脱出
 pov-fpv-case-1	胸部カメラによる迷彩チェイス
 pov-fpv-case-2	上海サイバーパンク都市のショーリール
 pov-fpv-case-3	呪われた侍の一貫性アクションプロンプト
@@ -66,6 +69,7 @@ pov-fpv-case-17	極限マクロ FPV — 妖精の翼を追うショット
 pov-fpv-case-18	火山洞窟への重力ダイブ
 pov-fpv-case-19	超音速で駆け抜ける砂漠峡谷 POV
 pov-fpv-case-20	フランス花火 FPV フライオーバー
+pov-fpv-case-21	サイバネティック戦場 FPV ダイブ
 commercial-product-case-1	香水 CM 風アニメ三人組ダンスステージ
 commercial-product-case-2	ダークファンタジー教会の決闘
 commercial-product-case-3	ダークファンタジー神殿ホールの決闘
@@ -149,6 +153,7 @@ templates-structured-case-16	印象派のボートをこぐ手テンプレート
 templates-structured-case-17	女戦士 — 構造化された被写体プロンプト
 templates-structured-case-18	箱から現れるロフト空間
 templates-structured-case-19	表情ディテール検証
+templates-structured-case-20	浸水した舞踏会場の脱出ストーリーボード
 general-cinematic-case-1	ハイヒールとビートが同期するファッション接写
 general-cinematic-case-2	子ども部屋でミニスケートボード脱出
 general-cinematic-case-3	ラッカー・パークのおばあちゃん対決

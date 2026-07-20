@@ -2,22 +2,22 @@
   "schema_version": 1,
   "repository": "Evolink-AI/awesome-seedance-2.0-prompts",
   "model": "Seedance 2.0",
-  "case_count": 189,
+  "case_count": 194,
   "categories": [
     {
       "slug": "action-fantasy",
       "name": "⚔️ Action / Fantasy",
-      "count": 40
+      "count": 42
     },
     {
       "slug": "cinematic-realism",
       "name": "🎞️ Cinematic Realism",
-      "count": 8
+      "count": 9
     },
     {
       "slug": "pov-fpv",
       "name": "🥽 POV / FPV",
-      "count": 20
+      "count": 21
     },
     {
       "slug": "commercial-product",
@@ -37,7 +37,7 @@
     {
       "slug": "templates-structured",
       "name": "📐 Templates & Structured Formats",
-      "count": 19
+      "count": 20
     },
     {
       "slug": "general-cinematic",
@@ -538,6 +538,32 @@
       "prompt_text": "A wide river in bright daylight, a flat supply barge loaded with ration crates crossing toward the far bank. A megalodon, whale-sized with scarred grey hide, rams the barge hard from below, tilting it as the crew grabs the rails. On the far-bank dock, a gunner is already loaded, posted there to watch every barge crossing this stretch. Sound: crashing waves, groaning barge, shark thrashing, shouting, radio voices.\n\nShot 1 (0–3s) — THE HOOK: Low shot across the water. The megalodon rams the barge from below, crates sliding and crashing into the river as the deck tilts hard, the crew clinging to the rails. One shouts into his radio: \"IT'S RAMMING THE BARGE! WE'RE GOING OVER!\"\n\nShot 2 (3–6s): On the dock, the gunner lifts the bazooka onto his shoulder, tracking the shark's shadow in the water — but holds his fire, a rescue boat pulling alongside the barge with the crew still climbing across. He calls on the radio: \"Get to the rescue boat! Jump now!\"\n\nShot 3 (6–9s): The crew leaps from the tilting barge onto the rescue boat and it pulls away fast toward the dock. The megalodon circles back into open water beside the empty barge, alone now, no crew or boat anywhere near it.\n\nShot 4 (9–13s) — BIG SLOW-MOTION MOMENT: The shark circles alone in the open water now. The gunner fires. Bullet time — the bazooka kicks back, smoke bursting from the tube, the rocket streaking down into the river in slow motion, spray hanging bright in the daylight.\n\nShot 5 (13–15s): Time snaps back. A huge blast erupts in the water beside the drifting barge, fire and spray shooting high into the sky. The rescue boat reaches the dock safely as the crew watches the water settle."
     },
     {
+      "id": "action-fantasy-case-41",
+      "category": "⚔️ Action / Fantasy",
+      "case_number": 41,
+      "title": "Arena Giantess Upset",
+      "source_url": "https://x.com/rahulnanda86/status/2078861067896357244",
+      "prompt_source_url": "https://x.com/rahulnanda86/status/2078861067896357244",
+      "author_handle": "rahulnanda86",
+      "author_url": "https://x.com/rahulnanda86",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078861067896357244.jpg",
+      "prompt_sha256": "0bfc17721f3a597c64f3c8457c837476ccf7aa6c245db1913c7d695fc85534fa",
+      "prompt_text": "PROMPT 1 (15 Seconds) — \"The Champion's Throw\"\n\nUltra-realistic cinematic medieval fantasy. No animation, no stylized CGI, no video-game look. Photorealistic live-action with grounded physics, natural facial performances, cinematic camera movement, premium production value. Set inside a gigantic ancient stone coliseum packed with over fifty thousand roaring spectators. Bright overcast afternoon with soft diffused light. Dust, mud, torn banners and weathered stone create a gritty arena atmosphere.\n\nA terrifying gladiator champion stands in the centre of the arena. He is over 8 feet tall, enormously muscular, scarred from countless battles, wearing brutal blackened steel armour with a heavy fur cape. In one hand, he effortlessly holds a beautiful young warrior woman by the throat, lifting her completely off the ground. She is around 5'6\", athletic, wearing a medieval leather crop top, short leather battle skirt, knee-high boots and light armour pieces. She struggles desperately, kicking helplessly while trying to pry his hand away. The crowd cheers wildly for the giant champion.\n\nWithout warning, the gladiator violently throws her across the arena. She crashes into the muddy ground, skids several metres and lies groaning, clearly injured. The arena suddenly becomes quiet.\n\nFrom deep within the crowd, a mysterious hooded old man stands and shouts:\n\n\"Eat it!! Trust me!\"\n\nShe barely hears him through the ringing in her ears.\n\nThe old man throws a strange glowing forest mushroom into the arena. It lands in the mud inches from her face.\n\nShe slowly reaches toward it with trembling fingers.\n\nPROMPT 2 (15 Seconds) — \"The Upset\"\n\nContinue directly from the previous scene.\n\nThe injured warrior looks at the strange mushroom lying beside her. The giant gladiator laughs confidently and begins walking toward her, believing the fight is already over.\n\nShe quickly eats the mushroom.\n\nNothing happens for a split second.\n\nThen her body rapidly grows.\n\nHer muscles strengthen, her armour stretches naturally, and within moments she transforms into a towering 12-foot-tall version of herself, keeping the exact same appearance, clothing and proportions—only massively larger. The crowd gasps in disbelief. The giant gladiator freezes.\n\nHe whispers:\n\n\"No... no...\"\n\nShe slowly stands, towering over him.\n\nHe tries to run.\n\nShe grabs him effortlessly by one leg before he can escape and swings him through the air. She lands five brutally fast punches directly into his face, each impact snapping his head backward while the crowd erupts louder with every hit.\n\nFinally, she lifts him high overhead and hurls him across the arena.\n\nHe flies through the air and crashes into the enormous bronze victory bell mounted on the coliseum wall.\n\nBOOOONNNGGG!\n\nThe bell echoes across the entire arena.\n\nThe gladiator falls unconscious.\n\nShe raises both arms high above her head and laughs triumphantly.\n\n\"YEAH\"\n\nThe entire coliseum explodes into deafening celebration as thousands of spectators leap to their feet, cheering and chanting her victory."
+    },
+    {
+      "id": "action-fantasy-case-42",
+      "category": "⚔️ Action / Fantasy",
+      "case_number": 42,
+      "title": "Warehouse Bodyguard Takedown",
+      "source_url": "https://x.com/Rosey_watson/status/2078858021854130433",
+      "prompt_source_url": "https://x.com/Rosey_watson/status/2078858021854130433",
+      "author_handle": "Rosey_watson",
+      "author_url": "https://x.com/Rosey_watson",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078858021854130433.jpg",
+      "prompt_sha256": "0b95148b36be42f4c002ef5608eac1bcdaebe05a4fb0028368aaa7eae5341c48",
+      "prompt_text": "A cinematic 15-second action sequence set inside a dark, gritty industrial warehouse at night, featuring moody teal-green lighting, chain-link fences, metal scaffolding, peeling green walls, and floating dust particles. A powerful, elegant East Asian Boss Lady wears a sleek black pantsuit with long flowing black hair and a calm, commanding expression. Standing beside her is a handsome, athletic male bodyguard in an all-black tailored suit with a heroic presence. As multiple attackers rush in, the bodyguard instantly steps in front of the Boss Lady, protecting her with lightning-fast punches, powerful kicks, evasive movements, and cinematic takedowns. The Boss Lady remains composed and confident, watching as her protector defeats every attacker. The sequence ends with the bodyguard standing protectively beside the Boss Lady as they walk forward together in slow motion, dust swirling around them. Handheld and tracking camera shots, dramatic low angles, realistic fabric movement, cinematic motion blur, ultra-detailed choreography, film-quality lighting, emotional heroism, 4K ultra-realistic cinematic masterpiece."
+    },
+    {
       "id": "cinematic-realism-case-1",
       "category": "🎞️ Cinematic Realism",
       "case_number": 1,
@@ -638,6 +664,19 @@
       "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078540378387415126.jpg",
       "prompt_sha256": "4af7707031f48d2052fc8cbd6959277af31a495c525ff04cdcde566aa1ae6ec6",
       "prompt_text": "A solitary lighthouse stands on a jagged black cliff as a monstrous storm crashes against the coast at night. Waves explode against the rocks far below, sending white spray into the air like smoke, while the lighthouse beam cuts through sheets of rain and drifting sea mist. Inside, an old keeper climbs the narrow spiral staircase with a lantern in hand, his coat soaked, the light flickering with every thunderclap. The camera moves between wide shots of the lighthouse dwarfed by the fury of the ocean and intimate interior close-ups of wet stone walls, rattling glass, trembling hands, and the golden lantern glow in the darkness. As the storm intensifies, lightning reveals a ghostly ship in the distance, barely visible between walls of rain. The sequence feels haunting, dramatic, and timeless, with crashing waves, thunder, and a powerful sense of isolation."
+    },
+    {
+      "id": "cinematic-realism-case-9",
+      "category": "🎞️ Cinematic Realism",
+      "case_number": 9,
+      "title": "Sandstorm Buggy Escape",
+      "source_url": "https://x.com/umesh_ai/status/2078781951377555966",
+      "prompt_source_url": "https://x.com/umesh_ai/status/2078781951377555966",
+      "author_handle": "umesh_ai",
+      "author_url": "https://x.com/umesh_ai",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078781951377555966.jpg",
+      "prompt_sha256": "d627f2eb511a02dc8f43d172f83945fc08106c712d071371699ad4268a850529",
+      "prompt_text": "Towering sandstone cliffs crack under the pressure of a violent sandstorm. From a sweeping aerial over a vast desert basin, the camera dives aggressively toward a high-speed off-road buggy tearing through collapsing dunes. It slingshots past the front grill, whips around the roll cage, then drops tight to the spinning tires as sand blasts outward in golden waves. Chunks of rock tumble from above, dust spirals across the route, and the driver threads through narrow canyon gaps as entire ridgelines slump into avalanches of sand. The buggy surges through a curtain of blowing grit, bursts free, and races onto a surreal salt flat glowing in sunset orange. The camera rockets upward into a giant reveal as the storm fades behind. The engine cuts. Silence swallows the desert."
     },
     {
       "id": "pov-fpv-case-1",
@@ -881,6 +920,19 @@
       "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2077090789356609683.jpg",
       "prompt_sha256": "54c65ec883a30b902e3a85e493d81cb14882fcf18d00f0254766fa214f07eac1",
       "prompt_text": "Immersive first-person flying camera perspective, no visible drone or flying device. The entire sequence takes place at night beneath a deep blue sky. The camera races above the illuminated lavender fields of Provence while fireworks burst continuously in blue, white, and red across the horizon. It weaves through glowing medieval villages, vineyards, French châteaux, the cliffs of Normandy, and Mont-Saint-Michel reflected in the dark tide, with fireworks erupting above every location. The camera then follows the Seine into Paris at extreme speed, skimming beneath historic bridges, banking around the Arc de Triomphe, and climbing beside the fully illuminated Eiffel Tower as enormous synchronized fireworks fill the sky and reflect across the river. At the finale, the camera pulls back above Paris while the fireworks create a vast tricolor glow. A gigantic French flag unfurls naturally from the top of the Eiffel Tower, waving majestically above the city as the final fireworks burst behind it. No text, no words, no letters. Continuous POV shot, no cuts, aggressive banking, cinematic motion blur, realistic night lighting, volumetric smoke, detailed fireworks, ultra-realistic travel cinematography, spectacular blockbuster VFX, IMAX quality."
+    },
+    {
+      "id": "pov-fpv-case-21",
+      "category": "🥽 POV / FPV",
+      "case_number": 21,
+      "title": "Cybernetic Battlefield FPV Dive",
+      "source_url": "https://x.com/LudovicCreator/status/2078842368661315786",
+      "prompt_source_url": "https://x.com/LudovicCreator/status/2078842368661315786",
+      "author_handle": "LudovicCreator",
+      "author_url": "https://x.com/LudovicCreator",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078842368661315786.jpg",
+      "prompt_sha256": "a154e2c230c7867f65fd743ca204cacc5369600b91b37203f01af187ea920a9d",
+      "prompt_text": "Immersive first-person flying camera perspective, no visible drone or flying device. The camera launches at insane speed across a colossal dystopian cyborg battlefield at night, flying only centimeters above shattered metal, burning wreckage, and rivers of glowing energy. It violently snap-rolls between the legs of towering combat mechs, knife-edges through collapsing steel structures, dives beneath gigantic walking war machines, then instantly climbs through exploding industrial ruins. Swarms of autonomous combat drones streak overhead while colossal cybernetic titans exchange devastating energy blasts that illuminate the battlefield. The camera constantly changes direction with brutal FPV precision,rapid S-turns, vertical dives, barrel rolls, power loops around gigantic reactor towers, split-S reversals, wall-hugging passes through ruined megafactories, and razor-close proximity flights beneath collapsing bridges. Neon holograms flicker through dense smoke as thousands of laser tracers, plasma arcs, sparks, and electrical storms fill the sky. Gigantic cybernetic creatures emerge from the darkness while endless ranks of futuristic soldiers and armored exosuits advance across the battlefield beneath towering ruined skyscrapers. The camera threads through impossibly tight gaps as collapsing buildings, burning aircraft, and massive mechanical debris crash around it, then rockets into a colossal mechanical canyon formed by fallen war machines. At the climax, the battlefield opens into an unimaginably vast cybernetic wasteland where a planet-sized artificial intelligence core rises above the horizon, surrounded by colossal rotating rings, lightning storms, and endless mechanical cities stretching to infinity. Continuous POV shot, no cuts, relentless acceleration, extreme high-speed FPV racing, aggressive banking, rapid altitude changes, barrel rolls, corkscrews, split-S maneuvers, power loops, knife-edge turns, realistic inertia, cinematic motion blur, volumetric smoke, dynamic lighting, neon reflections, hyper-detailed dystopian environments, surreal cyberpunk architecture, blockbuster sci-fi VFX, IMAX quality."
     },
     {
       "id": "commercial-product-case-1",
@@ -1895,6 +1947,19 @@
       "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078137477425172769.jpg",
       "prompt_sha256": "0181651f210db7748a36b22a3a2d8abc7623d274195728e0ada2881d2dd32c6e",
       "prompt_text": "0–2 seconds: Head bowed, eyes cast downward, with a subtle, faint smile playing at the corners of her lips—without showing her teeth—her expression gentle and serene.\n2–4 seconds: The smile gradually fades, and the corners of her mouth return to neutral; her eyes and head slowly lift, her gaze shifting to the right side of the frame, her expression turning to one of focused attention.\n4–6 seconds: She continues to look to the right, her eyes taking on a hint of mild confusion and concern; her eyes widen slightly (naturally), her lips part slightly as if she’s about to speak but holds back, and her eyebrows and eyes narrow slightly without furrowing.\n6–8 seconds: Her gaze slowly drifts downward, her head tilts slightly; the smile fades completely, her expression becoming quiet and forlorn, as she suppresses her emotions inwardly—without shedding tears or crying.\n8–10 seconds: Lower your head and gently close your eyes to compose yourself; a faint, self-deprecating smile—concealing your sadness—appears at the corners of your mouth. Breathe naturally, and move with the utmost subtlety.\n10–12 seconds: Slowly lift your head; your eyes meet the soft light once more, gradually brightening yet remaining restrained. Turn your face forward or slightly to the right, with a hint of tenderness and slight resentment at the corners of your lips.\n12–15 seconds: Look straight ahead or toward the right side of the frame, with a soft, slightly moist gaze. The lips move slightly as if on the verge of speaking but hold back; ultimately, maintain a quiet, fixed gaze, frozen in a gentle, cool, and slightly melancholic mood. The scene ends without a black screen or transition.\n0-2秒：低头垂眸，嘴角噙着含蓄淡笑，不露齿，神态温柔安静。\n2-4秒：笑意缓缓收敛，嘴角归平；双眼、头部慢慢抬起，视线转向画面右侧，神情转为认真留意。\n4-6秒：持续望向右方，眼神添上浅淡疑惑与担忧，双眼微睁（幅度自然），嘴唇轻启呈欲言又止状，眉眼微收，不皱眉。\n6-8秒：视线缓缓下沉，头部微低，笑意尽数褪去，神情安静失落，内敛压抑情绪，不流泪、不哭泣。\n8-10秒：低头轻阖双眼，平复心绪，嘴角浮现一抹藏起难过的浅淡自嘲式浅笑，呼吸自然，动作极轻。\n10-12秒：缓缓抬头，眼眸重新迎向柔光，眼神渐亮却依旧克制，面部转向前方/偏右，唇角带一丝温柔又委屈的淡意。\n12-15秒：目视前方/画面右侧，眼神柔和微润，唇瓣轻动似欲语还休，最终保持安静凝视状态，定格在温柔清冷、略带忧郁的情绪中，结尾无黑屏、无转场。"
+    },
+    {
+      "id": "templates-structured-case-20",
+      "category": "📐 Templates & Structured Formats",
+      "case_number": 20,
+      "title": "Flooded Ballroom Escape Storyboard",
+      "source_url": "https://x.com/ChangningL29508/status/2078684698394636544",
+      "prompt_source_url": "https://x.com/ChangningL29508/status/2078686567410118660",
+      "author_handle": "ChangningL29508",
+      "author_url": "https://x.com/ChangningL29508",
+      "preview_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078684698394636544.jpg",
+      "prompt_sha256": "c881144a15b8d409124c4be0fd39126e0a4ff8957ac889b6098dceeee5b6e7c4",
+      "prompt_text": "@Image1 storyboard is a temporal beat map only. Create one continuous full-screen 16:9 cinematic 15-second live-action sequence, never show a panel grid, black gutters, collage, captions, or text. Same young adult bride with wet black hair, ivory satin wedding dress and red rubber boots; same soaked groom in a black tuxedo; same red-dress bridesmaid; same waiter in black vest. In a flooded Art Deco ballroom at night, follow the storyboard left to right, top to bottom: the bride pulls the groom through knee-deep water toward the warm exit; the bridesmaid follows with her shoes; the waiter opens and holds the door; guests plausibly clear the path and evacuate; the couple and bridesmaid reach the doorway. Cold blue-green storm light and warm chandelier reflections, believable water physics, cinematic 35mm camera, one natural continuous progression. Stable faces and identities, anatomically correct hands, no duplicate people, no warped anatomy, no elderly bride, no police, no weapons, no random actions, no watermark, no logo, no subtitles."
     },
     {
       "id": "general-cinematic-case-1",

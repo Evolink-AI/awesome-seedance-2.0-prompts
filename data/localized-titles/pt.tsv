@@ -38,6 +38,8 @@ action-fantasy-case-37	Corrida do mensageiro montado numa rã gigante
 action-fantasy-case-38	Cerco zumbi da guerreira do trovão
 action-fantasy-case-39	Tempestade no templo do tigre branco
 action-fantasy-case-40	Tubarão gigante contra barcaça de rações
+action-fantasy-case-41	Virada da gladiadora gigante na arena
+action-fantasy-case-42	Guarda-costas derruba atacantes no armazém
 cinematic-realism-case-1	Sequência documental do Japão moderno
 cinematic-realism-case-2	Descida de longboard seguindo uma sombra
 cinematic-realism-case-3	Heroína de guerra despertada por um meteoro
@@ -46,6 +48,7 @@ cinematic-realism-case-5	Revelação de samurai no penhasco tempestuoso
 cinematic-realism-case-6	Juiz do cannonball na piscina VHS
 cinematic-realism-case-7	Corrida do carro preto vintage na tempestade
 cinematic-realism-case-8	Sequência do farol na costa tempestuosa
+cinematic-realism-case-9	Fuga de buggy na tempestade de areia
 pov-fpv-case-1	Sequência de perseguição camuflada com câmera no peito
 pov-fpv-case-2	Vídeo promocional de uma Xangai cyberpunk
 pov-fpv-case-3	Prompt de ação consistente de um samurai amaldiçoado
@@ -66,6 +69,7 @@ pov-fpv-case-17	FPV macro extremo: acompanhamento de asas de fada
 pov-fpv-case-18	Mergulho gravitacional em uma caverna vulcânica
 pov-fpv-case-19	POV supersônica por um cânion desértico
 pov-fpv-case-20	Sobrevoo FPV dos fogos de artifício na França
+pov-fpv-case-21	Mergulho FPV no campo de batalha cibernético
 commercial-product-case-1	Palco de dança de trio de anime em estilo de anúncio de perfume
 commercial-product-case-2	Duelo em igreja de fantasia sombria
 commercial-product-case-3	Duelo no salão de um santuário de fantasia sombria
@@ -149,6 +153,7 @@ templates-structured-case-16	Modelo impressionista de mãos remando
 templates-structured-case-17	Guerreira: prompt de sujeito estruturado
 templates-structured-case-18	Revelação do interior de um loft saindo de uma caixa
 templates-structured-case-19	Teste de detalhe de expressões faciais
+templates-structured-case-20	Storyboard de fuga do salão de baile inundado
 general-cinematic-case-1	Close de moda com salto alto sincronizado à batida
 general-cinematic-case-2	Fuga em mini-skate dentro de um quarto infantil
 general-cinematic-case-3	Confronto de avós no Rucker Park
