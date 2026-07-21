@@ -40,6 +40,7 @@ action-fantasy-case-39	백호 사원의 폭풍우
 action-fantasy-case-40	식량 바지선과 거대 상어
 action-fantasy-case-41	투기장 거대 여전사 대역전
 action-fantasy-case-42	창고 경호원 제압전
+action-fantasy-case-43	북극 기지 웜 습격
 cinematic-realism-case-1	현대 일본 다큐멘터리 시퀀스
 cinematic-realism-case-2	그림자를 추적하는 롱보드 내리막
 cinematic-realism-case-3	유성으로 각성한 전쟁의 여주인공
@@ -49,6 +50,7 @@ cinematic-realism-case-6	VHS 수영장 캐넌볼 심판
 cinematic-realism-case-7	빈티지 블랙카 폭풍 질주
 cinematic-realism-case-8	폭풍 해안 등대 시퀀스
 cinematic-realism-case-9	모래폭풍 버기 탈출
+cinematic-realism-case-10	아르헨티나 스페인 중계 난투극
 pov-fpv-case-1	가슴 장착 카메라 위장 추격전
 pov-fpv-case-2	상하이 사이버펑크 도시 하이라이트 영상
 pov-fpv-case-3	저주받은 사무라이의 일관된 액션 프롬프트
@@ -134,6 +136,7 @@ surreal-vfx-case-12	불꽃 여제의 변신 시퀀스
 surreal-vfx-case-13	사막의 샌드 타이탄 변신
 surreal-vfx-case-14	도주 차량의 쓰레기차 변신
 surreal-vfx-case-15	숲의 수호자 서예 변신
+surreal-vfx-case-16	저주받은 다도회 망령
 templates-structured-case-1	초대형 항공모함의 재앙적 침몰
 templates-structured-case-2	기억 파편 재구성
 templates-structured-case-3	설계도에서 현실로 — 단층 주택 변신
@@ -154,6 +157,7 @@ templates-structured-case-17	여전사 — 구조화된 피사체 프롬프트
 templates-structured-case-18	상자에서 펼쳐지는 로프트 인테리어
 templates-structured-case-19	표정 디테일 테스트
 templates-structured-case-20	물에 잠긴 무도회장 탈출 스토리보드
+templates-structured-case-21	승강장 결투 비트맵
 general-cinematic-case-1	하이힐과 비트가 동기화된 패션 클로즈업
 general-cinematic-case-2	아이 방에서 미니 스케이트보드 탈출
 general-cinematic-case-3	러커 파크 할머니 대결
@@ -192,3 +196,4 @@ general-cinematic-case-35	붉은 사막 오토바이 트래킹 숏
 general-cinematic-case-36	폼페이 재난 현장 DV 영상
 general-cinematic-case-37	버려진 놀이공원을 걷는 우주비행사
 general-cinematic-case-38	해적 오리의 욕조 항해
+general-cinematic-case-39	어두운 지구를 비춘 궤도 기지 VHS

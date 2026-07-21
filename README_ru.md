@@ -4,7 +4,7 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Попробовать Seedance 2.0 в браузере](https://img.shields.io/badge/Try_in-Browser-black)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts&utm_content=model_try)
-[![Промпты-194 уникальных примеров](https://img.shields.io/badge/%D0%9F%D1%80%D0%BE%D0%BC%D0%BF%D1%82%D1%8B-194%20%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%BE%D0%B2-111111)](README.md)
+[![Промпты-199 уникальных примеров](https://img.shields.io/badge/%D0%9F%D1%80%D0%BE%D0%BC%D0%BF%D1%82%D1%8B-199%20%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%BE%D0%B2-111111)](README.md)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -25,7 +25,7 @@
 
 Добро пожаловать в Awesome Seedance 2.0 Prompts! 🤗
 
-**Репозиторий содержит 194 уникальных промпта Seedance 2.0 с указанием источников для кинематографической генерации видео.**
+**Репозиторий содержит 199 уникальных промпта Seedance 2.0 с указанием источников для кинематографической генерации видео.**
 
 Промпты отобраны из публичных публикаций авторов и сохранены как повторно используемые материалы.
 
@@ -73,7 +73,7 @@ curl --request GET \
 <a id="statistics"></a>
 ## 📊 Статистика
 
-194 уникальных примера в 8 категориях, синхронизированных в 11 файлах README.
+199 уникальных примеров в 8 категориях, синхронизированных в 11 README-файлах.
 
 <a id="how-to-use"></a>
 ## 🧭 Как пользоваться репозиторием
@@ -83,215 +83,221 @@ curl --request GET \
 <a id="menu"></a>
 ## 📑 Меню
 
-- [Введение](#introduction)
-- [Быстрый старт](#quick-start)
-- [Статистика](#statistics)
-- [Как пользоваться репозиторием](#how-to-use)
-- [Меню](#menu)
-- [⚔️ Экшен / Фэнтези](#action-fantasy) (40)
-  - [Пример 1: Уличное рэп-выступление в музыкальном клипе (автор @songguoxiansen)](#action-fantasy-case-1)
-  - [Пример 2: Поединок чёрного кота в пустыне (автор @nopinduoduo)](#action-fantasy-case-2)
-  - [Пример 3: Дуэль дыхательных техник в игровом кино (автор @johnAGI168)](#action-fantasy-case-3)
-  - [Пример 4: Скоростная аниме-сцена из 20 монтажных кадров (автор @tebasaki3D)](#action-fantasy-case-4)
-  - [Пример 5: Ремонт в исполнении перепачканного смазкой механика (автор @sebatheepan)](#action-fantasy-case-5)
-  - [Пример 6: Короткометражка о мести самурая (автор @sailorv321)](#action-fantasy-case-6)
-  - [Пример 7: Стилизованная трёхмерная анимация боя (автор @johnAGI168)](#action-fantasy-case-7)
-  - [Пример 8: Динамичная комедийная пародия (автор @drjoetw)](#action-fantasy-case-8)
-  - [Пример 9: Токусацу-битва гигантских ниндзя (автор @EarthGigantea)](#action-fantasy-case-9)
-  - [Пример 10: Диалоговая сцена в японском аниме (автор @_3912657840)](#action-fantasy-case-10)
-  - [Пример 11: Оригинальная 15-секундная короткометражка о битве стихий (автор @ZikinArt)](#action-fantasy-case-11)
-  - [Пример 12: Анимация фантазийного яйца в стиле Фаберже (автор @ShamiWeb3)](#action-fantasy-case-12)
-  - [Пример 13: Оригинальная короткометражка о битве стихий (автор @David_eficaz)](#action-fantasy-case-13)
-  - [Пример 14: Кинематографическая дуэль в жанре научной фантастики и фэнтези (автор @CharaspowerAI)](#action-fantasy-case-14)
-  - [Пример 15: Непрерывная 15-секундная экшен-сцена одним кадром (автор @Artedeingenio)](#action-fantasy-case-15)
-  - [Пример 16: Одинокий самурай в противостоянии на утёсе (автор @Alin_Reaper05)](#action-fantasy-case-16)
-  - [Пример 17: Воздушное пике дракона-изгоя (автор @sebatheepan)](#action-fantasy-case-17)
-  - [Пример 18: Схватка за меха в невесомости (автор @Dheepanratnam)](#action-fantasy-case-18)
-  - [Пример 19: Сверхскоростной полёт девушки верхом на драконе (автор @naoyuki_okada)](#action-fantasy-case-19)
-  - [Пример 20: Оригинальная 15-секундная короткометражка о боевых искусствах в пустыне (автор @NimEshed)](#action-fantasy-case-20)
-  - [Пример 21: Воздушный удар в каньоне (автор @Mr_TuanDoan)](#action-fantasy-case-21)
-  - [Пример 22: Гиперреалистичный 15-секундный эпический военный блокбастер (автор @john87445528)](#action-fantasy-case-22)
-  - [Пример 23: Неудачный перерыв на кофе в офисе (автор @Dheepanratnam)](#action-fantasy-case-23)
-  - [Пример 24: Непрерывная 15-секундная экшен-сцена одним кадром (автор @Artedeingenio)](#action-fantasy-case-24)
-  - [Пример 25: Чёрный лебедь против боксёра (автор @KanaWorks_AI)](#action-fantasy-case-25)
-  - [Пример 26: Взлёт Супермена сквозь треснувшую землю (автор @techprophett)](#action-fantasy-case-26)
-  - [Пример 27: Тень меча в облачной пещере (автор @Adam38363368936)](#action-fantasy-case-27)
-  - [Пример 28: Город богов — восточный фантазийный полёт одним кадром (автор @john87445528)](#action-fantasy-case-28)
-  - [Пример 29: Эпическая фэнтезийная битва — кинематографическая сцена на 10 секунд (автор @a_shimanski)](#action-fantasy-case-29)
-  - [Пример 30: Превращение в жанре тёмного фэнтези — восточный стиль (автор @johnAGI168)](#action-fantasy-case-30)
-  - [Пример 31: Речная ловушка с крокодилом у топливопровода (автор @rahulnanda86)](#action-fantasy-case-31)
-  - [Пример 32: Электрическая дуэль на подземной арене (автор @CharaspowerAI)](#action-fantasy-case-32)
-  - [Пример 33: Крокодил тащит самолёт по взлётной полосе (автор @rahulnanda86)](#action-fantasy-case-33)
-  - [Пример 34: Аниме-гол молниеносного нападающего (автор @CharaspowerAI)](#action-fantasy-case-34)
-  - [Пример 35: Полёт грифона над долиной полевых цветов (автор @Mayz1169)](#action-fantasy-case-35)
-  - [Пример 36: Парфянский выстрел монгольской кавалерии (автор @Ankit_patel211)](#action-fantasy-case-36)
-  - [Пример 37: Спринт курьера на гигантской лягушке (автор @0xbisc)](#action-fantasy-case-37)
-  - [Пример 38: Зомби-осада громовой воительницы (автор @MO_IAI)](#action-fantasy-case-38)
-  - [Пример 39: Буря в храме белого тигра (автор @LudovicCreator)](#action-fantasy-case-39)
-  - [Пример 40: Гигантская акула у продовольственной баржи (автор @rahulnanda86)](#action-fantasy-case-40)
+- [Introduction](#introduction)
+- [Quick Start](#quick-start)
+- [Statistics](#statistics)
+- [How to Use This Repository](#how-to-use)
+- [Menu](#menu)
+- [⚔️ Action / Fantasy](#action-fantasy) (43)
+  - [Пример 1: Уличное рэп-выступление в музыкальном клипе (by @songguoxiansen)](#action-fantasy-case-1)
+  - [Пример 2: Поединок чёрного кота в пустыне (by @nopinduoduo)](#action-fantasy-case-2)
+  - [Пример 3: Дуэль дыхательных техник в игровом кино (by @johnAGI168)](#action-fantasy-case-3)
+  - [Пример 4: Скоростная аниме-сцена из 20 монтажных кадров (by @tebasaki3D)](#action-fantasy-case-4)
+  - [Пример 5: Ремонт в исполнении перепачканного смазкой механика (by @sebatheepan)](#action-fantasy-case-5)
+  - [Пример 6: Короткометражка о мести самурая (by @sailorv321)](#action-fantasy-case-6)
+  - [Пример 7: Стилизованная трёхмерная анимация боя (by @johnAGI168)](#action-fantasy-case-7)
+  - [Пример 8: Динамичная комедийная пародия (by @drjoetw)](#action-fantasy-case-8)
+  - [Пример 9: Токусацу-битва гигантских ниндзя (by @EarthGigantea)](#action-fantasy-case-9)
+  - [Пример 10: Диалоговая сцена в японском аниме (by @_3912657840)](#action-fantasy-case-10)
+  - [Пример 11: Оригинальная 15-секундная короткометражка о битве стихий (by @ZikinArt)](#action-fantasy-case-11)
+  - [Пример 12: Анимация фантазийного яйца в стиле Фаберже (by @ShamiWeb3)](#action-fantasy-case-12)
+  - [Пример 13: Оригинальная короткометражка о битве стихий (by @David_eficaz)](#action-fantasy-case-13)
+  - [Пример 14: Кинематографическая дуэль в жанре научной фантастики и фэнтези (by @CharaspowerAI)](#action-fantasy-case-14)
+  - [Пример 15: Непрерывная 15-секундная экшен-сцена одним кадром (by @Artedeingenio)](#action-fantasy-case-15)
+  - [Пример 16: Одинокий самурай в противостоянии на утёсе (by @Alin_Reaper05)](#action-fantasy-case-16)
+  - [Пример 17: Воздушное пике дракона-изгоя (by @sebatheepan)](#action-fantasy-case-17)
+  - [Пример 18: Схватка за меха в невесомости (by @Dheepanratnam)](#action-fantasy-case-18)
+  - [Пример 19: Сверхскоростной полёт девушки верхом на драконе (by @naoyuki_okada)](#action-fantasy-case-19)
+  - [Пример 20: Оригинальная 15-секундная короткометражка о боевых искусствах в пустыне (by @NimEshed)](#action-fantasy-case-20)
+  - [Пример 21: Воздушный удар в каньоне (by @Mr_TuanDoan)](#action-fantasy-case-21)
+  - [Пример 22: Гиперреалистичный 15-секундный эпический военный блокбастер (by @john87445528)](#action-fantasy-case-22)
+  - [Пример 23: Неудачный перерыв на кофе в офисе (by @Dheepanratnam)](#action-fantasy-case-23)
+  - [Пример 24: Непрерывная 15-секундная экшен-сцена одним кадром (by @Artedeingenio)](#action-fantasy-case-24)
+  - [Пример 25: Чёрный лебедь против боксёра (by @KanaWorks_AI)](#action-fantasy-case-25)
+  - [Пример 26: Взлёт Супермена сквозь треснувшую землю (by @techprophett)](#action-fantasy-case-26)
+  - [Пример 27: Тень меча в облачной пещере (by @Adam38363368936)](#action-fantasy-case-27)
+  - [Пример 28: Город богов — восточный фантазийный полёт одним кадром (by @john87445528)](#action-fantasy-case-28)
+  - [Пример 29: Эпическая фэнтезийная битва — кинематографическая сцена на 10 секунд (by @a_shimanski)](#action-fantasy-case-29)
+  - [Пример 30: Превращение в жанре тёмного фэнтези — восточный стиль (by @johnAGI168)](#action-fantasy-case-30)
+  - [Пример 31: Речная ловушка с крокодилом у топливопровода (by @rahulnanda86)](#action-fantasy-case-31)
+  - [Пример 32: Электрическая дуэль на подземной арене (by @CharaspowerAI)](#action-fantasy-case-32)
+  - [Пример 33: Крокодил тащит самолёт по взлётной полосе (by @rahulnanda86)](#action-fantasy-case-33)
+  - [Пример 34: Аниме-гол молниеносного нападающего (by @CharaspowerAI)](#action-fantasy-case-34)
+  - [Пример 35: Полёт грифона над долиной полевых цветов (by @Mayz1169)](#action-fantasy-case-35)
+  - [Пример 36: Парфянский выстрел монгольской кавалерии (by @Ankit_patel211)](#action-fantasy-case-36)
+  - [Пример 37: Спринт курьера на гигантской лягушке (by @0xbisc)](#action-fantasy-case-37)
+  - [Пример 38: Зомби-осада громовой воительницы (by @MO_IAI)](#action-fantasy-case-38)
+  - [Пример 39: Буря в храме белого тигра (by @LudovicCreator)](#action-fantasy-case-39)
+  - [Пример 40: Гигантская акула у продовольственной баржи (by @rahulnanda86)](#action-fantasy-case-40)
   - [Пример 41: Сенсационная победа великанши на арене (by @rahulnanda86)](#action-fantasy-case-41)
   - [Пример 42: Разгром нападающих телохранителем на складе (by @Rosey_watson)](#action-fantasy-case-42)
-- [🎞️ Кинематографический реализм](#cinematic-realism) (8)
-  - [Пример 1: Документальная сцена о современной Японии (автор @kuranoayashi)](#cinematic-realism-case-1)
-  - [Пример 2: Спуск на лонгборде по следу тени (автор @Dheepanratnam)](#cinematic-realism-case-2)
-  - [Пример 3: Воительница, пробуждённая метеором (автор @ChrisTheNerv)](#cinematic-realism-case-3)
-  - [Пример 4: Драма на туманном острове-капсуле (автор @umesh_ai)](#cinematic-realism-case-4)
-  - [Пример 5: Появление самурая на штормовом утёсе (автор @umesh_ai)](#cinematic-realism-case-5)
-  - [Пример 6: Судья каннонбола у VHS-бассейна (автор @Ankit_patel211)](#cinematic-realism-case-6)
-  - [Пример 7: Штормовая гонка на винтажном чёрном автомобиле (автор @LudovicCreator)](#cinematic-realism-case-7)
-  - [Пример 8: Сцена маяка на штормовом побережье (автор @LudovicCreator)](#cinematic-realism-case-8)
+  - [Пример 43: Атака червя на арктическую станцию (by @StevieMac03)](#action-fantasy-case-43)
+- [🎞️ Cinematic Realism](#cinematic-realism) (10)
+  - [Пример 1: Документальная сцена о современной Японии (by @kuranoayashi)](#cinematic-realism-case-1)
+  - [Пример 2: Спуск на лонгборде по следу тени (by @Dheepanratnam)](#cinematic-realism-case-2)
+  - [Пример 3: Воительница, пробуждённая метеором (by @ChrisTheNerv)](#cinematic-realism-case-3)
+  - [Пример 4: Драма на туманном острове-капсуле (by @umesh_ai)](#cinematic-realism-case-4)
+  - [Пример 5: Появление самурая на штормовом утёсе (by @umesh_ai)](#cinematic-realism-case-5)
+  - [Пример 6: Судья каннонбола у VHS-бассейна (by @Ankit_patel211)](#cinematic-realism-case-6)
+  - [Пример 7: Штормовая гонка на винтажном чёрном автомобиле (by @LudovicCreator)](#cinematic-realism-case-7)
+  - [Пример 8: Сцена маяка на штормовом побережье (by @LudovicCreator)](#cinematic-realism-case-8)
   - [Пример 9: Побег на багги сквозь песчаную бурю (by @umesh_ai)](#cinematic-realism-case-9)
+  - [Пример 10: Теледрака Аргентина против Испании (by @Ankit_patel211)](#cinematic-realism-case-10)
 - [🥽 POV / FPV](#pov-fpv) (21)
-  - [Пример 1: Погоня в камуфляже с нагрудной камерой (автор @genel_ai)](#pov-fpv-case-1)
-  - [Пример 2: Динамичный ролик о киберпанковском Шанхае (автор @Adam38363368936)](#pov-fpv-case-2)
-  - [Пример 3: Согласованный экшен-промпт о проклятом самурае (автор @Just_sharon7)](#pov-fpv-case-3)
-  - [Пример 4: Монтаж вечеринки у бассейна в стиле Y2K на видеокамеру (автор @johnAGI168)](#pov-fpv-case-4)
-  - [Пример 5: Городской рывок от первого лица с картой Tesla (автор @xingsthatmatter)](#pov-fpv-case-5)
-  - [Пример 6: Экстремально крупные планы в аниме-клипе (автор @drjoetw)](#pov-fpv-case-6)
-  - [Пример 7: Быстрая бесшовная сцена из 16 кадров (автор @aisavvy1)](#pov-fpv-case-7)
-  - [Пример 8: Спуск над средневековым фантазийным городом (автор @LudovicCreator)](#pov-fpv-case-8)
-  - [Пример 9: Кубик льда падает в стакан газировки от первого лица (автор @LudovicCreator)](#pov-fpv-case-9)
-  - [Пример 10: Грубая ручная эстетика 35-мм плёнки с естественным зерном (автор @AngelNwoha)](#pov-fpv-case-10)
-  - [Пример 11: Фотореалистичное кинематографическое POV-видео на 10 секунд (автор @umitsuru_fire)](#pov-fpv-case-11)
-  - [Пример 12: Сверхфутуристический мегаполис после апокалипсиса пробуждается в буре (автор @johnAGI168)](#pov-fpv-case-12)
-  - [Пример 13: Стиль: ультрареалистичный промышленный таймлапс (автор @craftian_keskin)](#pov-fpv-case-13)
-  - [Пример 14: Превращение школьницы во время нападения монстра (автор @Yuupapa_free)](#pov-fpv-case-14)
-  - [Пример 15: Американские горки в Токио от первого лица (автор @TechTalkNAVI)](#pov-fpv-case-15)
-  - [Пример 16: Кинематографическая реклама культуры Пекина — 8K от первого лица (автор @crayon1267)](#pov-fpv-case-16)
-  - [Пример 17: Экстремальная макросъёмка FPV — слежение за крыльями феи (автор @EHuanglu)](#pov-fpv-case-17)
-  - [Пример 18: Гравитационное падение в вулканическую пещеру (автор @LudovicCreator)](#pov-fpv-case-18)
-  - [Пример 19: Сверхзвуковой полёт от первого лица по пустынному каньону (автор @LudovicCreator)](#pov-fpv-case-19)
-  - [Пример 20: FPV-пролёт над фейерверками Франции (автор @LudovicCreator)](#pov-fpv-case-20)
+  - [Пример 1: Погоня в камуфляже с нагрудной камерой (by @genel_ai)](#pov-fpv-case-1)
+  - [Пример 2: Динамичный ролик о киберпанковском Шанхае (by @Adam38363368936)](#pov-fpv-case-2)
+  - [Пример 3: Согласованный экшен-промпт о проклятом самурае (by @Just_sharon7)](#pov-fpv-case-3)
+  - [Пример 4: Монтаж вечеринки у бассейна в стиле Y2K на видеокамеру (by @johnAGI168)](#pov-fpv-case-4)
+  - [Пример 5: Городской рывок от первого лица с картой Tesla (by @xingsthatmatter)](#pov-fpv-case-5)
+  - [Пример 6: Экстремально крупные планы в аниме-клипе (by @drjoetw)](#pov-fpv-case-6)
+  - [Пример 7: Быстрая бесшовная сцена из 16 кадров (by @aisavvy1)](#pov-fpv-case-7)
+  - [Пример 8: Спуск над средневековым фантазийным городом (by @LudovicCreator)](#pov-fpv-case-8)
+  - [Пример 9: Кубик льда падает в стакан газировки от первого лица (by @LudovicCreator)](#pov-fpv-case-9)
+  - [Пример 10: Грубая ручная эстетика 35-мм плёнки с естественным зерном (by @AngelNwoha)](#pov-fpv-case-10)
+  - [Пример 11: Фотореалистичное кинематографическое POV-видео на 10 секунд (by @umitsuru_fire)](#pov-fpv-case-11)
+  - [Пример 12: Сверхфутуристический мегаполис после апокалипсиса пробуждается в буре (by @johnAGI168)](#pov-fpv-case-12)
+  - [Пример 13: Стиль: ультрареалистичный промышленный таймлапс (by @craftian_keskin)](#pov-fpv-case-13)
+  - [Пример 14: Превращение школьницы во время нападения монстра (by @Yuupapa_free)](#pov-fpv-case-14)
+  - [Пример 15: Американские горки в Токио от первого лица (by @TechTalkNAVI)](#pov-fpv-case-15)
+  - [Пример 16: Кинематографическая реклама культуры Пекина — 8K от первого лица (by @crayon1267)](#pov-fpv-case-16)
+  - [Пример 17: Экстремальная макросъёмка FPV — слежение за крыльями феи (by @EHuanglu)](#pov-fpv-case-17)
+  - [Пример 18: Гравитационное падение в вулканическую пещеру (by @LudovicCreator)](#pov-fpv-case-18)
+  - [Пример 19: Сверхзвуковой полёт от первого лица по пустынному каньону (by @LudovicCreator)](#pov-fpv-case-19)
+  - [Пример 20: FPV-пролёт над фейерверками Франции (by @LudovicCreator)](#pov-fpv-case-20)
   - [Пример 21: FPV-пикирование над кибернетическим полем боя (by @LudovicCreator)](#pov-fpv-case-21)
-- [🏷️ Реклама / Продукт](#commercial-product) (27)
-  - [Пример 1: Танцевальная сцена аниме-трио в стиле рекламы духов (автор @ShadeLurk)](#commercial-product-case-1)
-  - [Пример 2: Дуэль в церкви тёмного фэнтези (автор @ZaraIrahh)](#commercial-product-case-2)
-  - [Пример 3: Дуэль в зале святилища тёмного фэнтези (автор @MiraMusic_AI)](#commercial-product-case-3)
-  - [Пример 4: Неожиданная шутка в японской рекламе снеков (автор @aigeboku)](#commercial-product-case-4)
-  - [Пример 5: Кинематографическая сцена боевых искусств для Seedance 2 (автор @CharaspowerAI)](#commercial-product-case-5)
-  - [Пример 6: Шёпот и романтика в японском классе (автор @JiahaoYang_art)](#commercial-product-case-6)
-  - [Пример 7: Раскадровка рекламы LaFerrari (автор @Adam38363368936)](#commercial-product-case-7)
-  - [Пример 8: Финальная дуэль в духе горячего аниме (автор @gkxspace)](#commercial-product-case-8)
-  - [Пример 9: Подиум фарфоровой высокой моды на небесном зеркале (автор @johnAGI168)](#commercial-product-case-9)
-  - [Пример 10: Реклама урожая от современного сельского автора (автор @johnAGI168)](#commercial-product-case-10)
-  - [Пример 11: Неоновая сцена уличных гонок (автор @CharaspowerAI)](#commercial-product-case-11)
-  - [Пример 12: Супермодель и роскошные спорткары (автор @johnAGI168)](#commercial-product-case-12)
-  - [Пример 13: Погоня за девушкой-андроидом после разрушения лаборатории (автор @aiehon_aya)](#commercial-product-case-13)
-  - [Пример 14: Игровой трейлер в разрушенном неоновом городе (автор @adrianaia_)](#commercial-product-case-14)
-  - [Пример 15: Оригинальная экшен-короткометражка в жанре тёмного фэнтези (автор @Rufus87078959)](#commercial-product-case-15)
-  - [Пример 16: 00:00–00:04 Кадр 1: съёмка со слежением (автор @IamEmily2050)](#commercial-product-case-16)
-  - [Пример 17: Тактический бой на крыше поезда (автор @ImperfectEngel)](#commercial-product-case-17)
-  - [Пример 18: Безумие на торговой площадке Манхэттена (автор @johnAGI168)](#commercial-product-case-18)
-  - [Пример 19: Среда в стиле полицейского кино (автор @ChrisGwinnLA)](#commercial-product-case-19)
-  - [Пример 20: Модная реклама складного смартфона (автор @Adam38363368936)](#commercial-product-case-20)
-  - [Пример 21: Монтаж с чемоданом — спутником в путешествии (автор @ChaseAIx)](#commercial-product-case-21)
-  - [Пример 22: Модный лукбук сверху — смена нарядов (автор @johnAGI168)](#commercial-product-case-22)
-  - [Пример 23: Премиальная лайфстайл-реклама в стиле селфи-влога (автор @johnAGI168)](#commercial-product-case-23)
-  - [Пример 24: Ролик о водостойких кроссовках в ритм музыки (автор @madpencil_)](#commercial-product-case-24)
-  - [Пример 25: Презентация сыворотки с мангостином (автор @ritesh_ai)](#commercial-product-case-25)
-  - [Пример 26: Показ чемодана-такси в Мумбаи (автор @rahulnanda86)](#commercial-product-case-26)
-  - [Пример 27: Инфлюенсер-тур по вилле на утёсе (автор @Ankit_patel211)](#commercial-product-case-27)
-- [🖼️ На основе референсов](#reference-driven) (22)
-  - [Пример 1: Выступление пианиста-скелета в миниатюрной диораме (автор @tea_story_hoshi)](#reference-driven-case-1)
-  - [Пример 2: Принцесса на корабле в шторме против кракена (автор @applete77191758)](#reference-driven-case-2)
-  - [Пример 3: Танец клинков служанок: Мэй против Коко (автор @MiraMusic_AI)](#reference-driven-case-3)
-  - [Пример 4: Прощание с пианино на крыше после апокалипсиса (автор @liyue_ai)](#reference-driven-case-4)
-  - [Пример 5: Кинематографический 8-мм объектив «рыбий глаз», гоночный FPV-дрон и сверхплавное движение (автор @itsPixieVerse)](#reference-driven-case-5)
-  - [Пример 6: Кунг-фу-трюки по референсу (автор @YaReYaRu30Life)](#reference-driven-case-6)
-  - [Пример 7: Трассировка лучей, рендер Unreal Engine и городок под ливнем (автор @Gwsubsa)](#reference-driven-case-7)
-  - [Пример 8: Ночная смена в лунном магазине (автор @zasuko_michiksa)](#reference-driven-case-8)
-  - [Пример 9: Пробуждение на крыше и превращение в F-14 (автор @john87445528)](#reference-driven-case-9)
-  - [Пример 10: Сборка брони и уличная контратака (автор @egeberkina)](#reference-driven-case-10)
-  - [Пример 11: Персонаж с изображения 1 в реалистичном игровом стиле (автор @Adam38363368936)](#reference-driven-case-11)
-  - [Пример 12: Шаблон поединка на мечах с белым медведем и монтажным совпадением (автор @aimikoda)](#reference-driven-case-12)
-  - [Пример 13: Бесшовное превращение по семи изображениям (автор @YaReYaRu30Life)](#reference-driven-case-13)
-  - [Пример 14: Реклама кроссовок Stridex (автор @ShamsAmin56)](#reference-driven-case-14)
-  - [Пример 15: Промпт по изображению с поющим котом (автор @pan_soramame_da)](#reference-driven-case-15)
-  - [Пример 16: Аниме-промпт с референсом персонажа (автор @Reiria123)](#reference-driven-case-16)
-  - [Пример 17: Мультяшные герои превращаются в реалистичных животных (автор @MustafyOf)](#reference-driven-case-17)
-  - [Пример 18: Фиксированная иерархия референсов раскадровки (автор @startracker)](#reference-driven-case-18)
-  - [Пример 19: Монтаж поглощения энергии VOLTIA (автор @itsPixieVerse)](#reference-driven-case-19)
-  - [Пример 20: Дворцовое признание Клеопатры (автор @kinovi_ai)](#reference-driven-case-20)
-  - [Пример 21: Дождливое воссоединение под фонарём (автор @umesh_ai)](#reference-driven-case-21)
-  - [Пример 22: Однокадровое превращение за кулисами куньцюй (автор @ou_zhen599)](#reference-driven-case-22)
-- [🌀 Сюрреализм / VFX](#surreal-vfx) (15)
-  - [Пример 1: Бой на катанах в невесомости (автор @MiraMusic_AI)](#surreal-vfx-case-1)
-  - [Пример 2: Кит в облаках — сюрреалистическая эпопея (автор @chaosdotjpg)](#surreal-vfx-case-2)
-  - [Пример 3: Превращение глубоководного ныряльщика в морское существо (автор @AIARTGALLARY)](#surreal-vfx-case-3)
-  - [Пример 4: Обрушение межпространственного разлома в мегаполисе (автор @LudovicCreator)](#surreal-vfx-case-4)
-  - [Пример 5: Слияние в дождливом подземном переулке (автор @Dheepanratnam)](#surreal-vfx-case-5)
-  - [Пример 6: Уличный разлом из-за разрушения квантовой реальности (автор @Dheepanratnam)](#surreal-vfx-case-6)
-  - [Пример 7: Глаз внезапно открывается (автор @roco_kn_roco)](#surreal-vfx-case-7)
-  - [Пример 8: Они сталкиваются в воздухе над парящей лавовой рекой (автор @LudovicCreator)](#surreal-vfx-case-8)
-  - [Пример 9: Прогулка креативного директора между измерениями (автор @lukasersil)](#surreal-vfx-case-9)
-  - [Пример 10: Надпись на алтаре сущности из бездны — тёмное фэнтези (автор @Adam38363368936)](#surreal-vfx-case-10)
-  - [Пример 11: Преображение сцены с парящим цветовым кругом интерфейса (автор @johnAGI168)](#surreal-vfx-case-11)
-  - [Пример 12: Сцена превращения огненной императрицы (автор @LudovicCreator)](#surreal-vfx-case-12)
-  - [Пример 13: Превращение в песчаного титана в пустыне (автор @LudovicCreator)](#surreal-vfx-case-13)
-  - [Пример 14: Машина для побега, ставшая мусоровозом (автор @LavrionX)](#surreal-vfx-case-14)
-  - [Пример 15: Каллиграфическое превращение хранительницы леса (автор @LudovicCreator)](#surreal-vfx-case-15)
-- [📐 Шаблоны и структурированные форматы](#templates-structured) (19)
-  - [Пример 1: Катастрофическое затопление суперавианосца (автор @johnAGI168)](#templates-structured-case-1)
-  - [Пример 2: Восстановление осколков памяти (автор @TechTalkNAVI)](#templates-structured-case-2)
-  - [Пример 3: От чертежа к реальности — превращение одноэтажного дома (автор @craftian_keskin)](#templates-structured-case-3)
-  - [Пример 4: Портной высокой моды и боевых искусств (автор @Adam38363368936)](#templates-structured-case-4)
-  - [Пример 5: Шаблон смены нарядов в ритм музыки (автор @aimikoda)](#templates-structured-case-5)
-  - [Пример 6: Шаблон района танцующих небоскрёбов (автор @TechTalkNAVI)](#templates-structured-case-6)
-  - [Пример 7: Тень звёздного света / силуэт из звёздной пыли (автор @TechTalkNAVI)](#templates-structured-case-7)
-  - [Пример 8: Живописный шаблон паркура от первого лица (автор @0xbisc)](#templates-structured-case-8)
-  - [Пример 9: Шаблон 360-градусного бега вниз по лестнице от первого лица (автор @aimikoda)](#templates-structured-case-9)
-  - [Пример 10: Шаблон движения еды и персонажа (автор @Just_sharon7)](#templates-structured-case-10)
-  - [Пример 11: Шаблон рывка по кухне с невозможной камерой (автор @Dheepanratnam)](#templates-structured-case-11)
-  - [Пример 12: Шаблон POV-всплеска с остановкой времени (автор @CharaspowerAI)](#templates-structured-case-12)
-  - [Пример 13: Шаблон первого выхода астронавта в открытый космос (автор @BrennanErbz)](#templates-structured-case-13)
-  - [Пример 14: Шаблон распорядка дня золотистого ретривера (автор @0xbisc)](#templates-structured-case-14)
-  - [Пример 15: Стилизованное трёхмерное превращение в барбершопе (автор @ShamiWeb3)](#templates-structured-case-15)
-  - [Пример 16: Импрессионистский шаблон рук с вёслами (автор @0xbisc)](#templates-structured-case-16)
-  - [Пример 17: Женщина-воин — структурированный промпт объекта (автор @noman23761)](#templates-structured-case-17)
-  - [Пример 18: Лофт-интерьер из коробки (автор @samaote)](#templates-structured-case-18)
-  - [Пример 19: Тест детализации мимики (автор @ou_zhen599)](#templates-structured-case-19)
+- [🏷️ Commercial / Product](#commercial-product) (27)
+  - [Пример 1: Танцевальная сцена аниме-трио в стиле рекламы духов (by @ShadeLurk)](#commercial-product-case-1)
+  - [Пример 2: Дуэль в церкви тёмного фэнтези (by @ZaraIrahh)](#commercial-product-case-2)
+  - [Пример 3: Дуэль в зале святилища тёмного фэнтези (by @MiraMusic_AI)](#commercial-product-case-3)
+  - [Пример 4: Неожиданная шутка в японской рекламе снеков (by @aigeboku)](#commercial-product-case-4)
+  - [Пример 5: Кинематографическая сцена боевых искусств для Seedance 2 (by @CharaspowerAI)](#commercial-product-case-5)
+  - [Пример 6: Шёпот и романтика в японском классе (by @JiahaoYang_art)](#commercial-product-case-6)
+  - [Пример 7: Раскадровка рекламы LaFerrari (by @Adam38363368936)](#commercial-product-case-7)
+  - [Пример 8: Финальная дуэль в духе горячего аниме (by @gkxspace)](#commercial-product-case-8)
+  - [Пример 9: Подиум фарфоровой высокой моды на небесном зеркале (by @johnAGI168)](#commercial-product-case-9)
+  - [Пример 10: Реклама урожая от современного сельского автора (by @johnAGI168)](#commercial-product-case-10)
+  - [Пример 11: Неоновая сцена уличных гонок (by @CharaspowerAI)](#commercial-product-case-11)
+  - [Пример 12: Супермодель и роскошные спорткары (by @johnAGI168)](#commercial-product-case-12)
+  - [Пример 13: Погоня за девушкой-андроидом после разрушения лаборатории (by @aiehon_aya)](#commercial-product-case-13)
+  - [Пример 14: Игровой трейлер в разрушенном неоновом городе (by @adrianaia_)](#commercial-product-case-14)
+  - [Пример 15: Оригинальная экшен-короткометражка в жанре тёмного фэнтези (by @Rufus87078959)](#commercial-product-case-15)
+  - [Пример 16: 00:00–00:04 Кадр 1: съёмка со слежением (by @IamEmily2050)](#commercial-product-case-16)
+  - [Пример 17: Тактический бой на крыше поезда (by @ImperfectEngel)](#commercial-product-case-17)
+  - [Пример 18: Безумие на торговой площадке Манхэттена (by @johnAGI168)](#commercial-product-case-18)
+  - [Пример 19: Среда в стиле полицейского кино (by @ChrisGwinnLA)](#commercial-product-case-19)
+  - [Пример 20: Модная реклама складного смартфона (by @Adam38363368936)](#commercial-product-case-20)
+  - [Пример 21: Монтаж с чемоданом — спутником в путешествии (by @ChaseAIx)](#commercial-product-case-21)
+  - [Пример 22: Модный лукбук сверху — смена нарядов (by @johnAGI168)](#commercial-product-case-22)
+  - [Пример 23: Премиальная лайфстайл-реклама в стиле селфи-влога (by @johnAGI168)](#commercial-product-case-23)
+  - [Пример 24: Ролик о водостойких кроссовках в ритм музыки (by @madpencil_)](#commercial-product-case-24)
+  - [Пример 25: Презентация сыворотки с мангостином (by @ritesh_ai)](#commercial-product-case-25)
+  - [Пример 26: Показ чемодана-такси в Мумбаи (by @rahulnanda86)](#commercial-product-case-26)
+  - [Пример 27: Инфлюенсер-тур по вилле на утёсе (by @Ankit_patel211)](#commercial-product-case-27)
+- [🖼️ Reference-Driven](#reference-driven) (22)
+  - [Пример 1: Выступление пианиста-скелета в миниатюрной диораме (by @tea_story_hoshi)](#reference-driven-case-1)
+  - [Пример 2: Принцесса на корабле в шторме против кракена (by @applete77191758)](#reference-driven-case-2)
+  - [Пример 3: Танец клинков служанок: Мэй против Коко (by @MiraMusic_AI)](#reference-driven-case-3)
+  - [Пример 4: Прощание с пианино на крыше после апокалипсиса (by @liyue_ai)](#reference-driven-case-4)
+  - [Пример 5: Кинематографический 8-мм объектив «рыбий глаз», гоночный FPV-дрон и сверхплавное движение (by @itsPixieVerse)](#reference-driven-case-5)
+  - [Пример 6: Кунг-фу-трюки по референсу (by @YaReYaRu30Life)](#reference-driven-case-6)
+  - [Пример 7: Трассировка лучей, рендер Unreal Engine и городок под ливнем (by @Gwsubsa)](#reference-driven-case-7)
+  - [Пример 8: Ночная смена в лунном магазине (by @zasuko_michiksa)](#reference-driven-case-8)
+  - [Пример 9: Пробуждение на крыше и превращение в F-14 (by @john87445528)](#reference-driven-case-9)
+  - [Пример 10: Сборка брони и уличная контратака (by @egeberkina)](#reference-driven-case-10)
+  - [Пример 11: Персонаж с изображения 1 в реалистичном игровом стиле (by @Adam38363368936)](#reference-driven-case-11)
+  - [Пример 12: Шаблон поединка на мечах с белым медведем и монтажным совпадением (by @aimikoda)](#reference-driven-case-12)
+  - [Пример 13: Бесшовное превращение по семи изображениям (by @YaReYaRu30Life)](#reference-driven-case-13)
+  - [Пример 14: Реклама кроссовок Stridex (by @ShamsAmin56)](#reference-driven-case-14)
+  - [Пример 15: Промпт по изображению с поющим котом (by @pan_soramame_da)](#reference-driven-case-15)
+  - [Пример 16: Аниме-промпт с референсом персонажа (by @Reiria123)](#reference-driven-case-16)
+  - [Пример 17: Мультяшные герои превращаются в реалистичных животных (by @MustafyOf)](#reference-driven-case-17)
+  - [Пример 18: Фиксированная иерархия референсов раскадровки (by @startracker)](#reference-driven-case-18)
+  - [Пример 19: Монтаж поглощения энергии VOLTIA (by @itsPixieVerse)](#reference-driven-case-19)
+  - [Пример 20: Дворцовое признание Клеопатры (by @kinovi_ai)](#reference-driven-case-20)
+  - [Пример 21: Дождливое воссоединение под фонарём (by @umesh_ai)](#reference-driven-case-21)
+  - [Пример 22: Однокадровое превращение за кулисами куньцюй (by @ou_zhen599)](#reference-driven-case-22)
+- [🌀 Surreal / VFX](#surreal-vfx) (16)
+  - [Пример 1: Бой на катанах в невесомости (by @MiraMusic_AI)](#surreal-vfx-case-1)
+  - [Пример 2: Кит в облаках — сюрреалистическая эпопея (by @chaosdotjpg)](#surreal-vfx-case-2)
+  - [Пример 3: Превращение глубоководного ныряльщика в морское существо (by @AIARTGALLARY)](#surreal-vfx-case-3)
+  - [Пример 4: Обрушение межпространственного разлома в мегаполисе (by @LudovicCreator)](#surreal-vfx-case-4)
+  - [Пример 5: Слияние в дождливом подземном переулке (by @Dheepanratnam)](#surreal-vfx-case-5)
+  - [Пример 6: Уличный разлом из-за разрушения квантовой реальности (by @Dheepanratnam)](#surreal-vfx-case-6)
+  - [Пример 7: Глаз внезапно открывается (by @roco_kn_roco)](#surreal-vfx-case-7)
+  - [Пример 8: Они сталкиваются в воздухе над парящей лавовой рекой (by @LudovicCreator)](#surreal-vfx-case-8)
+  - [Пример 9: Прогулка креативного директора между измерениями (by @lukasersil)](#surreal-vfx-case-9)
+  - [Пример 10: Надпись на алтаре сущности из бездны — тёмное фэнтези (by @Adam38363368936)](#surreal-vfx-case-10)
+  - [Пример 11: Преображение сцены с парящим цветовым кругом интерфейса (by @johnAGI168)](#surreal-vfx-case-11)
+  - [Пример 12: Сцена превращения огненной императрицы (by @LudovicCreator)](#surreal-vfx-case-12)
+  - [Пример 13: Превращение в песчаного титана в пустыне (by @LudovicCreator)](#surreal-vfx-case-13)
+  - [Пример 14: Машина для побега, ставшая мусоровозом (by @LavrionX)](#surreal-vfx-case-14)
+  - [Пример 15: Каллиграфическое превращение хранительницы леса (by @LudovicCreator)](#surreal-vfx-case-15)
+  - [Пример 16: Призрак чайной церемонии (by @LudovicCreator)](#surreal-vfx-case-16)
+- [📐 Templates & Structured Formats](#templates-structured) (21)
+  - [Пример 1: Катастрофическое затопление суперавианосца (by @johnAGI168)](#templates-structured-case-1)
+  - [Пример 2: Восстановление осколков памяти (by @TechTalkNAVI)](#templates-structured-case-2)
+  - [Пример 3: От чертежа к реальности — превращение одноэтажного дома (by @craftian_keskin)](#templates-structured-case-3)
+  - [Пример 4: Портной высокой моды и боевых искусств (by @Adam38363368936)](#templates-structured-case-4)
+  - [Пример 5: Шаблон смены нарядов в ритм музыки (by @aimikoda)](#templates-structured-case-5)
+  - [Пример 6: Шаблон района танцующих небоскрёбов (by @TechTalkNAVI)](#templates-structured-case-6)
+  - [Пример 7: Тень звёздного света / силуэт из звёздной пыли (by @TechTalkNAVI)](#templates-structured-case-7)
+  - [Пример 8: Живописный шаблон паркура от первого лица (by @0xbisc)](#templates-structured-case-8)
+  - [Пример 9: Шаблон 360-градусного бега вниз по лестнице от первого лица (by @aimikoda)](#templates-structured-case-9)
+  - [Пример 10: Шаблон движения еды и персонажа (by @Just_sharon7)](#templates-structured-case-10)
+  - [Пример 11: Шаблон рывка по кухне с невозможной камерой (by @Dheepanratnam)](#templates-structured-case-11)
+  - [Пример 12: Шаблон POV-всплеска с остановкой времени (by @CharaspowerAI)](#templates-structured-case-12)
+  - [Пример 13: Шаблон первого выхода астронавта в открытый космос (by @BrennanErbz)](#templates-structured-case-13)
+  - [Пример 14: Шаблон распорядка дня золотистого ретривера (by @0xbisc)](#templates-structured-case-14)
+  - [Пример 15: Стилизованное трёхмерное превращение в барбершопе (by @ShamiWeb3)](#templates-structured-case-15)
+  - [Пример 16: Импрессионистский шаблон рук с вёслами (by @0xbisc)](#templates-structured-case-16)
+  - [Пример 17: Женщина-воин — структурированный промпт объекта (by @noman23761)](#templates-structured-case-17)
+  - [Пример 18: Лофт-интерьер из коробки (by @samaote)](#templates-structured-case-18)
+  - [Пример 19: Тест детализации мимики (by @ou_zhen599)](#templates-structured-case-19)
   - [Пример 20: Раскадровка побега из затопленного бального зала (by @ChangningL29508)](#templates-structured-case-20)
-- [🎬 Общая кинематография](#general-cinematic) (38)
-  - [Пример 1: Модный крупный план каблуков в такт музыке (автор @TingFengAIAI)](#general-cinematic-case-1)
-  - [Пример 2: Побег на мини-скейтборде в детской спальне (автор @anson7956)](#general-cinematic-case-2)
-  - [Пример 3: Противостояние бабушек в Ракер-парке (автор @techhalla)](#general-cinematic-case-3)
-  - [Пример 4: Спасение младенца пожарным (автор @AITalesNBH)](#general-cinematic-case-4)
-  - [Пример 5: Показ превращения в древний костюм (автор @johnAGI168)](#general-cinematic-case-5)
-  - [Пример 6: Ночная Гиндза, киберпанк будущего (автор @ChiakiAkagi)](#general-cinematic-case-6)
-  - [Пример 7: Истории прыгуна (автор @starks_arq)](#general-cinematic-case-7)
-  - [Пример 8: Подозрительный мужчина стоит в центре перекрёстка Сибуя (автор @roco_kn_roco)](#general-cinematic-case-8)
-  - [Пример 9: Съёмка на телефон в толпе на рыбацком судне (автор @maxescu)](#general-cinematic-case-9)
-  - [Пример 10: Девушка стремительно падает сквозь цифровой тоннель (автор @_3912657840)](#general-cinematic-case-10)
-  - [Пример 11: Запуск рельсотрона с телебашни Skytree (автор @TechTalkNAVI)](#general-cinematic-case-11)
-  - [Пример 12: Трейлер голливудского фильма (автор @SSSS_CRYPTOMAN)](#general-cinematic-case-12)
-  - [Пример 13: Кинематографическая вертикальная сцена 9:16 (автор @Mayz1169)](#general-cinematic-case-13)
-  - [Пример 14: Гигантская ледниковая стена рушится во фьорд рядом с прибрежным городом (автор @LudovicCreator)](#general-cinematic-case-14)
-  - [Пример 15: Погоня за мышью у пианино в лунном свете (автор @Dheepanratnam)](#general-cinematic-case-15)
-  - [Пример 16: Непрерывная 15-секундная мультяшная сцена одним кадром (автор @Artedeingenio)](#general-cinematic-case-16)
-  - [Пример 17: Битва стимпанк-дирижаблей на закате (автор @Alin_Reaper05)](#general-cinematic-case-17)
-  - [Пример 18: Съёмка со слежением за реактивными крыльями из шлёпанцев (автор @maxescu)](#general-cinematic-case-18)
-  - [Пример 19: Внешний вид древнего храма глубоко в горах (автор @cdexsta)](#general-cinematic-case-19)
-  - [Пример 20: Раскадровка рассвета у Статуи Свободы (автор @MrDasOnX)](#general-cinematic-case-20)
-  - [Пример 21: Историческая сцена с драматическим освещением (автор @AskVenice)](#general-cinematic-case-21)
-  - [Пример 22: Непрерывная съёмка ракетного сёрфинга (автор @maxescu)](#general-cinematic-case-22)
-  - [Пример 23: Шаблон монолога стендап-комика (автор @Adam38363368936)](#general-cinematic-case-23)
-  - [Пример 24: Ресторанная драма о предательстве на дне рождения (автор @Lighterkissan33)](#general-cinematic-case-24)
-  - [Пример 25: Древний паркур со сменой костюмов (автор @Adam38363368936)](#general-cinematic-case-25)
-  - [Пример 26: Внутреннее устройство двигателя — механика поршня (автор @YaReYaRu30Life)](#general-cinematic-case-26)
-  - [Пример 27: Японский романтический симулятор 90-х — стиль рисованной анимации (автор @kinopioai_ai)](#general-cinematic-case-27)
-  - [Пример 28: Приёмы кинорежиссуры — промпт с несколькими кадрами (автор @noman23761)](#general-cinematic-case-28)
-  - [Пример 29: Портрет восточноазиатской женщины — естественная улыбка (автор @noman23761)](#general-cinematic-case-29)
-  - [Пример 30: Выживание после апокалипсиса — кинематографическая постановка (автор @noman23761)](#general-cinematic-case-30)
-  - [Пример 31: Лесная поляна в стиле Pixar — трёхмерная анимация (автор @SPEEDAI07)](#general-cinematic-case-31)
-  - [Пример 32: Котёнок крадёт закуски под одеялом (автор @lynneatyoumind)](#general-cinematic-case-32)
-  - [Пример 33: Тест естественной речи T2V в Seedance 2.0 (автор @tanabe_fragm)](#general-cinematic-case-33)
-  - [Пример 34: Хоррор-анимация с бумажными куклами (автор @TomaAIbijo)](#general-cinematic-case-34)
-  - [Пример 35: Съёмка с сопровождением мотоцикла в красной пустыне (автор @LudovicCreator)](#general-cinematic-case-35)
-  - [Пример 36: DV-кадры катастрофы в Помпеях (автор @venturetwins)](#general-cinematic-case-36)
-  - [Пример 37: Прогулка астронавта по заброшенному парку аттракционов (автор @LudovicCreator)](#general-cinematic-case-37)
-  - [Пример 38: Плавание пиратской утки по ванне (автор @CharaspowerAI)](#general-cinematic-case-38)
+  - [Пример 21: Битмап дуэли на платформе (by @SYDxStudio)](#templates-structured-case-21)
+- [🎬 General Cinematic](#general-cinematic) (39)
+  - [Пример 1: Модный крупный план каблуков в такт музыке (by @TingFengAIAI)](#general-cinematic-case-1)
+  - [Пример 2: Побег на мини-скейтборде в детской спальне (by @anson7956)](#general-cinematic-case-2)
+  - [Пример 3: Противостояние бабушек в Ракер-парке (by @techhalla)](#general-cinematic-case-3)
+  - [Пример 4: Спасение младенца пожарным (by @AITalesNBH)](#general-cinematic-case-4)
+  - [Пример 5: Показ превращения в древний костюм (by @johnAGI168)](#general-cinematic-case-5)
+  - [Пример 6: Ночная Гиндза, киберпанк будущего (by @ChiakiAkagi)](#general-cinematic-case-6)
+  - [Пример 7: Истории прыгуна (by @starks_arq)](#general-cinematic-case-7)
+  - [Пример 8: Подозрительный мужчина стоит в центре перекрёстка Сибуя (by @roco_kn_roco)](#general-cinematic-case-8)
+  - [Пример 9: Съёмка на телефон в толпе на рыбацком судне (by @maxescu)](#general-cinematic-case-9)
+  - [Пример 10: Девушка стремительно падает сквозь цифровой тоннель (by @_3912657840)](#general-cinematic-case-10)
+  - [Пример 11: Запуск рельсотрона с телебашни Skytree (by @TechTalkNAVI)](#general-cinematic-case-11)
+  - [Пример 12: Трейлер голливудского фильма (by @SSSS_CRYPTOMAN)](#general-cinematic-case-12)
+  - [Пример 13: Кинематографическая вертикальная сцена 9:16 (by @Mayz1169)](#general-cinematic-case-13)
+  - [Пример 14: Гигантская ледниковая стена рушится во фьорд рядом с прибрежным городом (by @LudovicCreator)](#general-cinematic-case-14)
+  - [Пример 15: Погоня за мышью у пианино в лунном свете (by @Dheepanratnam)](#general-cinematic-case-15)
+  - [Пример 16: Непрерывная 15-секундная мультяшная сцена одним кадром (by @Artedeingenio)](#general-cinematic-case-16)
+  - [Пример 17: Битва стимпанк-дирижаблей на закате (by @Alin_Reaper05)](#general-cinematic-case-17)
+  - [Пример 18: Съёмка со слежением за реактивными крыльями из шлёпанцев (by @maxescu)](#general-cinematic-case-18)
+  - [Пример 19: Внешний вид древнего храма глубоко в горах (by @cdexsta)](#general-cinematic-case-19)
+  - [Пример 20: Раскадровка рассвета у Статуи Свободы (by @MrDasOnX)](#general-cinematic-case-20)
+  - [Пример 21: Историческая сцена с драматическим освещением (by @AskVenice)](#general-cinematic-case-21)
+  - [Пример 22: Непрерывная съёмка ракетного сёрфинга (by @maxescu)](#general-cinematic-case-22)
+  - [Пример 23: Шаблон монолога стендап-комика (by @Adam38363368936)](#general-cinematic-case-23)
+  - [Пример 24: Ресторанная драма о предательстве на дне рождения (by @Lighterkissan33)](#general-cinematic-case-24)
+  - [Пример 25: Древний паркур со сменой костюмов (by @Adam38363368936)](#general-cinematic-case-25)
+  - [Пример 26: Внутреннее устройство двигателя — механика поршня (by @YaReYaRu30Life)](#general-cinematic-case-26)
+  - [Пример 27: Японский романтический симулятор 90-х — стиль рисованной анимации (by @kinopioai_ai)](#general-cinematic-case-27)
+  - [Пример 28: Приёмы кинорежиссуры — промпт с несколькими кадрами (by @noman23761)](#general-cinematic-case-28)
+  - [Пример 29: Портрет восточноазиатской женщины — естественная улыбка (by @noman23761)](#general-cinematic-case-29)
+  - [Пример 30: Выживание после апокалипсиса — кинематографическая постановка (by @noman23761)](#general-cinematic-case-30)
+  - [Пример 31: Лесная поляна в стиле Pixar — трёхмерная анимация (by @SPEEDAI07)](#general-cinematic-case-31)
+  - [Пример 32: Котёнок крадёт закуски под одеялом (by @lynneatyoumind)](#general-cinematic-case-32)
+  - [Пример 33: Тест естественной речи T2V в Seedance 2.0 (by @tanabe_fragm)](#general-cinematic-case-33)
+  - [Пример 34: Хоррор-анимация с бумажными куклами (by @TomaAIbijo)](#general-cinematic-case-34)
+  - [Пример 35: Съёмка с сопровождением мотоцикла в красной пустыне (by @LudovicCreator)](#general-cinematic-case-35)
+  - [Пример 36: DV-кадры катастрофы в Помпеях (by @venturetwins)](#general-cinematic-case-36)
+  - [Пример 37: Прогулка астронавта по заброшенному парку аттракционов (by @LudovicCreator)](#general-cinematic-case-37)
+  - [Пример 38: Плавание пиратской утки по ванне (by @CharaspowerAI)](#general-cinematic-case-38)
+  - [Пример 39: Орбитальный VHS с тёмной Землёй (by @LudovicCreator)](#general-cinematic-case-39)
+
 <a id="action-fantasy"></a>
-## ⚔️ Экшен / Фэнтези
+## ⚔️ Action / Fantasy (43)
 
 <a id="action-fantasy-case-1"></a>
 <!-- Case 1: Street Rap MV Performance (by @songguoxiansen) -->
@@ -1043,7 +1049,6 @@ SHOT 6: Full shot to medium shot, 35mm, forward follow and side move. Station ap
 SHOT 7: Medium close-up to close-up, 50mm, camera moves behind messenger, approaches forward. Frog stops and stands firm, messenger turns to open back mailbox, takes out envelope, turns and hands to extended hand. Sound: latch opening, lid sound, envelope pulled out, handover, wind fades.
 ```
 
-
 <a id="action-fantasy-case-38"></a>
 <!-- Case 38: Thunder Warrior Zombie Siege (by @MO_IAI) -->
 ### Пример 38: [Зомби-осада громовой воительницы](https://x.com/MO_IAI/status/2078252502755983855) (автор [@MO_IAI](https://x.com/MO_IAI))
@@ -1098,7 +1103,6 @@ Shot 4 (9–13s) — BIG SLOW-MOTION MOMENT: The shark circles alone in the open
 
 Shot 5 (13–15s): Time snaps back. A huge blast erupts in the water beside the drifting barge, fire and spray shooting high into the sky. The rescue boat reaches the dock safely as the crew watches the water settle.
 ```
-
 
 <a id="action-fantasy-case-41"></a>
 <!-- Case 41: Arena Giantess Upset (by @rahulnanda86) -->
@@ -1183,10 +1187,49 @@ The entire coliseum explodes into deafening celebration as thousands of spectato
 ```
 A cinematic 15-second action sequence set inside a dark, gritty industrial warehouse at night, featuring moody teal-green lighting, chain-link fences, metal scaffolding, peeling green walls, and floating dust particles. A powerful, elegant East Asian Boss Lady wears a sleek black pantsuit with long flowing black hair and a calm, commanding expression. Standing beside her is a handsome, athletic male bodyguard in an all-black tailored suit with a heroic presence. As multiple attackers rush in, the bodyguard instantly steps in front of the Boss Lady, protecting her with lightning-fast punches, powerful kicks, evasive movements, and cinematic takedowns. The Boss Lady remains composed and confident, watching as her protector defeats every attacker. The sequence ends with the bodyguard standing protectively beside the Boss Lady as they walk forward together in slow motion, dust swirling around them. Handheld and tracking camera shots, dramatic low angles, realistic fabric movement, cinematic motion blur, ultra-detailed choreography, film-quality lighting, emotional heroism, 4K ultra-realistic cinematic masterpiece.
 ```
-<a id="cinematic-realism"></a>
+
+<a id="action-fantasy-case-43"></a>
+<!-- Case 43: Arctic Station Worm Attack (by @StevieMac03) -->
+### Пример 43: [Атака червя на арктическую станцию](https://x.com/StevieMac03/status/2079168831646216508) (автор [@StevieMac03](https://x.com/StevieMac03))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-43"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2079168831646216508.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Промпт:**
+
+```
+{
+  "META": "Live-action standalone creature attack short | Length 15 seconds | Arctic research station exterior | Modern day grounded realism | Giant worm horror | Cinematic realism",
+  "SHOT": {
+    "CAM": "Low shoulder height tracking shot that slowly drifts into a side profile run, sudden violent handheld shake on emergence, snap pan to impact, final locked wide on aftermath, filmed on ARRI Alexa LF with 35mm lens",
+    "SET": "Windswept arctic ice field outside a remote research station, prefab modular buildings with steel walkways half buried in snowdrifts, satellite dish crusted with rime ice, snowmobiles parked beside stacked fuel drums, orange marker flags whipping in the wind, endless white plain dissolving into low gray sky",
+    "SUBJECT": "Two scientists caught in open ground, Dr. Aaron Voss early 40s tall dark beard in a red expedition parka with fur trimmed hood thrown back, Dr. Lena Okafor mid 30s braided hair under a wool beanie wearing an insulated yellow field suit streaked with grease and snow",
+    "ACTION": "They run across the packed snow as the ice behind them begins to crack in sharp straight lines. The ground suddenly erupts as a massive ringed segment punches up through the frozen crust. A towering giant worm bursts free in a spray of ice shards and snow, its pale segmented body uncoiling with violent force. Its circular maw peels open in layered rings of hooked teeth with a wet grinding shriek as it lunges forward. Aaron shoves Lena aside just as the worm slams down between them. Its maw clamps around Aaron's torso and lifts him screaming into the air. He claws at its rubbery hide as viscous gray fluid sprays from a torn segment. The worm violently jerks him inward and swallows him with a sickening crunch. Lena stumbles backward in shock. The worm pivots with terrifying speed and lunges again, dragging her screaming beneath the ice as its body churns the snow into a white blizzard of debris. Only drifting powder remains.",
+    "STYLE": "Practical monster horror realism, immense worm mass and physics emphasized, no stylized motion, raw violent impact, tactile ice debris and snow strikes on lens",
+    "LIGHTING": "Flat overcast polar daylight with cold diffuse shadows, pale highlights sliding along the worm's wet segmented hide as it moves, breath vapor catching the light",
+    "AMBIENCE_COLOR": "Blue white ice tones, sickly pale gray worm flesh, safety orange and red gear accents, steel gray sky"
+  },
+  "AUDIO": {
+    "dialogue": [
+      { "speaker": "Dr. Aaron Voss", "line": "Lena get down" },
+      { "speaker": "Dr. Lena Okafor", "line": "Aaron" }
+    ],
+    "ambience": [
+      "deep ice cracking sharply",
+      "explosive frozen ground eruption impact",
+      "wet grinding shriek layered with gnashing ringed teeth",
+      "bone crushing crunch",
+      "howling arctic wind",
+      "snow settling into dead silence"
+    ]
+  },
+  "NEG": "no subtitles, no drones, no on screen text, no glowing eyes, no neon colors, no period vehicles, no vintage clothing, no stylized CGI surfaces, no slow motion"
+}
+```
 
 <a id="cinematic-realism"></a>
-## 🎞️ Кинематографический реализм
+## 🎞️ Cinematic Realism (10)
 
 <a id="cinematic-realism-case-1"></a>
 <!-- Case 1: Modern Japan Documentary Sequence (by @kuranoayashi) -->
@@ -1320,7 +1363,6 @@ Natural sound only. Crowd chanting, loud applause, laughter, splashing water, ec
 The result must feel like authentic raw 1990s home video footage capturing a completely ordinary pool jump that somehow turned into an Olympic-level celebration.
 ```
 
-
 <a id="cinematic-realism-case-7"></a>
 <!-- Case 7: Vintage Black Car Storm Run (by @LudovicCreator) -->
 ### Пример 7: [Штормовая гонка на винтажном чёрном автомобиле](https://x.com/LudovicCreator/status/2078057220512629018) (автор [@LudovicCreator](https://x.com/LudovicCreator))
@@ -1349,7 +1391,6 @@ A vintage black car speeds along a winding mountain road in heavy rain at dusk, 
 A solitary lighthouse stands on a jagged black cliff as a monstrous storm crashes against the coast at night. Waves explode against the rocks far below, sending white spray into the air like smoke, while the lighthouse beam cuts through sheets of rain and drifting sea mist. Inside, an old keeper climbs the narrow spiral staircase with a lantern in hand, his coat soaked, the light flickering with every thunderclap. The camera moves between wide shots of the lighthouse dwarfed by the fury of the ocean and intimate interior close-ups of wet stone walls, rattling glass, trembling hands, and the golden lantern glow in the darkness. As the storm intensifies, lightning reveals a ghostly ship in the distance, barely visible between walls of rain. The sequence feels haunting, dramatic, and timeless, with crashing waves, thunder, and a powerful sense of isolation.
 ```
 
-
 <a id="cinematic-realism-case-9"></a>
 <!-- Case 9: Sandstorm Buggy Escape (by @umesh_ai) -->
 ### Пример 9: [Побег на багги сквозь песчаную бурю](https://x.com/umesh_ai/status/2078781951377555966) (автор [@umesh_ai](https://x.com/umesh_ai))
@@ -1363,8 +1404,39 @@ A solitary lighthouse stands on a jagged black cliff as a monstrous storm crashe
 ```
 Towering sandstone cliffs crack under the pressure of a violent sandstorm. From a sweeping aerial over a vast desert basin, the camera dives aggressively toward a high-speed off-road buggy tearing through collapsing dunes. It slingshots past the front grill, whips around the roll cage, then drops tight to the spinning tires as sand blasts outward in golden waves. Chunks of rock tumble from above, dust spirals across the route, and the driver threads through narrow canyon gaps as entire ridgelines slump into avalanches of sand. The buggy surges through a curtain of blowing grit, bursts free, and races onto a surreal salt flat glowing in sunset orange. The camera rockets upward into a giant reveal as the storm fades behind. The engine cuts. Silence swallows the desert.
 ```
+
+<a id="cinematic-realism-case-10"></a>
+<!-- Case 10: Argentina Spain Broadcast Brawl (by @Ankit_patel211) -->
+### Пример 10: [Теледрака Аргентина против Испании](https://x.com/Ankit_patel211/status/2079286938373419028) (автор [@Ankit_patel211](https://x.com/Ankit_patel211))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-realism-case-10"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2079286938373419028.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Промпт:**
+
+```
+Live sports television broadcast, authentic real-time football match retransmission. Natural stadium daylight, slight haze, packed crowd, official scoreboard ARG 0-0 ESP. Pure professional sports TV camera language with authentic broadcast zooms, natural handheld lens shake, genuine live-feed texture, realistic TV graphics, no cinematic polish.
+
+A modern football stadium during an Argentina vs Spain international match. Argentina players wear sky-blue and white striped kits, Spain players wear red kits. The atmosphere feels exactly like a live FIFA television broadcast with thousands of cheering fans, realistic commentators, stadium ambience, and professional sports camera work.
+
+0-4s: [High Wide Broadcast Shot]
+Normal gameplay suddenly stops when one Argentina player humorously pulls on oversized blue boxing gloves. Nearby Spain players stare in total disbelief before everyone begins a playful, exaggerated football brawl filled with harmless pushing, dodging, jersey grabbing, dramatic reactions, and cartoonishly over-the-top movements. The crowd erupts with laughter.
+
+4-8s: [Pitch-Level Tracking Shot]
+The broadcast camera tracks beside the action. The Argentina player throws exaggerated air punches while Spain players comically dodge and stumble. Players from both teams harmlessly wrestle, trip over each other, and dramatically roll across the grass. Coaches leap from the benches and sprint onto the pitch trying to separate everyone while assistant coaches wave their arms frantically.
+
+8-12s: [Classic Live TV Close-Up]
+The referee repeatedly blows the whistle as assistant referees, security staff, coaches, substitutes, and medical staff rush into the middle of the hilarious chaos. Everyone tries to pull players apart. The boxing-glove player is dragged backward by teammates while Spain players continue pointing, arguing, and making exaggerated facial expressions. The crowd chants and laughs loudly.
+
+12-15s: [Wide Stadium Broadcast]
+Camera pulls back to reveal the entire pitch. Coaches, referees, substitutes, and security form a large human barrier between both teams. Players gradually calm down but continue dramatically arguing and pointing. The referee theatrically flashes yellow cards in every direction while looking completely overwhelmed. The Argentina player raises his oversized boxing gloves to the cheering crowd as the stadium bursts into laughter, creating the feeling of an unforgettable viral football broadcast.
+
+Ultra-realistic live sports broadcast quality, authentic TV camera movement, realistic sports-lens motion blur, genuine crowd reactions, coherent body physics, stable character consistency, natural stadium audio, live television retransmission texture, unscripted sports broadcast energy, no cinematic color grading, no artificial enhancement, looks exactly like authentic live football coverage with lighthearted slapstick comedy.
+```
+
 <a id="pov-fpv"></a>
-## 🥽 POV / FPV
+## 🥽 POV / FPV (21)
 
 <a id="pov-fpv-case-1"></a>
 <!-- Case 1: Chest-Mounted Camouflage Chase Sequence (by @genel_ai) -->
@@ -1858,7 +1930,6 @@ Pure first-person camera perspective, no visible drone, no cockpit, no aircraft 
 Immersive first-person flying camera perspective, no visible drone or flying device. The entire sequence takes place at night beneath a deep blue sky. The camera races above the illuminated lavender fields of Provence while fireworks burst continuously in blue, white, and red across the horizon. It weaves through glowing medieval villages, vineyards, French châteaux, the cliffs of Normandy, and Mont-Saint-Michel reflected in the dark tide, with fireworks erupting above every location. The camera then follows the Seine into Paris at extreme speed, skimming beneath historic bridges, banking around the Arc de Triomphe, and climbing beside the fully illuminated Eiffel Tower as enormous synchronized fireworks fill the sky and reflect across the river. At the finale, the camera pulls back above Paris while the fireworks create a vast tricolor glow. A gigantic French flag unfurls naturally from the top of the Eiffel Tower, waving majestically above the city as the final fireworks burst behind it. No text, no words, no letters. Continuous POV shot, no cuts, aggressive banking, cinematic motion blur, realistic night lighting, volumetric smoke, detailed fireworks, ultra-realistic travel cinematography, spectacular blockbuster VFX, IMAX quality.
 ```
 
-
 <a id="pov-fpv-case-21"></a>
 <!-- Case 21: Cybernetic Battlefield FPV Dive (by @LudovicCreator) -->
 ### Пример 21: [FPV-пикирование над кибернетическим полем боя](https://x.com/LudovicCreator/status/2078842368661315786) (автор [@LudovicCreator](https://x.com/LudovicCreator))
@@ -1872,8 +1943,9 @@ Immersive first-person flying camera perspective, no visible drone or flying dev
 ```
 Immersive first-person flying camera perspective, no visible drone or flying device. The camera launches at insane speed across a colossal dystopian cyborg battlefield at night, flying only centimeters above shattered metal, burning wreckage, and rivers of glowing energy. It violently snap-rolls between the legs of towering combat mechs, knife-edges through collapsing steel structures, dives beneath gigantic walking war machines, then instantly climbs through exploding industrial ruins. Swarms of autonomous combat drones streak overhead while colossal cybernetic titans exchange devastating energy blasts that illuminate the battlefield. The camera constantly changes direction with brutal FPV precision,rapid S-turns, vertical dives, barrel rolls, power loops around gigantic reactor towers, split-S reversals, wall-hugging passes through ruined megafactories, and razor-close proximity flights beneath collapsing bridges. Neon holograms flicker through dense smoke as thousands of laser tracers, plasma arcs, sparks, and electrical storms fill the sky. Gigantic cybernetic creatures emerge from the darkness while endless ranks of futuristic soldiers and armored exosuits advance across the battlefield beneath towering ruined skyscrapers. The camera threads through impossibly tight gaps as collapsing buildings, burning aircraft, and massive mechanical debris crash around it, then rockets into a colossal mechanical canyon formed by fallen war machines. At the climax, the battlefield opens into an unimaginably vast cybernetic wasteland where a planet-sized artificial intelligence core rises above the horizon, surrounded by colossal rotating rings, lightning storms, and endless mechanical cities stretching to infinity. Continuous POV shot, no cuts, relentless acceleration, extreme high-speed FPV racing, aggressive banking, rapid altitude changes, barrel rolls, corkscrews, split-S maneuvers, power loops, knife-edge turns, realistic inertia, cinematic motion blur, volumetric smoke, dynamic lighting, neon reflections, hyper-detailed dystopian environments, surreal cyberpunk architecture, blockbuster sci-fi VFX, IMAX quality.
 ```
+
 <a id="commercial-product"></a>
-## 🏷️ Реклама / Продукт
+## 🏷️ Commercial / Product (27)
 
 <a id="commercial-product-case-1"></a>
 <!-- Case 1: Perfume-Style Anime Trio Dance Stage (by @ShadeLurk) -->
@@ -2505,11 +2577,8 @@ Ref image is wearing a stylish casual-luxury outfit with subtle yellow and green
 Real iPhone 16 Pro footage look, natural bright daylight, authentic mobile camera movement and slight shake, natural vibrant colors, coherent physics, stable character, real phone video quality, no film look, no artifacts, looks like genuine Instagram Reel footage shot on location.
 ```
 
-
 <a id="reference-driven"></a>
-
-<a id="reference-driven"></a>
-## 🖼️ На основе референсов
+## 🖼️ Reference-Driven (22)
 
 <a id="reference-driven-case-1"></a>
 <!-- Case 1: Skeleton Pianist Miniature Diorama Performance (by @tea_story_hoshi) -->
@@ -3469,8 +3538,6 @@ Scene 5: Slow orbit around them sitting together, watching the mist drift throug
 Scene 6: Distant pullback across a reflective puddle, framing them beneath the enormous tree as they quietly share tea and savour the rain.
 ```
 
-
-
 <a id="reference-driven-case-22"></a>
 <!-- Case 22: Kunqu Backstage One-Take Transformation (by @ou_zhen599) -->
 ### Пример 22: [Однокадровое превращение за кулисами куньцюй](https://x.com/ou_zhen599/status/2078394020741673439) (автор [@ou_zhen599](https://x.com/ou_zhen599))
@@ -3486,7 +3553,7 @@ Scene 6: Distant pullback across a reflective puddle, framing them beneath the e
 ```
 
 <a id="surreal-vfx"></a>
-## 🌀 Сюрреализм / VFX
+## 🌀 Surreal / VFX (16)
 
 <a id="surreal-vfx-case-1"></a>
 <!-- Case 1: Zero-Gravity Katana Combat (by @MiraMusic_AI) -->
@@ -3868,7 +3935,6 @@ She pauses, watches the police pass… then slowly turns toward camera and winks
 Ambient city sound returns. No hard cut.
 ```
 
-
 <a id="surreal-vfx-case-15"></a>
 <!-- Case 15: Forest Guardian Calligraphy Transformation (by @LudovicCreator) -->
 ### Пример 15: [Каллиграфическое превращение хранительницы леса](https://x.com/LudovicCreator/status/2078346662699798878) (автор [@LudovicCreator](https://x.com/LudovicCreator))
@@ -3883,8 +3949,22 @@ Ambient city sound returns. No hard cut.
 Full magical transformation sequence: a forest guardian floating in an aged moss-green parchment void as deep emerald ink spreads through the air like liquid leaves blooming in water ,calligraphy strokes whip around the body, staining the hair into soft jade green, sketching layered nature armor, glowing vine markings across the face, and a long spear silhouette in sweeping green brushwork. A circular ancient seal script sigil blooms underfoot with splashes of pearl-white light, the camera pushing in through drifting ink veils like torn leaves in a storm, each brush impact synced to a rising drumbeat, ending in a spear-planted signature pose locked inside an emerald-and-pearl calligraphy burst. Stock-footage grandeur, played sincere.
 ```
 
+<a id="surreal-vfx-case-16"></a>
+<!-- Case 16: Haunted Tea Ceremony Apparition (by @LudovicCreator) -->
+### Пример 16: [Призрак чайной церемонии](https://x.com/LudovicCreator/status/2078902823656226891) (автор [@LudovicCreator](https://x.com/LudovicCreator))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-16"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078902823656226891.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Промпт:**
+
+```
+Stylized anime haunted tea ceremony beat: an elderly woman pours tea inside an abandoned tatami room, steam rising from the cup and slowly forming the shape of a long-lost guest. Dust floats in golden afternoon light, paper doors rattling gently though no wind enters the house. Slow push-in across the floor, tea reflections rippling with impossible memories, the woman’s calm face mirrored in the porcelain cup. The ghostly figure leans closer and the silence holds one beat past comfort.
+```
+
 <a id="templates-structured"></a>
-## 📐 Шаблоны и структурированные форматы
+## 📐 Templates & Structured Formats (21)
 
 <a id="templates-structured-case-1"></a>
 <!-- Case 1: Supercarrier Catastrophic Sinking (by @johnAGI168) -->
@@ -4382,7 +4462,6 @@ Camera: fixed wide-angle shot, no zoom, no camera shake, no angle change.
 Negative prompt: no people, no extra rooms, no duplicated furniture, no distorted furniture, no warped walls, no text changes, no logo distortion, no sudden cuts, no messy construction debris, no cartoon animation.
 ```
 
-
 <a id="templates-structured-case-19"></a>
 <!-- Case 19: Facial Expression Detail Test (by @ou_zhen599) -->
 ### Пример 19: [Тест детализации мимики](https://x.com/ou_zhen599/status/2078137477425172769) (автор [@ou_zhen599](https://x.com/ou_zhen599))
@@ -4410,7 +4489,6 @@ Negative prompt: no people, no extra rooms, no duplicated furniture, no distorte
 12-15秒：目视前方/画面右侧，眼神柔和微润，唇瓣轻动似欲语还休，最终保持安静凝视状态，定格在温柔清冷、略带忧郁的情绪中，结尾无黑屏、无转场。
 ```
 
-
 <a id="templates-structured-case-20"></a>
 <!-- Case 20: Flooded Ballroom Escape Storyboard (by @ChangningL29508) -->
 ### Пример 20: [Раскадровка побега из затопленного бального зала](https://x.com/ChangningL29508/status/2078684698394636544) (автор [@ChangningL29508](https://x.com/ChangningL29508))
@@ -4424,10 +4502,39 @@ Negative prompt: no people, no extra rooms, no duplicated furniture, no distorte
 ```
 @Image1 storyboard is a temporal beat map only. Create one continuous full-screen 16:9 cinematic 15-second live-action sequence, never show a panel grid, black gutters, collage, captions, or text. Same young adult bride with wet black hair, ivory satin wedding dress and red rubber boots; same soaked groom in a black tuxedo; same red-dress bridesmaid; same waiter in black vest. In a flooded Art Deco ballroom at night, follow the storyboard left to right, top to bottom: the bride pulls the groom through knee-deep water toward the warm exit; the bridesmaid follows with her shoes; the waiter opens and holds the door; guests plausibly clear the path and evacuate; the couple and bridesmaid reach the doorway. Cold blue-green storm light and warm chandelier reflections, believable water physics, cinematic 35mm camera, one natural continuous progression. Stable faces and identities, anatomically correct hands, no duplicate people, no warped anatomy, no elderly bride, no police, no weapons, no random actions, no watermark, no logo, no subtitles.
 ```
-<a id="general-cinematic"></a>
+
+<a id="templates-structured-case-21"></a>
+<!-- Case 21: Station Platform Duel Beatmap (by @SYDxStudio) -->
+### Пример 21: [Битмап дуэли на платформе](https://x.com/SYDxStudio/status/2079286923424575628) (автор [@SYDxStudio](https://x.com/SYDxStudio))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-21"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2079286923424575628.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Промпт:**
+
+```
+Use @image1 only as P01-P06 movement waypoints for one uninterrupted action, never as shots, holds, a displayed image or style source. Flow through P02-P05 without stopping; P01/P06 are boundaries. Set STEP 06 as first frame and STEP 06T as last; they alone lock boundary staging. @image2 solely controls KAI: 185 cm, face always uncovered, headphones, black tank, twin cyan blades. @image3 solely controls KIRA: 165 cm, mask always worn, RIGHT dagger reverse/LEFT forward, two rear-belt capsules. @image4 is a mixed sheet: use ONLY Zone F Old Ward platform; ignore other panels/artifacts.
+
+Exactly 10.0 seconds, 24 fps. ZONE F ONLY: same stationary train, west platform, tiled column, bench, departure board, brake chain and closed carriage door; never reveal/enter Car 5. Start exact STEP 06, finish exact STEP 06T. During action KAI's tank right seam is sliced; floor, column, bench and board become damaged and remain so. Chain and door stay intact. No dialogue/music; only breath, shoes, cloth, blades, tile, bolts, timber, metal, debris.
+
+LOOK: hand-drawn 2D shonen-wuxia sakuga matching boundaries; variable black ink, flat cel blocks, one hard shadow, stepped drawings, foreshortening, dry-brush smears, simplified background only in velocity bursts; never photoreal, glossy, 3D or game-cinematic.
+
+CAMERA MODE: one continuous 20 mm master, no cuts. Launch low with KAI, dive under KIRA, inherit his eastward slide, whip around the same column, rise beside the rotating board, recoil with Sonic Strike, settle into STEP 06T. Tiles/debris prove parallax; no stable sideline or location crossing.
+
+PHRASE 1, actions 1-5: frame one, KIRA pushes from lintel; dives down-left; KAI springs up-right; twin blades catch crossed daggers off-axis for two frames; both twist out instantly, KIRA already moving east before landing.
+
+PHRASE 2, actions 6-10: KIRA scissor-cuts backward while retreating; KAI triangular-steps then long-slides east; her LEFT dagger slices only his tank's right seam; he rotates under her returning RIGHT; his RIGHT blade drives that dagger into the tiled column as she qinggong-steps on that same column and rebounds east.
+
+PHRASE 3, actions 11-16: KIRA touches the bench once; runs two steps along its back; springs to the board bracket; severs both bolts in one crossing cut; KAI rolls under the falling board while the bench breaks; he rises into one compact Sonic Strike folding the board around the stripped column as KIRA lands beside the intact chain in exact STEP 06T. No generic sparring, repeated clash, guard reset or panel pause.
+
+VISUAL EFFECTS: KAI uses only blade-edge-attached narrow cyan waveform crescents and segmented cyan body streaks. At the column, a compact cyan contact star forms exactly where his RIGHT blade meets KIRA's dagger; force passes through her dagger tip into grout, tiles cone east, bodies overshoot, cyan fragments decay, camera jolts once and recovers. At Sonic Strike, waveforms compress along KAI's forearms/blades into a black-cyan ink wedge at board contact; one cyan shock ring travels through metal, folds it and throws bolts, tile and dust into a radial debris silhouette; KAI recoils, ring fragments, camera snaps back. KIRA uses only needle-thin dagger-attached violet crescents and two path-bound violet-black afterimages, never clones. Her bolt cut creates a localized violet impact star; stress crosses both bolts, fragments lag, violet decays. Cyan never belongs to KIRA; violet-black never to KAI; no detached beam, aura cloud or constant glow.
+
+Never show storyboard/panels/labels/borders. No cut, blackout, flash transition, smoke cover, dissolve, morph, teleport, slow motion, freeze, replay, extra body/limb/weapon, identity swap, KAI mask, unmasked KIRA, vanished damage, moving train, cut chain, breached door, Car 5, premature P06 or overshoot.
+```
 
 <a id="general-cinematic"></a>
-## 🎬 Общая кинематография
+## 🎬 General Cinematic (39)
 
 <a id="general-cinematic-case-1"></a>
 <!-- Case 1: High-Heel Beat Sync Fashion Close-Up (by @TingFengAIAI) -->
@@ -5202,7 +5309,6 @@ The result must feel like authentic, raw footage of ordinary people in Pompeii e
 An astronaut in a full white suit walks alone through an abandoned amusement park at twilight. Rusted rides stand motionless, faded carnival lights flicker sporadically, and fog drifts low across cracked pavement. The helmet visor reflects broken roller coasters, carousel horses, and shredded flags fluttering in the wind. The camera follows from behind in a slow tracking shot, then cuts to low angles and haunting wide frames that emphasize the surreal contrast between the futuristic astronaut and the decaying park. As the astronaut passes the giant Ferris wheel, it suddenly creaks into motion on its own. Old speakers crackle with distant carnival music. The sequence feels eerie, dreamlike, and cinematic, like a science-fiction mystery with emotional loneliness at its core.
 ```
 
-
 <a id="general-cinematic-case-38"></a>
 <!-- Case 38: Pirate Duck Bathtub Voyage (by @CharaspowerAI) -->
 ### Пример 38: [Плавание пиратской утки по ванне](https://x.com/CharaspowerAI/status/2078072313686184334) (автор [@CharaspowerAI](https://x.com/CharaspowerAI))
@@ -5218,6 +5324,23 @@ A clay pirate captain duck with a tiny hat, wooden sword, eye patch and dramatic
 Sails across a bathtub ocean, battling giant soap waves and riding a sponge ship toward a rubber duck treasure island
 Bathroom fantasy world with bubbles, towels as cliffs and warm light reflecting on water
 3D clay, Pixar-style playful adventure, soft clay textures, rounded props, dynamic camera glide over water, bright cheerful atmosphere, ending with the duck discovering a golden bath plug treasure.
+```
+
+<a id="general-cinematic-case-39"></a>
+<!-- Case 39: Dark Earth Orbital Station VHS (by @LudovicCreator) -->
+### Пример 39: [Орбитальный VHS с тёмной Землёй](https://x.com/LudovicCreator/status/2079265271080984756) (автор [@LudovicCreator](https://x.com/LudovicCreator))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-39"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2079265271080984756.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Промпт:**
+
+```
+Old VHS-style footage from inside an abandoned orbital station in the 1980s. The image is grainy, warped, with tracking lines, washed-out colors, and timestamp burn-in. The camera floats slowly through empty corridors, cables drifting in zero gravity, warning lights blinking silently.
+At the 2-second mark, the tape glitches and the corridor appears longer than before. A sealed airlock door opens by itself at the far end. The camera drifts closer, passing floating tools, old photographs, and frozen droplets of water.
+Final moment: the camera enters the airlock and reveals Earth outside the window ,but Earth is completely dark.
+Analog sci-fi horror, VHS noise, zero-gravity atmosphere, retro space realism, eerie silence, cinematic degraded footage.
 ```
 
 <a id="related-repositories"></a>

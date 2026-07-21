@@ -4,7 +4,7 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Seedance 2.0'i tarayicida dene](https://img.shields.io/badge/Try_in-Browser-black)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts&utm_content=model_try)
-[![İstemler-194 benzersiz örnek](https://img.shields.io/badge/%C4%B0stemler-194%20benzersiz%20%C3%B6rnek-111111)](README.md)
+[![İstemler-199 benzersiz örnek](https://img.shields.io/badge/%C4%B0stemler-199%20benzersiz%20%C3%B6rnek-111111)](README.md)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -25,7 +25,7 @@
 
 Awesome Seedance 2.0 Prompts deposuna hoş geldiniz! 🤗
 
-**Bu depo, sinematik video üretimi için kaynakları belirtilmiş 194 benzersiz Seedance 2.0 prompt örneği içerir.**
+**Bu depo, sinematik video üretimi için kaynakları belirtilmiş 199 benzersiz Seedance 2.0 prompt örneği içerir.**
 
 Promptlar herkese açık üretici paylaşımlarından seçilir ve yeniden kullanılabilir kaynak olarak korunur.
 
@@ -73,7 +73,7 @@ Destekleyici kaynaklar: [API örnekleri](https://github.com/Evolink-AI/Seedance-
 <a id="statistics"></a>
 ## 📊 İstatistikler
 
-8 kategoride 194 benzersiz örnek, 11 README dosyasında eşitlenmiştir.
+199 benzersiz örnek, 8 kategoriye dağıtıldı ve 11 README dosyasında senkronize edildi.
 
 <a id="how-to-use"></a>
 ## 🧭 Bu Depo Nasıl Kullanılır
@@ -83,215 +83,221 @@ Bir kategori seçin, kaynaklı örneği açın, promptu kopyalayın ve yalnızca
 <a id="menu"></a>
 ## 📑 Menü
 
-- [Giriş](#introduction)
-- [Hızlı Başlangıç](#quick-start)
-- [İstatistikler](#statistics)
-- [Bu Depo Nasıl Kullanılır](#how-to-use)
-- [Menü](#menu)
-- [⚔️ Aksiyon / Fantastik](#action-fantasy) (40)
-  - [Örnek 1: Sokak rap müzik videosu performansı (yazan @songguoxiansen)](#action-fantasy-case-1)
-  - [Örnek 2: Kara kedinin çölde dövüş sanatları düellosu (yazan @nopinduoduo)](#action-fantasy-case-2)
-  - [Örnek 3: Canlı çekim nefes tekniği düellosu (yazan @johnAGI168)](#action-fantasy-case-3)
-  - [Örnek 4: 20 kesitli yüksek hızlı anime sekansı (yazan @tebasaki3D)](#action-fantasy-case-4)
-  - [Örnek 5: Yağa bulanmış bir tamircinin onarımını izle (yazan @sebatheepan)](#action-fantasy-case-5)
-  - [Örnek 6: Samuray intikamı kısa filmi (yazan @sailorv321)](#action-fantasy-case-6)
-  - [Örnek 7: Stilize 3D savaş animasyonu (yazan @johnAGI168)](#action-fantasy-case-7)
-  - [Örnek 8: Hızlı tempolu komedi parodisi (yazan @drjoetw)](#action-fantasy-case-8)
-  - [Örnek 9: Dev ninja tokusatsu savaşı (yazan @EarthGigantea)](#action-fantasy-case-9)
-  - [Örnek 10: Japon animesi diyalog sekansı (yazan @_3912657840)](#action-fantasy-case-10)
-  - [Örnek 11: 15 saniyelik özgün element savaşı kısa filmi (yazan @ZikinArt)](#action-fantasy-case-11)
-  - [Örnek 12: Fabergé tarzı fantastik yumurta animasyonu (yazan @ShamiWeb3)](#action-fantasy-case-12)
-  - [Örnek 13: Özgün element savaşı kısa filmi (yazan @David_eficaz)](#action-fantasy-case-13)
-  - [Örnek 14: Sinematik bilim kurgu ve fantezi düellosu (yazan @CharaspowerAI)](#action-fantasy-case-14)
-  - [Örnek 15: 15 saniyelik kesintisiz tek plan aksiyon sekansı (yazan @Artedeingenio)](#action-fantasy-case-15)
-  - [Örnek 16: Uçurumda karşı karşıya gelen yalnız samuray (yazan @Alin_Reaper05)](#action-fantasy-case-16)
-  - [Örnek 17: Hain ejderhanın havadan dalışı (yazan @sebatheepan)](#action-fantasy-case-17)
-  - [Örnek 18: Sıfır yerçekiminde meka kapışması (yazan @Dheepanratnam)](#action-fantasy-case-18)
-  - [Örnek 19: Ejderhaya binen bir kızın süper hızlı uçuş aksiyonu (yazan @naoyuki_okada)](#action-fantasy-case-19)
-  - [Örnek 20: 15 saniyelik özgün çöl dövüş sanatları kısa filmi (yazan @NimEshed)](#action-fantasy-case-20)
-  - [Örnek 21: Kanyon hava saldırısı sekansı (yazan @Mr_TuanDoan)](#action-fantasy-case-21)
-  - [Örnek 22: 15 saniyelik hipergerçekçi epik savaş gişe filmi (yazan @john87445528)](#action-fantasy-case-22)
-  - [Örnek 23: Ofisteki kahve molası ters gider (yazan @Dheepanratnam)](#action-fantasy-case-23)
-  - [Örnek 24: 15 saniyelik kesintisiz tek plan aksiyon sekansı (yazan @Artedeingenio)](#action-fantasy-case-24)
-  - [Örnek 25: Siyah kuğu boksöre karşı (yazan @KanaWorks_AI)](#action-fantasy-case-25)
-  - [Örnek 26: Zemini yaran Süpermen kalkışı (yazan @techprophett)](#action-fantasy-case-26)
-  - [Örnek 27: Bulut mağarasındaki kılıç gölgesi (yazan @Adam38363368936)](#action-fantasy-case-27)
-  - [Örnek 28: Tanrılar Şehri — tek planda Doğu fantezi uçuşu (yazan @john87445528)](#action-fantasy-case-28)
-  - [Örnek 29: Epik fantezi savaşı — sinematik 10 saniyelik sekans (yazan @a_shimanski)](#action-fantasy-case-29)
-  - [Örnek 30: Doğu tarzı karanlık fantezi dönüşümü (yazan @johnAGI168)](#action-fantasy-case-30)
-  - [Örnek 31: Nehirde timsah yakıt hattı tuzağı (yazan @rahulnanda86)](#action-fantasy-case-31)
-  - [Örnek 32: Elektrikli yeraltı arenası düellosu (yazan @CharaspowerAI)](#action-fantasy-case-32)
-  - [Örnek 33: Pistte uçağı sürükleyen timsah (yazan @rahulnanda86)](#action-fantasy-case-33)
-  - [Örnek 34: Şimşek forvetin anime golü (yazan @CharaspowerAI)](#action-fantasy-case-34)
-  - [Örnek 35: Kır çiçekli vadide grifon uçuşu (yazan @Mayz1169)](#action-fantasy-case-35)
-  - [Örnek 36: Moğol süvarisinin Part atışı (yazan @Ankit_patel211)](#action-fantasy-case-36)
-  - [Örnek 37: Dev kurbağa ulak koşusu (yazan @0xbisc)](#action-fantasy-case-37)
-  - [Örnek 38: Gök gürültüsü savaşçısının zombi kuşatması (yazan @MO_IAI)](#action-fantasy-case-38)
-  - [Örnek 39: Beyaz kaplan tapınağında fırtına (yazan @LudovicCreator)](#action-fantasy-case-39)
-  - [Örnek 40: Erzak mavnasına dev köpekbalığı saldırısı (yazan @rahulnanda86)](#action-fantasy-case-40)
+- [Introduction](#introduction)
+- [Quick Start](#quick-start)
+- [Statistics](#statistics)
+- [How to Use This Repository](#how-to-use)
+- [Menu](#menu)
+- [⚔️ Action / Fantasy](#action-fantasy) (43)
+  - [Örnek 1: Sokak rap müzik videosu performansı (by @songguoxiansen)](#action-fantasy-case-1)
+  - [Örnek 2: Kara kedinin çölde dövüş sanatları düellosu (by @nopinduoduo)](#action-fantasy-case-2)
+  - [Örnek 3: Canlı çekim nefes tekniği düellosu (by @johnAGI168)](#action-fantasy-case-3)
+  - [Örnek 4: 20 kesitli yüksek hızlı anime sekansı (by @tebasaki3D)](#action-fantasy-case-4)
+  - [Örnek 5: Yağa bulanmış bir tamircinin onarımını izle (by @sebatheepan)](#action-fantasy-case-5)
+  - [Örnek 6: Samuray intikamı kısa filmi (by @sailorv321)](#action-fantasy-case-6)
+  - [Örnek 7: Stilize 3D savaş animasyonu (by @johnAGI168)](#action-fantasy-case-7)
+  - [Örnek 8: Hızlı tempolu komedi parodisi (by @drjoetw)](#action-fantasy-case-8)
+  - [Örnek 9: Dev ninja tokusatsu savaşı (by @EarthGigantea)](#action-fantasy-case-9)
+  - [Örnek 10: Japon animesi diyalog sekansı (by @_3912657840)](#action-fantasy-case-10)
+  - [Örnek 11: 15 saniyelik özgün element savaşı kısa filmi (by @ZikinArt)](#action-fantasy-case-11)
+  - [Örnek 12: Fabergé tarzı fantastik yumurta animasyonu (by @ShamiWeb3)](#action-fantasy-case-12)
+  - [Örnek 13: Özgün element savaşı kısa filmi (by @David_eficaz)](#action-fantasy-case-13)
+  - [Örnek 14: Sinematik bilim kurgu ve fantezi düellosu (by @CharaspowerAI)](#action-fantasy-case-14)
+  - [Örnek 15: 15 saniyelik kesintisiz tek plan aksiyon sekansı (by @Artedeingenio)](#action-fantasy-case-15)
+  - [Örnek 16: Uçurumda karşı karşıya gelen yalnız samuray (by @Alin_Reaper05)](#action-fantasy-case-16)
+  - [Örnek 17: Hain ejderhanın havadan dalışı (by @sebatheepan)](#action-fantasy-case-17)
+  - [Örnek 18: Sıfır yerçekiminde meka kapışması (by @Dheepanratnam)](#action-fantasy-case-18)
+  - [Örnek 19: Ejderhaya binen bir kızın süper hızlı uçuş aksiyonu (by @naoyuki_okada)](#action-fantasy-case-19)
+  - [Örnek 20: 15 saniyelik özgün çöl dövüş sanatları kısa filmi (by @NimEshed)](#action-fantasy-case-20)
+  - [Örnek 21: Kanyon hava saldırısı sekansı (by @Mr_TuanDoan)](#action-fantasy-case-21)
+  - [Örnek 22: 15 saniyelik hipergerçekçi epik savaş gişe filmi (by @john87445528)](#action-fantasy-case-22)
+  - [Örnek 23: Ofisteki kahve molası ters gider (by @Dheepanratnam)](#action-fantasy-case-23)
+  - [Örnek 24: 15 saniyelik kesintisiz tek plan aksiyon sekansı (by @Artedeingenio)](#action-fantasy-case-24)
+  - [Örnek 25: Siyah kuğu boksöre karşı (by @KanaWorks_AI)](#action-fantasy-case-25)
+  - [Örnek 26: Zemini yaran Süpermen kalkışı (by @techprophett)](#action-fantasy-case-26)
+  - [Örnek 27: Bulut mağarasındaki kılıç gölgesi (by @Adam38363368936)](#action-fantasy-case-27)
+  - [Örnek 28: Tanrılar Şehri — tek planda Doğu fantezi uçuşu (by @john87445528)](#action-fantasy-case-28)
+  - [Örnek 29: Epik fantezi savaşı — sinematik 10 saniyelik sekans (by @a_shimanski)](#action-fantasy-case-29)
+  - [Örnek 30: Doğu tarzı karanlık fantezi dönüşümü (by @johnAGI168)](#action-fantasy-case-30)
+  - [Örnek 31: Nehirde timsah yakıt hattı tuzağı (by @rahulnanda86)](#action-fantasy-case-31)
+  - [Örnek 32: Elektrikli yeraltı arenası düellosu (by @CharaspowerAI)](#action-fantasy-case-32)
+  - [Örnek 33: Pistte uçağı sürükleyen timsah (by @rahulnanda86)](#action-fantasy-case-33)
+  - [Örnek 34: Şimşek forvetin anime golü (by @CharaspowerAI)](#action-fantasy-case-34)
+  - [Örnek 35: Kır çiçekli vadide grifon uçuşu (by @Mayz1169)](#action-fantasy-case-35)
+  - [Örnek 36: Moğol süvarisinin Part atışı (by @Ankit_patel211)](#action-fantasy-case-36)
+  - [Örnek 37: Dev kurbağa ulak koşusu (by @0xbisc)](#action-fantasy-case-37)
+  - [Örnek 38: Gök gürültüsü savaşçısının zombi kuşatması (by @MO_IAI)](#action-fantasy-case-38)
+  - [Örnek 39: Beyaz kaplan tapınağında fırtına (by @LudovicCreator)](#action-fantasy-case-39)
+  - [Örnek 40: Erzak mavnasına dev köpekbalığı saldırısı (by @rahulnanda86)](#action-fantasy-case-40)
   - [Örnek 41: Arenada dev kadının sürpriz zaferi (by @rahulnanda86)](#action-fantasy-case-41)
   - [Örnek 42: Depoda korumanın saldırganları indirmesi (by @Rosey_watson)](#action-fantasy-case-42)
-- [🎞️ Sinematik Gerçekçilik](#cinematic-realism) (8)
-  - [Örnek 1: Modern Japonya belgesel sekansı (yazan @kuranoayashi)](#cinematic-realism-case-1)
-  - [Örnek 2: Gölgeyi takip eden longboard inişi (yazan @Dheepanratnam)](#cinematic-realism-case-2)
-  - [Örnek 3: Meteorla uyanan savaş kahramanı (yazan @ChrisTheNerv)](#cinematic-realism-case-3)
-  - [Örnek 4: Sisli kapsül adası draması (yazan @umesh_ai)](#cinematic-realism-case-4)
-  - [Örnek 5: Fırtınalı uçurumda samurayın ortaya çıkışı (yazan @umesh_ai)](#cinematic-realism-case-5)
-  - [Örnek 6: VHS havuz cannonball hakemi (yazan @Ankit_patel211)](#cinematic-realism-case-6)
-  - [Örnek 7: Klasik siyah otomobille fırtına sürüşü (yazan @LudovicCreator)](#cinematic-realism-case-7)
-  - [Örnek 8: Fırtınalı kıyı feneri sekansı (yazan @LudovicCreator)](#cinematic-realism-case-8)
+  - [Örnek 43: Arktik istasyonda kurt saldırısı (by @StevieMac03)](#action-fantasy-case-43)
+- [🎞️ Cinematic Realism](#cinematic-realism) (10)
+  - [Örnek 1: Modern Japonya belgesel sekansı (by @kuranoayashi)](#cinematic-realism-case-1)
+  - [Örnek 2: Gölgeyi takip eden longboard inişi (by @Dheepanratnam)](#cinematic-realism-case-2)
+  - [Örnek 3: Meteorla uyanan savaş kahramanı (by @ChrisTheNerv)](#cinematic-realism-case-3)
+  - [Örnek 4: Sisli kapsül adası draması (by @umesh_ai)](#cinematic-realism-case-4)
+  - [Örnek 5: Fırtınalı uçurumda samurayın ortaya çıkışı (by @umesh_ai)](#cinematic-realism-case-5)
+  - [Örnek 6: VHS havuz cannonball hakemi (by @Ankit_patel211)](#cinematic-realism-case-6)
+  - [Örnek 7: Klasik siyah otomobille fırtına sürüşü (by @LudovicCreator)](#cinematic-realism-case-7)
+  - [Örnek 8: Fırtınalı kıyı feneri sekansı (by @LudovicCreator)](#cinematic-realism-case-8)
   - [Örnek 9: Kum fırtınasında buggy kaçışı (by @umesh_ai)](#cinematic-realism-case-9)
+  - [Örnek 10: Arjantin İspanya yayın kavgası (by @Ankit_patel211)](#cinematic-realism-case-10)
 - [🥽 POV / FPV](#pov-fpv) (21)
-  - [Örnek 1: Göğüs kameralı kamuflaj kovalamacası (yazan @genel_ai)](#pov-fpv-case-1)
-  - [Örnek 2: Şanghay siberpunk şehir tanıtım videosu (yazan @Adam38363368936)](#pov-fpv-case-2)
-  - [Örnek 3: Lanetli samuray için tutarlı aksiyon istemi (yazan @Just_sharon7)](#pov-fpv-case-3)
-  - [Örnek 4: Y2K havuz partisi kamera montajı (yazan @johnAGI168)](#pov-fpv-case-4)
-  - [Örnek 5: Tesla kartı bakış açısından şehir patlaması (yazan @xingsthatmatter)](#pov-fpv-case-5)
-  - [Örnek 6: Anime müzik videosu aşırı yakın plan sekansı (yazan @drjoetw)](#pov-fpv-case-6)
-  - [Örnek 7: Hızlı ve kesintisiz 16 planlık sekans (yazan @aisavvy1)](#pov-fpv-case-7)
-  - [Örnek 8: Orta Çağ fantezi şehrine iniş (yazan @LudovicCreator)](#pov-fpv-case-8)
-  - [Örnek 9: Gazoz bardağına düşen buz küpünün birinci şahıs görünümü (yazan @LudovicCreator)](#pov-fpv-case-9)
-  - [Örnek 10: Doğal grenli, sert ve ham elde çekim 35 mm film estetiği (yazan @AngelNwoha)](#pov-fpv-case-10)
-  - [Örnek 11: 10 saniyelik fotogerçekçi sinematik POV video (yazan @umitsuru_fire)](#pov-fpv-case-11)
-  - [Örnek 12: Kıyamet sonrası süper fütüristik mega kent fırtınada uyanıyor (yazan @johnAGI168)](#pov-fpv-case-12)
-  - [Örnek 13: Tarz: ultra gerçekçi endüstriyel hızlandırılmış çekim (yazan @craftian_keskin)](#pov-fpv-case-13)
-  - [Örnek 14: Canavar saldırısında dönüşen liseli kız (yazan @Yuupapa_free)](#pov-fpv-case-14)
-  - [Örnek 15: Tokyo birinci şahıs hız treni (yazan @TechTalkNAVI)](#pov-fpv-case-15)
-  - [Örnek 16: Sinematik Pekin kültür reklamı — 8K birinci şahıs (yazan @crayon1267)](#pov-fpv-case-16)
-  - [Örnek 17: Aşırı makro FPV — peri kanadı takip çekimi (yazan @EHuanglu)](#pov-fpv-case-17)
-  - [Örnek 18: Volkanik mağarada yerçekimi dalışı (yazan @LudovicCreator)](#pov-fpv-case-18)
-  - [Örnek 19: Süpersonik çöl kanyonu birinci şahıs uçuşu (yazan @LudovicCreator)](#pov-fpv-case-19)
-  - [Örnek 20: Fransa havai fişek FPV uçuşu (yazan @LudovicCreator)](#pov-fpv-case-20)
+  - [Örnek 1: Göğüs kameralı kamuflaj kovalamacası (by @genel_ai)](#pov-fpv-case-1)
+  - [Örnek 2: Şanghay siberpunk şehir tanıtım videosu (by @Adam38363368936)](#pov-fpv-case-2)
+  - [Örnek 3: Lanetli samuray için tutarlı aksiyon istemi (by @Just_sharon7)](#pov-fpv-case-3)
+  - [Örnek 4: Y2K havuz partisi kamera montajı (by @johnAGI168)](#pov-fpv-case-4)
+  - [Örnek 5: Tesla kartı bakış açısından şehir patlaması (by @xingsthatmatter)](#pov-fpv-case-5)
+  - [Örnek 6: Anime müzik videosu aşırı yakın plan sekansı (by @drjoetw)](#pov-fpv-case-6)
+  - [Örnek 7: Hızlı ve kesintisiz 16 planlık sekans (by @aisavvy1)](#pov-fpv-case-7)
+  - [Örnek 8: Orta Çağ fantezi şehrine iniş (by @LudovicCreator)](#pov-fpv-case-8)
+  - [Örnek 9: Gazoz bardağına düşen buz küpünün birinci şahıs görünümü (by @LudovicCreator)](#pov-fpv-case-9)
+  - [Örnek 10: Doğal grenli, sert ve ham elde çekim 35 mm film estetiği (by @AngelNwoha)](#pov-fpv-case-10)
+  - [Örnek 11: 10 saniyelik fotogerçekçi sinematik POV video (by @umitsuru_fire)](#pov-fpv-case-11)
+  - [Örnek 12: Kıyamet sonrası süper fütüristik mega kent fırtınada uyanıyor (by @johnAGI168)](#pov-fpv-case-12)
+  - [Örnek 13: Tarz: ultra gerçekçi endüstriyel hızlandırılmış çekim (by @craftian_keskin)](#pov-fpv-case-13)
+  - [Örnek 14: Canavar saldırısında dönüşen liseli kız (by @Yuupapa_free)](#pov-fpv-case-14)
+  - [Örnek 15: Tokyo birinci şahıs hız treni (by @TechTalkNAVI)](#pov-fpv-case-15)
+  - [Örnek 16: Sinematik Pekin kültür reklamı — 8K birinci şahıs (by @crayon1267)](#pov-fpv-case-16)
+  - [Örnek 17: Aşırı makro FPV — peri kanadı takip çekimi (by @EHuanglu)](#pov-fpv-case-17)
+  - [Örnek 18: Volkanik mağarada yerçekimi dalışı (by @LudovicCreator)](#pov-fpv-case-18)
+  - [Örnek 19: Süpersonik çöl kanyonu birinci şahıs uçuşu (by @LudovicCreator)](#pov-fpv-case-19)
+  - [Örnek 20: Fransa havai fişek FPV uçuşu (by @LudovicCreator)](#pov-fpv-case-20)
   - [Örnek 21: Sibernetik savaş alanına FPV dalışı (by @LudovicCreator)](#pov-fpv-case-21)
-- [🏷️ Reklam / Ürün](#commercial-product) (27)
-  - [Örnek 1: Parfüm reklamı tarzında anime üçlüsü dans sahnesi (yazan @ShadeLurk)](#commercial-product-case-1)
-  - [Örnek 2: Karanlık fantezi kilise düellosu (yazan @ZaraIrahh)](#commercial-product-case-2)
-  - [Örnek 3: Karanlık fantezi tapınak salonu düellosu (yazan @MiraMusic_AI)](#commercial-product-case-3)
-  - [Örnek 4: Japon atıştırmalık reklamında sürpriz espri (yazan @aigeboku)](#commercial-product-case-4)
-  - [Örnek 5: Seedance 2 için sinematik dövüş sanatları sekansı (yazan @CharaspowerAI)](#commercial-product-case-5)
-  - [Örnek 6: Japon sınıfında fısıltılı aşk (yazan @JiahaoYang_art)](#commercial-product-case-6)
-  - [Örnek 7: LaFerrari reklamı görsel taslağı (yazan @Adam38363368936)](#commercial-product-case-7)
-  - [Örnek 8: Coşkulu anime final düellosu (yazan @gkxspace)](#commercial-product-case-8)
-  - [Örnek 9: Porselen haute couture gökyüzü aynası podyumu (yazan @johnAGI168)](#commercial-product-case-9)
-  - [Örnek 10: Modern kırsal içerik üreticisinin hasat reklamı (yazan @johnAGI168)](#commercial-product-case-10)
-  - [Örnek 11: Neon sokak yarışı sekansı (yazan @CharaspowerAI)](#commercial-product-case-11)
-  - [Örnek 12: Süpermodel ve lüks spor otomobiller (yazan @johnAGI168)](#commercial-product-case-12)
-  - [Örnek 13: Laboratuvarı yok eden android kızın kovalamacası (yazan @aiehon_aya)](#commercial-product-case-13)
-  - [Örnek 14: Neon harabe şehir oyun fragmanı (yazan @adrianaia_)](#commercial-product-case-14)
-  - [Örnek 15: Özgün karanlık fantezi aksiyon kısa filmi (yazan @Rufus87078959)](#commercial-product-case-15)
-  - [Örnek 16: 00:00–00:04 Plan 1: takip çekimi (yazan @IamEmily2050)](#commercial-product-case-16)
-  - [Örnek 17: Tren üstünde taktik dövüş sekansı (yazan @ImperfectEngel)](#commercial-product-case-17)
-  - [Örnek 18: Manhattan işlem salonunda çılgınlık (yazan @johnAGI168)](#commercial-product-case-18)
-  - [Örnek 19: Poliziottesco tarzı Çarşamba (yazan @ChrisGwinnLA)](#commercial-product-case-19)
-  - [Örnek 20: Katlanabilir akıllı telefon moda reklamı (yazan @Adam38363368936)](#commercial-product-case-20)
-  - [Örnek 21: Seyahat arkadaşı valiz montajı (yazan @ChaseAIx)](#commercial-product-case-21)
-  - [Örnek 22: Üstten çekim moda lookbook’u — kıyafet değişim sekansı (yazan @johnAGI168)](#commercial-product-case-22)
-  - [Örnek 23: Premium yaşam tarzı reklamı — vlog selfie tarzı (yazan @johnAGI168)](#commercial-product-case-23)
-  - [Örnek 24: Ritimle eşleşen su geçirmez spor ayakkabı filmi (yazan @madpencil_)](#commercial-product-case-24)
-  - [Örnek 25: Mangosten serum ürün lansmanı (yazan @ritesh_ai)](#commercial-product-case-25)
-  - [Örnek 26: Mumbai bavul taksi gösterimi (yazan @rahulnanda86)](#commercial-product-case-26)
-  - [Örnek 27: Uçurum villasında influencer turu (yazan @Ankit_patel211)](#commercial-product-case-27)
-- [🖼️ Referans Tabanlı](#reference-driven) (22)
-  - [Örnek 1: Minyatür diyoramada iskelet piyanist performansı (yazan @tea_story_hoshi)](#reference-driven-case-1)
-  - [Örnek 2: Fırtına gemisindeki prenses Krakene karşı (yazan @applete77191758)](#reference-driven-case-2)
-  - [Örnek 3: Hizmetçi kılıç dansı: Mei Coco’ya karşı (yazan @MiraMusic_AI)](#reference-driven-case-3)
-  - [Örnek 4: Kıyamet sonrası çatıda piyanoya veda (yazan @liyue_ai)](#reference-driven-case-4)
-  - [Örnek 5: Sinematik 8 mm balıkgözü lens, FPV yarış dronu ve hiper akıcı hareket (yazan @itsPixieVerse)](#reference-driven-case-5)
-  - [Örnek 6: Referans odaklı kung fu dublör sekansı (yazan @YaReYaRu30Life)](#reference-driven-case-6)
-  - [Örnek 7: Işın izleme, Unreal Engine görüntüsü ve şiddetli yağmurdaki kasaba (yazan @Gwsubsa)](#reference-driven-case-7)
-  - [Örnek 8: Ay marketinde gece vardiyası (yazan @zasuko_michiksa)](#reference-driven-case-8)
-  - [Örnek 9: Çatıda uyanış ve F-14’e dönüşüm (yazan @john87445528)](#reference-driven-case-9)
-  - [Örnek 10: Zırh montajı ve sokak karşı saldırısı (yazan @egeberkina)](#reference-driven-case-10)
-  - [Örnek 11: Görsel 1’deki karakteri gerçek kişi canlı çekim tarzına dönüştürme (yazan @Adam38363368936)](#reference-driven-case-11)
-  - [Örnek 12: Kutup ayısı eşlemeli kesim kılıç düellosu şablonu (yazan @aimikoda)](#reference-driven-case-12)
-  - [Örnek 13: Yedi görselli kesintisiz dönüşüm sekansı (yazan @YaReYaRu30Life)](#reference-driven-case-13)
-  - [Örnek 14: Stridex spor ayakkabı reklamı (yazan @ShamsAmin56)](#reference-driven-case-14)
-  - [Örnek 15: Şarkı söyleyen kedili görsel odaklı istem (yazan @pan_soramame_da)](#reference-driven-case-15)
-  - [Örnek 16: Karakter referanslı anime istemi (yazan @Reiria123)](#reference-driven-case-16)
-  - [Örnek 17: Çizgi filmden canlı çekim hayvanlara (yazan @MustafyOf)](#reference-driven-case-17)
-  - [Örnek 18: Kilitli görsel taslak referans hiyerarşisi (yazan @startracker)](#reference-driven-case-18)
-  - [Örnek 19: VOLTIA güç emiş montajı (yazan @itsPixieVerse)](#reference-driven-case-19)
-  - [Örnek 20: Kleopatra'nın saray itirafı (yazan @kinovi_ai)](#reference-driven-case-20)
-  - [Örnek 21: Fener altında yağmurlu buluşma (yazan @umesh_ai)](#reference-driven-case-21)
-  - [Örnek 22: Kunqu kulisinde tek plan dönüşüm (yazan @ou_zhen599)](#reference-driven-case-22)
-- [🌀 Sürreal / VFX](#surreal-vfx) (15)
-  - [Örnek 1: Sıfır yerçekiminde katana dövüşü (yazan @MiraMusic_AI)](#surreal-vfx-case-1)
-  - [Örnek 2: Bulutlardaki balinanın gerçeküstü destanı (yazan @chaosdotjpg)](#surreal-vfx-case-2)
-  - [Örnek 3: Uçurum dalgıcının deniz canlısına dönüşümü (yazan @AIARTGALLARY)](#surreal-vfx-case-3)
-  - [Örnek 4: Boyutlar arası mega kent yarığının çöküşü (yazan @LudovicCreator)](#surreal-vfx-case-4)
-  - [Örnek 5: Yağmurlu yeraltı sokağında birleşme (yazan @Dheepanratnam)](#surreal-vfx-case-5)
-  - [Örnek 6: Kuantum gerçekliği kırılmasıyla oluşan sokak yarığı (yazan @Dheepanratnam)](#surreal-vfx-case-6)
-  - [Örnek 7: Göz aniden açılır (yazan @roco_kn_roco)](#surreal-vfx-case-7)
-  - [Örnek 8: Yüzen lav nehrinin üzerinde havada çarpışırlar (yazan @LudovicCreator)](#surreal-vfx-case-8)
-  - [Örnek 9: Kreatif direktörün boyut yürüyüşü (yazan @lukasersil)](#surreal-vfx-case-9)
-  - [Örnek 10: Uçurum varlığı sunağı yazıtı — karanlık fantezi (yazan @Adam38363368936)](#surreal-vfx-case-10)
-  - [Örnek 11: Yüzen arayüz renk çarkıyla sahne dönüşümü (yazan @johnAGI168)](#surreal-vfx-case-11)
-  - [Örnek 12: Ateş imparatoriçesinin dönüşüm sekansı (yazan @LudovicCreator)](#surreal-vfx-case-12)
-  - [Örnek 13: Çölde kum titanına dönüşüm (yazan @LudovicCreator)](#surreal-vfx-case-13)
-  - [Örnek 14: Kaçış arabasının çöp kamyonuna dönüşümü (yazan @LavrionX)](#surreal-vfx-case-14)
-  - [Örnek 15: Orman muhafızının hat sanatı dönüşümü (yazan @LudovicCreator)](#surreal-vfx-case-15)
-- [📐 Şablonlar ve Yapılandırılmış Biçimler](#templates-structured) (19)
-  - [Örnek 1: Süper uçak gemisinin felaketle batışı (yazan @johnAGI168)](#templates-structured-case-1)
-  - [Örnek 2: Bellek parçalarının yeniden inşası (yazan @TechTalkNAVI)](#templates-structured-case-2)
-  - [Örnek 3: Plana göre gerçeğe — tek katlı ev dönüşümü (yazan @craftian_keskin)](#templates-structured-case-3)
-  - [Örnek 4: Dövüş sanatları haute couture terzisi (yazan @Adam38363368936)](#templates-structured-case-4)
-  - [Örnek 5: Ritimle eşleşen kıyafet geçiş şablonu (yazan @aimikoda)](#templates-structured-case-5)
-  - [Örnek 6: Dans eden gökdelenler bölgesi şablonu (yazan @TechTalkNAVI)](#templates-structured-case-6)
-  - [Örnek 7: Yıldız ışığı gölgesi / yıldız tozu silüeti (yazan @TechTalkNAVI)](#templates-structured-case-7)
-  - [Örnek 8: Resimsel parkur POV şablonu (yazan @0xbisc)](#templates-structured-case-8)
-  - [Örnek 9: 360 derece POV yokuş aşağı merdiven koşusu şablonu (yazan @aimikoda)](#templates-structured-case-9)
-  - [Örnek 10: Yiyecek ve karakter hareketi şablonu (yazan @Just_sharon7)](#templates-structured-case-10)
-  - [Örnek 11: İmkânsız kamera mutfak koşusu şablonu (yazan @Dheepanratnam)](#templates-structured-case-11)
-  - [Örnek 12: Zaman dondurmalı POV patlama şablonu (yazan @CharaspowerAI)](#templates-structured-case-12)
-  - [Örnek 13: Astronotun ilk uzay yürüyüşü şablonu (yazan @BrennanErbz)](#templates-structured-case-13)
-  - [Örnek 14: Golden retriever günlük rutin şablonu (yazan @0xbisc)](#templates-structured-case-14)
-  - [Örnek 15: Stilize 3D berber dönüşüm sekansı (yazan @ShamiWeb3)](#templates-structured-case-15)
-  - [Örnek 16: İzlenimci kürek çeken eller şablonu (yazan @0xbisc)](#templates-structured-case-16)
-  - [Örnek 17: Kadın savaşçı — yapılandırılmış özne istemi (yazan @noman23761)](#templates-structured-case-17)
-  - [Örnek 18: Kutudan çıkan loft iç mekânı (yazan @samaote)](#templates-structured-case-18)
-  - [Örnek 19: Yüz ifadesi ayrıntı testi (yazan @ou_zhen599)](#templates-structured-case-19)
+- [🏷️ Commercial / Product](#commercial-product) (27)
+  - [Örnek 1: Parfüm reklamı tarzında anime üçlüsü dans sahnesi (by @ShadeLurk)](#commercial-product-case-1)
+  - [Örnek 2: Karanlık fantezi kilise düellosu (by @ZaraIrahh)](#commercial-product-case-2)
+  - [Örnek 3: Karanlık fantezi tapınak salonu düellosu (by @MiraMusic_AI)](#commercial-product-case-3)
+  - [Örnek 4: Japon atıştırmalık reklamında sürpriz espri (by @aigeboku)](#commercial-product-case-4)
+  - [Örnek 5: Seedance 2 için sinematik dövüş sanatları sekansı (by @CharaspowerAI)](#commercial-product-case-5)
+  - [Örnek 6: Japon sınıfında fısıltılı aşk (by @JiahaoYang_art)](#commercial-product-case-6)
+  - [Örnek 7: LaFerrari reklamı görsel taslağı (by @Adam38363368936)](#commercial-product-case-7)
+  - [Örnek 8: Coşkulu anime final düellosu (by @gkxspace)](#commercial-product-case-8)
+  - [Örnek 9: Porselen haute couture gökyüzü aynası podyumu (by @johnAGI168)](#commercial-product-case-9)
+  - [Örnek 10: Modern kırsal içerik üreticisinin hasat reklamı (by @johnAGI168)](#commercial-product-case-10)
+  - [Örnek 11: Neon sokak yarışı sekansı (by @CharaspowerAI)](#commercial-product-case-11)
+  - [Örnek 12: Süpermodel ve lüks spor otomobiller (by @johnAGI168)](#commercial-product-case-12)
+  - [Örnek 13: Laboratuvarı yok eden android kızın kovalamacası (by @aiehon_aya)](#commercial-product-case-13)
+  - [Örnek 14: Neon harabe şehir oyun fragmanı (by @adrianaia_)](#commercial-product-case-14)
+  - [Örnek 15: Özgün karanlık fantezi aksiyon kısa filmi (by @Rufus87078959)](#commercial-product-case-15)
+  - [Örnek 16: 00:00–00:04 Plan 1: takip çekimi (by @IamEmily2050)](#commercial-product-case-16)
+  - [Örnek 17: Tren üstünde taktik dövüş sekansı (by @ImperfectEngel)](#commercial-product-case-17)
+  - [Örnek 18: Manhattan işlem salonunda çılgınlık (by @johnAGI168)](#commercial-product-case-18)
+  - [Örnek 19: Poliziottesco tarzı Çarşamba (by @ChrisGwinnLA)](#commercial-product-case-19)
+  - [Örnek 20: Katlanabilir akıllı telefon moda reklamı (by @Adam38363368936)](#commercial-product-case-20)
+  - [Örnek 21: Seyahat arkadaşı valiz montajı (by @ChaseAIx)](#commercial-product-case-21)
+  - [Örnek 22: Üstten çekim moda lookbook’u — kıyafet değişim sekansı (by @johnAGI168)](#commercial-product-case-22)
+  - [Örnek 23: Premium yaşam tarzı reklamı — vlog selfie tarzı (by @johnAGI168)](#commercial-product-case-23)
+  - [Örnek 24: Ritimle eşleşen su geçirmez spor ayakkabı filmi (by @madpencil_)](#commercial-product-case-24)
+  - [Örnek 25: Mangosten serum ürün lansmanı (by @ritesh_ai)](#commercial-product-case-25)
+  - [Örnek 26: Mumbai bavul taksi gösterimi (by @rahulnanda86)](#commercial-product-case-26)
+  - [Örnek 27: Uçurum villasında influencer turu (by @Ankit_patel211)](#commercial-product-case-27)
+- [🖼️ Reference-Driven](#reference-driven) (22)
+  - [Örnek 1: Minyatür diyoramada iskelet piyanist performansı (by @tea_story_hoshi)](#reference-driven-case-1)
+  - [Örnek 2: Fırtına gemisindeki prenses Krakene karşı (by @applete77191758)](#reference-driven-case-2)
+  - [Örnek 3: Hizmetçi kılıç dansı: Mei Coco’ya karşı (by @MiraMusic_AI)](#reference-driven-case-3)
+  - [Örnek 4: Kıyamet sonrası çatıda piyanoya veda (by @liyue_ai)](#reference-driven-case-4)
+  - [Örnek 5: Sinematik 8 mm balıkgözü lens, FPV yarış dronu ve hiper akıcı hareket (by @itsPixieVerse)](#reference-driven-case-5)
+  - [Örnek 6: Referans odaklı kung fu dublör sekansı (by @YaReYaRu30Life)](#reference-driven-case-6)
+  - [Örnek 7: Işın izleme, Unreal Engine görüntüsü ve şiddetli yağmurdaki kasaba (by @Gwsubsa)](#reference-driven-case-7)
+  - [Örnek 8: Ay marketinde gece vardiyası (by @zasuko_michiksa)](#reference-driven-case-8)
+  - [Örnek 9: Çatıda uyanış ve F-14’e dönüşüm (by @john87445528)](#reference-driven-case-9)
+  - [Örnek 10: Zırh montajı ve sokak karşı saldırısı (by @egeberkina)](#reference-driven-case-10)
+  - [Örnek 11: Görsel 1’deki karakteri gerçek kişi canlı çekim tarzına dönüştürme (by @Adam38363368936)](#reference-driven-case-11)
+  - [Örnek 12: Kutup ayısı eşlemeli kesim kılıç düellosu şablonu (by @aimikoda)](#reference-driven-case-12)
+  - [Örnek 13: Yedi görselli kesintisiz dönüşüm sekansı (by @YaReYaRu30Life)](#reference-driven-case-13)
+  - [Örnek 14: Stridex spor ayakkabı reklamı (by @ShamsAmin56)](#reference-driven-case-14)
+  - [Örnek 15: Şarkı söyleyen kedili görsel odaklı istem (by @pan_soramame_da)](#reference-driven-case-15)
+  - [Örnek 16: Karakter referanslı anime istemi (by @Reiria123)](#reference-driven-case-16)
+  - [Örnek 17: Çizgi filmden canlı çekim hayvanlara (by @MustafyOf)](#reference-driven-case-17)
+  - [Örnek 18: Kilitli görsel taslak referans hiyerarşisi (by @startracker)](#reference-driven-case-18)
+  - [Örnek 19: VOLTIA güç emiş montajı (by @itsPixieVerse)](#reference-driven-case-19)
+  - [Örnek 20: Kleopatra'nın saray itirafı (by @kinovi_ai)](#reference-driven-case-20)
+  - [Örnek 21: Fener altında yağmurlu buluşma (by @umesh_ai)](#reference-driven-case-21)
+  - [Örnek 22: Kunqu kulisinde tek plan dönüşüm (by @ou_zhen599)](#reference-driven-case-22)
+- [🌀 Surreal / VFX](#surreal-vfx) (16)
+  - [Örnek 1: Sıfır yerçekiminde katana dövüşü (by @MiraMusic_AI)](#surreal-vfx-case-1)
+  - [Örnek 2: Bulutlardaki balinanın gerçeküstü destanı (by @chaosdotjpg)](#surreal-vfx-case-2)
+  - [Örnek 3: Uçurum dalgıcının deniz canlısına dönüşümü (by @AIARTGALLARY)](#surreal-vfx-case-3)
+  - [Örnek 4: Boyutlar arası mega kent yarığının çöküşü (by @LudovicCreator)](#surreal-vfx-case-4)
+  - [Örnek 5: Yağmurlu yeraltı sokağında birleşme (by @Dheepanratnam)](#surreal-vfx-case-5)
+  - [Örnek 6: Kuantum gerçekliği kırılmasıyla oluşan sokak yarığı (by @Dheepanratnam)](#surreal-vfx-case-6)
+  - [Örnek 7: Göz aniden açılır (by @roco_kn_roco)](#surreal-vfx-case-7)
+  - [Örnek 8: Yüzen lav nehrinin üzerinde havada çarpışırlar (by @LudovicCreator)](#surreal-vfx-case-8)
+  - [Örnek 9: Kreatif direktörün boyut yürüyüşü (by @lukasersil)](#surreal-vfx-case-9)
+  - [Örnek 10: Uçurum varlığı sunağı yazıtı — karanlık fantezi (by @Adam38363368936)](#surreal-vfx-case-10)
+  - [Örnek 11: Yüzen arayüz renk çarkıyla sahne dönüşümü (by @johnAGI168)](#surreal-vfx-case-11)
+  - [Örnek 12: Ateş imparatoriçesinin dönüşüm sekansı (by @LudovicCreator)](#surreal-vfx-case-12)
+  - [Örnek 13: Çölde kum titanına dönüşüm (by @LudovicCreator)](#surreal-vfx-case-13)
+  - [Örnek 14: Kaçış arabasının çöp kamyonuna dönüşümü (by @LavrionX)](#surreal-vfx-case-14)
+  - [Örnek 15: Orman muhafızının hat sanatı dönüşümü (by @LudovicCreator)](#surreal-vfx-case-15)
+  - [Örnek 16: Lanetli çay seremonisi hayaleti (by @LudovicCreator)](#surreal-vfx-case-16)
+- [📐 Templates & Structured Formats](#templates-structured) (21)
+  - [Örnek 1: Süper uçak gemisinin felaketle batışı (by @johnAGI168)](#templates-structured-case-1)
+  - [Örnek 2: Bellek parçalarının yeniden inşası (by @TechTalkNAVI)](#templates-structured-case-2)
+  - [Örnek 3: Plana göre gerçeğe — tek katlı ev dönüşümü (by @craftian_keskin)](#templates-structured-case-3)
+  - [Örnek 4: Dövüş sanatları haute couture terzisi (by @Adam38363368936)](#templates-structured-case-4)
+  - [Örnek 5: Ritimle eşleşen kıyafet geçiş şablonu (by @aimikoda)](#templates-structured-case-5)
+  - [Örnek 6: Dans eden gökdelenler bölgesi şablonu (by @TechTalkNAVI)](#templates-structured-case-6)
+  - [Örnek 7: Yıldız ışığı gölgesi / yıldız tozu silüeti (by @TechTalkNAVI)](#templates-structured-case-7)
+  - [Örnek 8: Resimsel parkur POV şablonu (by @0xbisc)](#templates-structured-case-8)
+  - [Örnek 9: 360 derece POV yokuş aşağı merdiven koşusu şablonu (by @aimikoda)](#templates-structured-case-9)
+  - [Örnek 10: Yiyecek ve karakter hareketi şablonu (by @Just_sharon7)](#templates-structured-case-10)
+  - [Örnek 11: İmkânsız kamera mutfak koşusu şablonu (by @Dheepanratnam)](#templates-structured-case-11)
+  - [Örnek 12: Zaman dondurmalı POV patlama şablonu (by @CharaspowerAI)](#templates-structured-case-12)
+  - [Örnek 13: Astronotun ilk uzay yürüyüşü şablonu (by @BrennanErbz)](#templates-structured-case-13)
+  - [Örnek 14: Golden retriever günlük rutin şablonu (by @0xbisc)](#templates-structured-case-14)
+  - [Örnek 15: Stilize 3D berber dönüşüm sekansı (by @ShamiWeb3)](#templates-structured-case-15)
+  - [Örnek 16: İzlenimci kürek çeken eller şablonu (by @0xbisc)](#templates-structured-case-16)
+  - [Örnek 17: Kadın savaşçı — yapılandırılmış özne istemi (by @noman23761)](#templates-structured-case-17)
+  - [Örnek 18: Kutudan çıkan loft iç mekânı (by @samaote)](#templates-structured-case-18)
+  - [Örnek 19: Yüz ifadesi ayrıntı testi (by @ou_zhen599)](#templates-structured-case-19)
   - [Örnek 20: Su basmış balo salonundan kaçış hikâye panosu (by @ChangningL29508)](#templates-structured-case-20)
-- [🎬 Genel Sinematik](#general-cinematic) (38)
-  - [Örnek 1: Topuklu ayakkabı ritim eşlemeli moda yakın planı (yazan @TingFengAIAI)](#general-cinematic-case-1)
-  - [Örnek 2: Çocuk odasında mini kaykayla kaçış (yazan @anson7956)](#general-cinematic-case-2)
-  - [Örnek 3: Rucker Park’ta büyükanne kapışması (yazan @techhalla)](#general-cinematic-case-3)
-  - [Örnek 4: İtfaiyecinin bebek kurtarma sekansı (yazan @AITalesNBH)](#general-cinematic-case-4)
-  - [Örnek 5: Antik kostüm dönüşüm gösterisi (yazan @johnAGI168)](#general-cinematic-case-5)
-  - [Örnek 6: Gece Ginza, geleceğin siberpunk dünyası (yazan @ChiakiAkagi)](#general-cinematic-case-6)
-  - [Örnek 7: Bir sıçrayıcının hikâyeleri (yazan @starks_arq)](#general-cinematic-case-7)
-  - [Örnek 8: Şüpheli bir adam Shibuya kavşağının ortasında duruyor (yazan @roco_kn_roco)](#general-cinematic-case-8)
-  - [Örnek 9: Balıkçı teknesi kalabalığında telefon çekimi (yazan @maxescu)](#general-cinematic-case-9)
-  - [Örnek 10: Dijital tünelde hızla düşen kız (yazan @_3912657840)](#general-cinematic-case-10)
-  - [Örnek 11: Skytree raylı top fırlatma sekansı (yazan @TechTalkNAVI)](#general-cinematic-case-11)
-  - [Örnek 12: Hollywood film fragmanı (yazan @SSSS_CRYPTOMAN)](#general-cinematic-case-12)
-  - [Örnek 13: Sinematik dikey 9:16 sekans (yazan @Mayz1169)](#general-cinematic-case-13)
-  - [Örnek 14: Dev buzul duvarı kıyı kentinin yanında fiyorda çöküyor (yazan @LudovicCreator)](#general-cinematic-case-14)
-  - [Örnek 15: Ay ışığında fareli piyano kovalamacası (yazan @Dheepanratnam)](#general-cinematic-case-15)
-  - [Örnek 16: 15 saniyelik kesintisiz tek plan çizgi film sekansı (yazan @Artedeingenio)](#general-cinematic-case-16)
-  - [Örnek 17: Gün batımında steampunk hava gemisi savaşı (yazan @Alin_Reaper05)](#general-cinematic-case-17)
-  - [Örnek 18: Parmak arası terlik jet kanadı takip çekimi (yazan @maxescu)](#general-cinematic-case-18)
-  - [Örnek 19: Derin dağlardaki antik tapınağın dışı (yazan @cdexsta)](#general-cinematic-case-19)
-  - [Örnek 20: Özgürlük Heykeli gün doğumu görsel taslağı (yazan @MrDasOnX)](#general-cinematic-case-20)
-  - [Örnek 21: Dramatik ışıklı tarihî sahne (yazan @AskVenice)](#general-cinematic-case-21)
-  - [Örnek 22: Roket sörfü kesintisiz takip çekimi (yazan @maxescu)](#general-cinematic-case-22)
-  - [Örnek 23: Stand-up komedi monoloğu şablonu (yazan @Adam38363368936)](#general-cinematic-case-23)
-  - [Örnek 24: Doğum gününde ihanet restoran draması (yazan @Lighterkissan33)](#general-cinematic-case-24)
-  - [Örnek 25: Antik parkur kostüm değiştirme sekansı (yazan @Adam38363368936)](#general-cinematic-case-25)
-  - [Örnek 26: Motorun içi — piston mekanik ayrıntısı (yazan @YaReYaRu30Life)](#general-cinematic-case-26)
-  - [Örnek 27: 90’lar Japon romantik simülasyonu — cel animasyon tarzı (yazan @kinopioai_ai)](#general-cinematic-case-27)
-  - [Örnek 28: Sinematik yönetmenlik teknikleri — çok planlı istem (yazan @noman23761)](#general-cinematic-case-28)
-  - [Örnek 29: Doğu Asyalı kadın portresi — doğal gülümseme (yazan @noman23761)](#general-cinematic-case-29)
-  - [Örnek 30: Kıyamet sonrası hayatta kalma — sinematik kurulum (yazan @noman23761)](#general-cinematic-case-30)
-  - [Örnek 31: Pixar tarzı orman açıklığı — 3D animasyon sahnesi (yazan @SPEEDAI07)](#general-cinematic-case-31)
-  - [Örnek 32: Battaniyenin altında atıştırmalık çalan yavru kedi (yazan @lynneatyoumind)](#general-cinematic-case-32)
-  - [Örnek 33: Seedance 2.0 T2V doğal konuşma testi (yazan @tanabe_fragm)](#general-cinematic-case-33)
-  - [Örnek 34: Kâğıt kukla korku animasyonu (yazan @TomaAIbijo)](#general-cinematic-case-34)
-  - [Örnek 35: Kızıl çölde motosiklet takip çekimi (yazan @LudovicCreator)](#general-cinematic-case-35)
-  - [Örnek 36: Pompeii felaketinin DV görüntüleri (yazan @venturetwins)](#general-cinematic-case-36)
-  - [Örnek 37: Terk edilmiş lunaparkta astronot yürüyüşü (yazan @LudovicCreator)](#general-cinematic-case-37)
-  - [Örnek 38: Korsan ördeğin küvet yolculuğu (yazan @CharaspowerAI)](#general-cinematic-case-38)
+  - [Örnek 21: Peron düello beatmap'i (by @SYDxStudio)](#templates-structured-case-21)
+- [🎬 General Cinematic](#general-cinematic) (39)
+  - [Örnek 1: Topuklu ayakkabı ritim eşlemeli moda yakın planı (by @TingFengAIAI)](#general-cinematic-case-1)
+  - [Örnek 2: Çocuk odasında mini kaykayla kaçış (by @anson7956)](#general-cinematic-case-2)
+  - [Örnek 3: Rucker Park’ta büyükanne kapışması (by @techhalla)](#general-cinematic-case-3)
+  - [Örnek 4: İtfaiyecinin bebek kurtarma sekansı (by @AITalesNBH)](#general-cinematic-case-4)
+  - [Örnek 5: Antik kostüm dönüşüm gösterisi (by @johnAGI168)](#general-cinematic-case-5)
+  - [Örnek 6: Gece Ginza, geleceğin siberpunk dünyası (by @ChiakiAkagi)](#general-cinematic-case-6)
+  - [Örnek 7: Bir sıçrayıcının hikâyeleri (by @starks_arq)](#general-cinematic-case-7)
+  - [Örnek 8: Şüpheli bir adam Shibuya kavşağının ortasında duruyor (by @roco_kn_roco)](#general-cinematic-case-8)
+  - [Örnek 9: Balıkçı teknesi kalabalığında telefon çekimi (by @maxescu)](#general-cinematic-case-9)
+  - [Örnek 10: Dijital tünelde hızla düşen kız (by @_3912657840)](#general-cinematic-case-10)
+  - [Örnek 11: Skytree raylı top fırlatma sekansı (by @TechTalkNAVI)](#general-cinematic-case-11)
+  - [Örnek 12: Hollywood film fragmanı (by @SSSS_CRYPTOMAN)](#general-cinematic-case-12)
+  - [Örnek 13: Sinematik dikey 9:16 sekans (by @Mayz1169)](#general-cinematic-case-13)
+  - [Örnek 14: Dev buzul duvarı kıyı kentinin yanında fiyorda çöküyor (by @LudovicCreator)](#general-cinematic-case-14)
+  - [Örnek 15: Ay ışığında fareli piyano kovalamacası (by @Dheepanratnam)](#general-cinematic-case-15)
+  - [Örnek 16: 15 saniyelik kesintisiz tek plan çizgi film sekansı (by @Artedeingenio)](#general-cinematic-case-16)
+  - [Örnek 17: Gün batımında steampunk hava gemisi savaşı (by @Alin_Reaper05)](#general-cinematic-case-17)
+  - [Örnek 18: Parmak arası terlik jet kanadı takip çekimi (by @maxescu)](#general-cinematic-case-18)
+  - [Örnek 19: Derin dağlardaki antik tapınağın dışı (by @cdexsta)](#general-cinematic-case-19)
+  - [Örnek 20: Özgürlük Heykeli gün doğumu görsel taslağı (by @MrDasOnX)](#general-cinematic-case-20)
+  - [Örnek 21: Dramatik ışıklı tarihî sahne (by @AskVenice)](#general-cinematic-case-21)
+  - [Örnek 22: Roket sörfü kesintisiz takip çekimi (by @maxescu)](#general-cinematic-case-22)
+  - [Örnek 23: Stand-up komedi monoloğu şablonu (by @Adam38363368936)](#general-cinematic-case-23)
+  - [Örnek 24: Doğum gününde ihanet restoran draması (by @Lighterkissan33)](#general-cinematic-case-24)
+  - [Örnek 25: Antik parkur kostüm değiştirme sekansı (by @Adam38363368936)](#general-cinematic-case-25)
+  - [Örnek 26: Motorun içi — piston mekanik ayrıntısı (by @YaReYaRu30Life)](#general-cinematic-case-26)
+  - [Örnek 27: 90’lar Japon romantik simülasyonu — cel animasyon tarzı (by @kinopioai_ai)](#general-cinematic-case-27)
+  - [Örnek 28: Sinematik yönetmenlik teknikleri — çok planlı istem (by @noman23761)](#general-cinematic-case-28)
+  - [Örnek 29: Doğu Asyalı kadın portresi — doğal gülümseme (by @noman23761)](#general-cinematic-case-29)
+  - [Örnek 30: Kıyamet sonrası hayatta kalma — sinematik kurulum (by @noman23761)](#general-cinematic-case-30)
+  - [Örnek 31: Pixar tarzı orman açıklığı — 3D animasyon sahnesi (by @SPEEDAI07)](#general-cinematic-case-31)
+  - [Örnek 32: Battaniyenin altında atıştırmalık çalan yavru kedi (by @lynneatyoumind)](#general-cinematic-case-32)
+  - [Örnek 33: Seedance 2.0 T2V doğal konuşma testi (by @tanabe_fragm)](#general-cinematic-case-33)
+  - [Örnek 34: Kâğıt kukla korku animasyonu (by @TomaAIbijo)](#general-cinematic-case-34)
+  - [Örnek 35: Kızıl çölde motosiklet takip çekimi (by @LudovicCreator)](#general-cinematic-case-35)
+  - [Örnek 36: Pompeii felaketinin DV görüntüleri (by @venturetwins)](#general-cinematic-case-36)
+  - [Örnek 37: Terk edilmiş lunaparkta astronot yürüyüşü (by @LudovicCreator)](#general-cinematic-case-37)
+  - [Örnek 38: Korsan ördeğin küvet yolculuğu (by @CharaspowerAI)](#general-cinematic-case-38)
+  - [Örnek 39: Karanlık Dünya yörünge VHS'i (by @LudovicCreator)](#general-cinematic-case-39)
+
 <a id="action-fantasy"></a>
-## ⚔️ Aksiyon / Fantastik
+## ⚔️ Action / Fantasy (43)
 
 <a id="action-fantasy-case-1"></a>
 <!-- Case 1: Street Rap MV Performance (by @songguoxiansen) -->
@@ -1043,7 +1049,6 @@ SHOT 6: Full shot to medium shot, 35mm, forward follow and side move. Station ap
 SHOT 7: Medium close-up to close-up, 50mm, camera moves behind messenger, approaches forward. Frog stops and stands firm, messenger turns to open back mailbox, takes out envelope, turns and hands to extended hand. Sound: latch opening, lid sound, envelope pulled out, handover, wind fades.
 ```
 
-
 <a id="action-fantasy-case-38"></a>
 <!-- Case 38: Thunder Warrior Zombie Siege (by @MO_IAI) -->
 ### Örnek 38: [Gök gürültüsü savaşçısının zombi kuşatması](https://x.com/MO_IAI/status/2078252502755983855) (yazan [@MO_IAI](https://x.com/MO_IAI))
@@ -1098,7 +1103,6 @@ Shot 4 (9–13s) — BIG SLOW-MOTION MOMENT: The shark circles alone in the open
 
 Shot 5 (13–15s): Time snaps back. A huge blast erupts in the water beside the drifting barge, fire and spray shooting high into the sky. The rescue boat reaches the dock safely as the crew watches the water settle.
 ```
-
 
 <a id="action-fantasy-case-41"></a>
 <!-- Case 41: Arena Giantess Upset (by @rahulnanda86) -->
@@ -1183,10 +1187,49 @@ The entire coliseum explodes into deafening celebration as thousands of spectato
 ```
 A cinematic 15-second action sequence set inside a dark, gritty industrial warehouse at night, featuring moody teal-green lighting, chain-link fences, metal scaffolding, peeling green walls, and floating dust particles. A powerful, elegant East Asian Boss Lady wears a sleek black pantsuit with long flowing black hair and a calm, commanding expression. Standing beside her is a handsome, athletic male bodyguard in an all-black tailored suit with a heroic presence. As multiple attackers rush in, the bodyguard instantly steps in front of the Boss Lady, protecting her with lightning-fast punches, powerful kicks, evasive movements, and cinematic takedowns. The Boss Lady remains composed and confident, watching as her protector defeats every attacker. The sequence ends with the bodyguard standing protectively beside the Boss Lady as they walk forward together in slow motion, dust swirling around them. Handheld and tracking camera shots, dramatic low angles, realistic fabric movement, cinematic motion blur, ultra-detailed choreography, film-quality lighting, emotional heroism, 4K ultra-realistic cinematic masterpiece.
 ```
-<a id="cinematic-realism"></a>
+
+<a id="action-fantasy-case-43"></a>
+<!-- Case 43: Arctic Station Worm Attack (by @StevieMac03) -->
+### Örnek 43: [Arktik istasyonda kurt saldırısı](https://x.com/StevieMac03/status/2079168831646216508) (yazan [@StevieMac03](https://x.com/StevieMac03))
+
+| Çıktı |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-43"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2079168831646216508.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**İstem:**
+
+```
+{
+  "META": "Live-action standalone creature attack short | Length 15 seconds | Arctic research station exterior | Modern day grounded realism | Giant worm horror | Cinematic realism",
+  "SHOT": {
+    "CAM": "Low shoulder height tracking shot that slowly drifts into a side profile run, sudden violent handheld shake on emergence, snap pan to impact, final locked wide on aftermath, filmed on ARRI Alexa LF with 35mm lens",
+    "SET": "Windswept arctic ice field outside a remote research station, prefab modular buildings with steel walkways half buried in snowdrifts, satellite dish crusted with rime ice, snowmobiles parked beside stacked fuel drums, orange marker flags whipping in the wind, endless white plain dissolving into low gray sky",
+    "SUBJECT": "Two scientists caught in open ground, Dr. Aaron Voss early 40s tall dark beard in a red expedition parka with fur trimmed hood thrown back, Dr. Lena Okafor mid 30s braided hair under a wool beanie wearing an insulated yellow field suit streaked with grease and snow",
+    "ACTION": "They run across the packed snow as the ice behind them begins to crack in sharp straight lines. The ground suddenly erupts as a massive ringed segment punches up through the frozen crust. A towering giant worm bursts free in a spray of ice shards and snow, its pale segmented body uncoiling with violent force. Its circular maw peels open in layered rings of hooked teeth with a wet grinding shriek as it lunges forward. Aaron shoves Lena aside just as the worm slams down between them. Its maw clamps around Aaron's torso and lifts him screaming into the air. He claws at its rubbery hide as viscous gray fluid sprays from a torn segment. The worm violently jerks him inward and swallows him with a sickening crunch. Lena stumbles backward in shock. The worm pivots with terrifying speed and lunges again, dragging her screaming beneath the ice as its body churns the snow into a white blizzard of debris. Only drifting powder remains.",
+    "STYLE": "Practical monster horror realism, immense worm mass and physics emphasized, no stylized motion, raw violent impact, tactile ice debris and snow strikes on lens",
+    "LIGHTING": "Flat overcast polar daylight with cold diffuse shadows, pale highlights sliding along the worm's wet segmented hide as it moves, breath vapor catching the light",
+    "AMBIENCE_COLOR": "Blue white ice tones, sickly pale gray worm flesh, safety orange and red gear accents, steel gray sky"
+  },
+  "AUDIO": {
+    "dialogue": [
+      { "speaker": "Dr. Aaron Voss", "line": "Lena get down" },
+      { "speaker": "Dr. Lena Okafor", "line": "Aaron" }
+    ],
+    "ambience": [
+      "deep ice cracking sharply",
+      "explosive frozen ground eruption impact",
+      "wet grinding shriek layered with gnashing ringed teeth",
+      "bone crushing crunch",
+      "howling arctic wind",
+      "snow settling into dead silence"
+    ]
+  },
+  "NEG": "no subtitles, no drones, no on screen text, no glowing eyes, no neon colors, no period vehicles, no vintage clothing, no stylized CGI surfaces, no slow motion"
+}
+```
 
 <a id="cinematic-realism"></a>
-## 🎞️ Sinematik Gerçekçilik
+## 🎞️ Cinematic Realism (10)
 
 <a id="cinematic-realism-case-1"></a>
 <!-- Case 1: Modern Japan Documentary Sequence (by @kuranoayashi) -->
@@ -1320,7 +1363,6 @@ Natural sound only. Crowd chanting, loud applause, laughter, splashing water, ec
 The result must feel like authentic raw 1990s home video footage capturing a completely ordinary pool jump that somehow turned into an Olympic-level celebration.
 ```
 
-
 <a id="cinematic-realism-case-7"></a>
 <!-- Case 7: Vintage Black Car Storm Run (by @LudovicCreator) -->
 ### Örnek 7: [Klasik siyah otomobille fırtına sürüşü](https://x.com/LudovicCreator/status/2078057220512629018) (yazan [@LudovicCreator](https://x.com/LudovicCreator))
@@ -1349,7 +1391,6 @@ A vintage black car speeds along a winding mountain road in heavy rain at dusk, 
 A solitary lighthouse stands on a jagged black cliff as a monstrous storm crashes against the coast at night. Waves explode against the rocks far below, sending white spray into the air like smoke, while the lighthouse beam cuts through sheets of rain and drifting sea mist. Inside, an old keeper climbs the narrow spiral staircase with a lantern in hand, his coat soaked, the light flickering with every thunderclap. The camera moves between wide shots of the lighthouse dwarfed by the fury of the ocean and intimate interior close-ups of wet stone walls, rattling glass, trembling hands, and the golden lantern glow in the darkness. As the storm intensifies, lightning reveals a ghostly ship in the distance, barely visible between walls of rain. The sequence feels haunting, dramatic, and timeless, with crashing waves, thunder, and a powerful sense of isolation.
 ```
 
-
 <a id="cinematic-realism-case-9"></a>
 <!-- Case 9: Sandstorm Buggy Escape (by @umesh_ai) -->
 ### Örnek 9: [Kum fırtınasında buggy kaçışı](https://x.com/umesh_ai/status/2078781951377555966) (yazan [@umesh_ai](https://x.com/umesh_ai))
@@ -1363,8 +1404,39 @@ A solitary lighthouse stands on a jagged black cliff as a monstrous storm crashe
 ```
 Towering sandstone cliffs crack under the pressure of a violent sandstorm. From a sweeping aerial over a vast desert basin, the camera dives aggressively toward a high-speed off-road buggy tearing through collapsing dunes. It slingshots past the front grill, whips around the roll cage, then drops tight to the spinning tires as sand blasts outward in golden waves. Chunks of rock tumble from above, dust spirals across the route, and the driver threads through narrow canyon gaps as entire ridgelines slump into avalanches of sand. The buggy surges through a curtain of blowing grit, bursts free, and races onto a surreal salt flat glowing in sunset orange. The camera rockets upward into a giant reveal as the storm fades behind. The engine cuts. Silence swallows the desert.
 ```
+
+<a id="cinematic-realism-case-10"></a>
+<!-- Case 10: Argentina Spain Broadcast Brawl (by @Ankit_patel211) -->
+### Örnek 10: [Arjantin İspanya yayın kavgası](https://x.com/Ankit_patel211/status/2079286938373419028) (yazan [@Ankit_patel211](https://x.com/Ankit_patel211))
+
+| Çıktı |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-realism-case-10"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2079286938373419028.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**İstem:**
+
+```
+Live sports television broadcast, authentic real-time football match retransmission. Natural stadium daylight, slight haze, packed crowd, official scoreboard ARG 0-0 ESP. Pure professional sports TV camera language with authentic broadcast zooms, natural handheld lens shake, genuine live-feed texture, realistic TV graphics, no cinematic polish.
+
+A modern football stadium during an Argentina vs Spain international match. Argentina players wear sky-blue and white striped kits, Spain players wear red kits. The atmosphere feels exactly like a live FIFA television broadcast with thousands of cheering fans, realistic commentators, stadium ambience, and professional sports camera work.
+
+0-4s: [High Wide Broadcast Shot]
+Normal gameplay suddenly stops when one Argentina player humorously pulls on oversized blue boxing gloves. Nearby Spain players stare in total disbelief before everyone begins a playful, exaggerated football brawl filled with harmless pushing, dodging, jersey grabbing, dramatic reactions, and cartoonishly over-the-top movements. The crowd erupts with laughter.
+
+4-8s: [Pitch-Level Tracking Shot]
+The broadcast camera tracks beside the action. The Argentina player throws exaggerated air punches while Spain players comically dodge and stumble. Players from both teams harmlessly wrestle, trip over each other, and dramatically roll across the grass. Coaches leap from the benches and sprint onto the pitch trying to separate everyone while assistant coaches wave their arms frantically.
+
+8-12s: [Classic Live TV Close-Up]
+The referee repeatedly blows the whistle as assistant referees, security staff, coaches, substitutes, and medical staff rush into the middle of the hilarious chaos. Everyone tries to pull players apart. The boxing-glove player is dragged backward by teammates while Spain players continue pointing, arguing, and making exaggerated facial expressions. The crowd chants and laughs loudly.
+
+12-15s: [Wide Stadium Broadcast]
+Camera pulls back to reveal the entire pitch. Coaches, referees, substitutes, and security form a large human barrier between both teams. Players gradually calm down but continue dramatically arguing and pointing. The referee theatrically flashes yellow cards in every direction while looking completely overwhelmed. The Argentina player raises his oversized boxing gloves to the cheering crowd as the stadium bursts into laughter, creating the feeling of an unforgettable viral football broadcast.
+
+Ultra-realistic live sports broadcast quality, authentic TV camera movement, realistic sports-lens motion blur, genuine crowd reactions, coherent body physics, stable character consistency, natural stadium audio, live television retransmission texture, unscripted sports broadcast energy, no cinematic color grading, no artificial enhancement, looks exactly like authentic live football coverage with lighthearted slapstick comedy.
+```
+
 <a id="pov-fpv"></a>
-## 🥽 POV / FPV
+## 🥽 POV / FPV (21)
 
 <a id="pov-fpv-case-1"></a>
 <!-- Case 1: Chest-Mounted Camouflage Chase Sequence (by @genel_ai) -->
@@ -1858,7 +1930,6 @@ Pure first-person camera perspective, no visible drone, no cockpit, no aircraft 
 Immersive first-person flying camera perspective, no visible drone or flying device. The entire sequence takes place at night beneath a deep blue sky. The camera races above the illuminated lavender fields of Provence while fireworks burst continuously in blue, white, and red across the horizon. It weaves through glowing medieval villages, vineyards, French châteaux, the cliffs of Normandy, and Mont-Saint-Michel reflected in the dark tide, with fireworks erupting above every location. The camera then follows the Seine into Paris at extreme speed, skimming beneath historic bridges, banking around the Arc de Triomphe, and climbing beside the fully illuminated Eiffel Tower as enormous synchronized fireworks fill the sky and reflect across the river. At the finale, the camera pulls back above Paris while the fireworks create a vast tricolor glow. A gigantic French flag unfurls naturally from the top of the Eiffel Tower, waving majestically above the city as the final fireworks burst behind it. No text, no words, no letters. Continuous POV shot, no cuts, aggressive banking, cinematic motion blur, realistic night lighting, volumetric smoke, detailed fireworks, ultra-realistic travel cinematography, spectacular blockbuster VFX, IMAX quality.
 ```
 
-
 <a id="pov-fpv-case-21"></a>
 <!-- Case 21: Cybernetic Battlefield FPV Dive (by @LudovicCreator) -->
 ### Örnek 21: [Sibernetik savaş alanına FPV dalışı](https://x.com/LudovicCreator/status/2078842368661315786) (yazan [@LudovicCreator](https://x.com/LudovicCreator))
@@ -1872,8 +1943,9 @@ Immersive first-person flying camera perspective, no visible drone or flying dev
 ```
 Immersive first-person flying camera perspective, no visible drone or flying device. The camera launches at insane speed across a colossal dystopian cyborg battlefield at night, flying only centimeters above shattered metal, burning wreckage, and rivers of glowing energy. It violently snap-rolls between the legs of towering combat mechs, knife-edges through collapsing steel structures, dives beneath gigantic walking war machines, then instantly climbs through exploding industrial ruins. Swarms of autonomous combat drones streak overhead while colossal cybernetic titans exchange devastating energy blasts that illuminate the battlefield. The camera constantly changes direction with brutal FPV precision,rapid S-turns, vertical dives, barrel rolls, power loops around gigantic reactor towers, split-S reversals, wall-hugging passes through ruined megafactories, and razor-close proximity flights beneath collapsing bridges. Neon holograms flicker through dense smoke as thousands of laser tracers, plasma arcs, sparks, and electrical storms fill the sky. Gigantic cybernetic creatures emerge from the darkness while endless ranks of futuristic soldiers and armored exosuits advance across the battlefield beneath towering ruined skyscrapers. The camera threads through impossibly tight gaps as collapsing buildings, burning aircraft, and massive mechanical debris crash around it, then rockets into a colossal mechanical canyon formed by fallen war machines. At the climax, the battlefield opens into an unimaginably vast cybernetic wasteland where a planet-sized artificial intelligence core rises above the horizon, surrounded by colossal rotating rings, lightning storms, and endless mechanical cities stretching to infinity. Continuous POV shot, no cuts, relentless acceleration, extreme high-speed FPV racing, aggressive banking, rapid altitude changes, barrel rolls, corkscrews, split-S maneuvers, power loops, knife-edge turns, realistic inertia, cinematic motion blur, volumetric smoke, dynamic lighting, neon reflections, hyper-detailed dystopian environments, surreal cyberpunk architecture, blockbuster sci-fi VFX, IMAX quality.
 ```
+
 <a id="commercial-product"></a>
-## 🏷️ Reklam / Ürün
+## 🏷️ Commercial / Product (27)
 
 <a id="commercial-product-case-1"></a>
 <!-- Case 1: Perfume-Style Anime Trio Dance Stage (by @ShadeLurk) -->
@@ -2505,11 +2577,8 @@ Ref image is wearing a stylish casual-luxury outfit with subtle yellow and green
 Real iPhone 16 Pro footage look, natural bright daylight, authentic mobile camera movement and slight shake, natural vibrant colors, coherent physics, stable character, real phone video quality, no film look, no artifacts, looks like genuine Instagram Reel footage shot on location.
 ```
 
-
 <a id="reference-driven"></a>
-
-<a id="reference-driven"></a>
-## 🖼️ Referans Tabanlı
+## 🖼️ Reference-Driven (22)
 
 <a id="reference-driven-case-1"></a>
 <!-- Case 1: Skeleton Pianist Miniature Diorama Performance (by @tea_story_hoshi) -->
@@ -3469,8 +3538,6 @@ Scene 5: Slow orbit around them sitting together, watching the mist drift throug
 Scene 6: Distant pullback across a reflective puddle, framing them beneath the enormous tree as they quietly share tea and savour the rain.
 ```
 
-
-
 <a id="reference-driven-case-22"></a>
 <!-- Case 22: Kunqu Backstage One-Take Transformation (by @ou_zhen599) -->
 ### Örnek 22: [Kunqu kulisinde tek plan dönüşüm](https://x.com/ou_zhen599/status/2078394020741673439) (yazan [@ou_zhen599](https://x.com/ou_zhen599))
@@ -3486,7 +3553,7 @@ Scene 6: Distant pullback across a reflective puddle, framing them beneath the e
 ```
 
 <a id="surreal-vfx"></a>
-## 🌀 Sürreal / VFX
+## 🌀 Surreal / VFX (16)
 
 <a id="surreal-vfx-case-1"></a>
 <!-- Case 1: Zero-Gravity Katana Combat (by @MiraMusic_AI) -->
@@ -3868,7 +3935,6 @@ She pauses, watches the police pass… then slowly turns toward camera and winks
 Ambient city sound returns. No hard cut.
 ```
 
-
 <a id="surreal-vfx-case-15"></a>
 <!-- Case 15: Forest Guardian Calligraphy Transformation (by @LudovicCreator) -->
 ### Örnek 15: [Orman muhafızının hat sanatı dönüşümü](https://x.com/LudovicCreator/status/2078346662699798878) (yazan [@LudovicCreator](https://x.com/LudovicCreator))
@@ -3883,8 +3949,22 @@ Ambient city sound returns. No hard cut.
 Full magical transformation sequence: a forest guardian floating in an aged moss-green parchment void as deep emerald ink spreads through the air like liquid leaves blooming in water ,calligraphy strokes whip around the body, staining the hair into soft jade green, sketching layered nature armor, glowing vine markings across the face, and a long spear silhouette in sweeping green brushwork. A circular ancient seal script sigil blooms underfoot with splashes of pearl-white light, the camera pushing in through drifting ink veils like torn leaves in a storm, each brush impact synced to a rising drumbeat, ending in a spear-planted signature pose locked inside an emerald-and-pearl calligraphy burst. Stock-footage grandeur, played sincere.
 ```
 
+<a id="surreal-vfx-case-16"></a>
+<!-- Case 16: Haunted Tea Ceremony Apparition (by @LudovicCreator) -->
+### Örnek 16: [Lanetli çay seremonisi hayaleti](https://x.com/LudovicCreator/status/2078902823656226891) (yazan [@LudovicCreator](https://x.com/LudovicCreator))
+
+| Çıktı |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-16"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078902823656226891.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**İstem:**
+
+```
+Stylized anime haunted tea ceremony beat: an elderly woman pours tea inside an abandoned tatami room, steam rising from the cup and slowly forming the shape of a long-lost guest. Dust floats in golden afternoon light, paper doors rattling gently though no wind enters the house. Slow push-in across the floor, tea reflections rippling with impossible memories, the woman’s calm face mirrored in the porcelain cup. The ghostly figure leans closer and the silence holds one beat past comfort.
+```
+
 <a id="templates-structured"></a>
-## 📐 Şablonlar ve Yapılandırılmış Biçimler
+## 📐 Templates & Structured Formats (21)
 
 <a id="templates-structured-case-1"></a>
 <!-- Case 1: Supercarrier Catastrophic Sinking (by @johnAGI168) -->
@@ -4382,7 +4462,6 @@ Camera: fixed wide-angle shot, no zoom, no camera shake, no angle change.
 Negative prompt: no people, no extra rooms, no duplicated furniture, no distorted furniture, no warped walls, no text changes, no logo distortion, no sudden cuts, no messy construction debris, no cartoon animation.
 ```
 
-
 <a id="templates-structured-case-19"></a>
 <!-- Case 19: Facial Expression Detail Test (by @ou_zhen599) -->
 ### Örnek 19: [Yüz ifadesi ayrıntı testi](https://x.com/ou_zhen599/status/2078137477425172769) (yazan [@ou_zhen599](https://x.com/ou_zhen599))
@@ -4410,7 +4489,6 @@ Negative prompt: no people, no extra rooms, no duplicated furniture, no distorte
 12-15秒：目视前方/画面右侧，眼神柔和微润，唇瓣轻动似欲语还休，最终保持安静凝视状态，定格在温柔清冷、略带忧郁的情绪中，结尾无黑屏、无转场。
 ```
 
-
 <a id="templates-structured-case-20"></a>
 <!-- Case 20: Flooded Ballroom Escape Storyboard (by @ChangningL29508) -->
 ### Örnek 20: [Su basmış balo salonundan kaçış hikâye panosu](https://x.com/ChangningL29508/status/2078684698394636544) (yazan [@ChangningL29508](https://x.com/ChangningL29508))
@@ -4424,10 +4502,39 @@ Negative prompt: no people, no extra rooms, no duplicated furniture, no distorte
 ```
 @Image1 storyboard is a temporal beat map only. Create one continuous full-screen 16:9 cinematic 15-second live-action sequence, never show a panel grid, black gutters, collage, captions, or text. Same young adult bride with wet black hair, ivory satin wedding dress and red rubber boots; same soaked groom in a black tuxedo; same red-dress bridesmaid; same waiter in black vest. In a flooded Art Deco ballroom at night, follow the storyboard left to right, top to bottom: the bride pulls the groom through knee-deep water toward the warm exit; the bridesmaid follows with her shoes; the waiter opens and holds the door; guests plausibly clear the path and evacuate; the couple and bridesmaid reach the doorway. Cold blue-green storm light and warm chandelier reflections, believable water physics, cinematic 35mm camera, one natural continuous progression. Stable faces and identities, anatomically correct hands, no duplicate people, no warped anatomy, no elderly bride, no police, no weapons, no random actions, no watermark, no logo, no subtitles.
 ```
-<a id="general-cinematic"></a>
+
+<a id="templates-structured-case-21"></a>
+<!-- Case 21: Station Platform Duel Beatmap (by @SYDxStudio) -->
+### Örnek 21: [Peron düello beatmap'i](https://x.com/SYDxStudio/status/2079286923424575628) (yazan [@SYDxStudio](https://x.com/SYDxStudio))
+
+| Çıktı |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-21"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2079286923424575628.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**İstem:**
+
+```
+Use @image1 only as P01-P06 movement waypoints for one uninterrupted action, never as shots, holds, a displayed image or style source. Flow through P02-P05 without stopping; P01/P06 are boundaries. Set STEP 06 as first frame and STEP 06T as last; they alone lock boundary staging. @image2 solely controls KAI: 185 cm, face always uncovered, headphones, black tank, twin cyan blades. @image3 solely controls KIRA: 165 cm, mask always worn, RIGHT dagger reverse/LEFT forward, two rear-belt capsules. @image4 is a mixed sheet: use ONLY Zone F Old Ward platform; ignore other panels/artifacts.
+
+Exactly 10.0 seconds, 24 fps. ZONE F ONLY: same stationary train, west platform, tiled column, bench, departure board, brake chain and closed carriage door; never reveal/enter Car 5. Start exact STEP 06, finish exact STEP 06T. During action KAI's tank right seam is sliced; floor, column, bench and board become damaged and remain so. Chain and door stay intact. No dialogue/music; only breath, shoes, cloth, blades, tile, bolts, timber, metal, debris.
+
+LOOK: hand-drawn 2D shonen-wuxia sakuga matching boundaries; variable black ink, flat cel blocks, one hard shadow, stepped drawings, foreshortening, dry-brush smears, simplified background only in velocity bursts; never photoreal, glossy, 3D or game-cinematic.
+
+CAMERA MODE: one continuous 20 mm master, no cuts. Launch low with KAI, dive under KIRA, inherit his eastward slide, whip around the same column, rise beside the rotating board, recoil with Sonic Strike, settle into STEP 06T. Tiles/debris prove parallax; no stable sideline or location crossing.
+
+PHRASE 1, actions 1-5: frame one, KIRA pushes from lintel; dives down-left; KAI springs up-right; twin blades catch crossed daggers off-axis for two frames; both twist out instantly, KIRA already moving east before landing.
+
+PHRASE 2, actions 6-10: KIRA scissor-cuts backward while retreating; KAI triangular-steps then long-slides east; her LEFT dagger slices only his tank's right seam; he rotates under her returning RIGHT; his RIGHT blade drives that dagger into the tiled column as she qinggong-steps on that same column and rebounds east.
+
+PHRASE 3, actions 11-16: KIRA touches the bench once; runs two steps along its back; springs to the board bracket; severs both bolts in one crossing cut; KAI rolls under the falling board while the bench breaks; he rises into one compact Sonic Strike folding the board around the stripped column as KIRA lands beside the intact chain in exact STEP 06T. No generic sparring, repeated clash, guard reset or panel pause.
+
+VISUAL EFFECTS: KAI uses only blade-edge-attached narrow cyan waveform crescents and segmented cyan body streaks. At the column, a compact cyan contact star forms exactly where his RIGHT blade meets KIRA's dagger; force passes through her dagger tip into grout, tiles cone east, bodies overshoot, cyan fragments decay, camera jolts once and recovers. At Sonic Strike, waveforms compress along KAI's forearms/blades into a black-cyan ink wedge at board contact; one cyan shock ring travels through metal, folds it and throws bolts, tile and dust into a radial debris silhouette; KAI recoils, ring fragments, camera snaps back. KIRA uses only needle-thin dagger-attached violet crescents and two path-bound violet-black afterimages, never clones. Her bolt cut creates a localized violet impact star; stress crosses both bolts, fragments lag, violet decays. Cyan never belongs to KIRA; violet-black never to KAI; no detached beam, aura cloud or constant glow.
+
+Never show storyboard/panels/labels/borders. No cut, blackout, flash transition, smoke cover, dissolve, morph, teleport, slow motion, freeze, replay, extra body/limb/weapon, identity swap, KAI mask, unmasked KIRA, vanished damage, moving train, cut chain, breached door, Car 5, premature P06 or overshoot.
+```
 
 <a id="general-cinematic"></a>
-## 🎬 Genel Sinematik
+## 🎬 General Cinematic (39)
 
 <a id="general-cinematic-case-1"></a>
 <!-- Case 1: High-Heel Beat Sync Fashion Close-Up (by @TingFengAIAI) -->
@@ -5202,7 +5309,6 @@ The result must feel like authentic, raw footage of ordinary people in Pompeii e
 An astronaut in a full white suit walks alone through an abandoned amusement park at twilight. Rusted rides stand motionless, faded carnival lights flicker sporadically, and fog drifts low across cracked pavement. The helmet visor reflects broken roller coasters, carousel horses, and shredded flags fluttering in the wind. The camera follows from behind in a slow tracking shot, then cuts to low angles and haunting wide frames that emphasize the surreal contrast between the futuristic astronaut and the decaying park. As the astronaut passes the giant Ferris wheel, it suddenly creaks into motion on its own. Old speakers crackle with distant carnival music. The sequence feels eerie, dreamlike, and cinematic, like a science-fiction mystery with emotional loneliness at its core.
 ```
 
-
 <a id="general-cinematic-case-38"></a>
 <!-- Case 38: Pirate Duck Bathtub Voyage (by @CharaspowerAI) -->
 ### Örnek 38: [Korsan ördeğin küvet yolculuğu](https://x.com/CharaspowerAI/status/2078072313686184334) (yazan [@CharaspowerAI](https://x.com/CharaspowerAI))
@@ -5218,6 +5324,23 @@ A clay pirate captain duck with a tiny hat, wooden sword, eye patch and dramatic
 Sails across a bathtub ocean, battling giant soap waves and riding a sponge ship toward a rubber duck treasure island
 Bathroom fantasy world with bubbles, towels as cliffs and warm light reflecting on water
 3D clay, Pixar-style playful adventure, soft clay textures, rounded props, dynamic camera glide over water, bright cheerful atmosphere, ending with the duck discovering a golden bath plug treasure.
+```
+
+<a id="general-cinematic-case-39"></a>
+<!-- Case 39: Dark Earth Orbital Station VHS (by @LudovicCreator) -->
+### Örnek 39: [Karanlık Dünya yörünge VHS'i](https://x.com/LudovicCreator/status/2079265271080984756) (yazan [@LudovicCreator](https://x.com/LudovicCreator))
+
+| Çıktı |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-39"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2079265271080984756.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**İstem:**
+
+```
+Old VHS-style footage from inside an abandoned orbital station in the 1980s. The image is grainy, warped, with tracking lines, washed-out colors, and timestamp burn-in. The camera floats slowly through empty corridors, cables drifting in zero gravity, warning lights blinking silently.
+At the 2-second mark, the tape glitches and the corridor appears longer than before. A sealed airlock door opens by itself at the far end. The camera drifts closer, passing floating tools, old photographs, and frozen droplets of water.
+Final moment: the camera enters the airlock and reveals Earth outside the window ,but Earth is completely dark.
+Analog sci-fi horror, VHS noise, zero-gravity atmosphere, retro space realism, eerie silence, cinematic degraded footage.
 ```
 
 <a id="related-repositories"></a>

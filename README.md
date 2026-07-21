@@ -4,7 +4,7 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Try Seedance 2.0 in Browser](https://img.shields.io/badge/Try_in-Browser-black)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts&utm_content=model_try)
-[![Prompts](https://img.shields.io/badge/Prompts-194_Unique_Cases-111111)](README.md)
+[![Prompts](https://img.shields.io/badge/Prompts-199_Unique_Cases-111111)](README.md)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -25,7 +25,7 @@
 
 Welcome to the Awesome Seedance 2.0 Prompts repository! 🤗
 
-**This repository contains 194 unique, source-attributed Seedance 2.0 prompt cases for cinematic video generation.**
+**This repository contains 199 unique, source-attributed Seedance 2.0 prompt cases for cinematic video generation.**
 
 Prompts are curated from public creator posts and preserved as reusable source material for GitHub-native browsing.
 
@@ -73,7 +73,7 @@ Supporting resources: [API examples](https://github.com/Evolink-AI/Seedance-2.0-
 <a id="statistics"></a>
 ## 📊 Statistics
 
-194 unique cases across 8 categories, synchronized across 11 README files.
+199 unique cases across 8 categories, synchronized across 11 README files.
 
 <a id="how-to-use"></a>
 ## 🧭 How to Use This Repository
@@ -88,7 +88,7 @@ Choose a category, open a source-attributed case, copy its prompt block, replace
 - [Statistics](#statistics)
 - [How to Use This Repository](#how-to-use)
 - [Menu](#menu)
-- [⚔️ Action / Fantasy](#action-fantasy) (42)
+- [⚔️ Action / Fantasy](#action-fantasy) (43)
   - [Case 1: Street Rap MV Performance (by @songguoxiansen)](#action-fantasy-case-1)
   - [Case 2: Black Cat Desert Martial-Arts Duel (by @nopinduoduo)](#action-fantasy-case-2)
   - [Case 3: Live-Action Breathing Technique Duel (by @johnAGI168)](#action-fantasy-case-3)
@@ -131,7 +131,8 @@ Choose a category, open a source-attributed case, copy its prompt block, replace
   - [Case 40: Ration Barge Mega Shark (by @rahulnanda86)](#action-fantasy-case-40)
   - [Case 41: Arena Giantess Upset (by @rahulnanda86)](#action-fantasy-case-41)
   - [Case 42: Warehouse Bodyguard Takedown (by @Rosey_watson)](#action-fantasy-case-42)
-- [🎞️ Cinematic Realism](#cinematic-realism) (9)
+  - [Case 43: Arctic Station Worm Attack (by @StevieMac03)](#action-fantasy-case-43)
+- [🎞️ Cinematic Realism](#cinematic-realism) (10)
   - [Case 1: Modern Japan Documentary Sequence (by @kuranoayashi)](#cinematic-realism-case-1)
   - [Case 2: Shadow-Tracking Longboard Descent (by @Dheepanratnam)](#cinematic-realism-case-2)
   - [Case 3: Meteor Awakening War Heroine (by @ChrisTheNerv)](#cinematic-realism-case-3)
@@ -141,6 +142,7 @@ Choose a category, open a source-attributed case, copy its prompt block, replace
   - [Case 7: Vintage Black Car Storm Run (by @LudovicCreator)](#cinematic-realism-case-7)
   - [Case 8: Storm Coast Lighthouse Sequence (by @LudovicCreator)](#cinematic-realism-case-8)
   - [Case 9: Sandstorm Buggy Escape (by @umesh_ai)](#cinematic-realism-case-9)
+  - [Case 10: Argentina Spain Broadcast Brawl (by @Ankit_patel211)](#cinematic-realism-case-10)
 - [🥽 POV / FPV](#pov-fpv) (21)
   - [Case 1: Chest-Mounted Camouflage Chase Sequence (by @genel_ai)](#pov-fpv-case-1)
   - [Case 2: Shanghai Cyberpunk City Sizzle Reel (by @Adam38363368936)](#pov-fpv-case-2)
@@ -214,7 +216,7 @@ Choose a category, open a source-attributed case, copy its prompt block, replace
   - [Case 20: Cleopatra Chamber Confession (by @kinovi_ai)](#reference-driven-case-20)
   - [Case 21: Rainy Reunion Under Lantern (by @umesh_ai)](#reference-driven-case-21)
   - [Case 22: Kunqu Backstage One-Take Transformation (by @ou_zhen599)](#reference-driven-case-22)
-- [🌀 Surreal / VFX](#surreal-vfx) (15)
+- [🌀 Surreal / VFX](#surreal-vfx) (16)
   - [Case 1: Zero-Gravity Katana Combat (by @MiraMusic_AI)](#surreal-vfx-case-1)
   - [Case 2: Whale in the Clouds Surreal Epic (by @chaosdotjpg)](#surreal-vfx-case-2)
   - [Case 3: Abyss Diver Sea Creature Metamorphosis (by @AIARTGALLARY)](#surreal-vfx-case-3)
@@ -230,7 +232,8 @@ Choose a category, open a source-attributed case, copy its prompt block, replace
   - [Case 13: Sand Titan Desert Transformation (by @LudovicCreator)](#surreal-vfx-case-13)
   - [Case 14: Escape Car Garbage Morph (by @LavrionX)](#surreal-vfx-case-14)
   - [Case 15: Forest Guardian Calligraphy Transformation (by @LudovicCreator)](#surreal-vfx-case-15)
-- [📐 Templates & Structured Formats](#templates-structured) (20)
+  - [Case 16: Haunted Tea Ceremony Apparition (by @LudovicCreator)](#surreal-vfx-case-16)
+- [📐 Templates & Structured Formats](#templates-structured) (21)
   - [Case 1: Supercarrier Catastrophic Sinking (by @johnAGI168)](#templates-structured-case-1)
   - [Case 2: Reconstruction of Memory Shards (by @TechTalkNAVI)](#templates-structured-case-2)
   - [Case 3: Blueprint to Reality – Single-Story House Transformation (by @craftian_keskin)](#templates-structured-case-3)
@@ -251,7 +254,8 @@ Choose a category, open a source-attributed case, copy its prompt block, replace
   - [Case 18: Loft-in-a-Box Interior Reveal (by @samaote)](#templates-structured-case-18)
   - [Case 19: Facial Expression Detail Test (by @ou_zhen599)](#templates-structured-case-19)
   - [Case 20: Flooded Ballroom Escape Storyboard (by @ChangningL29508)](#templates-structured-case-20)
-- [🎬 General Cinematic](#general-cinematic) (38)
+  - [Case 21: Station Platform Duel Beatmap (by @SYDxStudio)](#templates-structured-case-21)
+- [🎬 General Cinematic](#general-cinematic) (39)
   - [Case 1: High-Heel Beat Sync Fashion Close-Up (by @TingFengAIAI)](#general-cinematic-case-1)
   - [Case 2: Mini Skateboard Escape in a Child Bedroom (by @anson7956)](#general-cinematic-case-2)
   - [Case 3: Rucker Park Grandma Showdown (by @techhalla)](#general-cinematic-case-3)
@@ -290,8 +294,10 @@ Choose a category, open a source-attributed case, copy its prompt block, replace
   - [Case 36: Pompeii DV Disaster Footage (by @venturetwins)](#general-cinematic-case-36)
   - [Case 37: Abandoned Carnival Astronaut Walk (by @LudovicCreator)](#general-cinematic-case-37)
   - [Case 38: Pirate Duck Bathtub Voyage (by @CharaspowerAI)](#general-cinematic-case-38)
+  - [Case 39: Dark Earth Orbital Station VHS (by @LudovicCreator)](#general-cinematic-case-39)
+
 <a id="action-fantasy"></a>
-## ⚔️ Action / Fantasy
+## ⚔️ Action / Fantasy (43)
 
 <a id="action-fantasy-case-1"></a>
 <!-- Case 1: Street Rap MV Performance (by @songguoxiansen) -->
@@ -1098,8 +1104,6 @@ Shot 4 (9–13s) — BIG SLOW-MOTION MOMENT: The shark circles alone in the open
 Shot 5 (13–15s): Time snaps back. A huge blast erupts in the water beside the drifting barge, fire and spray shooting high into the sky. The rescue boat reaches the dock safely as the crew watches the water settle.
 ```
 
-
-
 <a id="action-fantasy-case-41"></a>
 <!-- Case 41: Arena Giantess Upset (by @rahulnanda86) -->
 ### Case 41: [Arena Giantess Upset](https://x.com/rahulnanda86/status/2078861067896357244) (by [@rahulnanda86](https://x.com/rahulnanda86))
@@ -1184,10 +1188,48 @@ The entire coliseum explodes into deafening celebration as thousands of spectato
 A cinematic 15-second action sequence set inside a dark, gritty industrial warehouse at night, featuring moody teal-green lighting, chain-link fences, metal scaffolding, peeling green walls, and floating dust particles. A powerful, elegant East Asian Boss Lady wears a sleek black pantsuit with long flowing black hair and a calm, commanding expression. Standing beside her is a handsome, athletic male bodyguard in an all-black tailored suit with a heroic presence. As multiple attackers rush in, the bodyguard instantly steps in front of the Boss Lady, protecting her with lightning-fast punches, powerful kicks, evasive movements, and cinematic takedowns. The Boss Lady remains composed and confident, watching as her protector defeats every attacker. The sequence ends with the bodyguard standing protectively beside the Boss Lady as they walk forward together in slow motion, dust swirling around them. Handheld and tracking camera shots, dramatic low angles, realistic fabric movement, cinematic motion blur, ultra-detailed choreography, film-quality lighting, emotional heroism, 4K ultra-realistic cinematic masterpiece.
 ```
 
-<a id="cinematic-realism"></a>
+<a id="action-fantasy-case-43"></a>
+<!-- Case 43: Arctic Station Worm Attack (by @StevieMac03) -->
+### Case 43: [Arctic Station Worm Attack](https://x.com/StevieMac03/status/2079168831646216508) (by [@StevieMac03](https://x.com/StevieMac03))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-43"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2079168831646216508.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+{
+  "META": "Live-action standalone creature attack short | Length 15 seconds | Arctic research station exterior | Modern day grounded realism | Giant worm horror | Cinematic realism",
+  "SHOT": {
+    "CAM": "Low shoulder height tracking shot that slowly drifts into a side profile run, sudden violent handheld shake on emergence, snap pan to impact, final locked wide on aftermath, filmed on ARRI Alexa LF with 35mm lens",
+    "SET": "Windswept arctic ice field outside a remote research station, prefab modular buildings with steel walkways half buried in snowdrifts, satellite dish crusted with rime ice, snowmobiles parked beside stacked fuel drums, orange marker flags whipping in the wind, endless white plain dissolving into low gray sky",
+    "SUBJECT": "Two scientists caught in open ground, Dr. Aaron Voss early 40s tall dark beard in a red expedition parka with fur trimmed hood thrown back, Dr. Lena Okafor mid 30s braided hair under a wool beanie wearing an insulated yellow field suit streaked with grease and snow",
+    "ACTION": "They run across the packed snow as the ice behind them begins to crack in sharp straight lines. The ground suddenly erupts as a massive ringed segment punches up through the frozen crust. A towering giant worm bursts free in a spray of ice shards and snow, its pale segmented body uncoiling with violent force. Its circular maw peels open in layered rings of hooked teeth with a wet grinding shriek as it lunges forward. Aaron shoves Lena aside just as the worm slams down between them. Its maw clamps around Aaron's torso and lifts him screaming into the air. He claws at its rubbery hide as viscous gray fluid sprays from a torn segment. The worm violently jerks him inward and swallows him with a sickening crunch. Lena stumbles backward in shock. The worm pivots with terrifying speed and lunges again, dragging her screaming beneath the ice as its body churns the snow into a white blizzard of debris. Only drifting powder remains.",
+    "STYLE": "Practical monster horror realism, immense worm mass and physics emphasized, no stylized motion, raw violent impact, tactile ice debris and snow strikes on lens",
+    "LIGHTING": "Flat overcast polar daylight with cold diffuse shadows, pale highlights sliding along the worm's wet segmented hide as it moves, breath vapor catching the light",
+    "AMBIENCE_COLOR": "Blue white ice tones, sickly pale gray worm flesh, safety orange and red gear accents, steel gray sky"
+  },
+  "AUDIO": {
+    "dialogue": [
+      { "speaker": "Dr. Aaron Voss", "line": "Lena get down" },
+      { "speaker": "Dr. Lena Okafor", "line": "Aaron" }
+    ],
+    "ambience": [
+      "deep ice cracking sharply",
+      "explosive frozen ground eruption impact",
+      "wet grinding shriek layered with gnashing ringed teeth",
+      "bone crushing crunch",
+      "howling arctic wind",
+      "snow settling into dead silence"
+    ]
+  },
+  "NEG": "no subtitles, no drones, no on screen text, no glowing eyes, no neon colors, no period vehicles, no vintage clothing, no stylized CGI surfaces, no slow motion"
+}
+```
 
 <a id="cinematic-realism"></a>
-## 🎞️ Cinematic Realism
+## 🎞️ Cinematic Realism (10)
 
 <a id="cinematic-realism-case-1"></a>
 <!-- Case 1: Modern Japan Documentary Sequence (by @kuranoayashi) -->
@@ -1335,7 +1377,6 @@ The result must feel like authentic raw 1990s home video footage capturing a com
 A vintage black car speeds along a winding mountain road in heavy rain at dusk, its headlights slicing through fog and wet air. Pine forests blur past on one side while a steep cliff drops into darkness on the other. Inside the car, a sharply dressed driver grips the steering wheel in silence, illuminated by passing flashes of lightning and the soft amber glow of the dashboard. The camera begins with sweeping aerial shots of the serpentine road and the lonely car threading through the storm, then cuts to low exterior angles capturing tires cutting through water, reflections streaking across chrome, and the car’s body gleaming under rain. The windshield wipers beat rhythmically as the road becomes more treacherous, and at one point the car skids slightly around a tight bend near the cliff edge. The whole sequence feels moody, elegant, and suspenseful, like a neo-noir road film with classic cinematic style.
 ```
 
-
 <a id="cinematic-realism-case-8"></a>
 <!-- Case 8: Storm Coast Lighthouse Sequence (by @LudovicCreator) -->
 ### Case 8: [Storm Coast Lighthouse Sequence](https://x.com/LudovicCreator/status/2078540378387415126) (by [@LudovicCreator](https://x.com/LudovicCreator))
@@ -1349,7 +1390,6 @@ A vintage black car speeds along a winding mountain road in heavy rain at dusk, 
 ```
 A solitary lighthouse stands on a jagged black cliff as a monstrous storm crashes against the coast at night. Waves explode against the rocks far below, sending white spray into the air like smoke, while the lighthouse beam cuts through sheets of rain and drifting sea mist. Inside, an old keeper climbs the narrow spiral staircase with a lantern in hand, his coat soaked, the light flickering with every thunderclap. The camera moves between wide shots of the lighthouse dwarfed by the fury of the ocean and intimate interior close-ups of wet stone walls, rattling glass, trembling hands, and the golden lantern glow in the darkness. As the storm intensifies, lightning reveals a ghostly ship in the distance, barely visible between walls of rain. The sequence feels haunting, dramatic, and timeless, with crashing waves, thunder, and a powerful sense of isolation.
 ```
-
 
 <a id="cinematic-realism-case-9"></a>
 <!-- Case 9: Sandstorm Buggy Escape (by @umesh_ai) -->
@@ -1365,8 +1405,38 @@ A solitary lighthouse stands on a jagged black cliff as a monstrous storm crashe
 Towering sandstone cliffs crack under the pressure of a violent sandstorm. From a sweeping aerial over a vast desert basin, the camera dives aggressively toward a high-speed off-road buggy tearing through collapsing dunes. It slingshots past the front grill, whips around the roll cage, then drops tight to the spinning tires as sand blasts outward in golden waves. Chunks of rock tumble from above, dust spirals across the route, and the driver threads through narrow canyon gaps as entire ridgelines slump into avalanches of sand. The buggy surges through a curtain of blowing grit, bursts free, and races onto a surreal salt flat glowing in sunset orange. The camera rockets upward into a giant reveal as the storm fades behind. The engine cuts. Silence swallows the desert.
 ```
 
+<a id="cinematic-realism-case-10"></a>
+<!-- Case 10: Argentina Spain Broadcast Brawl (by @Ankit_patel211) -->
+### Case 10: [Argentina Spain Broadcast Brawl](https://x.com/Ankit_patel211/status/2079286938373419028) (by [@Ankit_patel211](https://x.com/Ankit_patel211))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-realism-case-10"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2079286938373419028.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+Live sports television broadcast, authentic real-time football match retransmission. Natural stadium daylight, slight haze, packed crowd, official scoreboard ARG 0-0 ESP. Pure professional sports TV camera language with authentic broadcast zooms, natural handheld lens shake, genuine live-feed texture, realistic TV graphics, no cinematic polish.
+
+A modern football stadium during an Argentina vs Spain international match. Argentina players wear sky-blue and white striped kits, Spain players wear red kits. The atmosphere feels exactly like a live FIFA television broadcast with thousands of cheering fans, realistic commentators, stadium ambience, and professional sports camera work.
+
+0-4s: [High Wide Broadcast Shot]
+Normal gameplay suddenly stops when one Argentina player humorously pulls on oversized blue boxing gloves. Nearby Spain players stare in total disbelief before everyone begins a playful, exaggerated football brawl filled with harmless pushing, dodging, jersey grabbing, dramatic reactions, and cartoonishly over-the-top movements. The crowd erupts with laughter.
+
+4-8s: [Pitch-Level Tracking Shot]
+The broadcast camera tracks beside the action. The Argentina player throws exaggerated air punches while Spain players comically dodge and stumble. Players from both teams harmlessly wrestle, trip over each other, and dramatically roll across the grass. Coaches leap from the benches and sprint onto the pitch trying to separate everyone while assistant coaches wave their arms frantically.
+
+8-12s: [Classic Live TV Close-Up]
+The referee repeatedly blows the whistle as assistant referees, security staff, coaches, substitutes, and medical staff rush into the middle of the hilarious chaos. Everyone tries to pull players apart. The boxing-glove player is dragged backward by teammates while Spain players continue pointing, arguing, and making exaggerated facial expressions. The crowd chants and laughs loudly.
+
+12-15s: [Wide Stadium Broadcast]
+Camera pulls back to reveal the entire pitch. Coaches, referees, substitutes, and security form a large human barrier between both teams. Players gradually calm down but continue dramatically arguing and pointing. The referee theatrically flashes yellow cards in every direction while looking completely overwhelmed. The Argentina player raises his oversized boxing gloves to the cheering crowd as the stadium bursts into laughter, creating the feeling of an unforgettable viral football broadcast.
+
+Ultra-realistic live sports broadcast quality, authentic TV camera movement, realistic sports-lens motion blur, genuine crowd reactions, coherent body physics, stable character consistency, natural stadium audio, live television retransmission texture, unscripted sports broadcast energy, no cinematic color grading, no artificial enhancement, looks exactly like authentic live football coverage with lighthearted slapstick comedy.
+```
+
 <a id="pov-fpv"></a>
-## 🥽 POV / FPV
+## 🥽 POV / FPV (21)
 
 <a id="pov-fpv-case-1"></a>
 <!-- Case 1: Chest-Mounted Camouflage Chase Sequence (by @genel_ai) -->
@@ -1860,7 +1930,6 @@ Pure first-person camera perspective, no visible drone, no cockpit, no aircraft 
 Immersive first-person flying camera perspective, no visible drone or flying device. The entire sequence takes place at night beneath a deep blue sky. The camera races above the illuminated lavender fields of Provence while fireworks burst continuously in blue, white, and red across the horizon. It weaves through glowing medieval villages, vineyards, French châteaux, the cliffs of Normandy, and Mont-Saint-Michel reflected in the dark tide, with fireworks erupting above every location. The camera then follows the Seine into Paris at extreme speed, skimming beneath historic bridges, banking around the Arc de Triomphe, and climbing beside the fully illuminated Eiffel Tower as enormous synchronized fireworks fill the sky and reflect across the river. At the finale, the camera pulls back above Paris while the fireworks create a vast tricolor glow. A gigantic French flag unfurls naturally from the top of the Eiffel Tower, waving majestically above the city as the final fireworks burst behind it. No text, no words, no letters. Continuous POV shot, no cuts, aggressive banking, cinematic motion blur, realistic night lighting, volumetric smoke, detailed fireworks, ultra-realistic travel cinematography, spectacular blockbuster VFX, IMAX quality.
 ```
 
-
 <a id="pov-fpv-case-21"></a>
 <!-- Case 21: Cybernetic Battlefield FPV Dive (by @LudovicCreator) -->
 ### Case 21: [Cybernetic Battlefield FPV Dive](https://x.com/LudovicCreator/status/2078842368661315786) (by [@LudovicCreator](https://x.com/LudovicCreator))
@@ -1876,7 +1945,7 @@ Immersive first-person flying camera perspective, no visible drone or flying dev
 ```
 
 <a id="commercial-product"></a>
-## 🏷️ Commercial / Product
+## 🏷️ Commercial / Product (27)
 
 <a id="commercial-product-case-1"></a>
 <!-- Case 1: Perfume-Style Anime Trio Dance Stage (by @ShadeLurk) -->
@@ -2508,11 +2577,8 @@ Ref image is wearing a stylish casual-luxury outfit with subtle yellow and green
 Real iPhone 16 Pro footage look, natural bright daylight, authentic mobile camera movement and slight shake, natural vibrant colors, coherent physics, stable character, real phone video quality, no film look, no artifacts, looks like genuine Instagram Reel footage shot on location.
 ```
 
-
 <a id="reference-driven"></a>
-
-<a id="reference-driven"></a>
-## 🖼️ Reference-Driven
+## 🖼️ Reference-Driven (22)
 
 <a id="reference-driven-case-1"></a>
 <!-- Case 1: Skeleton Pianist Miniature Diorama Performance (by @tea_story_hoshi) -->
@@ -3472,8 +3538,6 @@ Scene 5: Slow orbit around them sitting together, watching the mist drift throug
 Scene 6: Distant pullback across a reflective puddle, framing them beneath the enormous tree as they quietly share tea and savour the rain.
 ```
 
-
-
 <a id="reference-driven-case-22"></a>
 <!-- Case 22: Kunqu Backstage One-Take Transformation (by @ou_zhen599) -->
 ### Case 22: [Kunqu Backstage One-Take Transformation](https://x.com/ou_zhen599/status/2078394020741673439) (by [@ou_zhen599](https://x.com/ou_zhen599))
@@ -3489,7 +3553,7 @@ Scene 6: Distant pullback across a reflective puddle, framing them beneath the e
 ```
 
 <a id="surreal-vfx"></a>
-## 🌀 Surreal / VFX
+## 🌀 Surreal / VFX (16)
 
 <a id="surreal-vfx-case-1"></a>
 <!-- Case 1: Zero-Gravity Katana Combat (by @MiraMusic_AI) -->
@@ -3871,7 +3935,6 @@ She pauses, watches the police pass… then slowly turns toward camera and winks
 Ambient city sound returns. No hard cut.
 ```
 
-
 <a id="surreal-vfx-case-15"></a>
 <!-- Case 15: Forest Guardian Calligraphy Transformation (by @LudovicCreator) -->
 ### Case 15: [Forest Guardian Calligraphy Transformation](https://x.com/LudovicCreator/status/2078346662699798878) (by [@LudovicCreator](https://x.com/LudovicCreator))
@@ -3886,8 +3949,22 @@ Ambient city sound returns. No hard cut.
 Full magical transformation sequence: a forest guardian floating in an aged moss-green parchment void as deep emerald ink spreads through the air like liquid leaves blooming in water ,calligraphy strokes whip around the body, staining the hair into soft jade green, sketching layered nature armor, glowing vine markings across the face, and a long spear silhouette in sweeping green brushwork. A circular ancient seal script sigil blooms underfoot with splashes of pearl-white light, the camera pushing in through drifting ink veils like torn leaves in a storm, each brush impact synced to a rising drumbeat, ending in a spear-planted signature pose locked inside an emerald-and-pearl calligraphy burst. Stock-footage grandeur, played sincere.
 ```
 
+<a id="surreal-vfx-case-16"></a>
+<!-- Case 16: Haunted Tea Ceremony Apparition (by @LudovicCreator) -->
+### Case 16: [Haunted Tea Ceremony Apparition](https://x.com/LudovicCreator/status/2078902823656226891) (by [@LudovicCreator](https://x.com/LudovicCreator))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-16"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078902823656226891.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+Stylized anime haunted tea ceremony beat: an elderly woman pours tea inside an abandoned tatami room, steam rising from the cup and slowly forming the shape of a long-lost guest. Dust floats in golden afternoon light, paper doors rattling gently though no wind enters the house. Slow push-in across the floor, tea reflections rippling with impossible memories, the woman’s calm face mirrored in the porcelain cup. The ghostly figure leans closer and the silence holds one beat past comfort.
+```
+
 <a id="templates-structured"></a>
-## 📐 Templates & Structured Formats
+## 📐 Templates & Structured Formats (21)
 
 <a id="templates-structured-case-1"></a>
 <!-- Case 1: Supercarrier Catastrophic Sinking (by @johnAGI168) -->
@@ -4385,7 +4462,6 @@ Camera: fixed wide-angle shot, no zoom, no camera shake, no angle change.
 Negative prompt: no people, no extra rooms, no duplicated furniture, no distorted furniture, no warped walls, no text changes, no logo distortion, no sudden cuts, no messy construction debris, no cartoon animation.
 ```
 
-
 <a id="templates-structured-case-19"></a>
 <!-- Case 19: Facial Expression Detail Test (by @ou_zhen599) -->
 ### Case 19: [Facial Expression Detail Test](https://x.com/ou_zhen599/status/2078137477425172769) (by [@ou_zhen599](https://x.com/ou_zhen599))
@@ -4413,7 +4489,6 @@ Negative prompt: no people, no extra rooms, no duplicated furniture, no distorte
 12-15秒：目视前方/画面右侧，眼神柔和微润，唇瓣轻动似欲语还休，最终保持安静凝视状态，定格在温柔清冷、略带忧郁的情绪中，结尾无黑屏、无转场。
 ```
 
-
 <a id="templates-structured-case-20"></a>
 <!-- Case 20: Flooded Ballroom Escape Storyboard (by @ChangningL29508) -->
 ### Case 20: [Flooded Ballroom Escape Storyboard](https://x.com/ChangningL29508/status/2078684698394636544) (by [@ChangningL29508](https://x.com/ChangningL29508))
@@ -4428,10 +4503,38 @@ Negative prompt: no people, no extra rooms, no duplicated furniture, no distorte
 @Image1 storyboard is a temporal beat map only. Create one continuous full-screen 16:9 cinematic 15-second live-action sequence, never show a panel grid, black gutters, collage, captions, or text. Same young adult bride with wet black hair, ivory satin wedding dress and red rubber boots; same soaked groom in a black tuxedo; same red-dress bridesmaid; same waiter in black vest. In a flooded Art Deco ballroom at night, follow the storyboard left to right, top to bottom: the bride pulls the groom through knee-deep water toward the warm exit; the bridesmaid follows with her shoes; the waiter opens and holds the door; guests plausibly clear the path and evacuate; the couple and bridesmaid reach the doorway. Cold blue-green storm light and warm chandelier reflections, believable water physics, cinematic 35mm camera, one natural continuous progression. Stable faces and identities, anatomically correct hands, no duplicate people, no warped anatomy, no elderly bride, no police, no weapons, no random actions, no watermark, no logo, no subtitles.
 ```
 
-<a id="general-cinematic"></a>
+<a id="templates-structured-case-21"></a>
+<!-- Case 21: Station Platform Duel Beatmap (by @SYDxStudio) -->
+### Case 21: [Station Platform Duel Beatmap](https://x.com/SYDxStudio/status/2079286923424575628) (by [@SYDxStudio](https://x.com/SYDxStudio))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-21"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2079286923424575628.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+Use @image1 only as P01-P06 movement waypoints for one uninterrupted action, never as shots, holds, a displayed image or style source. Flow through P02-P05 without stopping; P01/P06 are boundaries. Set STEP 06 as first frame and STEP 06T as last; they alone lock boundary staging. @image2 solely controls KAI: 185 cm, face always uncovered, headphones, black tank, twin cyan blades. @image3 solely controls KIRA: 165 cm, mask always worn, RIGHT dagger reverse/LEFT forward, two rear-belt capsules. @image4 is a mixed sheet: use ONLY Zone F Old Ward platform; ignore other panels/artifacts.
+
+Exactly 10.0 seconds, 24 fps. ZONE F ONLY: same stationary train, west platform, tiled column, bench, departure board, brake chain and closed carriage door; never reveal/enter Car 5. Start exact STEP 06, finish exact STEP 06T. During action KAI's tank right seam is sliced; floor, column, bench and board become damaged and remain so. Chain and door stay intact. No dialogue/music; only breath, shoes, cloth, blades, tile, bolts, timber, metal, debris.
+
+LOOK: hand-drawn 2D shonen-wuxia sakuga matching boundaries; variable black ink, flat cel blocks, one hard shadow, stepped drawings, foreshortening, dry-brush smears, simplified background only in velocity bursts; never photoreal, glossy, 3D or game-cinematic.
+
+CAMERA MODE: one continuous 20 mm master, no cuts. Launch low with KAI, dive under KIRA, inherit his eastward slide, whip around the same column, rise beside the rotating board, recoil with Sonic Strike, settle into STEP 06T. Tiles/debris prove parallax; no stable sideline or location crossing.
+
+PHRASE 1, actions 1-5: frame one, KIRA pushes from lintel; dives down-left; KAI springs up-right; twin blades catch crossed daggers off-axis for two frames; both twist out instantly, KIRA already moving east before landing.
+
+PHRASE 2, actions 6-10: KIRA scissor-cuts backward while retreating; KAI triangular-steps then long-slides east; her LEFT dagger slices only his tank's right seam; he rotates under her returning RIGHT; his RIGHT blade drives that dagger into the tiled column as she qinggong-steps on that same column and rebounds east.
+
+PHRASE 3, actions 11-16: KIRA touches the bench once; runs two steps along its back; springs to the board bracket; severs both bolts in one crossing cut; KAI rolls under the falling board while the bench breaks; he rises into one compact Sonic Strike folding the board around the stripped column as KIRA lands beside the intact chain in exact STEP 06T. No generic sparring, repeated clash, guard reset or panel pause.
+
+VISUAL EFFECTS: KAI uses only blade-edge-attached narrow cyan waveform crescents and segmented cyan body streaks. At the column, a compact cyan contact star forms exactly where his RIGHT blade meets KIRA's dagger; force passes through her dagger tip into grout, tiles cone east, bodies overshoot, cyan fragments decay, camera jolts once and recovers. At Sonic Strike, waveforms compress along KAI's forearms/blades into a black-cyan ink wedge at board contact; one cyan shock ring travels through metal, folds it and throws bolts, tile and dust into a radial debris silhouette; KAI recoils, ring fragments, camera snaps back. KIRA uses only needle-thin dagger-attached violet crescents and two path-bound violet-black afterimages, never clones. Her bolt cut creates a localized violet impact star; stress crosses both bolts, fragments lag, violet decays. Cyan never belongs to KIRA; violet-black never to KAI; no detached beam, aura cloud or constant glow.
+
+Never show storyboard/panels/labels/borders. No cut, blackout, flash transition, smoke cover, dissolve, morph, teleport, slow motion, freeze, replay, extra body/limb/weapon, identity swap, KAI mask, unmasked KIRA, vanished damage, moving train, cut chain, breached door, Car 5, premature P06 or overshoot.
+```
 
 <a id="general-cinematic"></a>
-## 🎬 General Cinematic
+## 🎬 General Cinematic (39)
 
 <a id="general-cinematic-case-1"></a>
 <!-- Case 1: High-Heel Beat Sync Fashion Close-Up (by @TingFengAIAI) -->
@@ -5223,6 +5326,22 @@ Bathroom fantasy world with bubbles, towels as cliffs and warm light reflecting 
 3D clay, Pixar-style playful adventure, soft clay textures, rounded props, dynamic camera glide over water, bright cheerful atmosphere, ending with the duck discovering a golden bath plug treasure.
 ```
 
+<a id="general-cinematic-case-39"></a>
+<!-- Case 39: Dark Earth Orbital Station VHS (by @LudovicCreator) -->
+### Case 39: [Dark Earth Orbital Station VHS](https://x.com/LudovicCreator/status/2079265271080984756) (by [@LudovicCreator](https://x.com/LudovicCreator))
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-39"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2079265271080984756.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+Old VHS-style footage from inside an abandoned orbital station in the 1980s. The image is grainy, warped, with tracking lines, washed-out colors, and timestamp burn-in. The camera floats slowly through empty corridors, cables drifting in zero gravity, warning lights blinking silently.
+At the 2-second mark, the tape glitches and the corridor appears longer than before. A sealed airlock door opens by itself at the far end. The camera drifts closer, passing floating tools, old photographs, and frozen droplets of water.
+Final moment: the camera enters the airlock and reveals Earth outside the window ,but Earth is completely dark.
+Analog sci-fi horror, VHS noise, zero-gravity atmosphere, retro space realism, eerie silence, cinematic degraded footage.
+```
 
 <a id="related-repositories"></a>
 ## 🔗 Related Repositories

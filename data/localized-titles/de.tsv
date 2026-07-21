@@ -40,6 +40,7 @@ action-fantasy-case-39	Sturm am Tempel des weißen Tigers
 action-fantasy-case-40	Rationskahn gegen Riesenhai
 action-fantasy-case-41	Überraschungssieg der Arenariesin
 action-fantasy-case-42	Bodyguard-Takedown im Lagerhaus
+action-fantasy-case-43	Wurmangriff an der Arktisstation
 cinematic-realism-case-1	Dokumentarische Sequenz über das moderne Japan
 cinematic-realism-case-2	Longboard-Abfahrt auf den Spuren eines Schattens
 cinematic-realism-case-3	Vom Meteor erweckte Kriegsheldin
@@ -49,6 +50,7 @@ cinematic-realism-case-6	VHS-Pool-Cannonball-Juror
 cinematic-realism-case-7	Sturmfahrt im schwarzen Oldtimer
 cinematic-realism-case-8	Leuchtturmsequenz an der Sturmküste
 cinematic-realism-case-9	Sandsturm-Buggy-Flucht
+cinematic-realism-case-10	TV-Randale Argentinien gegen Spanien
 pov-fpv-case-1	Tarnverfolgung mit Brustkamera
 pov-fpv-case-2	Cyberpunk-Stadttrailer aus Shanghai
 pov-fpv-case-3	Konsistenter Action-Prompt eines verfluchten Samurai
@@ -134,6 +136,7 @@ surreal-vfx-case-12	Verwandlungssequenz der Feuerkaiserin
 surreal-vfx-case-13	Wüstenverwandlung zum Sandtitan
 surreal-vfx-case-14	Fluchtauto wird Müllwagen
 surreal-vfx-case-15	Kalligrafische Verwandlung der Waldhüterin
+surreal-vfx-case-16	Erscheinung bei der Spukteezeremonie
 templates-structured-case-1	Katastrophaler Untergang eines Supercarriers
 templates-structured-case-2	Rekonstruktion von Erinnerungsfragmenten
 templates-structured-case-3	Vom Bauplan zur Realität – Verwandlung eines einstöckigen Hauses
@@ -154,6 +157,7 @@ templates-structured-case-17	Kriegerin – strukturierter Motiv-Prompt
 templates-structured-case-18	Loft-Interieur aus dem Karton
 templates-structured-case-19	Test feiner Gesichtsausdrücke
 templates-structured-case-20	Storyboard einer Flucht aus dem überfluteten Ballsaal
+templates-structured-case-21	Bahnsteig-Duell-Beatmap
 general-cinematic-case-1	Beat-synchrone Mode-Nahaufnahme mit hohen Absätzen
 general-cinematic-case-2	Mini-Skateboard-Flucht in einem Kinderzimmer
 general-cinematic-case-3	Großmutter-Duell im Rucker Park
@@ -192,3 +196,4 @@ general-cinematic-case-35	Motorrad-Verfolgungsfahrt durch die rote Wüste
 general-cinematic-case-36	DV-Katastrophenaufnahmen aus Pompeji
 general-cinematic-case-37	Astronaut im verlassenen Vergnügungspark
 general-cinematic-case-38	Badewannenreise der Piratenente
+general-cinematic-case-39	Orbitale VHS mit dunkler Erde

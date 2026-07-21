@@ -40,6 +40,7 @@ action-fantasy-case-39	Tempestade no templo do tigre branco
 action-fantasy-case-40	Tubarão gigante contra barcaça de rações
 action-fantasy-case-41	Virada da gladiadora gigante na arena
 action-fantasy-case-42	Guarda-costas derruba atacantes no armazém
+action-fantasy-case-43	Ataque do verme na estação ártica
 cinematic-realism-case-1	Sequência documental do Japão moderno
 cinematic-realism-case-2	Descida de longboard seguindo uma sombra
 cinematic-realism-case-3	Heroína de guerra despertada por um meteoro
@@ -49,6 +50,7 @@ cinematic-realism-case-6	Juiz do cannonball na piscina VHS
 cinematic-realism-case-7	Corrida do carro preto vintage na tempestade
 cinematic-realism-case-8	Sequência do farol na costa tempestuosa
 cinematic-realism-case-9	Fuga de buggy na tempestade de areia
+cinematic-realism-case-10	Briga transmitida Argentina-Espanha
 pov-fpv-case-1	Sequência de perseguição camuflada com câmera no peito
 pov-fpv-case-2	Vídeo promocional de uma Xangai cyberpunk
 pov-fpv-case-3	Prompt de ação consistente de um samurai amaldiçoado
@@ -134,6 +136,7 @@ surreal-vfx-case-12	Sequência de transformação da imperatriz do fogo
 surreal-vfx-case-13	Transformação do titã de areia no deserto
 surreal-vfx-case-14	Carro de fuga virando caminhão de lixo
 surreal-vfx-case-15	Transformação caligráfica da guardiã da floresta
+surreal-vfx-case-16	Aparição na cerimônia de chá assombrada
 templates-structured-case-1	Afundamento catastrófico de um superporta-aviões
 templates-structured-case-2	Reconstrução de fragmentos de memória
 templates-structured-case-3	Da planta à realidade: transformação de uma casa térrea
@@ -154,6 +157,7 @@ templates-structured-case-17	Guerreira: prompt de sujeito estruturado
 templates-structured-case-18	Revelação do interior de um loft saindo de uma caixa
 templates-structured-case-19	Teste de detalhe de expressões faciais
 templates-structured-case-20	Storyboard de fuga do salão de baile inundado
+templates-structured-case-21	Guia de duelo na plataforma
 general-cinematic-case-1	Close de moda com salto alto sincronizado à batida
 general-cinematic-case-2	Fuga em mini-skate dentro de um quarto infantil
 general-cinematic-case-3	Confronto de avós no Rucker Park
@@ -192,3 +196,4 @@ general-cinematic-case-35	Plano de acompanhamento de moto no deserto vermelho
 general-cinematic-case-36	Filmagem DV do desastre de Pompeia
 general-cinematic-case-37	Caminhada do astronauta por um parque de diversões abandonado
 general-cinematic-case-38	Viagem de banheira do pato pirata
+general-cinematic-case-39	VHS orbital com a Terra escura

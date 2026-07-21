@@ -4,7 +4,7 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Essayer Seedance 2.0 dans le navigateur](https://img.shields.io/badge/Try_in-Browser-black)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts&utm_content=model_try)
-[![194 cas uniques](https://img.shields.io/badge/194%20cas%20uniques-111111)](README.md)
+[![199 cas uniques](https://img.shields.io/badge/199%20cas%20uniques-111111)](README.md)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -25,7 +25,7 @@
 
 Bienvenue dans le dépôt Awesome Seedance 2.0 Prompts ! 🤗
 
-**Ce dépôt contient 194 cas uniques de prompts Seedance 2.0 avec sources attribuées pour la génération vidéo cinématographique.**
+**Ce dépôt contient 199 cas uniques de prompts Seedance 2.0 avec sources attribuées pour la génération vidéo cinématographique.**
 
 Les prompts sont sélectionnés à partir de publications publiques de créateurs et conservés comme ressources réutilisables.
 
@@ -73,7 +73,7 @@ Ressources complémentaires : [exemples API](https://github.com/Evolink-AI/Seeda
 <a id="statistics"></a>
 ## 📊 Statistiques
 
-194 cas uniques dans 8 catégories, synchronisés dans 11 fichiers README.
+199 cas uniques répartis dans 8 catégories, synchronisés dans 11 fichiers README.
 
 <a id="how-to-use"></a>
 ## 🧭 Comment utiliser ce dépôt
@@ -84,214 +84,220 @@ Choisissez une catégorie, ouvrez un cas sourcé, copiez son prompt et remplacez
 ## 📑 Menu
 
 - [Introduction](#introduction)
-- [Démarrage rapide](#quick-start)
-- [Statistiques](#statistics)
-- [Comment utiliser ce dépôt](#how-to-use)
+- [Quick Start](#quick-start)
+- [Statistics](#statistics)
+- [How to Use This Repository](#how-to-use)
 - [Menu](#menu)
-- [⚔️ Action / Fantaisie](#action-fantasy) (40)
-  - [Cas 1: Performance de rap de rue en clip musical (par @songguoxiansen)](#action-fantasy-case-1)
-  - [Cas 2: Duel d’arts martiaux du chat noir dans le désert (par @nopinduoduo)](#action-fantasy-case-2)
-  - [Cas 3: Duel de techniques de respiration en prise de vues réelles (par @johnAGI168)](#action-fantasy-case-3)
-  - [Cas 4: Séquence d’anime ultrarapide en 20 plans (par @tebasaki3D)](#action-fantasy-case-4)
-  - [Cas 5: Regardez un mécanicien couvert de cambouis effectuer une réparation (par @sebatheepan)](#action-fantasy-case-5)
-  - [Cas 6: Court métrage de vengeance samouraï (par @sailorv321)](#action-fantasy-case-6)
-  - [Cas 7: Animation de combat 3D stylisée (par @johnAGI168)](#action-fantasy-case-7)
-  - [Cas 8: Courte parodie comique au rythme effréné (par @drjoetw)](#action-fantasy-case-8)
-  - [Cas 9: Combat tokusatsu de ninjas géants (par @EarthGigantea)](#action-fantasy-case-9)
-  - [Cas 10: Séquence de dialogue d’anime japonais (par @_3912657840)](#action-fantasy-case-10)
-  - [Cas 11: Court métrage original de bataille élémentaire de 15 secondes (par @ZikinArt)](#action-fantasy-case-11)
-  - [Cas 12: Animation d’œuf fantastique façon Fabergé (par @ShamiWeb3)](#action-fantasy-case-12)
-  - [Cas 13: Court métrage original de bataille élémentaire (par @David_eficaz)](#action-fantasy-case-13)
-  - [Cas 14: Duel cinématographique de science-fiction et de fantasy (par @CharaspowerAI)](#action-fantasy-case-14)
-  - [Cas 15: Séquence d’action continue en plan-séquence de 15 secondes (par @Artedeingenio)](#action-fantasy-case-15)
-  - [Cas 16: Samouraï solitaire face au précipice (par @Alin_Reaper05)](#action-fantasy-case-16)
-  - [Cas 17: Piqué aérien du dragon renégat (par @sebatheepan)](#action-fantasy-case-17)
-  - [Cas 18: Mêlée autour d’un mécha en apesanteur (par @Dheepanratnam)](#action-fantasy-case-18)
-  - [Cas 19: Scène de vol ultrarapide d’une fille chevauchant un dragon (par @naoyuki_okada)](#action-fantasy-case-19)
-  - [Cas 20: Court métrage original d’arts martiaux dans le désert de 15 secondes (par @NimEshed)](#action-fantasy-case-20)
-  - [Cas 21: Séquence de frappe aérienne dans un canyon (par @Mr_TuanDoan)](#action-fantasy-case-21)
-  - [Cas 22: Superproduction de guerre épique hyperréaliste de 15 secondes (par @john87445528)](#action-fantasy-case-22)
-  - [Cas 23: La pause-café au bureau tourne mal (par @Dheepanratnam)](#action-fantasy-case-23)
-  - [Cas 24: Séquence d’action continue en plan-séquence de 15 secondes (par @Artedeingenio)](#action-fantasy-case-24)
-  - [Cas 25: Cygne noir contre boxeur (par @KanaWorks_AI)](#action-fantasy-case-25)
-  - [Cas 26: Décollage de Superman sur un sol qui se fissure (par @techprophett)](#action-fantasy-case-26)
-  - [Cas 27: Ombre d’épée dans la grotte des nuages (par @Adam38363368936)](#action-fantasy-case-27)
-  - [Cas 28: Cité des dieux — vol de fantasy orientale en une seule prise (par @john87445528)](#action-fantasy-case-28)
-  - [Cas 29: Bataille de fantasy épique — séquence cinématographique de 10 secondes (par @a_shimanski)](#action-fantasy-case-29)
-  - [Cas 30: Transformation de dark fantasy au style oriental (par @johnAGI168)](#action-fantasy-case-30)
-  - [Cas 31: Piège fluvial au carburant avec un crocodile (par @rahulnanda86)](#action-fantasy-case-31)
-  - [Cas 32: Duel électrique dans une arène souterraine (par @CharaspowerAI)](#action-fantasy-case-32)
-  - [Cas 33: Crocodile traîné par un avion sur la piste (par @rahulnanda86)](#action-fantasy-case-33)
-  - [Cas 34: But de l’attaquant éclair en anime (par @CharaspowerAI)](#action-fantasy-case-34)
-  - [Cas 35: Vol de griffon dans la vallée aux fleurs sauvages (par @Mayz1169)](#action-fantasy-case-35)
-  - [Cas 36: Tir parthe de la cavalerie mongole (par @Ankit_patel211)](#action-fantasy-case-36)
-  - [Cas 37: Course du messager à dos de grenouille géante (par @0xbisc)](#action-fantasy-case-37)
-  - [Cas 38: Siège zombie de la guerrière du tonnerre (par @MO_IAI)](#action-fantasy-case-38)
-  - [Cas 39: Tempête au temple du tigre blanc (par @LudovicCreator)](#action-fantasy-case-39)
-  - [Cas 40: Mégalodon contre péniche de ravitaillement (par @rahulnanda86)](#action-fantasy-case-40)
+- [⚔️ Action / Fantasy](#action-fantasy) (43)
+  - [Cas 1: Performance de rap de rue en clip musical (by @songguoxiansen)](#action-fantasy-case-1)
+  - [Cas 2: Duel d’arts martiaux du chat noir dans le désert (by @nopinduoduo)](#action-fantasy-case-2)
+  - [Cas 3: Duel de techniques de respiration en prise de vues réelles (by @johnAGI168)](#action-fantasy-case-3)
+  - [Cas 4: Séquence d’anime ultrarapide en 20 plans (by @tebasaki3D)](#action-fantasy-case-4)
+  - [Cas 5: Regardez un mécanicien couvert de cambouis effectuer une réparation (by @sebatheepan)](#action-fantasy-case-5)
+  - [Cas 6: Court métrage de vengeance samouraï (by @sailorv321)](#action-fantasy-case-6)
+  - [Cas 7: Animation de combat 3D stylisée (by @johnAGI168)](#action-fantasy-case-7)
+  - [Cas 8: Courte parodie comique au rythme effréné (by @drjoetw)](#action-fantasy-case-8)
+  - [Cas 9: Combat tokusatsu de ninjas géants (by @EarthGigantea)](#action-fantasy-case-9)
+  - [Cas 10: Séquence de dialogue d’anime japonais (by @_3912657840)](#action-fantasy-case-10)
+  - [Cas 11: Court métrage original de bataille élémentaire de 15 secondes (by @ZikinArt)](#action-fantasy-case-11)
+  - [Cas 12: Animation d’œuf fantastique façon Fabergé (by @ShamiWeb3)](#action-fantasy-case-12)
+  - [Cas 13: Court métrage original de bataille élémentaire (by @David_eficaz)](#action-fantasy-case-13)
+  - [Cas 14: Duel cinématographique de science-fiction et de fantasy (by @CharaspowerAI)](#action-fantasy-case-14)
+  - [Cas 15: Séquence d’action continue en plan-séquence de 15 secondes (by @Artedeingenio)](#action-fantasy-case-15)
+  - [Cas 16: Samouraï solitaire face au précipice (by @Alin_Reaper05)](#action-fantasy-case-16)
+  - [Cas 17: Piqué aérien du dragon renégat (by @sebatheepan)](#action-fantasy-case-17)
+  - [Cas 18: Mêlée autour d’un mécha en apesanteur (by @Dheepanratnam)](#action-fantasy-case-18)
+  - [Cas 19: Scène de vol ultrarapide d’une fille chevauchant un dragon (by @naoyuki_okada)](#action-fantasy-case-19)
+  - [Cas 20: Court métrage original d’arts martiaux dans le désert de 15 secondes (by @NimEshed)](#action-fantasy-case-20)
+  - [Cas 21: Séquence de frappe aérienne dans un canyon (by @Mr_TuanDoan)](#action-fantasy-case-21)
+  - [Cas 22: Superproduction de guerre épique hyperréaliste de 15 secondes (by @john87445528)](#action-fantasy-case-22)
+  - [Cas 23: La pause-café au bureau tourne mal (by @Dheepanratnam)](#action-fantasy-case-23)
+  - [Cas 24: Séquence d’action continue en plan-séquence de 15 secondes (by @Artedeingenio)](#action-fantasy-case-24)
+  - [Cas 25: Cygne noir contre boxeur (by @KanaWorks_AI)](#action-fantasy-case-25)
+  - [Cas 26: Décollage de Superman sur un sol qui se fissure (by @techprophett)](#action-fantasy-case-26)
+  - [Cas 27: Ombre d’épée dans la grotte des nuages (by @Adam38363368936)](#action-fantasy-case-27)
+  - [Cas 28: Cité des dieux — vol de fantasy orientale en une seule prise (by @john87445528)](#action-fantasy-case-28)
+  - [Cas 29: Bataille de fantasy épique — séquence cinématographique de 10 secondes (by @a_shimanski)](#action-fantasy-case-29)
+  - [Cas 30: Transformation de dark fantasy au style oriental (by @johnAGI168)](#action-fantasy-case-30)
+  - [Cas 31: Piège fluvial au carburant avec un crocodile (by @rahulnanda86)](#action-fantasy-case-31)
+  - [Cas 32: Duel électrique dans une arène souterraine (by @CharaspowerAI)](#action-fantasy-case-32)
+  - [Cas 33: Crocodile traîné par un avion sur la piste (by @rahulnanda86)](#action-fantasy-case-33)
+  - [Cas 34: But de l’attaquant éclair en anime (by @CharaspowerAI)](#action-fantasy-case-34)
+  - [Cas 35: Vol de griffon dans la vallée aux fleurs sauvages (by @Mayz1169)](#action-fantasy-case-35)
+  - [Cas 36: Tir parthe de la cavalerie mongole (by @Ankit_patel211)](#action-fantasy-case-36)
+  - [Cas 37: Course du messager à dos de grenouille géante (by @0xbisc)](#action-fantasy-case-37)
+  - [Cas 38: Siège zombie de la guerrière du tonnerre (by @MO_IAI)](#action-fantasy-case-38)
+  - [Cas 39: Tempête au temple du tigre blanc (by @LudovicCreator)](#action-fantasy-case-39)
+  - [Cas 40: Mégalodon contre péniche de ravitaillement (by @rahulnanda86)](#action-fantasy-case-40)
   - [Cas 41: Renversement surprise de la géante dans l’arène (by @rahulnanda86)](#action-fantasy-case-41)
   - [Cas 42: Neutralisation des assaillants dans un entrepôt par un garde du corps (by @Rosey_watson)](#action-fantasy-case-42)
-- [🎞️ Réalisme cinématographique](#cinematic-realism) (8)
-  - [Cas 1: Séquence documentaire sur le Japon moderne (par @kuranoayashi)](#cinematic-realism-case-1)
-  - [Cas 2: Descente en longboard à la poursuite d’une ombre (par @Dheepanratnam)](#cinematic-realism-case-2)
-  - [Cas 3: Héroïne de guerre réveillée par un météore (par @ChrisTheNerv)](#cinematic-realism-case-3)
-  - [Cas 4: Drame sur une île à maison capsule dans la brume (par @umesh_ai)](#cinematic-realism-case-4)
-  - [Cas 5: Révélation d’un samouraï sur une falaise en tempête (par @umesh_ai)](#cinematic-realism-case-5)
-  - [Cas 6: Juge de cannonball à la piscine VHS (par @Ankit_patel211)](#cinematic-realism-case-6)
-  - [Cas 7: Course sous l’orage en voiture noire vintage (par @LudovicCreator)](#cinematic-realism-case-7)
-  - [Cas 8: Séquence du phare sur la côte en tempête (par @LudovicCreator)](#cinematic-realism-case-8)
+  - [Cas 43: Attaque du ver à la station arctique (by @StevieMac03)](#action-fantasy-case-43)
+- [🎞️ Cinematic Realism](#cinematic-realism) (10)
+  - [Cas 1: Séquence documentaire sur le Japon moderne (by @kuranoayashi)](#cinematic-realism-case-1)
+  - [Cas 2: Descente en longboard à la poursuite d’une ombre (by @Dheepanratnam)](#cinematic-realism-case-2)
+  - [Cas 3: Héroïne de guerre réveillée par un météore (by @ChrisTheNerv)](#cinematic-realism-case-3)
+  - [Cas 4: Drame sur une île à maison capsule dans la brume (by @umesh_ai)](#cinematic-realism-case-4)
+  - [Cas 5: Révélation d’un samouraï sur une falaise en tempête (by @umesh_ai)](#cinematic-realism-case-5)
+  - [Cas 6: Juge de cannonball à la piscine VHS (by @Ankit_patel211)](#cinematic-realism-case-6)
+  - [Cas 7: Course sous l’orage en voiture noire vintage (by @LudovicCreator)](#cinematic-realism-case-7)
+  - [Cas 8: Séquence du phare sur la côte en tempête (by @LudovicCreator)](#cinematic-realism-case-8)
   - [Cas 9: Évasion en buggy dans une tempête de sable (by @umesh_ai)](#cinematic-realism-case-9)
+  - [Cas 10: Bagarre télévisée Argentine-Espagne (by @Ankit_patel211)](#cinematic-realism-case-10)
 - [🥽 POV / FPV](#pov-fpv) (21)
-  - [Cas 1: Séquence de poursuite camouflée avec caméra pectorale (par @genel_ai)](#pov-fpv-case-1)
-  - [Cas 2: Bande-annonce d’une Shanghai cyberpunk (par @Adam38363368936)](#pov-fpv-case-2)
-  - [Cas 3: Prompt d’action cohérent d’un samouraï maudit (par @Just_sharon7)](#pov-fpv-case-3)
-  - [Cas 4: Montage de fête au bord de la piscine Y2K filmée au caméscope (par @johnAGI168)](#pov-fpv-case-4)
-  - [Cas 5: Explosion urbaine en vue subjective avec carte Tesla (par @xingsthatmatter)](#pov-fpv-case-5)
-  - [Cas 6: Séquence de très gros plans pour un clip d’anime (par @drjoetw)](#pov-fpv-case-6)
-  - [Cas 7: Séquence rapide et fluide en 16 plans (par @aisavvy1)](#pov-fpv-case-7)
-  - [Cas 8: Descente au-dessus d’une cité médiévale fantastique (par @LudovicCreator)](#pov-fpv-case-8)
-  - [Cas 9: Vue subjective d’un glaçon tombant dans un verre de soda (par @LudovicCreator)](#pov-fpv-case-9)
-  - [Cas 10: Esthétique brute de film 35 mm à l’épaule avec grain naturel (par @AngelNwoha)](#pov-fpv-case-10)
-  - [Cas 11: Vidéo POV cinématographique photoréaliste de 10 secondes (par @umitsuru_fire)](#pov-fpv-case-11)
-  - [Cas 12: Une mégalopole post-apocalyptique ultrafuturiste s’éveille dans la tempête (par @johnAGI168)](#pov-fpv-case-12)
-  - [Cas 13: Style : timelapse industriel ultraréaliste (par @craftian_keskin)](#pov-fpv-case-13)
-  - [Cas 14: Transformation d’une lycéenne lors d’une attaque de monstre (par @Yuupapa_free)](#pov-fpv-case-14)
-  - [Cas 15: Montagnes russes à Tokyo en vue subjective (par @TechTalkNAVI)](#pov-fpv-case-15)
-  - [Cas 16: Publicité culturelle cinématographique de Pékin en 8K et vue subjective (par @crayon1267)](#pov-fpv-case-16)
-  - [Cas 17: Macro FPV extrême — suivi d’ailes de fée (par @EHuanglu)](#pov-fpv-case-17)
-  - [Cas 18: Plongée gravitationnelle dans une grotte volcanique (par @LudovicCreator)](#pov-fpv-case-18)
-  - [Cas 19: POV supersonique dans un canyon désertique (par @LudovicCreator)](#pov-fpv-case-19)
-  - [Cas 20: Survol FPV des feux d’artifice en France (par @LudovicCreator)](#pov-fpv-case-20)
+  - [Cas 1: Séquence de poursuite camouflée avec caméra pectorale (by @genel_ai)](#pov-fpv-case-1)
+  - [Cas 2: Bande-annonce d’une Shanghai cyberpunk (by @Adam38363368936)](#pov-fpv-case-2)
+  - [Cas 3: Prompt d’action cohérent d’un samouraï maudit (by @Just_sharon7)](#pov-fpv-case-3)
+  - [Cas 4: Montage de fête au bord de la piscine Y2K filmée au caméscope (by @johnAGI168)](#pov-fpv-case-4)
+  - [Cas 5: Explosion urbaine en vue subjective avec carte Tesla (by @xingsthatmatter)](#pov-fpv-case-5)
+  - [Cas 6: Séquence de très gros plans pour un clip d’anime (by @drjoetw)](#pov-fpv-case-6)
+  - [Cas 7: Séquence rapide et fluide en 16 plans (by @aisavvy1)](#pov-fpv-case-7)
+  - [Cas 8: Descente au-dessus d’une cité médiévale fantastique (by @LudovicCreator)](#pov-fpv-case-8)
+  - [Cas 9: Vue subjective d’un glaçon tombant dans un verre de soda (by @LudovicCreator)](#pov-fpv-case-9)
+  - [Cas 10: Esthétique brute de film 35 mm à l’épaule avec grain naturel (by @AngelNwoha)](#pov-fpv-case-10)
+  - [Cas 11: Vidéo POV cinématographique photoréaliste de 10 secondes (by @umitsuru_fire)](#pov-fpv-case-11)
+  - [Cas 12: Une mégalopole post-apocalyptique ultrafuturiste s’éveille dans la tempête (by @johnAGI168)](#pov-fpv-case-12)
+  - [Cas 13: Style : timelapse industriel ultraréaliste (by @craftian_keskin)](#pov-fpv-case-13)
+  - [Cas 14: Transformation d’une lycéenne lors d’une attaque de monstre (by @Yuupapa_free)](#pov-fpv-case-14)
+  - [Cas 15: Montagnes russes à Tokyo en vue subjective (by @TechTalkNAVI)](#pov-fpv-case-15)
+  - [Cas 16: Publicité culturelle cinématographique de Pékin en 8K et vue subjective (by @crayon1267)](#pov-fpv-case-16)
+  - [Cas 17: Macro FPV extrême — suivi d’ailes de fée (by @EHuanglu)](#pov-fpv-case-17)
+  - [Cas 18: Plongée gravitationnelle dans une grotte volcanique (by @LudovicCreator)](#pov-fpv-case-18)
+  - [Cas 19: POV supersonique dans un canyon désertique (by @LudovicCreator)](#pov-fpv-case-19)
+  - [Cas 20: Survol FPV des feux d’artifice en France (by @LudovicCreator)](#pov-fpv-case-20)
   - [Cas 21: Plongée FPV sur un champ de bataille cybernétique (by @LudovicCreator)](#pov-fpv-case-21)
-- [🏷️ Publicité / Produit](#commercial-product) (27)
-  - [Cas 1: Scène de danse d’un trio d’anime façon publicité de parfum (par @ShadeLurk)](#commercial-product-case-1)
-  - [Cas 2: Duel dans une église de dark fantasy (par @ZaraIrahh)](#commercial-product-case-2)
-  - [Cas 3: Duel dans la grande salle d’un sanctuaire de dark fantasy (par @MiraMusic_AI)](#commercial-product-case-3)
-  - [Cas 4: Chute comique d’une publicité japonaise pour snacks (par @aigeboku)](#commercial-product-case-4)
-  - [Cas 5: Séquence cinématographique d’arts martiaux pour Seedance 2 (par @CharaspowerAI)](#commercial-product-case-5)
-  - [Cas 6: Romance chuchotée dans une classe japonaise (par @JiahaoYang_art)](#commercial-product-case-6)
-  - [Cas 7: Storyboard publicitaire pour LaFerrari (par @Adam38363368936)](#commercial-product-case-7)
-  - [Cas 8: Duel final d’anime survolté (par @gkxspace)](#commercial-product-case-8)
-  - [Cas 9: Défilé de haute couture en porcelaine sur miroir céleste (par @johnAGI168)](#commercial-product-case-9)
-  - [Cas 10: Publicité de récolte d’un créateur rural moderne (par @johnAGI168)](#commercial-product-case-10)
-  - [Cas 11: Séquence de course de rue au néon (par @CharaspowerAI)](#commercial-product-case-11)
-  - [Cas 12: Top-modèle et voitures de sport de luxe (par @johnAGI168)](#commercial-product-case-12)
-  - [Cas 13: Poursuite d’une androïde après la destruction d’un laboratoire (par @aiehon_aya)](#commercial-product-case-13)
-  - [Cas 14: Bande-annonce de jeu dans une ville de néon en ruines (par @adrianaia_)](#commercial-product-case-14)
-  - [Cas 15: Court métrage original d’action et de dark fantasy (par @Rufus87078959)](#commercial-product-case-15)
-  - [Cas 16: 00:00–00:04 Plan 1 : travelling de suivi (par @IamEmily2050)](#commercial-product-case-16)
-  - [Cas 17: Séquence de combat tactique sur le toit d’un train (par @ImperfectEngel)](#commercial-product-case-17)
-  - [Cas 18: Frénésie sur le parquet de Manhattan (par @johnAGI168)](#commercial-product-case-18)
-  - [Cas 19: Mercredi façon poliziottesco (par @ChrisGwinnLA)](#commercial-product-case-19)
-  - [Cas 20: Publicité de mode pour smartphone pliable (par @Adam38363368936)](#commercial-product-case-20)
-  - [Cas 21: Montage avec une valise comme compagnon de voyage (par @ChaseAIx)](#commercial-product-case-21)
-  - [Cas 22: Lookbook de mode en plongée — séquence de changement de tenue (par @johnAGI168)](#commercial-product-case-22)
-  - [Cas 23: Publicité lifestyle haut de gamme façon selfie de vlog (par @johnAGI168)](#commercial-product-case-23)
-  - [Cas 24: Film de baskets imperméables synchronisé sur le rythme (par @madpencil_)](#commercial-product-case-24)
-  - [Cas 25: Révélation produit d’un sérum au mangoustan (par @ritesh_ai)](#commercial-product-case-25)
-  - [Cas 26: Révélation du taxi-valise de Mumbai (par @rahulnanda86)](#commercial-product-case-26)
-  - [Cas 27: Visite d’influenceuse d’une villa perchée sur une falaise (par @Ankit_patel211)](#commercial-product-case-27)
-- [🖼️ Basé sur des références](#reference-driven) (22)
-  - [Cas 1: Performance d’un pianiste squelette dans un diorama miniature (par @tea_story_hoshi)](#reference-driven-case-1)
-  - [Cas 2: Princesse sur un navire en pleine tempête contre le kraken (par @applete77191758)](#reference-driven-case-2)
-  - [Cas 3: Danse des lames des servantes : Mei contre Coco (par @MiraMusic_AI)](#reference-driven-case-3)
-  - [Cas 4: Adieu au piano sur un toit apocalyptique (par @liyue_ai)](#reference-driven-case-4)
-  - [Cas 5: Objectif fisheye cinématographique 8 mm, drone de course FPV et mouvement hyperfluide (par @itsPixieVerse)](#reference-driven-case-5)
-  - [Cas 6: Séquence de cascades de kung-fu guidée par référence (par @YaReYaRu30Life)](#reference-driven-case-6)
-  - [Cas 7: Ray tracing, rendu Unreal Engine et petite ville sous une pluie battante (par @Gwsubsa)](#reference-driven-case-7)
-  - [Cas 8: Service de nuit dans l’épicerie lunaire (par @zasuko_michiksa)](#reference-driven-case-8)
-  - [Cas 9: Réveil sur le toit et transformation en F-14 (par @john87445528)](#reference-driven-case-9)
-  - [Cas 10: Assemblage d’armure et contre-attaque dans la rue (par @egeberkina)](#reference-driven-case-10)
-  - [Cas 11: Référence du personnage de l’image 1 convertie en prise de vues réelles (par @Adam38363368936)](#reference-driven-case-11)
-  - [Cas 12: Modèle de duel à l’épée avec ours polaire et raccord de mouvement (par @aimikoda)](#reference-driven-case-12)
-  - [Cas 13: Séquence de morphing fluide à partir de sept images (par @YaReYaRu30Life)](#reference-driven-case-13)
-  - [Cas 14: Publicité pour baskets Stridex (par @ShamsAmin56)](#reference-driven-case-14)
-  - [Cas 15: Prompt guidé par image avec un chat chanteur (par @pan_soramame_da)](#reference-driven-case-15)
-  - [Cas 16: Prompt d’anime avec référence de personnage (par @Reiria123)](#reference-driven-case-16)
-  - [Cas 17: Animaux de dessin animé transformés en prise de vues réelles (par @MustafyOf)](#reference-driven-case-17)
-  - [Cas 18: Hiérarchie de références verrouillée par storyboard (par @startracker)](#reference-driven-case-18)
-  - [Cas 19: Montage d'absorption d'énergie VOLTIA (par @itsPixieVerse)](#reference-driven-case-19)
-  - [Cas 20: Confession de Cléopâtre au palais (par @kinovi_ai)](#reference-driven-case-20)
-  - [Cas 21: Retrouvailles pluvieuses sous la lanterne (par @umesh_ai)](#reference-driven-case-21)
-  - [Cas 22: Transformation en plan-séquence dans les coulisses du kunqu (par @ou_zhen599)](#reference-driven-case-22)
-- [🌀 Surréalisme / VFX](#surreal-vfx) (15)
-  - [Cas 1: Combat au katana en apesanteur (par @MiraMusic_AI)](#surreal-vfx-case-1)
-  - [Cas 2: Baleine dans les nuages — épopée surréaliste (par @chaosdotjpg)](#surreal-vfx-case-2)
-  - [Cas 3: Métamorphose d’un plongeur des abysses en créature marine (par @AIARTGALLARY)](#surreal-vfx-case-3)
-  - [Cas 4: Effondrement d’une faille interdimensionnelle dans une mégalopole (par @LudovicCreator)](#surreal-vfx-case-4)
-  - [Cas 5: Fusion dans une ruelle souterraine pluvieuse (par @Dheepanratnam)](#surreal-vfx-case-5)
-  - [Cas 6: Faille urbaine causée par une fracture de la réalité quantique (par @Dheepanratnam)](#surreal-vfx-case-6)
-  - [Cas 7: L’œil s’ouvre soudainement (par @roco_kn_roco)](#surreal-vfx-case-7)
-  - [Cas 8: Ils s’entrechoquent en plein vol au-dessus d’une rivière de lave flottante (par @LudovicCreator)](#surreal-vfx-case-8)
-  - [Cas 9: Marche dimensionnelle du directeur artistique (par @lukasersil)](#surreal-vfx-case-9)
-  - [Cas 10: Inscription sur l’autel d’une entité abyssale — dark fantasy (par @Adam38363368936)](#surreal-vfx-case-10)
-  - [Cas 11: Transformation de scène avec roue chromatique flottante dans l’interface (par @johnAGI168)](#surreal-vfx-case-11)
-  - [Cas 12: Séquence de transformation de l’impératrice du feu (par @LudovicCreator)](#surreal-vfx-case-12)
-  - [Cas 13: Transformation du titan de sable dans le désert (par @LudovicCreator)](#surreal-vfx-case-13)
-  - [Cas 14: Voiture en fuite transformée en camion-benne (par @LavrionX)](#surreal-vfx-case-14)
-  - [Cas 15: Transformation calligraphique de la gardienne de la forêt (par @LudovicCreator)](#surreal-vfx-case-15)
-- [📐 Modèles et formats structurés](#templates-structured) (19)
-  - [Cas 1: Naufrage catastrophique d’un superporte-avions (par @johnAGI168)](#templates-structured-case-1)
-  - [Cas 2: Reconstruction de fragments de mémoire (par @TechTalkNAVI)](#templates-structured-case-2)
-  - [Cas 3: Du plan à la réalité — transformation d’une maison de plain-pied (par @craftian_keskin)](#templates-structured-case-3)
-  - [Cas 4: Tailleur haute couture d’arts martiaux (par @Adam38363368936)](#templates-structured-case-4)
-  - [Cas 5: Modèle de changement de tenue synchronisé sur le rythme (par @aimikoda)](#templates-structured-case-5)
-  - [Cas 6: Modèle de quartier de gratte-ciel dansants (par @TechTalkNAVI)](#templates-structured-case-6)
-  - [Cas 7: Ombre de lumière stellaire / silhouette de poussière d’étoiles (par @TechTalkNAVI)](#templates-structured-case-7)
-  - [Cas 8: Modèle POV de parkour pictural (par @0xbisc)](#templates-structured-case-8)
-  - [Cas 9: Modèle POV 360 de course dans un escalier en descente (par @aimikoda)](#templates-structured-case-9)
-  - [Cas 10: Modèle de mouvement des aliments et des personnages (par @Just_sharon7)](#templates-structured-case-10)
-  - [Cas 11: Modèle de course en cuisine avec caméra impossible (par @Dheepanratnam)](#templates-structured-case-11)
-  - [Cas 12: Modèle d’explosion POV avec temps figé (par @CharaspowerAI)](#templates-structured-case-12)
-  - [Cas 13: Modèle de première sortie spatiale d’un astronaute (par @BrennanErbz)](#templates-structured-case-13)
-  - [Cas 14: Modèle de routine d’un golden retriever (par @0xbisc)](#templates-structured-case-14)
-  - [Cas 15: Séquence stylisée de transformation dans un salon de coiffure 3D (par @ShamiWeb3)](#templates-structured-case-15)
-  - [Cas 16: Modèle impressionniste de mains ramant (par @0xbisc)](#templates-structured-case-16)
-  - [Cas 17: Guerrière — prompt de sujet structuré (par @noman23761)](#templates-structured-case-17)
-  - [Cas 18: Révélation d’un loft sorti d’une boîte (par @samaote)](#templates-structured-case-18)
-  - [Cas 19: Test de détail des expressions faciales (par @ou_zhen599)](#templates-structured-case-19)
+- [🏷️ Commercial / Product](#commercial-product) (27)
+  - [Cas 1: Scène de danse d’un trio d’anime façon publicité de parfum (by @ShadeLurk)](#commercial-product-case-1)
+  - [Cas 2: Duel dans une église de dark fantasy (by @ZaraIrahh)](#commercial-product-case-2)
+  - [Cas 3: Duel dans la grande salle d’un sanctuaire de dark fantasy (by @MiraMusic_AI)](#commercial-product-case-3)
+  - [Cas 4: Chute comique d’une publicité japonaise pour snacks (by @aigeboku)](#commercial-product-case-4)
+  - [Cas 5: Séquence cinématographique d’arts martiaux pour Seedance 2 (by @CharaspowerAI)](#commercial-product-case-5)
+  - [Cas 6: Romance chuchotée dans une classe japonaise (by @JiahaoYang_art)](#commercial-product-case-6)
+  - [Cas 7: Storyboard publicitaire pour LaFerrari (by @Adam38363368936)](#commercial-product-case-7)
+  - [Cas 8: Duel final d’anime survolté (by @gkxspace)](#commercial-product-case-8)
+  - [Cas 9: Défilé de haute couture en porcelaine sur miroir céleste (by @johnAGI168)](#commercial-product-case-9)
+  - [Cas 10: Publicité de récolte d’un créateur rural moderne (by @johnAGI168)](#commercial-product-case-10)
+  - [Cas 11: Séquence de course de rue au néon (by @CharaspowerAI)](#commercial-product-case-11)
+  - [Cas 12: Top-modèle et voitures de sport de luxe (by @johnAGI168)](#commercial-product-case-12)
+  - [Cas 13: Poursuite d’une androïde après la destruction d’un laboratoire (by @aiehon_aya)](#commercial-product-case-13)
+  - [Cas 14: Bande-annonce de jeu dans une ville de néon en ruines (by @adrianaia_)](#commercial-product-case-14)
+  - [Cas 15: Court métrage original d’action et de dark fantasy (by @Rufus87078959)](#commercial-product-case-15)
+  - [Cas 16: 00:00–00:04 Plan 1 : travelling de suivi (by @IamEmily2050)](#commercial-product-case-16)
+  - [Cas 17: Séquence de combat tactique sur le toit d’un train (by @ImperfectEngel)](#commercial-product-case-17)
+  - [Cas 18: Frénésie sur le parquet de Manhattan (by @johnAGI168)](#commercial-product-case-18)
+  - [Cas 19: Mercredi façon poliziottesco (by @ChrisGwinnLA)](#commercial-product-case-19)
+  - [Cas 20: Publicité de mode pour smartphone pliable (by @Adam38363368936)](#commercial-product-case-20)
+  - [Cas 21: Montage avec une valise comme compagnon de voyage (by @ChaseAIx)](#commercial-product-case-21)
+  - [Cas 22: Lookbook de mode en plongée — séquence de changement de tenue (by @johnAGI168)](#commercial-product-case-22)
+  - [Cas 23: Publicité lifestyle haut de gamme façon selfie de vlog (by @johnAGI168)](#commercial-product-case-23)
+  - [Cas 24: Film de baskets imperméables synchronisé sur le rythme (by @madpencil_)](#commercial-product-case-24)
+  - [Cas 25: Révélation produit d’un sérum au mangoustan (by @ritesh_ai)](#commercial-product-case-25)
+  - [Cas 26: Révélation du taxi-valise de Mumbai (by @rahulnanda86)](#commercial-product-case-26)
+  - [Cas 27: Visite d’influenceuse d’une villa perchée sur une falaise (by @Ankit_patel211)](#commercial-product-case-27)
+- [🖼️ Reference-Driven](#reference-driven) (22)
+  - [Cas 1: Performance d’un pianiste squelette dans un diorama miniature (by @tea_story_hoshi)](#reference-driven-case-1)
+  - [Cas 2: Princesse sur un navire en pleine tempête contre le kraken (by @applete77191758)](#reference-driven-case-2)
+  - [Cas 3: Danse des lames des servantes : Mei contre Coco (by @MiraMusic_AI)](#reference-driven-case-3)
+  - [Cas 4: Adieu au piano sur un toit apocalyptique (by @liyue_ai)](#reference-driven-case-4)
+  - [Cas 5: Objectif fisheye cinématographique 8 mm, drone de course FPV et mouvement hyperfluide (by @itsPixieVerse)](#reference-driven-case-5)
+  - [Cas 6: Séquence de cascades de kung-fu guidée par référence (by @YaReYaRu30Life)](#reference-driven-case-6)
+  - [Cas 7: Ray tracing, rendu Unreal Engine et petite ville sous une pluie battante (by @Gwsubsa)](#reference-driven-case-7)
+  - [Cas 8: Service de nuit dans l’épicerie lunaire (by @zasuko_michiksa)](#reference-driven-case-8)
+  - [Cas 9: Réveil sur le toit et transformation en F-14 (by @john87445528)](#reference-driven-case-9)
+  - [Cas 10: Assemblage d’armure et contre-attaque dans la rue (by @egeberkina)](#reference-driven-case-10)
+  - [Cas 11: Référence du personnage de l’image 1 convertie en prise de vues réelles (by @Adam38363368936)](#reference-driven-case-11)
+  - [Cas 12: Modèle de duel à l’épée avec ours polaire et raccord de mouvement (by @aimikoda)](#reference-driven-case-12)
+  - [Cas 13: Séquence de morphing fluide à partir de sept images (by @YaReYaRu30Life)](#reference-driven-case-13)
+  - [Cas 14: Publicité pour baskets Stridex (by @ShamsAmin56)](#reference-driven-case-14)
+  - [Cas 15: Prompt guidé par image avec un chat chanteur (by @pan_soramame_da)](#reference-driven-case-15)
+  - [Cas 16: Prompt d’anime avec référence de personnage (by @Reiria123)](#reference-driven-case-16)
+  - [Cas 17: Animaux de dessin animé transformés en prise de vues réelles (by @MustafyOf)](#reference-driven-case-17)
+  - [Cas 18: Hiérarchie de références verrouillée par storyboard (by @startracker)](#reference-driven-case-18)
+  - [Cas 19: Montage d'absorption d'énergie VOLTIA (by @itsPixieVerse)](#reference-driven-case-19)
+  - [Cas 20: Confession de Cléopâtre au palais (by @kinovi_ai)](#reference-driven-case-20)
+  - [Cas 21: Retrouvailles pluvieuses sous la lanterne (by @umesh_ai)](#reference-driven-case-21)
+  - [Cas 22: Transformation en plan-séquence dans les coulisses du kunqu (by @ou_zhen599)](#reference-driven-case-22)
+- [🌀 Surreal / VFX](#surreal-vfx) (16)
+  - [Cas 1: Combat au katana en apesanteur (by @MiraMusic_AI)](#surreal-vfx-case-1)
+  - [Cas 2: Baleine dans les nuages — épopée surréaliste (by @chaosdotjpg)](#surreal-vfx-case-2)
+  - [Cas 3: Métamorphose d’un plongeur des abysses en créature marine (by @AIARTGALLARY)](#surreal-vfx-case-3)
+  - [Cas 4: Effondrement d’une faille interdimensionnelle dans une mégalopole (by @LudovicCreator)](#surreal-vfx-case-4)
+  - [Cas 5: Fusion dans une ruelle souterraine pluvieuse (by @Dheepanratnam)](#surreal-vfx-case-5)
+  - [Cas 6: Faille urbaine causée par une fracture de la réalité quantique (by @Dheepanratnam)](#surreal-vfx-case-6)
+  - [Cas 7: L’œil s’ouvre soudainement (by @roco_kn_roco)](#surreal-vfx-case-7)
+  - [Cas 8: Ils s’entrechoquent en plein vol au-dessus d’une rivière de lave flottante (by @LudovicCreator)](#surreal-vfx-case-8)
+  - [Cas 9: Marche dimensionnelle du directeur artistique (by @lukasersil)](#surreal-vfx-case-9)
+  - [Cas 10: Inscription sur l’autel d’une entité abyssale — dark fantasy (by @Adam38363368936)](#surreal-vfx-case-10)
+  - [Cas 11: Transformation de scène avec roue chromatique flottante dans l’interface (by @johnAGI168)](#surreal-vfx-case-11)
+  - [Cas 12: Séquence de transformation de l’impératrice du feu (by @LudovicCreator)](#surreal-vfx-case-12)
+  - [Cas 13: Transformation du titan de sable dans le désert (by @LudovicCreator)](#surreal-vfx-case-13)
+  - [Cas 14: Voiture en fuite transformée en camion-benne (by @LavrionX)](#surreal-vfx-case-14)
+  - [Cas 15: Transformation calligraphique de la gardienne de la forêt (by @LudovicCreator)](#surreal-vfx-case-15)
+  - [Cas 16: Apparition dans la cérémonie du thé hantée (by @LudovicCreator)](#surreal-vfx-case-16)
+- [📐 Templates & Structured Formats](#templates-structured) (21)
+  - [Cas 1: Naufrage catastrophique d’un superporte-avions (by @johnAGI168)](#templates-structured-case-1)
+  - [Cas 2: Reconstruction de fragments de mémoire (by @TechTalkNAVI)](#templates-structured-case-2)
+  - [Cas 3: Du plan à la réalité — transformation d’une maison de plain-pied (by @craftian_keskin)](#templates-structured-case-3)
+  - [Cas 4: Tailleur haute couture d’arts martiaux (by @Adam38363368936)](#templates-structured-case-4)
+  - [Cas 5: Modèle de changement de tenue synchronisé sur le rythme (by @aimikoda)](#templates-structured-case-5)
+  - [Cas 6: Modèle de quartier de gratte-ciel dansants (by @TechTalkNAVI)](#templates-structured-case-6)
+  - [Cas 7: Ombre de lumière stellaire / silhouette de poussière d’étoiles (by @TechTalkNAVI)](#templates-structured-case-7)
+  - [Cas 8: Modèle POV de parkour pictural (by @0xbisc)](#templates-structured-case-8)
+  - [Cas 9: Modèle POV 360 de course dans un escalier en descente (by @aimikoda)](#templates-structured-case-9)
+  - [Cas 10: Modèle de mouvement des aliments et des personnages (by @Just_sharon7)](#templates-structured-case-10)
+  - [Cas 11: Modèle de course en cuisine avec caméra impossible (by @Dheepanratnam)](#templates-structured-case-11)
+  - [Cas 12: Modèle d’explosion POV avec temps figé (by @CharaspowerAI)](#templates-structured-case-12)
+  - [Cas 13: Modèle de première sortie spatiale d’un astronaute (by @BrennanErbz)](#templates-structured-case-13)
+  - [Cas 14: Modèle de routine d’un golden retriever (by @0xbisc)](#templates-structured-case-14)
+  - [Cas 15: Séquence stylisée de transformation dans un salon de coiffure 3D (by @ShamiWeb3)](#templates-structured-case-15)
+  - [Cas 16: Modèle impressionniste de mains ramant (by @0xbisc)](#templates-structured-case-16)
+  - [Cas 17: Guerrière — prompt de sujet structuré (by @noman23761)](#templates-structured-case-17)
+  - [Cas 18: Révélation d’un loft sorti d’une boîte (by @samaote)](#templates-structured-case-18)
+  - [Cas 19: Test de détail des expressions faciales (by @ou_zhen599)](#templates-structured-case-19)
   - [Cas 20: Storyboard d’évasion d’une salle de bal inondée (by @ChangningL29508)](#templates-structured-case-20)
-- [🎬 Cinéma général](#general-cinematic) (38)
-  - [Cas 1: Gros plan de mode sur des talons synchronisés au rythme (par @TingFengAIAI)](#general-cinematic-case-1)
-  - [Cas 2: Évasion en mini-skateboard dans une chambre d’enfant (par @anson7956)](#general-cinematic-case-2)
-  - [Cas 3: Duel de grands-mères à Rucker Park (par @techhalla)](#general-cinematic-case-3)
-  - [Cas 4: Séquence de sauvetage d’un bébé par un pompier (par @AITalesNBH)](#general-cinematic-case-4)
-  - [Cas 5: Présentation d’une transformation en costume ancien (par @johnAGI168)](#general-cinematic-case-5)
-  - [Cas 6: Ginza de nuit, cyberpunk du futur (par @ChiakiAkagi)](#general-cinematic-case-6)
-  - [Cas 7: Histoires d’un sauteur (par @starks_arq)](#general-cinematic-case-7)
-  - [Cas 8: Un homme suspect se tient au centre du carrefour de Shibuya (par @roco_kn_roco)](#general-cinematic-case-8)
-  - [Cas 9: Vidéo au téléphone au milieu de la foule d’un bateau de pêche (par @maxescu)](#general-cinematic-case-9)
-  - [Cas 10: Une fille chute à toute vitesse dans un tunnel numérique (par @_3912657840)](#general-cinematic-case-10)
-  - [Cas 11: Séquence de tir du canon électromagnétique de la Skytree (par @TechTalkNAVI)](#general-cinematic-case-11)
-  - [Cas 12: Bande-annonce de film hollywoodien (par @SSSS_CRYPTOMAN)](#general-cinematic-case-12)
-  - [Cas 13: Séquence cinématographique verticale 9:16 (par @Mayz1169)](#general-cinematic-case-13)
-  - [Cas 14: Un immense mur de glace s’effondre dans un fjord près d’une ville côtière (par @LudovicCreator)](#general-cinematic-case-14)
-  - [Cas 15: Course-poursuite au piano sous la lune avec une souris (par @Dheepanratnam)](#general-cinematic-case-15)
-  - [Cas 16: Séquence de dessin animé continue en plan-séquence de 15 secondes (par @Artedeingenio)](#general-cinematic-case-16)
-  - [Cas 17: Bataille de dirigeables steampunk au coucher du soleil (par @Alin_Reaper05)](#general-cinematic-case-17)
-  - [Cas 18: Travelling de suivi d’ailes à réaction en tongs (par @maxescu)](#general-cinematic-case-18)
-  - [Cas 19: Extérieur d’un temple ancien au cœur des montagnes (par @cdexsta)](#general-cinematic-case-19)
-  - [Cas 20: Storyboard du lever du soleil sur la Statue de la Liberté (par @MrDasOnX)](#general-cinematic-case-20)
-  - [Cas 21: Scène historique à l’éclairage dramatique (par @AskVenice)](#general-cinematic-case-21)
-  - [Cas 22: Travelling continu de surf propulsé par fusée (par @maxescu)](#general-cinematic-case-22)
-  - [Cas 23: Modèle de monologue de stand-up (par @Adam38363368936)](#general-cinematic-case-23)
-  - [Cas 24: Drame de trahison lors d’un anniversaire au restaurant (par @Lighterkissan33)](#general-cinematic-case-24)
-  - [Cas 25: Séquence de parkour ancien avec changement de costume (par @Adam38363368936)](#general-cinematic-case-25)
-  - [Cas 26: Intérieur du moteur — détail mécanique du piston (par @YaReYaRu30Life)](#general-cinematic-case-26)
-  - [Cas 27: Simulation romantique japonaise des années 90 en animation sur celluloïd (par @kinopioai_ai)](#general-cinematic-case-27)
-  - [Cas 28: Techniques de réalisation cinématographique — prompt multi-plans (par @noman23761)](#general-cinematic-case-28)
-  - [Cas 29: Portrait d’une femme d’Asie de l’Est au sourire naturel (par @noman23761)](#general-cinematic-case-29)
-  - [Cas 30: Survie post-apocalyptique — mise en scène cinématographique (par @noman23761)](#general-cinematic-case-30)
-  - [Cas 31: Clairière de forêt façon Pixar — scène animée en 3D (par @SPEEDAI07)](#general-cinematic-case-31)
-  - [Cas 32: Chaton volant des friandises sous les couvertures (par @lynneatyoumind)](#general-cinematic-case-32)
-  - [Cas 33: Test de parole naturelle T2V de Seedance 2.0 (par @tanabe_fragm)](#general-cinematic-case-33)
-  - [Cas 34: Animation d’horreur avec marionnettes en papier (par @TomaAIbijo)](#general-cinematic-case-34)
-  - [Cas 35: Travelling à moto dans le désert rouge (par @LudovicCreator)](#general-cinematic-case-35)
-  - [Cas 36: Images DV de la catastrophe de Pompéi (par @venturetwins)](#general-cinematic-case-36)
-  - [Cas 37: Promenade d’astronaute dans un parc d’attractions abandonné (par @LudovicCreator)](#general-cinematic-case-37)
-  - [Cas 38: Voyage en baignoire du canard pirate (par @CharaspowerAI)](#general-cinematic-case-38)
+  - [Cas 21: Beatmap du duel sur quai (by @SYDxStudio)](#templates-structured-case-21)
+- [🎬 General Cinematic](#general-cinematic) (39)
+  - [Cas 1: Gros plan de mode sur des talons synchronisés au rythme (by @TingFengAIAI)](#general-cinematic-case-1)
+  - [Cas 2: Évasion en mini-skateboard dans une chambre d’enfant (by @anson7956)](#general-cinematic-case-2)
+  - [Cas 3: Duel de grands-mères à Rucker Park (by @techhalla)](#general-cinematic-case-3)
+  - [Cas 4: Séquence de sauvetage d’un bébé par un pompier (by @AITalesNBH)](#general-cinematic-case-4)
+  - [Cas 5: Présentation d’une transformation en costume ancien (by @johnAGI168)](#general-cinematic-case-5)
+  - [Cas 6: Ginza de nuit, cyberpunk du futur (by @ChiakiAkagi)](#general-cinematic-case-6)
+  - [Cas 7: Histoires d’un sauteur (by @starks_arq)](#general-cinematic-case-7)
+  - [Cas 8: Un homme suspect se tient au centre du carrefour de Shibuya (by @roco_kn_roco)](#general-cinematic-case-8)
+  - [Cas 9: Vidéo au téléphone au milieu de la foule d’un bateau de pêche (by @maxescu)](#general-cinematic-case-9)
+  - [Cas 10: Une fille chute à toute vitesse dans un tunnel numérique (by @_3912657840)](#general-cinematic-case-10)
+  - [Cas 11: Séquence de tir du canon électromagnétique de la Skytree (by @TechTalkNAVI)](#general-cinematic-case-11)
+  - [Cas 12: Bande-annonce de film hollywoodien (by @SSSS_CRYPTOMAN)](#general-cinematic-case-12)
+  - [Cas 13: Séquence cinématographique verticale 9:16 (by @Mayz1169)](#general-cinematic-case-13)
+  - [Cas 14: Un immense mur de glace s’effondre dans un fjord près d’une ville côtière (by @LudovicCreator)](#general-cinematic-case-14)
+  - [Cas 15: Course-poursuite au piano sous la lune avec une souris (by @Dheepanratnam)](#general-cinematic-case-15)
+  - [Cas 16: Séquence de dessin animé continue en plan-séquence de 15 secondes (by @Artedeingenio)](#general-cinematic-case-16)
+  - [Cas 17: Bataille de dirigeables steampunk au coucher du soleil (by @Alin_Reaper05)](#general-cinematic-case-17)
+  - [Cas 18: Travelling de suivi d’ailes à réaction en tongs (by @maxescu)](#general-cinematic-case-18)
+  - [Cas 19: Extérieur d’un temple ancien au cœur des montagnes (by @cdexsta)](#general-cinematic-case-19)
+  - [Cas 20: Storyboard du lever du soleil sur la Statue de la Liberté (by @MrDasOnX)](#general-cinematic-case-20)
+  - [Cas 21: Scène historique à l’éclairage dramatique (by @AskVenice)](#general-cinematic-case-21)
+  - [Cas 22: Travelling continu de surf propulsé par fusée (by @maxescu)](#general-cinematic-case-22)
+  - [Cas 23: Modèle de monologue de stand-up (by @Adam38363368936)](#general-cinematic-case-23)
+  - [Cas 24: Drame de trahison lors d’un anniversaire au restaurant (by @Lighterkissan33)](#general-cinematic-case-24)
+  - [Cas 25: Séquence de parkour ancien avec changement de costume (by @Adam38363368936)](#general-cinematic-case-25)
+  - [Cas 26: Intérieur du moteur — détail mécanique du piston (by @YaReYaRu30Life)](#general-cinematic-case-26)
+  - [Cas 27: Simulation romantique japonaise des années 90 en animation sur celluloïd (by @kinopioai_ai)](#general-cinematic-case-27)
+  - [Cas 28: Techniques de réalisation cinématographique — prompt multi-plans (by @noman23761)](#general-cinematic-case-28)
+  - [Cas 29: Portrait d’une femme d’Asie de l’Est au sourire naturel (by @noman23761)](#general-cinematic-case-29)
+  - [Cas 30: Survie post-apocalyptique — mise en scène cinématographique (by @noman23761)](#general-cinematic-case-30)
+  - [Cas 31: Clairière de forêt façon Pixar — scène animée en 3D (by @SPEEDAI07)](#general-cinematic-case-31)
+  - [Cas 32: Chaton volant des friandises sous les couvertures (by @lynneatyoumind)](#general-cinematic-case-32)
+  - [Cas 33: Test de parole naturelle T2V de Seedance 2.0 (by @tanabe_fragm)](#general-cinematic-case-33)
+  - [Cas 34: Animation d’horreur avec marionnettes en papier (by @TomaAIbijo)](#general-cinematic-case-34)
+  - [Cas 35: Travelling à moto dans le désert rouge (by @LudovicCreator)](#general-cinematic-case-35)
+  - [Cas 36: Images DV de la catastrophe de Pompéi (by @venturetwins)](#general-cinematic-case-36)
+  - [Cas 37: Promenade d’astronaute dans un parc d’attractions abandonné (by @LudovicCreator)](#general-cinematic-case-37)
+  - [Cas 38: Voyage en baignoire du canard pirate (by @CharaspowerAI)](#general-cinematic-case-38)
+  - [Cas 39: VHS orbital avec Terre obscure (by @LudovicCreator)](#general-cinematic-case-39)
+
 <a id="action-fantasy"></a>
-## ⚔️ Action / Fantaisie
+## ⚔️ Action / Fantasy (43)
 
 <a id="action-fantasy-case-1"></a>
 <!-- Case 1: Street Rap MV Performance (by @songguoxiansen) -->
@@ -1043,9 +1049,6 @@ SHOT 6: Full shot to medium shot, 35mm, forward follow and side move. Station ap
 SHOT 7: Medium close-up to close-up, 50mm, camera moves behind messenger, approaches forward. Frog stops and stands firm, messenger turns to open back mailbox, takes out envelope, turns and hands to extended hand. Sound: latch opening, lid sound, envelope pulled out, handover, wind fades.
 ```
 
-
-
-
 <a id="action-fantasy-case-38"></a>
 <!-- Case 38: Thunder Warrior Zombie Siege (by @MO_IAI) -->
 ### Cas 38: [Siège zombie de la guerrière du tonnerre](https://x.com/MO_IAI/status/2078252502755983855) (par [@MO_IAI](https://x.com/MO_IAI))
@@ -1100,7 +1103,6 @@ Shot 4 (9–13s) — BIG SLOW-MOTION MOMENT: The shark circles alone in the open
 
 Shot 5 (13–15s): Time snaps back. A huge blast erupts in the water beside the drifting barge, fire and spray shooting high into the sky. The rescue boat reaches the dock safely as the crew watches the water settle.
 ```
-
 
 <a id="action-fantasy-case-41"></a>
 <!-- Case 41: Arena Giantess Upset (by @rahulnanda86) -->
@@ -1185,10 +1187,49 @@ The entire coliseum explodes into deafening celebration as thousands of spectato
 ```
 A cinematic 15-second action sequence set inside a dark, gritty industrial warehouse at night, featuring moody teal-green lighting, chain-link fences, metal scaffolding, peeling green walls, and floating dust particles. A powerful, elegant East Asian Boss Lady wears a sleek black pantsuit with long flowing black hair and a calm, commanding expression. Standing beside her is a handsome, athletic male bodyguard in an all-black tailored suit with a heroic presence. As multiple attackers rush in, the bodyguard instantly steps in front of the Boss Lady, protecting her with lightning-fast punches, powerful kicks, evasive movements, and cinematic takedowns. The Boss Lady remains composed and confident, watching as her protector defeats every attacker. The sequence ends with the bodyguard standing protectively beside the Boss Lady as they walk forward together in slow motion, dust swirling around them. Handheld and tracking camera shots, dramatic low angles, realistic fabric movement, cinematic motion blur, ultra-detailed choreography, film-quality lighting, emotional heroism, 4K ultra-realistic cinematic masterpiece.
 ```
-<a id="cinematic-realism"></a>
+
+<a id="action-fantasy-case-43"></a>
+<!-- Case 43: Arctic Station Worm Attack (by @StevieMac03) -->
+### Cas 43: [Attaque du ver à la station arctique](https://x.com/StevieMac03/status/2079168831646216508) (par [@StevieMac03](https://x.com/StevieMac03))
+
+| Résultat |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-43"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2079168831646216508.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+{
+  "META": "Live-action standalone creature attack short | Length 15 seconds | Arctic research station exterior | Modern day grounded realism | Giant worm horror | Cinematic realism",
+  "SHOT": {
+    "CAM": "Low shoulder height tracking shot that slowly drifts into a side profile run, sudden violent handheld shake on emergence, snap pan to impact, final locked wide on aftermath, filmed on ARRI Alexa LF with 35mm lens",
+    "SET": "Windswept arctic ice field outside a remote research station, prefab modular buildings with steel walkways half buried in snowdrifts, satellite dish crusted with rime ice, snowmobiles parked beside stacked fuel drums, orange marker flags whipping in the wind, endless white plain dissolving into low gray sky",
+    "SUBJECT": "Two scientists caught in open ground, Dr. Aaron Voss early 40s tall dark beard in a red expedition parka with fur trimmed hood thrown back, Dr. Lena Okafor mid 30s braided hair under a wool beanie wearing an insulated yellow field suit streaked with grease and snow",
+    "ACTION": "They run across the packed snow as the ice behind them begins to crack in sharp straight lines. The ground suddenly erupts as a massive ringed segment punches up through the frozen crust. A towering giant worm bursts free in a spray of ice shards and snow, its pale segmented body uncoiling with violent force. Its circular maw peels open in layered rings of hooked teeth with a wet grinding shriek as it lunges forward. Aaron shoves Lena aside just as the worm slams down between them. Its maw clamps around Aaron's torso and lifts him screaming into the air. He claws at its rubbery hide as viscous gray fluid sprays from a torn segment. The worm violently jerks him inward and swallows him with a sickening crunch. Lena stumbles backward in shock. The worm pivots with terrifying speed and lunges again, dragging her screaming beneath the ice as its body churns the snow into a white blizzard of debris. Only drifting powder remains.",
+    "STYLE": "Practical monster horror realism, immense worm mass and physics emphasized, no stylized motion, raw violent impact, tactile ice debris and snow strikes on lens",
+    "LIGHTING": "Flat overcast polar daylight with cold diffuse shadows, pale highlights sliding along the worm's wet segmented hide as it moves, breath vapor catching the light",
+    "AMBIENCE_COLOR": "Blue white ice tones, sickly pale gray worm flesh, safety orange and red gear accents, steel gray sky"
+  },
+  "AUDIO": {
+    "dialogue": [
+      { "speaker": "Dr. Aaron Voss", "line": "Lena get down" },
+      { "speaker": "Dr. Lena Okafor", "line": "Aaron" }
+    ],
+    "ambience": [
+      "deep ice cracking sharply",
+      "explosive frozen ground eruption impact",
+      "wet grinding shriek layered with gnashing ringed teeth",
+      "bone crushing crunch",
+      "howling arctic wind",
+      "snow settling into dead silence"
+    ]
+  },
+  "NEG": "no subtitles, no drones, no on screen text, no glowing eyes, no neon colors, no period vehicles, no vintage clothing, no stylized CGI surfaces, no slow motion"
+}
+```
 
 <a id="cinematic-realism"></a>
-## 🎞️ Réalisme cinématographique
+## 🎞️ Cinematic Realism (10)
 
 <a id="cinematic-realism-case-1"></a>
 <!-- Case 1: Modern Japan Documentary Sequence (by @kuranoayashi) -->
@@ -1307,7 +1348,7 @@ From a low angle, the camera rockets up past razor-edged cliffs, riding the wind
 | :----: |
 | <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-realism-case-6"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2077121431339725240.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
 
-Variante du modèle: Seedance 2 Mini
+Variante du modèle : Seedance 2 Mini
 
 **Prompt:**
 
@@ -1321,7 +1362,6 @@ The camera movement remains extremely handheld and shaky throughout, with natura
 Natural sound only. Crowd chanting, loud applause, laughter, splashing water, echoing pool ambience, and authentic VHS microphone audio. No background music or narration.
 The result must feel like authentic raw 1990s home video footage capturing a completely ordinary pool jump that somehow turned into an Olympic-level celebration.
 ```
-
 
 <a id="cinematic-realism-case-7"></a>
 <!-- Case 7: Vintage Black Car Storm Run (by @LudovicCreator) -->
@@ -1351,7 +1391,6 @@ A vintage black car speeds along a winding mountain road in heavy rain at dusk, 
 A solitary lighthouse stands on a jagged black cliff as a monstrous storm crashes against the coast at night. Waves explode against the rocks far below, sending white spray into the air like smoke, while the lighthouse beam cuts through sheets of rain and drifting sea mist. Inside, an old keeper climbs the narrow spiral staircase with a lantern in hand, his coat soaked, the light flickering with every thunderclap. The camera moves between wide shots of the lighthouse dwarfed by the fury of the ocean and intimate interior close-ups of wet stone walls, rattling glass, trembling hands, and the golden lantern glow in the darkness. As the storm intensifies, lightning reveals a ghostly ship in the distance, barely visible between walls of rain. The sequence feels haunting, dramatic, and timeless, with crashing waves, thunder, and a powerful sense of isolation.
 ```
 
-
 <a id="cinematic-realism-case-9"></a>
 <!-- Case 9: Sandstorm Buggy Escape (by @umesh_ai) -->
 ### Cas 9: [Évasion en buggy dans une tempête de sable](https://x.com/umesh_ai/status/2078781951377555966) (par [@umesh_ai](https://x.com/umesh_ai))
@@ -1365,8 +1404,39 @@ A solitary lighthouse stands on a jagged black cliff as a monstrous storm crashe
 ```
 Towering sandstone cliffs crack under the pressure of a violent sandstorm. From a sweeping aerial over a vast desert basin, the camera dives aggressively toward a high-speed off-road buggy tearing through collapsing dunes. It slingshots past the front grill, whips around the roll cage, then drops tight to the spinning tires as sand blasts outward in golden waves. Chunks of rock tumble from above, dust spirals across the route, and the driver threads through narrow canyon gaps as entire ridgelines slump into avalanches of sand. The buggy surges through a curtain of blowing grit, bursts free, and races onto a surreal salt flat glowing in sunset orange. The camera rockets upward into a giant reveal as the storm fades behind. The engine cuts. Silence swallows the desert.
 ```
+
+<a id="cinematic-realism-case-10"></a>
+<!-- Case 10: Argentina Spain Broadcast Brawl (by @Ankit_patel211) -->
+### Cas 10: [Bagarre télévisée Argentine-Espagne](https://x.com/Ankit_patel211/status/2079286938373419028) (par [@Ankit_patel211](https://x.com/Ankit_patel211))
+
+| Résultat |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-realism-case-10"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2079286938373419028.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+Live sports television broadcast, authentic real-time football match retransmission. Natural stadium daylight, slight haze, packed crowd, official scoreboard ARG 0-0 ESP. Pure professional sports TV camera language with authentic broadcast zooms, natural handheld lens shake, genuine live-feed texture, realistic TV graphics, no cinematic polish.
+
+A modern football stadium during an Argentina vs Spain international match. Argentina players wear sky-blue and white striped kits, Spain players wear red kits. The atmosphere feels exactly like a live FIFA television broadcast with thousands of cheering fans, realistic commentators, stadium ambience, and professional sports camera work.
+
+0-4s: [High Wide Broadcast Shot]
+Normal gameplay suddenly stops when one Argentina player humorously pulls on oversized blue boxing gloves. Nearby Spain players stare in total disbelief before everyone begins a playful, exaggerated football brawl filled with harmless pushing, dodging, jersey grabbing, dramatic reactions, and cartoonishly over-the-top movements. The crowd erupts with laughter.
+
+4-8s: [Pitch-Level Tracking Shot]
+The broadcast camera tracks beside the action. The Argentina player throws exaggerated air punches while Spain players comically dodge and stumble. Players from both teams harmlessly wrestle, trip over each other, and dramatically roll across the grass. Coaches leap from the benches and sprint onto the pitch trying to separate everyone while assistant coaches wave their arms frantically.
+
+8-12s: [Classic Live TV Close-Up]
+The referee repeatedly blows the whistle as assistant referees, security staff, coaches, substitutes, and medical staff rush into the middle of the hilarious chaos. Everyone tries to pull players apart. The boxing-glove player is dragged backward by teammates while Spain players continue pointing, arguing, and making exaggerated facial expressions. The crowd chants and laughs loudly.
+
+12-15s: [Wide Stadium Broadcast]
+Camera pulls back to reveal the entire pitch. Coaches, referees, substitutes, and security form a large human barrier between both teams. Players gradually calm down but continue dramatically arguing and pointing. The referee theatrically flashes yellow cards in every direction while looking completely overwhelmed. The Argentina player raises his oversized boxing gloves to the cheering crowd as the stadium bursts into laughter, creating the feeling of an unforgettable viral football broadcast.
+
+Ultra-realistic live sports broadcast quality, authentic TV camera movement, realistic sports-lens motion blur, genuine crowd reactions, coherent body physics, stable character consistency, natural stadium audio, live television retransmission texture, unscripted sports broadcast energy, no cinematic color grading, no artificial enhancement, looks exactly like authentic live football coverage with lighthearted slapstick comedy.
+```
+
 <a id="pov-fpv"></a>
-## 🥽 POV / FPV
+## 🥽 POV / FPV (21)
 
 <a id="pov-fpv-case-1"></a>
 <!-- Case 1: Chest-Mounted Camouflage Chase Sequence (by @genel_ai) -->
@@ -1860,7 +1930,6 @@ Pure first-person camera perspective, no visible drone, no cockpit, no aircraft 
 Immersive first-person flying camera perspective, no visible drone or flying device. The entire sequence takes place at night beneath a deep blue sky. The camera races above the illuminated lavender fields of Provence while fireworks burst continuously in blue, white, and red across the horizon. It weaves through glowing medieval villages, vineyards, French châteaux, the cliffs of Normandy, and Mont-Saint-Michel reflected in the dark tide, with fireworks erupting above every location. The camera then follows the Seine into Paris at extreme speed, skimming beneath historic bridges, banking around the Arc de Triomphe, and climbing beside the fully illuminated Eiffel Tower as enormous synchronized fireworks fill the sky and reflect across the river. At the finale, the camera pulls back above Paris while the fireworks create a vast tricolor glow. A gigantic French flag unfurls naturally from the top of the Eiffel Tower, waving majestically above the city as the final fireworks burst behind it. No text, no words, no letters. Continuous POV shot, no cuts, aggressive banking, cinematic motion blur, realistic night lighting, volumetric smoke, detailed fireworks, ultra-realistic travel cinematography, spectacular blockbuster VFX, IMAX quality.
 ```
 
-
 <a id="pov-fpv-case-21"></a>
 <!-- Case 21: Cybernetic Battlefield FPV Dive (by @LudovicCreator) -->
 ### Cas 21: [Plongée FPV sur un champ de bataille cybernétique](https://x.com/LudovicCreator/status/2078842368661315786) (par [@LudovicCreator](https://x.com/LudovicCreator))
@@ -1874,8 +1943,9 @@ Immersive first-person flying camera perspective, no visible drone or flying dev
 ```
 Immersive first-person flying camera perspective, no visible drone or flying device. The camera launches at insane speed across a colossal dystopian cyborg battlefield at night, flying only centimeters above shattered metal, burning wreckage, and rivers of glowing energy. It violently snap-rolls between the legs of towering combat mechs, knife-edges through collapsing steel structures, dives beneath gigantic walking war machines, then instantly climbs through exploding industrial ruins. Swarms of autonomous combat drones streak overhead while colossal cybernetic titans exchange devastating energy blasts that illuminate the battlefield. The camera constantly changes direction with brutal FPV precision,rapid S-turns, vertical dives, barrel rolls, power loops around gigantic reactor towers, split-S reversals, wall-hugging passes through ruined megafactories, and razor-close proximity flights beneath collapsing bridges. Neon holograms flicker through dense smoke as thousands of laser tracers, plasma arcs, sparks, and electrical storms fill the sky. Gigantic cybernetic creatures emerge from the darkness while endless ranks of futuristic soldiers and armored exosuits advance across the battlefield beneath towering ruined skyscrapers. The camera threads through impossibly tight gaps as collapsing buildings, burning aircraft, and massive mechanical debris crash around it, then rockets into a colossal mechanical canyon formed by fallen war machines. At the climax, the battlefield opens into an unimaginably vast cybernetic wasteland where a planet-sized artificial intelligence core rises above the horizon, surrounded by colossal rotating rings, lightning storms, and endless mechanical cities stretching to infinity. Continuous POV shot, no cuts, relentless acceleration, extreme high-speed FPV racing, aggressive banking, rapid altitude changes, barrel rolls, corkscrews, split-S maneuvers, power loops, knife-edge turns, realistic inertia, cinematic motion blur, volumetric smoke, dynamic lighting, neon reflections, hyper-detailed dystopian environments, surreal cyberpunk architecture, blockbuster sci-fi VFX, IMAX quality.
 ```
+
 <a id="commercial-product"></a>
-## 🏷️ Publicité / Produit
+## 🏷️ Commercial / Product (27)
 
 <a id="commercial-product-case-1"></a>
 <!-- Case 1: Perfume-Style Anime Trio Dance Stage (by @ShadeLurk) -->
@@ -2507,11 +2577,8 @@ Ref image is wearing a stylish casual-luxury outfit with subtle yellow and green
 Real iPhone 16 Pro footage look, natural bright daylight, authentic mobile camera movement and slight shake, natural vibrant colors, coherent physics, stable character, real phone video quality, no film look, no artifacts, looks like genuine Instagram Reel footage shot on location.
 ```
 
-
 <a id="reference-driven"></a>
-
-<a id="reference-driven"></a>
-## 🖼️ Basé sur des références
+## 🖼️ Reference-Driven (22)
 
 <a id="reference-driven-case-1"></a>
 <!-- Case 1: Skeleton Pianist Miniature Diorama Performance (by @tea_story_hoshi) -->
@@ -3471,8 +3538,6 @@ Scene 5: Slow orbit around them sitting together, watching the mist drift throug
 Scene 6: Distant pullback across a reflective puddle, framing them beneath the enormous tree as they quietly share tea and savour the rain.
 ```
 
-
-
 <a id="reference-driven-case-22"></a>
 <!-- Case 22: Kunqu Backstage One-Take Transformation (by @ou_zhen599) -->
 ### Cas 22: [Transformation en plan-séquence dans les coulisses du kunqu](https://x.com/ou_zhen599/status/2078394020741673439) (par [@ou_zhen599](https://x.com/ou_zhen599))
@@ -3488,7 +3553,7 @@ Scene 6: Distant pullback across a reflective puddle, framing them beneath the e
 ```
 
 <a id="surreal-vfx"></a>
-## 🌀 Surréalisme / VFX
+## 🌀 Surreal / VFX (16)
 
 <a id="surreal-vfx-case-1"></a>
 <!-- Case 1: Zero-Gravity Katana Combat (by @MiraMusic_AI) -->
@@ -3870,7 +3935,6 @@ She pauses, watches the police pass… then slowly turns toward camera and winks
 Ambient city sound returns. No hard cut.
 ```
 
-
 <a id="surreal-vfx-case-15"></a>
 <!-- Case 15: Forest Guardian Calligraphy Transformation (by @LudovicCreator) -->
 ### Cas 15: [Transformation calligraphique de la gardienne de la forêt](https://x.com/LudovicCreator/status/2078346662699798878) (par [@LudovicCreator](https://x.com/LudovicCreator))
@@ -3885,8 +3949,22 @@ Ambient city sound returns. No hard cut.
 Full magical transformation sequence: a forest guardian floating in an aged moss-green parchment void as deep emerald ink spreads through the air like liquid leaves blooming in water ,calligraphy strokes whip around the body, staining the hair into soft jade green, sketching layered nature armor, glowing vine markings across the face, and a long spear silhouette in sweeping green brushwork. A circular ancient seal script sigil blooms underfoot with splashes of pearl-white light, the camera pushing in through drifting ink veils like torn leaves in a storm, each brush impact synced to a rising drumbeat, ending in a spear-planted signature pose locked inside an emerald-and-pearl calligraphy burst. Stock-footage grandeur, played sincere.
 ```
 
+<a id="surreal-vfx-case-16"></a>
+<!-- Case 16: Haunted Tea Ceremony Apparition (by @LudovicCreator) -->
+### Cas 16: [Apparition dans la cérémonie du thé hantée](https://x.com/LudovicCreator/status/2078902823656226891) (par [@LudovicCreator](https://x.com/LudovicCreator))
+
+| Résultat |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-16"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078902823656226891.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+Stylized anime haunted tea ceremony beat: an elderly woman pours tea inside an abandoned tatami room, steam rising from the cup and slowly forming the shape of a long-lost guest. Dust floats in golden afternoon light, paper doors rattling gently though no wind enters the house. Slow push-in across the floor, tea reflections rippling with impossible memories, the woman’s calm face mirrored in the porcelain cup. The ghostly figure leans closer and the silence holds one beat past comfort.
+```
+
 <a id="templates-structured"></a>
-## 📐 Modèles et formats structurés
+## 📐 Templates & Structured Formats (21)
 
 <a id="templates-structured-case-1"></a>
 <!-- Case 1: Supercarrier Catastrophic Sinking (by @johnAGI168) -->
@@ -4384,7 +4462,6 @@ Camera: fixed wide-angle shot, no zoom, no camera shake, no angle change.
 Negative prompt: no people, no extra rooms, no duplicated furniture, no distorted furniture, no warped walls, no text changes, no logo distortion, no sudden cuts, no messy construction debris, no cartoon animation.
 ```
 
-
 <a id="templates-structured-case-19"></a>
 <!-- Case 19: Facial Expression Detail Test (by @ou_zhen599) -->
 ### Cas 19: [Test de détail des expressions faciales](https://x.com/ou_zhen599/status/2078137477425172769) (par [@ou_zhen599](https://x.com/ou_zhen599))
@@ -4412,7 +4489,6 @@ Negative prompt: no people, no extra rooms, no duplicated furniture, no distorte
 12-15秒：目视前方/画面右侧，眼神柔和微润，唇瓣轻动似欲语还休，最终保持安静凝视状态，定格在温柔清冷、略带忧郁的情绪中，结尾无黑屏、无转场。
 ```
 
-
 <a id="templates-structured-case-20"></a>
 <!-- Case 20: Flooded Ballroom Escape Storyboard (by @ChangningL29508) -->
 ### Cas 20: [Storyboard d’évasion d’une salle de bal inondée](https://x.com/ChangningL29508/status/2078684698394636544) (par [@ChangningL29508](https://x.com/ChangningL29508))
@@ -4426,10 +4502,39 @@ Negative prompt: no people, no extra rooms, no duplicated furniture, no distorte
 ```
 @Image1 storyboard is a temporal beat map only. Create one continuous full-screen 16:9 cinematic 15-second live-action sequence, never show a panel grid, black gutters, collage, captions, or text. Same young adult bride with wet black hair, ivory satin wedding dress and red rubber boots; same soaked groom in a black tuxedo; same red-dress bridesmaid; same waiter in black vest. In a flooded Art Deco ballroom at night, follow the storyboard left to right, top to bottom: the bride pulls the groom through knee-deep water toward the warm exit; the bridesmaid follows with her shoes; the waiter opens and holds the door; guests plausibly clear the path and evacuate; the couple and bridesmaid reach the doorway. Cold blue-green storm light and warm chandelier reflections, believable water physics, cinematic 35mm camera, one natural continuous progression. Stable faces and identities, anatomically correct hands, no duplicate people, no warped anatomy, no elderly bride, no police, no weapons, no random actions, no watermark, no logo, no subtitles.
 ```
-<a id="general-cinematic"></a>
+
+<a id="templates-structured-case-21"></a>
+<!-- Case 21: Station Platform Duel Beatmap (by @SYDxStudio) -->
+### Cas 21: [Beatmap du duel sur quai](https://x.com/SYDxStudio/status/2079286923424575628) (par [@SYDxStudio](https://x.com/SYDxStudio))
+
+| Résultat |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-21"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2079286923424575628.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+Use @image1 only as P01-P06 movement waypoints for one uninterrupted action, never as shots, holds, a displayed image or style source. Flow through P02-P05 without stopping; P01/P06 are boundaries. Set STEP 06 as first frame and STEP 06T as last; they alone lock boundary staging. @image2 solely controls KAI: 185 cm, face always uncovered, headphones, black tank, twin cyan blades. @image3 solely controls KIRA: 165 cm, mask always worn, RIGHT dagger reverse/LEFT forward, two rear-belt capsules. @image4 is a mixed sheet: use ONLY Zone F Old Ward platform; ignore other panels/artifacts.
+
+Exactly 10.0 seconds, 24 fps. ZONE F ONLY: same stationary train, west platform, tiled column, bench, departure board, brake chain and closed carriage door; never reveal/enter Car 5. Start exact STEP 06, finish exact STEP 06T. During action KAI's tank right seam is sliced; floor, column, bench and board become damaged and remain so. Chain and door stay intact. No dialogue/music; only breath, shoes, cloth, blades, tile, bolts, timber, metal, debris.
+
+LOOK: hand-drawn 2D shonen-wuxia sakuga matching boundaries; variable black ink, flat cel blocks, one hard shadow, stepped drawings, foreshortening, dry-brush smears, simplified background only in velocity bursts; never photoreal, glossy, 3D or game-cinematic.
+
+CAMERA MODE: one continuous 20 mm master, no cuts. Launch low with KAI, dive under KIRA, inherit his eastward slide, whip around the same column, rise beside the rotating board, recoil with Sonic Strike, settle into STEP 06T. Tiles/debris prove parallax; no stable sideline or location crossing.
+
+PHRASE 1, actions 1-5: frame one, KIRA pushes from lintel; dives down-left; KAI springs up-right; twin blades catch crossed daggers off-axis for two frames; both twist out instantly, KIRA already moving east before landing.
+
+PHRASE 2, actions 6-10: KIRA scissor-cuts backward while retreating; KAI triangular-steps then long-slides east; her LEFT dagger slices only his tank's right seam; he rotates under her returning RIGHT; his RIGHT blade drives that dagger into the tiled column as she qinggong-steps on that same column and rebounds east.
+
+PHRASE 3, actions 11-16: KIRA touches the bench once; runs two steps along its back; springs to the board bracket; severs both bolts in one crossing cut; KAI rolls under the falling board while the bench breaks; he rises into one compact Sonic Strike folding the board around the stripped column as KIRA lands beside the intact chain in exact STEP 06T. No generic sparring, repeated clash, guard reset or panel pause.
+
+VISUAL EFFECTS: KAI uses only blade-edge-attached narrow cyan waveform crescents and segmented cyan body streaks. At the column, a compact cyan contact star forms exactly where his RIGHT blade meets KIRA's dagger; force passes through her dagger tip into grout, tiles cone east, bodies overshoot, cyan fragments decay, camera jolts once and recovers. At Sonic Strike, waveforms compress along KAI's forearms/blades into a black-cyan ink wedge at board contact; one cyan shock ring travels through metal, folds it and throws bolts, tile and dust into a radial debris silhouette; KAI recoils, ring fragments, camera snaps back. KIRA uses only needle-thin dagger-attached violet crescents and two path-bound violet-black afterimages, never clones. Her bolt cut creates a localized violet impact star; stress crosses both bolts, fragments lag, violet decays. Cyan never belongs to KIRA; violet-black never to KAI; no detached beam, aura cloud or constant glow.
+
+Never show storyboard/panels/labels/borders. No cut, blackout, flash transition, smoke cover, dissolve, morph, teleport, slow motion, freeze, replay, extra body/limb/weapon, identity swap, KAI mask, unmasked KIRA, vanished damage, moving train, cut chain, breached door, Car 5, premature P06 or overshoot.
+```
 
 <a id="general-cinematic"></a>
-## 🎬 Cinéma général
+## 🎬 General Cinematic (39)
 
 <a id="general-cinematic-case-1"></a>
 <!-- Case 1: High-Heel Beat Sync Fashion Close-Up (by @TingFengAIAI) -->
@@ -5204,7 +5309,6 @@ The result must feel like authentic, raw footage of ordinary people in Pompeii e
 An astronaut in a full white suit walks alone through an abandoned amusement park at twilight. Rusted rides stand motionless, faded carnival lights flicker sporadically, and fog drifts low across cracked pavement. The helmet visor reflects broken roller coasters, carousel horses, and shredded flags fluttering in the wind. The camera follows from behind in a slow tracking shot, then cuts to low angles and haunting wide frames that emphasize the surreal contrast between the futuristic astronaut and the decaying park. As the astronaut passes the giant Ferris wheel, it suddenly creaks into motion on its own. Old speakers crackle with distant carnival music. The sequence feels eerie, dreamlike, and cinematic, like a science-fiction mystery with emotional loneliness at its core.
 ```
 
-
 <a id="general-cinematic-case-38"></a>
 <!-- Case 38: Pirate Duck Bathtub Voyage (by @CharaspowerAI) -->
 ### Cas 38: [Voyage en baignoire du canard pirate](https://x.com/CharaspowerAI/status/2078072313686184334) (par [@CharaspowerAI](https://x.com/CharaspowerAI))
@@ -5220,6 +5324,23 @@ A clay pirate captain duck with a tiny hat, wooden sword, eye patch and dramatic
 Sails across a bathtub ocean, battling giant soap waves and riding a sponge ship toward a rubber duck treasure island
 Bathroom fantasy world with bubbles, towels as cliffs and warm light reflecting on water
 3D clay, Pixar-style playful adventure, soft clay textures, rounded props, dynamic camera glide over water, bright cheerful atmosphere, ending with the duck discovering a golden bath plug treasure.
+```
+
+<a id="general-cinematic-case-39"></a>
+<!-- Case 39: Dark Earth Orbital Station VHS (by @LudovicCreator) -->
+### Cas 39: [VHS orbital avec Terre obscure](https://x.com/LudovicCreator/status/2079265271080984756) (par [@LudovicCreator](https://x.com/LudovicCreator))
+
+| Résultat |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-39"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2079265271080984756.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Prompt:**
+
+```
+Old VHS-style footage from inside an abandoned orbital station in the 1980s. The image is grainy, warped, with tracking lines, washed-out colors, and timestamp burn-in. The camera floats slowly through empty corridors, cables drifting in zero gravity, warning lights blinking silently.
+At the 2-second mark, the tape glitches and the corridor appears longer than before. A sealed airlock door opens by itself at the far end. The camera drifts closer, passing floating tools, old photographs, and frozen droplets of water.
+Final moment: the camera enters the airlock and reveals Earth outside the window ,but Earth is completely dark.
+Analog sci-fi horror, VHS noise, zero-gravity atmosphere, retro space realism, eerie silence, cinematic degraded footage.
 ```
 
 <a id="related-repositories"></a>

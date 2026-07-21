@@ -4,7 +4,7 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![在浏览器中试用 Seedance 2.0](https://img.shields.io/badge/Try_in-Browser-black)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts&utm_content=model_try)
-[![提示词-194 个独特案例](https://img.shields.io/badge/%E6%8F%90%E7%A4%BA%E8%AF%8D-194%20%E4%B8%AA%E7%8B%AC%E7%89%B9%E6%A1%88%E4%BE%8B-111111)](README.md)
+[![提示词-199 个独特案例](https://img.shields.io/badge/%E6%8F%90%E7%A4%BA%E8%AF%8D-199%20%E4%B8%AA%E7%8B%AC%E7%89%B9%E6%A1%88%E4%BE%8B-111111)](README.md)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -25,7 +25,7 @@
 
 欢迎来到 Awesome Seedance 2.0 Prompts 仓库！🤗
 
-**本仓库收录 194 个有来源和作者标注的 Seedance 2.0 电影级视频生成提示词案例。**
+**本仓库收录 199 个有来源和作者标注的 Seedance 2.0 电影级视频生成提示词案例。**
 
 提示词整理自创作者公开帖子，并保留为可复用的 GitHub 原生资料。
 
@@ -73,7 +73,7 @@ curl --request GET \
 <a id="statistics"></a>
 ## 📊 统计
 
-189 个不重复案例、8 个分类，并同步在 11 份 README 中。
+199 个独特案例分布于 8 个分类，并同步到 11 份 README 文件。
 
 <a id="how-to-use"></a>
 ## 🧭 如何使用此仓库
@@ -83,215 +83,221 @@ curl --request GET \
 <a id="menu"></a>
 ## 📑 目录
 
-- [简介](#introduction)
-- [快速开始](#quick-start)
-- [统计](#statistics)
-- [如何使用此仓库](#how-to-use)
-- [目录](#menu)
-- [⚔️ 动作 / 奇幻](#action-fantasy) (40)
-  - [案例 1: 街头说唱 MV 表演 (作者 @songguoxiansen)](#action-fantasy-case-1)
-  - [案例 2: 黑猫沙漠武侠对决 (作者 @nopinduoduo)](#action-fantasy-case-2)
-  - [案例 3: 真人版呼吸术决斗 (作者 @johnAGI168)](#action-fantasy-case-3)
-  - [案例 4: 20 镜高速动画序列 (作者 @tebasaki3D)](#action-fantasy-case-4)
-  - [案例 5: 观看满手机油的机械师维修 (作者 @sebatheepan)](#action-fantasy-case-5)
-  - [案例 6: 武士复仇短片 (作者 @sailorv321)](#action-fantasy-case-6)
-  - [案例 7: 风格化 3D 战斗动画 (作者 @johnAGI168)](#action-fantasy-case-7)
-  - [案例 8: 快节奏喜剧恶搞短片 (作者 @drjoetw)](#action-fantasy-case-8)
-  - [案例 9: 巨型忍者特摄大战 (作者 @EarthGigantea)](#action-fantasy-case-9)
-  - [案例 10: 日式动画对话序列 (作者 @_3912657840)](#action-fantasy-case-10)
-  - [案例 11: 15 秒原创元素大战短片 (作者 @ZikinArt)](#action-fantasy-case-11)
-  - [案例 12: 法贝热幻想彩蛋动画 (作者 @ShamiWeb3)](#action-fantasy-case-12)
-  - [案例 13: 原创元素大战短片 (作者 @David_eficaz)](#action-fantasy-case-13)
-  - [案例 14: 电影级科幻奇幻对决 (作者 @CharaspowerAI)](#action-fantasy-case-14)
-  - [案例 15: 15 秒连续单镜头动作序列 (作者 @Artedeingenio)](#action-fantasy-case-15)
-  - [案例 16: 孤独武士悬崖对峙 (作者 @Alin_Reaper05)](#action-fantasy-case-16)
-  - [案例 17: 空中游侠俯冲巨龙 (作者 @sebatheepan)](#action-fantasy-case-17)
-  - [案例 18: 零重力机甲争夺序列 (作者 @Dheepanratnam)](#action-fantasy-case-18)
-  - [案例 19: 少女骑龙的超高速飞行动作场面 (作者 @naoyuki_okada)](#action-fantasy-case-19)
-  - [案例 20: 15 秒原创沙漠武侠短片 (作者 @NimEshed)](#action-fantasy-case-20)
-  - [案例 21: 峡谷空袭序列 (作者 @Mr_TuanDoan)](#action-fantasy-case-21)
-  - [案例 22: 15 秒超写实史诗战争大片 (作者 @john87445528)](#action-fantasy-case-22)
-  - [案例 23: 失控的办公室咖啡休息时间 (作者 @Dheepanratnam)](#action-fantasy-case-23)
-  - [案例 24: 15 秒连续单镜头动作序列 (作者 @Artedeingenio)](#action-fantasy-case-24)
-  - [案例 25: 黑天鹅对决拳击手 (作者 @KanaWorks_AI)](#action-fantasy-case-25)
-  - [案例 26: 地面开裂超人起飞 (作者 @techprophett)](#action-fantasy-case-26)
-  - [案例 27: 云窟剑影 (作者 @Adam38363368936)](#action-fantasy-case-27)
-  - [案例 28: 诸神之城——东方奇幻一镜飞行 (作者 @john87445528)](#action-fantasy-case-28)
-  - [案例 29: 史诗奇幻大战——电影级 10 秒序列 (作者 @a_shimanski)](#action-fantasy-case-29)
-  - [案例 30: 暗黑奇幻变身——东方风格 (作者 @johnAGI168)](#action-fantasy-case-30)
-  - [案例 31: 鳄鱼燃油管线河道陷阱 (作者 @rahulnanda86)](#action-fantasy-case-31)
-  - [案例 32: 地下电光竞技场对决 (作者 @CharaspowerAI)](#action-fantasy-case-32)
-  - [案例 33: 鳄鱼跑道拖拽飞机 (作者 @rahulnanda86)](#action-fantasy-case-33)
-  - [案例 34: 闪电前锋动漫进球 (作者 @CharaspowerAI)](#action-fantasy-case-34)
-  - [案例 35: 野花狮鹫山谷飞行 (作者 @Mayz1169)](#action-fantasy-case-35)
-  - [案例 36: 蒙古骑兵回身射箭 (作者 @Ankit_patel211)](#action-fantasy-case-36)
-  - [案例 37: 巨蛙信使疾奔 (作者 @0xbisc)](#action-fantasy-case-37)
-  - [案例 38: 雷霆女战士丧尸围城 (作者 @MO_IAI)](#action-fantasy-case-38)
-  - [案例 39: 白虎古庙雷暴 (作者 @LudovicCreator)](#action-fantasy-case-39)
-  - [案例 40: 补给驳船大战巨齿鲨 (作者 @rahulnanda86)](#action-fantasy-case-40)
+- [Introduction](#introduction)
+- [Quick Start](#quick-start)
+- [Statistics](#statistics)
+- [How to Use This Repository](#how-to-use)
+- [Menu](#menu)
+- [⚔️ Action / Fantasy](#action-fantasy) (43)
+  - [案例 1: 街头说唱 MV 表演 (by @songguoxiansen)](#action-fantasy-case-1)
+  - [案例 2: 黑猫沙漠武侠对决 (by @nopinduoduo)](#action-fantasy-case-2)
+  - [案例 3: 真人版呼吸术决斗 (by @johnAGI168)](#action-fantasy-case-3)
+  - [案例 4: 20 镜高速动画序列 (by @tebasaki3D)](#action-fantasy-case-4)
+  - [案例 5: 观看满手机油的机械师维修 (by @sebatheepan)](#action-fantasy-case-5)
+  - [案例 6: 武士复仇短片 (by @sailorv321)](#action-fantasy-case-6)
+  - [案例 7: 风格化 3D 战斗动画 (by @johnAGI168)](#action-fantasy-case-7)
+  - [案例 8: 快节奏喜剧恶搞短片 (by @drjoetw)](#action-fantasy-case-8)
+  - [案例 9: 巨型忍者特摄大战 (by @EarthGigantea)](#action-fantasy-case-9)
+  - [案例 10: 日式动画对话序列 (by @_3912657840)](#action-fantasy-case-10)
+  - [案例 11: 15 秒原创元素大战短片 (by @ZikinArt)](#action-fantasy-case-11)
+  - [案例 12: 法贝热幻想彩蛋动画 (by @ShamiWeb3)](#action-fantasy-case-12)
+  - [案例 13: 原创元素大战短片 (by @David_eficaz)](#action-fantasy-case-13)
+  - [案例 14: 电影级科幻奇幻对决 (by @CharaspowerAI)](#action-fantasy-case-14)
+  - [案例 15: 15 秒连续单镜头动作序列 (by @Artedeingenio)](#action-fantasy-case-15)
+  - [案例 16: 孤独武士悬崖对峙 (by @Alin_Reaper05)](#action-fantasy-case-16)
+  - [案例 17: 空中游侠俯冲巨龙 (by @sebatheepan)](#action-fantasy-case-17)
+  - [案例 18: 零重力机甲争夺序列 (by @Dheepanratnam)](#action-fantasy-case-18)
+  - [案例 19: 少女骑龙的超高速飞行动作场面 (by @naoyuki_okada)](#action-fantasy-case-19)
+  - [案例 20: 15 秒原创沙漠武侠短片 (by @NimEshed)](#action-fantasy-case-20)
+  - [案例 21: 峡谷空袭序列 (by @Mr_TuanDoan)](#action-fantasy-case-21)
+  - [案例 22: 15 秒超写实史诗战争大片 (by @john87445528)](#action-fantasy-case-22)
+  - [案例 23: 失控的办公室咖啡休息时间 (by @Dheepanratnam)](#action-fantasy-case-23)
+  - [案例 24: 15 秒连续单镜头动作序列 (by @Artedeingenio)](#action-fantasy-case-24)
+  - [案例 25: 黑天鹅对决拳击手 (by @KanaWorks_AI)](#action-fantasy-case-25)
+  - [案例 26: 地面开裂超人起飞 (by @techprophett)](#action-fantasy-case-26)
+  - [案例 27: 云窟剑影 (by @Adam38363368936)](#action-fantasy-case-27)
+  - [案例 28: 诸神之城——东方奇幻一镜飞行 (by @john87445528)](#action-fantasy-case-28)
+  - [案例 29: 史诗奇幻大战——电影级 10 秒序列 (by @a_shimanski)](#action-fantasy-case-29)
+  - [案例 30: 暗黑奇幻变身——东方风格 (by @johnAGI168)](#action-fantasy-case-30)
+  - [案例 31: 鳄鱼燃油管线河道陷阱 (by @rahulnanda86)](#action-fantasy-case-31)
+  - [案例 32: 地下电光竞技场对决 (by @CharaspowerAI)](#action-fantasy-case-32)
+  - [案例 33: 鳄鱼跑道拖拽飞机 (by @rahulnanda86)](#action-fantasy-case-33)
+  - [案例 34: 闪电前锋动漫进球 (by @CharaspowerAI)](#action-fantasy-case-34)
+  - [案例 35: 野花狮鹫山谷飞行 (by @Mayz1169)](#action-fantasy-case-35)
+  - [案例 36: 蒙古骑兵回身射箭 (by @Ankit_patel211)](#action-fantasy-case-36)
+  - [案例 37: 巨蛙信使疾奔 (by @0xbisc)](#action-fantasy-case-37)
+  - [案例 38: 雷霆女战士丧尸围城 (by @MO_IAI)](#action-fantasy-case-38)
+  - [案例 39: 白虎古庙雷暴 (by @LudovicCreator)](#action-fantasy-case-39)
+  - [案例 40: 补给驳船大战巨齿鲨 (by @rahulnanda86)](#action-fantasy-case-40)
   - [案例 41: 竞技场巨人女爆冷翻盘 (by @rahulnanda86)](#action-fantasy-case-41)
   - [案例 42: 仓库保镖击倒群敌 (by @Rosey_watson)](#action-fantasy-case-42)
-- [🎞️ 电影写实](#cinematic-realism) (8)
-  - [案例 1: 现代日本纪录片序列 (作者 @kuranoayashi)](#cinematic-realism-case-1)
-  - [案例 2: 追逐影子的长板下坡 (作者 @Dheepanratnam)](#cinematic-realism-case-2)
-  - [案例 3: 流星觉醒的战争女英雄 (作者 @ChrisTheNerv)](#cinematic-realism-case-3)
-  - [案例 4: 迷雾胶囊岛剧情 (作者 @umesh_ai)](#cinematic-realism-case-4)
-  - [案例 5: 风暴悬崖武士现身 (作者 @umesh_ai)](#cinematic-realism-case-5)
-  - [案例 6: VHS 泳池炮弹跳裁判 (作者 @Ankit_patel211)](#cinematic-realism-case-6)
-  - [案例 7: 复古黑车暴雨疾驰 (作者 @LudovicCreator)](#cinematic-realism-case-7)
-  - [案例 8: 风暴海岸灯塔长镜头 (作者 @LudovicCreator)](#cinematic-realism-case-8)
+  - [案例 43: 极地基地巨虫袭击 (by @StevieMac03)](#action-fantasy-case-43)
+- [🎞️ Cinematic Realism](#cinematic-realism) (10)
+  - [案例 1: 现代日本纪录片序列 (by @kuranoayashi)](#cinematic-realism-case-1)
+  - [案例 2: 追逐影子的长板下坡 (by @Dheepanratnam)](#cinematic-realism-case-2)
+  - [案例 3: 流星觉醒的战争女英雄 (by @ChrisTheNerv)](#cinematic-realism-case-3)
+  - [案例 4: 迷雾胶囊岛剧情 (by @umesh_ai)](#cinematic-realism-case-4)
+  - [案例 5: 风暴悬崖武士现身 (by @umesh_ai)](#cinematic-realism-case-5)
+  - [案例 6: VHS 泳池炮弹跳裁判 (by @Ankit_patel211)](#cinematic-realism-case-6)
+  - [案例 7: 复古黑车暴雨疾驰 (by @LudovicCreator)](#cinematic-realism-case-7)
+  - [案例 8: 风暴海岸灯塔长镜头 (by @LudovicCreator)](#cinematic-realism-case-8)
   - [案例 9: 沙暴越野车逃生 (by @umesh_ai)](#cinematic-realism-case-9)
+  - [案例 10: 阿根廷西班牙转播乱斗 (by @Ankit_patel211)](#cinematic-realism-case-10)
 - [🥽 POV / FPV](#pov-fpv) (21)
-  - [案例 1: 胸前相机迷彩追逐序列 (作者 @genel_ai)](#pov-fpv-case-1)
-  - [案例 2: 上海赛博朋克城市炫剪 (作者 @Adam38363368936)](#pov-fpv-case-2)
-  - [案例 3: 受诅咒武士一致性动作提示词 (作者 @Just_sharon7)](#pov-fpv-case-3)
-  - [案例 4: 千禧复古泳池派对摄像机蒙太奇 (作者 @johnAGI168)](#pov-fpv-case-4)
-  - [案例 5: 特斯拉卡片视角城市爆发 (作者 @xingsthatmatter)](#pov-fpv-case-5)
-  - [案例 6: 动画 MV 极致特写序列 (作者 @drjoetw)](#pov-fpv-case-6)
-  - [案例 7: 快速无缝 16 镜序列 (作者 @aisavvy1)](#pov-fpv-case-7)
-  - [案例 8: 中世纪奇幻城市俯冲 (作者 @LudovicCreator)](#pov-fpv-case-8)
-  - [案例 9: 冰块落入汽水杯的第一人称视角 (作者 @LudovicCreator)](#pov-fpv-case-9)
-  - [案例 10: 粗粝原始的手持 35 毫米胶片质感与自然颗粒 (作者 @AngelNwoha)](#pov-fpv-case-10)
-  - [案例 11: 10 秒照片级真实电影 POV 视频 (作者 @umitsuru_fire)](#pov-fpv-case-11)
-  - [案例 12: 末日后的超未来巨城在风暴中苏醒 (作者 @johnAGI168)](#pov-fpv-case-12)
-  - [案例 13: 风格：超写实工业延时摄影 (作者 @craftian_keskin)](#pov-fpv-case-13)
-  - [案例 14: 怪物袭击中的女学生变身 (作者 @Yuupapa_free)](#pov-fpv-case-14)
-  - [案例 15: 东京第一人称过山车 (作者 @TechTalkNAVI)](#pov-fpv-case-15)
-  - [案例 16: 电影级北京文化广告——8K 第一人称 (作者 @crayon1267)](#pov-fpv-case-16)
-  - [案例 17: 极致微距 FPV——仙女翅膀跟拍 (作者 @EHuanglu)](#pov-fpv-case-17)
-  - [案例 18: 火山洞穴重力俯冲 (作者 @LudovicCreator)](#pov-fpv-case-18)
-  - [案例 19: 超音速沙漠峡谷 POV (作者 @LudovicCreator)](#pov-fpv-case-19)
-  - [案例 20: 法国烟花 FPV 飞越 (作者 @LudovicCreator)](#pov-fpv-case-20)
+  - [案例 1: 胸前相机迷彩追逐序列 (by @genel_ai)](#pov-fpv-case-1)
+  - [案例 2: 上海赛博朋克城市炫剪 (by @Adam38363368936)](#pov-fpv-case-2)
+  - [案例 3: 受诅咒武士一致性动作提示词 (by @Just_sharon7)](#pov-fpv-case-3)
+  - [案例 4: 千禧复古泳池派对摄像机蒙太奇 (by @johnAGI168)](#pov-fpv-case-4)
+  - [案例 5: 特斯拉卡片视角城市爆发 (by @xingsthatmatter)](#pov-fpv-case-5)
+  - [案例 6: 动画 MV 极致特写序列 (by @drjoetw)](#pov-fpv-case-6)
+  - [案例 7: 快速无缝 16 镜序列 (by @aisavvy1)](#pov-fpv-case-7)
+  - [案例 8: 中世纪奇幻城市俯冲 (by @LudovicCreator)](#pov-fpv-case-8)
+  - [案例 9: 冰块落入汽水杯的第一人称视角 (by @LudovicCreator)](#pov-fpv-case-9)
+  - [案例 10: 粗粝原始的手持 35 毫米胶片质感与自然颗粒 (by @AngelNwoha)](#pov-fpv-case-10)
+  - [案例 11: 10 秒照片级真实电影 POV 视频 (by @umitsuru_fire)](#pov-fpv-case-11)
+  - [案例 12: 末日后的超未来巨城在风暴中苏醒 (by @johnAGI168)](#pov-fpv-case-12)
+  - [案例 13: 风格：超写实工业延时摄影 (by @craftian_keskin)](#pov-fpv-case-13)
+  - [案例 14: 怪物袭击中的女学生变身 (by @Yuupapa_free)](#pov-fpv-case-14)
+  - [案例 15: 东京第一人称过山车 (by @TechTalkNAVI)](#pov-fpv-case-15)
+  - [案例 16: 电影级北京文化广告——8K 第一人称 (by @crayon1267)](#pov-fpv-case-16)
+  - [案例 17: 极致微距 FPV——仙女翅膀跟拍 (by @EHuanglu)](#pov-fpv-case-17)
+  - [案例 18: 火山洞穴重力俯冲 (by @LudovicCreator)](#pov-fpv-case-18)
+  - [案例 19: 超音速沙漠峡谷 POV (by @LudovicCreator)](#pov-fpv-case-19)
+  - [案例 20: 法国烟花 FPV 飞越 (by @LudovicCreator)](#pov-fpv-case-20)
   - [案例 21: 赛博战场 FPV 俯冲 (by @LudovicCreator)](#pov-fpv-case-21)
-- [🏷️ 商业 / 产品](#commercial-product) (27)
-  - [案例 1: 香水广告风动画三人舞台 (作者 @ShadeLurk)](#commercial-product-case-1)
-  - [案例 2: 暗黑奇幻教堂决斗 (作者 @ZaraIrahh)](#commercial-product-case-2)
-  - [案例 3: 暗黑奇幻神社大殿决斗 (作者 @MiraMusic_AI)](#commercial-product-case-3)
-  - [案例 4: 日式零食广告反转笑点 (作者 @aigeboku)](#commercial-product-case-4)
-  - [案例 5: Seedance 2 电影级武术序列 (作者 @CharaspowerAI)](#commercial-product-case-5)
-  - [案例 6: 日本教室耳语恋情 (作者 @JiahaoYang_art)](#commercial-product-case-6)
-  - [案例 7: LaFerrari 商业广告分镜 (作者 @Adam38363368936)](#commercial-product-case-7)
-  - [案例 8: 热血动画终极决斗 (作者 @gkxspace)](#commercial-product-case-8)
-  - [案例 9: 瓷艺高级时装天空镜面秀场 (作者 @johnAGI168)](#commercial-product-case-9)
-  - [案例 10: 现代乡村创作者丰收广告 (作者 @johnAGI168)](#commercial-product-case-10)
-  - [案例 11: 霓虹街头赛车序列 (作者 @CharaspowerAI)](#commercial-product-case-11)
-  - [案例 12: 超模与豪华跑车 (作者 @johnAGI168)](#commercial-product-case-12)
-  - [案例 13: 仿生少女实验室破坏追逐 (作者 @aiehon_aya)](#commercial-product-case-13)
-  - [案例 14: 霓虹废墟城市游戏预告片 (作者 @adrianaia_)](#commercial-product-case-14)
-  - [案例 15: 原创暗黑奇幻动作短片 (作者 @Rufus87078959)](#commercial-product-case-15)
-  - [案例 16: 00:00–00:04 镜头 1：跟拍 (作者 @IamEmily2050)](#commercial-product-case-16)
-  - [案例 17: 列车顶部战术格斗序列 (作者 @ImperfectEngel)](#commercial-product-case-17)
-  - [案例 18: 曼哈顿交易大厅狂潮 (作者 @johnAGI168)](#commercial-product-case-18)
-  - [案例 19: 警匪片风格星期三 (作者 @ChrisGwinnLA)](#commercial-product-case-19)
-  - [案例 20: 折叠屏手机时尚广告 (作者 @Adam38363368936)](#commercial-product-case-20)
-  - [案例 21: 旅行箱伙伴蒙太奇 (作者 @ChaseAIx)](#commercial-product-case-21)
-  - [案例 22: 俯拍时尚型录——换装序列 (作者 @johnAGI168)](#commercial-product-case-22)
-  - [案例 23: 高端生活方式广告——自拍视频博客风格 (作者 @johnAGI168)](#commercial-product-case-23)
-  - [案例 24: 节拍同步防水运动鞋广告 (作者 @madpencil_)](#commercial-product-case-24)
-  - [案例 25: 山竹精华液产品亮相 (作者 @ritesh_ai)](#commercial-product-case-25)
-  - [案例 26: 孟买行李箱出租车亮相 (作者 @rahulnanda86)](#commercial-product-case-26)
-  - [案例 27: 悬崖别墅网红导览 (作者 @Ankit_patel211)](#commercial-product-case-27)
-- [🖼️ 参考素材驱动](#reference-driven) (22)
-  - [案例 1: 骷髅钢琴家微缩景观表演 (作者 @tea_story_hoshi)](#reference-driven-case-1)
-  - [案例 2: 风暴船上的公主对决海怪 (作者 @applete77191758)](#reference-driven-case-2)
-  - [案例 3: 女仆剑舞：芽衣对决可可 (作者 @MiraMusic_AI)](#reference-driven-case-3)
-  - [案例 4: 末日屋顶钢琴告别 (作者 @liyue_ai)](#reference-driven-case-4)
-  - [案例 5: 电影级 8 毫米鱼眼镜头、FPV 竞速无人机相机与超流畅运动 (作者 @itsPixieVerse)](#reference-driven-case-5)
-  - [案例 6: 参考图驱动的功夫特技序列 (作者 @YaReYaRu30Life)](#reference-driven-case-6)
-  - [案例 7: 光线追踪、虚幻引擎渲染与暴雨小镇 (作者 @Gwsubsa)](#reference-driven-case-7)
-  - [案例 8: 月球便利店夜班 (作者 @zasuko_michiksa)](#reference-driven-case-8)
-  - [案例 9: 屋顶觉醒并变形成 F-14 (作者 @john87445528)](#reference-driven-case-9)
-  - [案例 10: 装甲组装街头反击 (作者 @egeberkina)](#reference-driven-case-10)
-  - [案例 11: 角色参考图 1，转为真人实拍风格 (作者 @Adam38363368936)](#reference-driven-case-11)
-  - [案例 12: 北极熊匹配剪辑剑斗模板 (作者 @aimikoda)](#reference-driven-case-12)
-  - [案例 13: 七图无缝变形序列 (作者 @YaReYaRu30Life)](#reference-driven-case-13)
-  - [案例 14: Stridex 运动鞋广告 (作者 @ShamsAmin56)](#reference-driven-case-14)
-  - [案例 15: 带歌唱猫咪的图像驱动提示词 (作者 @pan_soramame_da)](#reference-driven-case-15)
-  - [案例 16: 角色参考动画提示词 (作者 @Reiria123)](#reference-driven-case-16)
-  - [案例 17: 卡通动物实拍化 (作者 @MustafyOf)](#reference-driven-case-17)
-  - [案例 18: 锁定分镜参考层级 (作者 @startracker)](#reference-driven-case-18)
-  - [案例 19: VOLTIA 吸能蒙太奇 (作者 @itsPixieVerse)](#reference-driven-case-19)
-  - [案例 20: 克利奥帕特拉宫廷告白 (作者 @kinovi_ai)](#reference-driven-case-20)
-  - [案例 21: 灯下雨中重逢 (作者 @umesh_ai)](#reference-driven-case-21)
-  - [案例 22: 昆剧后台粉墨一镜到底 (作者 @ou_zhen599)](#reference-driven-case-22)
-- [🌀 超现实 / VFX](#surreal-vfx) (15)
-  - [案例 1: 零重力武士刀战斗 (作者 @MiraMusic_AI)](#surreal-vfx-case-1)
-  - [案例 2: 云中鲸鱼超现实史诗 (作者 @chaosdotjpg)](#surreal-vfx-case-2)
-  - [案例 3: 深渊潜水员变形为海洋生物 (作者 @AIARTGALLARY)](#surreal-vfx-case-3)
-  - [案例 4: 跨维度巨城裂隙坍塌 (作者 @LudovicCreator)](#surreal-vfx-case-4)
-  - [案例 5: 雨夜地下巷道融合 (作者 @Dheepanratnam)](#surreal-vfx-case-5)
-  - [案例 6: 量子现实断裂街头裂隙 (作者 @Dheepanratnam)](#surreal-vfx-case-6)
-  - [案例 7: 眼睛突然睁开 (作者 @roco_kn_roco)](#surreal-vfx-case-7)
-  - [案例 8: 他们在漂浮熔岩河上空相撞 (作者 @LudovicCreator)](#surreal-vfx-case-8)
-  - [案例 9: 创意总监维度漫步 (作者 @lukasersil)](#surreal-vfx-case-9)
-  - [案例 10: 深渊实体祭坛铭文——暗黑奇幻 (作者 @Adam38363368936)](#surreal-vfx-case-10)
-  - [案例 11: 悬浮 UI 色轮场景变换 (作者 @johnAGI168)](#surreal-vfx-case-11)
-  - [案例 12: 火焰女皇变身序列 (作者 @LudovicCreator)](#surreal-vfx-case-12)
-  - [案例 13: 沙漠沙巨人变身 (作者 @LudovicCreator)](#surreal-vfx-case-13)
-  - [案例 14: 逃逸车变身垃圾车 (作者 @LavrionX)](#surreal-vfx-case-14)
-  - [案例 15: 森林守护者书法变身 (作者 @LudovicCreator)](#surreal-vfx-case-15)
-- [📐 模板与结构化格式](#templates-structured) (19)
-  - [案例 1: 超级航母灾难性沉没 (作者 @johnAGI168)](#templates-structured-case-1)
-  - [案例 2: 记忆碎片重构 (作者 @TechTalkNAVI)](#templates-structured-case-2)
-  - [案例 3: 从蓝图到现实——单层住宅变形 (作者 @craftian_keskin)](#templates-structured-case-3)
-  - [案例 4: 武术高级时装裁缝 (作者 @Adam38363368936)](#templates-structured-case-4)
-  - [案例 5: 节拍同步换装模板 (作者 @aimikoda)](#templates-structured-case-5)
-  - [案例 6: 舞动摩天楼街区模板 (作者 @TechTalkNAVI)](#templates-structured-case-6)
-  - [案例 7: 星光之影／星尘剪影 (作者 @TechTalkNAVI)](#templates-structured-case-7)
-  - [案例 8: 绘画风跑酷 POV 模板 (作者 @0xbisc)](#templates-structured-case-8)
-  - [案例 9: 360° 第一人称下坡跑楼梯模板 (作者 @aimikoda)](#templates-structured-case-9)
-  - [案例 10: 食物与角色运动模板 (作者 @Just_sharon7)](#templates-structured-case-10)
-  - [案例 11: 不可能机位厨房冲刺模板 (作者 @Dheepanratnam)](#templates-structured-case-11)
-  - [案例 12: 时间冻结 POV 爆发模板 (作者 @CharaspowerAI)](#templates-structured-case-12)
-  - [案例 13: 宇航员首次太空行走模板 (作者 @BrennanErbz)](#templates-structured-case-13)
-  - [案例 14: 金毛犬日常模板 (作者 @0xbisc)](#templates-structured-case-14)
-  - [案例 15: 风格化 3D 理发店变身序列 (作者 @ShamiWeb3)](#templates-structured-case-15)
-  - [案例 16: 印象派划船手部模板 (作者 @0xbisc)](#templates-structured-case-16)
-  - [案例 17: 女战士——结构化主体提示词 (作者 @noman23761)](#templates-structured-case-17)
-  - [案例 18: 盒中展开的阁楼室内亮相 (作者 @samaote)](#templates-structured-case-18)
-  - [案例 19: 面部表情细节测试 (作者 @ou_zhen599)](#templates-structured-case-19)
+- [🏷️ Commercial / Product](#commercial-product) (27)
+  - [案例 1: 香水广告风动画三人舞台 (by @ShadeLurk)](#commercial-product-case-1)
+  - [案例 2: 暗黑奇幻教堂决斗 (by @ZaraIrahh)](#commercial-product-case-2)
+  - [案例 3: 暗黑奇幻神社大殿决斗 (by @MiraMusic_AI)](#commercial-product-case-3)
+  - [案例 4: 日式零食广告反转笑点 (by @aigeboku)](#commercial-product-case-4)
+  - [案例 5: Seedance 2 电影级武术序列 (by @CharaspowerAI)](#commercial-product-case-5)
+  - [案例 6: 日本教室耳语恋情 (by @JiahaoYang_art)](#commercial-product-case-6)
+  - [案例 7: LaFerrari 商业广告分镜 (by @Adam38363368936)](#commercial-product-case-7)
+  - [案例 8: 热血动画终极决斗 (by @gkxspace)](#commercial-product-case-8)
+  - [案例 9: 瓷艺高级时装天空镜面秀场 (by @johnAGI168)](#commercial-product-case-9)
+  - [案例 10: 现代乡村创作者丰收广告 (by @johnAGI168)](#commercial-product-case-10)
+  - [案例 11: 霓虹街头赛车序列 (by @CharaspowerAI)](#commercial-product-case-11)
+  - [案例 12: 超模与豪华跑车 (by @johnAGI168)](#commercial-product-case-12)
+  - [案例 13: 仿生少女实验室破坏追逐 (by @aiehon_aya)](#commercial-product-case-13)
+  - [案例 14: 霓虹废墟城市游戏预告片 (by @adrianaia_)](#commercial-product-case-14)
+  - [案例 15: 原创暗黑奇幻动作短片 (by @Rufus87078959)](#commercial-product-case-15)
+  - [案例 16: 00:00–00:04 镜头 1：跟拍 (by @IamEmily2050)](#commercial-product-case-16)
+  - [案例 17: 列车顶部战术格斗序列 (by @ImperfectEngel)](#commercial-product-case-17)
+  - [案例 18: 曼哈顿交易大厅狂潮 (by @johnAGI168)](#commercial-product-case-18)
+  - [案例 19: 警匪片风格星期三 (by @ChrisGwinnLA)](#commercial-product-case-19)
+  - [案例 20: 折叠屏手机时尚广告 (by @Adam38363368936)](#commercial-product-case-20)
+  - [案例 21: 旅行箱伙伴蒙太奇 (by @ChaseAIx)](#commercial-product-case-21)
+  - [案例 22: 俯拍时尚型录——换装序列 (by @johnAGI168)](#commercial-product-case-22)
+  - [案例 23: 高端生活方式广告——自拍视频博客风格 (by @johnAGI168)](#commercial-product-case-23)
+  - [案例 24: 节拍同步防水运动鞋广告 (by @madpencil_)](#commercial-product-case-24)
+  - [案例 25: 山竹精华液产品亮相 (by @ritesh_ai)](#commercial-product-case-25)
+  - [案例 26: 孟买行李箱出租车亮相 (by @rahulnanda86)](#commercial-product-case-26)
+  - [案例 27: 悬崖别墅网红导览 (by @Ankit_patel211)](#commercial-product-case-27)
+- [🖼️ Reference-Driven](#reference-driven) (22)
+  - [案例 1: 骷髅钢琴家微缩景观表演 (by @tea_story_hoshi)](#reference-driven-case-1)
+  - [案例 2: 风暴船上的公主对决海怪 (by @applete77191758)](#reference-driven-case-2)
+  - [案例 3: 女仆剑舞：芽衣对决可可 (by @MiraMusic_AI)](#reference-driven-case-3)
+  - [案例 4: 末日屋顶钢琴告别 (by @liyue_ai)](#reference-driven-case-4)
+  - [案例 5: 电影级 8 毫米鱼眼镜头、FPV 竞速无人机相机与超流畅运动 (by @itsPixieVerse)](#reference-driven-case-5)
+  - [案例 6: 参考图驱动的功夫特技序列 (by @YaReYaRu30Life)](#reference-driven-case-6)
+  - [案例 7: 光线追踪、虚幻引擎渲染与暴雨小镇 (by @Gwsubsa)](#reference-driven-case-7)
+  - [案例 8: 月球便利店夜班 (by @zasuko_michiksa)](#reference-driven-case-8)
+  - [案例 9: 屋顶觉醒并变形成 F-14 (by @john87445528)](#reference-driven-case-9)
+  - [案例 10: 装甲组装街头反击 (by @egeberkina)](#reference-driven-case-10)
+  - [案例 11: 角色参考图 1，转为真人实拍风格 (by @Adam38363368936)](#reference-driven-case-11)
+  - [案例 12: 北极熊匹配剪辑剑斗模板 (by @aimikoda)](#reference-driven-case-12)
+  - [案例 13: 七图无缝变形序列 (by @YaReYaRu30Life)](#reference-driven-case-13)
+  - [案例 14: Stridex 运动鞋广告 (by @ShamsAmin56)](#reference-driven-case-14)
+  - [案例 15: 带歌唱猫咪的图像驱动提示词 (by @pan_soramame_da)](#reference-driven-case-15)
+  - [案例 16: 角色参考动画提示词 (by @Reiria123)](#reference-driven-case-16)
+  - [案例 17: 卡通动物实拍化 (by @MustafyOf)](#reference-driven-case-17)
+  - [案例 18: 锁定分镜参考层级 (by @startracker)](#reference-driven-case-18)
+  - [案例 19: VOLTIA 吸能蒙太奇 (by @itsPixieVerse)](#reference-driven-case-19)
+  - [案例 20: 克利奥帕特拉宫廷告白 (by @kinovi_ai)](#reference-driven-case-20)
+  - [案例 21: 灯下雨中重逢 (by @umesh_ai)](#reference-driven-case-21)
+  - [案例 22: 昆剧后台粉墨一镜到底 (by @ou_zhen599)](#reference-driven-case-22)
+- [🌀 Surreal / VFX](#surreal-vfx) (16)
+  - [案例 1: 零重力武士刀战斗 (by @MiraMusic_AI)](#surreal-vfx-case-1)
+  - [案例 2: 云中鲸鱼超现实史诗 (by @chaosdotjpg)](#surreal-vfx-case-2)
+  - [案例 3: 深渊潜水员变形为海洋生物 (by @AIARTGALLARY)](#surreal-vfx-case-3)
+  - [案例 4: 跨维度巨城裂隙坍塌 (by @LudovicCreator)](#surreal-vfx-case-4)
+  - [案例 5: 雨夜地下巷道融合 (by @Dheepanratnam)](#surreal-vfx-case-5)
+  - [案例 6: 量子现实断裂街头裂隙 (by @Dheepanratnam)](#surreal-vfx-case-6)
+  - [案例 7: 眼睛突然睁开 (by @roco_kn_roco)](#surreal-vfx-case-7)
+  - [案例 8: 他们在漂浮熔岩河上空相撞 (by @LudovicCreator)](#surreal-vfx-case-8)
+  - [案例 9: 创意总监维度漫步 (by @lukasersil)](#surreal-vfx-case-9)
+  - [案例 10: 深渊实体祭坛铭文——暗黑奇幻 (by @Adam38363368936)](#surreal-vfx-case-10)
+  - [案例 11: 悬浮 UI 色轮场景变换 (by @johnAGI168)](#surreal-vfx-case-11)
+  - [案例 12: 火焰女皇变身序列 (by @LudovicCreator)](#surreal-vfx-case-12)
+  - [案例 13: 沙漠沙巨人变身 (by @LudovicCreator)](#surreal-vfx-case-13)
+  - [案例 14: 逃逸车变身垃圾车 (by @LavrionX)](#surreal-vfx-case-14)
+  - [案例 15: 森林守护者书法变身 (by @LudovicCreator)](#surreal-vfx-case-15)
+  - [案例 16: 鬼魅茶会显形 (by @LudovicCreator)](#surreal-vfx-case-16)
+- [📐 Templates & Structured Formats](#templates-structured) (21)
+  - [案例 1: 超级航母灾难性沉没 (by @johnAGI168)](#templates-structured-case-1)
+  - [案例 2: 记忆碎片重构 (by @TechTalkNAVI)](#templates-structured-case-2)
+  - [案例 3: 从蓝图到现实——单层住宅变形 (by @craftian_keskin)](#templates-structured-case-3)
+  - [案例 4: 武术高级时装裁缝 (by @Adam38363368936)](#templates-structured-case-4)
+  - [案例 5: 节拍同步换装模板 (by @aimikoda)](#templates-structured-case-5)
+  - [案例 6: 舞动摩天楼街区模板 (by @TechTalkNAVI)](#templates-structured-case-6)
+  - [案例 7: 星光之影／星尘剪影 (by @TechTalkNAVI)](#templates-structured-case-7)
+  - [案例 8: 绘画风跑酷 POV 模板 (by @0xbisc)](#templates-structured-case-8)
+  - [案例 9: 360° 第一人称下坡跑楼梯模板 (by @aimikoda)](#templates-structured-case-9)
+  - [案例 10: 食物与角色运动模板 (by @Just_sharon7)](#templates-structured-case-10)
+  - [案例 11: 不可能机位厨房冲刺模板 (by @Dheepanratnam)](#templates-structured-case-11)
+  - [案例 12: 时间冻结 POV 爆发模板 (by @CharaspowerAI)](#templates-structured-case-12)
+  - [案例 13: 宇航员首次太空行走模板 (by @BrennanErbz)](#templates-structured-case-13)
+  - [案例 14: 金毛犬日常模板 (by @0xbisc)](#templates-structured-case-14)
+  - [案例 15: 风格化 3D 理发店变身序列 (by @ShamiWeb3)](#templates-structured-case-15)
+  - [案例 16: 印象派划船手部模板 (by @0xbisc)](#templates-structured-case-16)
+  - [案例 17: 女战士——结构化主体提示词 (by @noman23761)](#templates-structured-case-17)
+  - [案例 18: 盒中展开的阁楼室内亮相 (by @samaote)](#templates-structured-case-18)
+  - [案例 19: 面部表情细节测试 (by @ou_zhen599)](#templates-structured-case-19)
   - [案例 20: 水淹舞厅逃生分镜 (by @ChangningL29508)](#templates-structured-case-20)
-- [🎬 一般电影风格](#general-cinematic) (38)
-  - [案例 1: 高跟鞋节拍同步时尚特写 (作者 @TingFengAIAI)](#general-cinematic-case-1)
-  - [案例 2: 儿童卧室里的迷你滑板逃脱 (作者 @anson7956)](#general-cinematic-case-2)
-  - [案例 3: 洛克公园奶奶对决 (作者 @techhalla)](#general-cinematic-case-3)
-  - [案例 4: 消防员营救婴儿序列 (作者 @AITalesNBH)](#general-cinematic-case-4)
-  - [案例 5: 古装变身展示 (作者 @johnAGI168)](#general-cinematic-case-5)
-  - [案例 6: 夜晚银座，未来赛博朋克 (作者 @ChiakiAkagi)](#general-cinematic-case-6)
-  - [案例 7: 跳虫的故事 (作者 @starks_arq)](#general-cinematic-case-7)
-  - [案例 8: 可疑男子站在涩谷十字路口中央 (作者 @roco_kn_roco)](#general-cinematic-case-8)
-  - [案例 9: 渔船人群手机拍摄 (作者 @maxescu)](#general-cinematic-case-9)
-  - [案例 10: 少女高速坠入数字隧道 (作者 @_3912657840)](#general-cinematic-case-10)
-  - [案例 11: 晴空塔轨道炮发射序列 (作者 @TechTalkNAVI)](#general-cinematic-case-11)
-  - [案例 12: 好莱坞电影预告片 (作者 @SSSS_CRYPTOMAN)](#general-cinematic-case-12)
-  - [案例 13: 电影级竖屏 9:16 序列 (作者 @Mayz1169)](#general-cinematic-case-13)
-  - [案例 14: 巨型冰川墙在海滨城市旁坍入峡湾 (作者 @LudovicCreator)](#general-cinematic-case-14)
-  - [案例 15: 月光下老鼠参与的钢琴追逐 (作者 @Dheepanratnam)](#general-cinematic-case-15)
-  - [案例 16: 15 秒连续单镜头卡通序列 (作者 @Artedeingenio)](#general-cinematic-case-16)
-  - [案例 17: 日落时的蒸汽朋克飞艇大战 (作者 @Alin_Reaper05)](#general-cinematic-case-17)
-  - [案例 18: 人字拖喷气翼跟拍 (作者 @maxescu)](#general-cinematic-case-18)
-  - [案例 19: 深山古寺外景 (作者 @cdexsta)](#general-cinematic-case-19)
-  - [案例 20: 自由女神像日出分镜 (作者 @MrDasOnX)](#general-cinematic-case-20)
-  - [案例 21: 戏剧光线下的历史场景 (作者 @AskVenice)](#general-cinematic-case-21)
-  - [案例 22: 火箭冲浪连续跟拍 (作者 @maxescu)](#general-cinematic-case-22)
-  - [案例 23: 单口喜剧独白模板 (作者 @Adam38363368936)](#general-cinematic-case-23)
-  - [案例 24: 生日背叛餐厅剧情 (作者 @Lighterkissan33)](#general-cinematic-case-24)
-  - [案例 25: 古代跑酷换装序列 (作者 @Adam38363368936)](#general-cinematic-case-25)
-  - [案例 26: 发动机内部——活塞机械细节 (作者 @YaReYaRu30Life)](#general-cinematic-case-26)
-  - [案例 27: 90 年代日式恋爱模拟——赛璐璐动画风 (作者 @kinopioai_ai)](#general-cinematic-case-27)
-  - [案例 28: 电影导演技巧——多镜头提示词 (作者 @noman23761)](#general-cinematic-case-28)
-  - [案例 29: 东亚女性肖像——自然微笑 (作者 @noman23761)](#general-cinematic-case-29)
-  - [案例 30: 末日后求生——电影级设定 (作者 @noman23761)](#general-cinematic-case-30)
-  - [案例 31: 皮克斯森林空地——3D 动画场景 (作者 @SPEEDAI07)](#general-cinematic-case-31)
-  - [案例 32: 小猫躲在被窝里偷吃零食 (作者 @lynneatyoumind)](#general-cinematic-case-32)
-  - [案例 33: Seedance 2.0 文生视频自然语音测试 (作者 @tanabe_fragm)](#general-cinematic-case-33)
-  - [案例 34: 纸偶恐怖动画 (作者 @TomaAIbijo)](#general-cinematic-case-34)
-  - [案例 35: 红色沙漠摩托车追踪镜头 (作者 @LudovicCreator)](#general-cinematic-case-35)
-  - [案例 36: 庞贝灾难 DV 纪实画面 (作者 @venturetwins)](#general-cinematic-case-36)
-  - [案例 37: 废弃嘉年华中的宇航员漫步 (作者 @LudovicCreator)](#general-cinematic-case-37)
-  - [案例 38: 海盗鸭浴缸航海 (作者 @CharaspowerAI)](#general-cinematic-case-38)
+  - [案例 21: 站台决斗节拍图 (by @SYDxStudio)](#templates-structured-case-21)
+- [🎬 General Cinematic](#general-cinematic) (39)
+  - [案例 1: 高跟鞋节拍同步时尚特写 (by @TingFengAIAI)](#general-cinematic-case-1)
+  - [案例 2: 儿童卧室里的迷你滑板逃脱 (by @anson7956)](#general-cinematic-case-2)
+  - [案例 3: 洛克公园奶奶对决 (by @techhalla)](#general-cinematic-case-3)
+  - [案例 4: 消防员营救婴儿序列 (by @AITalesNBH)](#general-cinematic-case-4)
+  - [案例 5: 古装变身展示 (by @johnAGI168)](#general-cinematic-case-5)
+  - [案例 6: 夜晚银座，未来赛博朋克 (by @ChiakiAkagi)](#general-cinematic-case-6)
+  - [案例 7: 跳虫的故事 (by @starks_arq)](#general-cinematic-case-7)
+  - [案例 8: 可疑男子站在涩谷十字路口中央 (by @roco_kn_roco)](#general-cinematic-case-8)
+  - [案例 9: 渔船人群手机拍摄 (by @maxescu)](#general-cinematic-case-9)
+  - [案例 10: 少女高速坠入数字隧道 (by @_3912657840)](#general-cinematic-case-10)
+  - [案例 11: 晴空塔轨道炮发射序列 (by @TechTalkNAVI)](#general-cinematic-case-11)
+  - [案例 12: 好莱坞电影预告片 (by @SSSS_CRYPTOMAN)](#general-cinematic-case-12)
+  - [案例 13: 电影级竖屏 9:16 序列 (by @Mayz1169)](#general-cinematic-case-13)
+  - [案例 14: 巨型冰川墙在海滨城市旁坍入峡湾 (by @LudovicCreator)](#general-cinematic-case-14)
+  - [案例 15: 月光下老鼠参与的钢琴追逐 (by @Dheepanratnam)](#general-cinematic-case-15)
+  - [案例 16: 15 秒连续单镜头卡通序列 (by @Artedeingenio)](#general-cinematic-case-16)
+  - [案例 17: 日落时的蒸汽朋克飞艇大战 (by @Alin_Reaper05)](#general-cinematic-case-17)
+  - [案例 18: 人字拖喷气翼跟拍 (by @maxescu)](#general-cinematic-case-18)
+  - [案例 19: 深山古寺外景 (by @cdexsta)](#general-cinematic-case-19)
+  - [案例 20: 自由女神像日出分镜 (by @MrDasOnX)](#general-cinematic-case-20)
+  - [案例 21: 戏剧光线下的历史场景 (by @AskVenice)](#general-cinematic-case-21)
+  - [案例 22: 火箭冲浪连续跟拍 (by @maxescu)](#general-cinematic-case-22)
+  - [案例 23: 单口喜剧独白模板 (by @Adam38363368936)](#general-cinematic-case-23)
+  - [案例 24: 生日背叛餐厅剧情 (by @Lighterkissan33)](#general-cinematic-case-24)
+  - [案例 25: 古代跑酷换装序列 (by @Adam38363368936)](#general-cinematic-case-25)
+  - [案例 26: 发动机内部——活塞机械细节 (by @YaReYaRu30Life)](#general-cinematic-case-26)
+  - [案例 27: 90 年代日式恋爱模拟——赛璐璐动画风 (by @kinopioai_ai)](#general-cinematic-case-27)
+  - [案例 28: 电影导演技巧——多镜头提示词 (by @noman23761)](#general-cinematic-case-28)
+  - [案例 29: 东亚女性肖像——自然微笑 (by @noman23761)](#general-cinematic-case-29)
+  - [案例 30: 末日后求生——电影级设定 (by @noman23761)](#general-cinematic-case-30)
+  - [案例 31: 皮克斯森林空地——3D 动画场景 (by @SPEEDAI07)](#general-cinematic-case-31)
+  - [案例 32: 小猫躲在被窝里偷吃零食 (by @lynneatyoumind)](#general-cinematic-case-32)
+  - [案例 33: Seedance 2.0 文生视频自然语音测试 (by @tanabe_fragm)](#general-cinematic-case-33)
+  - [案例 34: 纸偶恐怖动画 (by @TomaAIbijo)](#general-cinematic-case-34)
+  - [案例 35: 红色沙漠摩托车追踪镜头 (by @LudovicCreator)](#general-cinematic-case-35)
+  - [案例 36: 庞贝灾难 DV 纪实画面 (by @venturetwins)](#general-cinematic-case-36)
+  - [案例 37: 废弃嘉年华中的宇航员漫步 (by @LudovicCreator)](#general-cinematic-case-37)
+  - [案例 38: 海盗鸭浴缸航海 (by @CharaspowerAI)](#general-cinematic-case-38)
+  - [案例 39: 漆黑地球轨道站 VHS (by @LudovicCreator)](#general-cinematic-case-39)
+
 <a id="action-fantasy"></a>
-## ⚔️ 动作 / 奇幻
+## ⚔️ Action / Fantasy (43)
 
 <a id="action-fantasy-case-1"></a>
 <!-- Case 1: Street Rap MV Performance (by @songguoxiansen) -->
@@ -1043,7 +1049,6 @@ SHOT 6: Full shot to medium shot, 35mm, forward follow and side move. Station ap
 SHOT 7: Medium close-up to close-up, 50mm, camera moves behind messenger, approaches forward. Frog stops and stands firm, messenger turns to open back mailbox, takes out envelope, turns and hands to extended hand. Sound: latch opening, lid sound, envelope pulled out, handover, wind fades.
 ```
 
-
 <a id="action-fantasy-case-38"></a>
 <!-- Case 38: Thunder Warrior Zombie Siege (by @MO_IAI) -->
 ### 案例 38: [雷霆女战士丧尸围城](https://x.com/MO_IAI/status/2078252502755983855) (作者 [@MO_IAI](https://x.com/MO_IAI))
@@ -1098,7 +1103,6 @@ Shot 4 (9–13s) — BIG SLOW-MOTION MOMENT: The shark circles alone in the open
 
 Shot 5 (13–15s): Time snaps back. A huge blast erupts in the water beside the drifting barge, fire and spray shooting high into the sky. The rescue boat reaches the dock safely as the crew watches the water settle.
 ```
-
 
 <a id="action-fantasy-case-41"></a>
 <!-- Case 41: Arena Giantess Upset (by @rahulnanda86) -->
@@ -1183,10 +1187,49 @@ The entire coliseum explodes into deafening celebration as thousands of spectato
 ```
 A cinematic 15-second action sequence set inside a dark, gritty industrial warehouse at night, featuring moody teal-green lighting, chain-link fences, metal scaffolding, peeling green walls, and floating dust particles. A powerful, elegant East Asian Boss Lady wears a sleek black pantsuit with long flowing black hair and a calm, commanding expression. Standing beside her is a handsome, athletic male bodyguard in an all-black tailored suit with a heroic presence. As multiple attackers rush in, the bodyguard instantly steps in front of the Boss Lady, protecting her with lightning-fast punches, powerful kicks, evasive movements, and cinematic takedowns. The Boss Lady remains composed and confident, watching as her protector defeats every attacker. The sequence ends with the bodyguard standing protectively beside the Boss Lady as they walk forward together in slow motion, dust swirling around them. Handheld and tracking camera shots, dramatic low angles, realistic fabric movement, cinematic motion blur, ultra-detailed choreography, film-quality lighting, emotional heroism, 4K ultra-realistic cinematic masterpiece.
 ```
-<a id="cinematic-realism"></a>
+
+<a id="action-fantasy-case-43"></a>
+<!-- Case 43: Arctic Station Worm Attack (by @StevieMac03) -->
+### 案例 43: [极地基地巨虫袭击](https://x.com/StevieMac03/status/2079168831646216508) (作者 [@StevieMac03](https://x.com/StevieMac03))
+
+| 输出 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-43"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2079168831646216508.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**提示词:**
+
+```
+{
+  "META": "Live-action standalone creature attack short | Length 15 seconds | Arctic research station exterior | Modern day grounded realism | Giant worm horror | Cinematic realism",
+  "SHOT": {
+    "CAM": "Low shoulder height tracking shot that slowly drifts into a side profile run, sudden violent handheld shake on emergence, snap pan to impact, final locked wide on aftermath, filmed on ARRI Alexa LF with 35mm lens",
+    "SET": "Windswept arctic ice field outside a remote research station, prefab modular buildings with steel walkways half buried in snowdrifts, satellite dish crusted with rime ice, snowmobiles parked beside stacked fuel drums, orange marker flags whipping in the wind, endless white plain dissolving into low gray sky",
+    "SUBJECT": "Two scientists caught in open ground, Dr. Aaron Voss early 40s tall dark beard in a red expedition parka with fur trimmed hood thrown back, Dr. Lena Okafor mid 30s braided hair under a wool beanie wearing an insulated yellow field suit streaked with grease and snow",
+    "ACTION": "They run across the packed snow as the ice behind them begins to crack in sharp straight lines. The ground suddenly erupts as a massive ringed segment punches up through the frozen crust. A towering giant worm bursts free in a spray of ice shards and snow, its pale segmented body uncoiling with violent force. Its circular maw peels open in layered rings of hooked teeth with a wet grinding shriek as it lunges forward. Aaron shoves Lena aside just as the worm slams down between them. Its maw clamps around Aaron's torso and lifts him screaming into the air. He claws at its rubbery hide as viscous gray fluid sprays from a torn segment. The worm violently jerks him inward and swallows him with a sickening crunch. Lena stumbles backward in shock. The worm pivots with terrifying speed and lunges again, dragging her screaming beneath the ice as its body churns the snow into a white blizzard of debris. Only drifting powder remains.",
+    "STYLE": "Practical monster horror realism, immense worm mass and physics emphasized, no stylized motion, raw violent impact, tactile ice debris and snow strikes on lens",
+    "LIGHTING": "Flat overcast polar daylight with cold diffuse shadows, pale highlights sliding along the worm's wet segmented hide as it moves, breath vapor catching the light",
+    "AMBIENCE_COLOR": "Blue white ice tones, sickly pale gray worm flesh, safety orange and red gear accents, steel gray sky"
+  },
+  "AUDIO": {
+    "dialogue": [
+      { "speaker": "Dr. Aaron Voss", "line": "Lena get down" },
+      { "speaker": "Dr. Lena Okafor", "line": "Aaron" }
+    ],
+    "ambience": [
+      "deep ice cracking sharply",
+      "explosive frozen ground eruption impact",
+      "wet grinding shriek layered with gnashing ringed teeth",
+      "bone crushing crunch",
+      "howling arctic wind",
+      "snow settling into dead silence"
+    ]
+  },
+  "NEG": "no subtitles, no drones, no on screen text, no glowing eyes, no neon colors, no period vehicles, no vintage clothing, no stylized CGI surfaces, no slow motion"
+}
+```
 
 <a id="cinematic-realism"></a>
-## 🎞️ 电影写实
+## 🎞️ Cinematic Realism (10)
 
 <a id="cinematic-realism-case-1"></a>
 <!-- Case 1: Modern Japan Documentary Sequence (by @kuranoayashi) -->
@@ -1320,7 +1363,6 @@ Natural sound only. Crowd chanting, loud applause, laughter, splashing water, ec
 The result must feel like authentic raw 1990s home video footage capturing a completely ordinary pool jump that somehow turned into an Olympic-level celebration.
 ```
 
-
 <a id="cinematic-realism-case-7"></a>
 <!-- Case 7: Vintage Black Car Storm Run (by @LudovicCreator) -->
 ### 案例 7: [复古黑车暴雨疾驰](https://x.com/LudovicCreator/status/2078057220512629018) (作者 [@LudovicCreator](https://x.com/LudovicCreator))
@@ -1349,7 +1391,6 @@ A vintage black car speeds along a winding mountain road in heavy rain at dusk, 
 A solitary lighthouse stands on a jagged black cliff as a monstrous storm crashes against the coast at night. Waves explode against the rocks far below, sending white spray into the air like smoke, while the lighthouse beam cuts through sheets of rain and drifting sea mist. Inside, an old keeper climbs the narrow spiral staircase with a lantern in hand, his coat soaked, the light flickering with every thunderclap. The camera moves between wide shots of the lighthouse dwarfed by the fury of the ocean and intimate interior close-ups of wet stone walls, rattling glass, trembling hands, and the golden lantern glow in the darkness. As the storm intensifies, lightning reveals a ghostly ship in the distance, barely visible between walls of rain. The sequence feels haunting, dramatic, and timeless, with crashing waves, thunder, and a powerful sense of isolation.
 ```
 
-
 <a id="cinematic-realism-case-9"></a>
 <!-- Case 9: Sandstorm Buggy Escape (by @umesh_ai) -->
 ### 案例 9: [沙暴越野车逃生](https://x.com/umesh_ai/status/2078781951377555966) (作者 [@umesh_ai](https://x.com/umesh_ai))
@@ -1363,8 +1404,39 @@ A solitary lighthouse stands on a jagged black cliff as a monstrous storm crashe
 ```
 Towering sandstone cliffs crack under the pressure of a violent sandstorm. From a sweeping aerial over a vast desert basin, the camera dives aggressively toward a high-speed off-road buggy tearing through collapsing dunes. It slingshots past the front grill, whips around the roll cage, then drops tight to the spinning tires as sand blasts outward in golden waves. Chunks of rock tumble from above, dust spirals across the route, and the driver threads through narrow canyon gaps as entire ridgelines slump into avalanches of sand. The buggy surges through a curtain of blowing grit, bursts free, and races onto a surreal salt flat glowing in sunset orange. The camera rockets upward into a giant reveal as the storm fades behind. The engine cuts. Silence swallows the desert.
 ```
+
+<a id="cinematic-realism-case-10"></a>
+<!-- Case 10: Argentina Spain Broadcast Brawl (by @Ankit_patel211) -->
+### 案例 10: [阿根廷西班牙转播乱斗](https://x.com/Ankit_patel211/status/2079286938373419028) (作者 [@Ankit_patel211](https://x.com/Ankit_patel211))
+
+| 输出 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-realism-case-10"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2079286938373419028.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**提示词:**
+
+```
+Live sports television broadcast, authentic real-time football match retransmission. Natural stadium daylight, slight haze, packed crowd, official scoreboard ARG 0-0 ESP. Pure professional sports TV camera language with authentic broadcast zooms, natural handheld lens shake, genuine live-feed texture, realistic TV graphics, no cinematic polish.
+
+A modern football stadium during an Argentina vs Spain international match. Argentina players wear sky-blue and white striped kits, Spain players wear red kits. The atmosphere feels exactly like a live FIFA television broadcast with thousands of cheering fans, realistic commentators, stadium ambience, and professional sports camera work.
+
+0-4s: [High Wide Broadcast Shot]
+Normal gameplay suddenly stops when one Argentina player humorously pulls on oversized blue boxing gloves. Nearby Spain players stare in total disbelief before everyone begins a playful, exaggerated football brawl filled with harmless pushing, dodging, jersey grabbing, dramatic reactions, and cartoonishly over-the-top movements. The crowd erupts with laughter.
+
+4-8s: [Pitch-Level Tracking Shot]
+The broadcast camera tracks beside the action. The Argentina player throws exaggerated air punches while Spain players comically dodge and stumble. Players from both teams harmlessly wrestle, trip over each other, and dramatically roll across the grass. Coaches leap from the benches and sprint onto the pitch trying to separate everyone while assistant coaches wave their arms frantically.
+
+8-12s: [Classic Live TV Close-Up]
+The referee repeatedly blows the whistle as assistant referees, security staff, coaches, substitutes, and medical staff rush into the middle of the hilarious chaos. Everyone tries to pull players apart. The boxing-glove player is dragged backward by teammates while Spain players continue pointing, arguing, and making exaggerated facial expressions. The crowd chants and laughs loudly.
+
+12-15s: [Wide Stadium Broadcast]
+Camera pulls back to reveal the entire pitch. Coaches, referees, substitutes, and security form a large human barrier between both teams. Players gradually calm down but continue dramatically arguing and pointing. The referee theatrically flashes yellow cards in every direction while looking completely overwhelmed. The Argentina player raises his oversized boxing gloves to the cheering crowd as the stadium bursts into laughter, creating the feeling of an unforgettable viral football broadcast.
+
+Ultra-realistic live sports broadcast quality, authentic TV camera movement, realistic sports-lens motion blur, genuine crowd reactions, coherent body physics, stable character consistency, natural stadium audio, live television retransmission texture, unscripted sports broadcast energy, no cinematic color grading, no artificial enhancement, looks exactly like authentic live football coverage with lighthearted slapstick comedy.
+```
+
 <a id="pov-fpv"></a>
-## 🥽 POV / FPV
+## 🥽 POV / FPV (21)
 
 <a id="pov-fpv-case-1"></a>
 <!-- Case 1: Chest-Mounted Camouflage Chase Sequence (by @genel_ai) -->
@@ -1858,7 +1930,6 @@ Pure first-person camera perspective, no visible drone, no cockpit, no aircraft 
 Immersive first-person flying camera perspective, no visible drone or flying device. The entire sequence takes place at night beneath a deep blue sky. The camera races above the illuminated lavender fields of Provence while fireworks burst continuously in blue, white, and red across the horizon. It weaves through glowing medieval villages, vineyards, French châteaux, the cliffs of Normandy, and Mont-Saint-Michel reflected in the dark tide, with fireworks erupting above every location. The camera then follows the Seine into Paris at extreme speed, skimming beneath historic bridges, banking around the Arc de Triomphe, and climbing beside the fully illuminated Eiffel Tower as enormous synchronized fireworks fill the sky and reflect across the river. At the finale, the camera pulls back above Paris while the fireworks create a vast tricolor glow. A gigantic French flag unfurls naturally from the top of the Eiffel Tower, waving majestically above the city as the final fireworks burst behind it. No text, no words, no letters. Continuous POV shot, no cuts, aggressive banking, cinematic motion blur, realistic night lighting, volumetric smoke, detailed fireworks, ultra-realistic travel cinematography, spectacular blockbuster VFX, IMAX quality.
 ```
 
-
 <a id="pov-fpv-case-21"></a>
 <!-- Case 21: Cybernetic Battlefield FPV Dive (by @LudovicCreator) -->
 ### 案例 21: [赛博战场 FPV 俯冲](https://x.com/LudovicCreator/status/2078842368661315786) (作者 [@LudovicCreator](https://x.com/LudovicCreator))
@@ -1872,8 +1943,9 @@ Immersive first-person flying camera perspective, no visible drone or flying dev
 ```
 Immersive first-person flying camera perspective, no visible drone or flying device. The camera launches at insane speed across a colossal dystopian cyborg battlefield at night, flying only centimeters above shattered metal, burning wreckage, and rivers of glowing energy. It violently snap-rolls between the legs of towering combat mechs, knife-edges through collapsing steel structures, dives beneath gigantic walking war machines, then instantly climbs through exploding industrial ruins. Swarms of autonomous combat drones streak overhead while colossal cybernetic titans exchange devastating energy blasts that illuminate the battlefield. The camera constantly changes direction with brutal FPV precision,rapid S-turns, vertical dives, barrel rolls, power loops around gigantic reactor towers, split-S reversals, wall-hugging passes through ruined megafactories, and razor-close proximity flights beneath collapsing bridges. Neon holograms flicker through dense smoke as thousands of laser tracers, plasma arcs, sparks, and electrical storms fill the sky. Gigantic cybernetic creatures emerge from the darkness while endless ranks of futuristic soldiers and armored exosuits advance across the battlefield beneath towering ruined skyscrapers. The camera threads through impossibly tight gaps as collapsing buildings, burning aircraft, and massive mechanical debris crash around it, then rockets into a colossal mechanical canyon formed by fallen war machines. At the climax, the battlefield opens into an unimaginably vast cybernetic wasteland where a planet-sized artificial intelligence core rises above the horizon, surrounded by colossal rotating rings, lightning storms, and endless mechanical cities stretching to infinity. Continuous POV shot, no cuts, relentless acceleration, extreme high-speed FPV racing, aggressive banking, rapid altitude changes, barrel rolls, corkscrews, split-S maneuvers, power loops, knife-edge turns, realistic inertia, cinematic motion blur, volumetric smoke, dynamic lighting, neon reflections, hyper-detailed dystopian environments, surreal cyberpunk architecture, blockbuster sci-fi VFX, IMAX quality.
 ```
+
 <a id="commercial-product"></a>
-## 🏷️ 商业 / 产品
+## 🏷️ Commercial / Product (27)
 
 <a id="commercial-product-case-1"></a>
 <!-- Case 1: Perfume-Style Anime Trio Dance Stage (by @ShadeLurk) -->
@@ -2505,11 +2577,8 @@ Ref image is wearing a stylish casual-luxury outfit with subtle yellow and green
 Real iPhone 16 Pro footage look, natural bright daylight, authentic mobile camera movement and slight shake, natural vibrant colors, coherent physics, stable character, real phone video quality, no film look, no artifacts, looks like genuine Instagram Reel footage shot on location.
 ```
 
-
 <a id="reference-driven"></a>
-
-<a id="reference-driven"></a>
-## 🖼️ 参考素材驱动
+## 🖼️ Reference-Driven (22)
 
 <a id="reference-driven-case-1"></a>
 <!-- Case 1: Skeleton Pianist Miniature Diorama Performance (by @tea_story_hoshi) -->
@@ -3469,8 +3538,6 @@ Scene 5: Slow orbit around them sitting together, watching the mist drift throug
 Scene 6: Distant pullback across a reflective puddle, framing them beneath the enormous tree as they quietly share tea and savour the rain.
 ```
 
-
-
 <a id="reference-driven-case-22"></a>
 <!-- Case 22: Kunqu Backstage One-Take Transformation (by @ou_zhen599) -->
 ### 案例 22: [昆剧后台粉墨一镜到底](https://x.com/ou_zhen599/status/2078394020741673439) (作者 [@ou_zhen599](https://x.com/ou_zhen599))
@@ -3486,7 +3553,7 @@ Scene 6: Distant pullback across a reflective puddle, framing them beneath the e
 ```
 
 <a id="surreal-vfx"></a>
-## 🌀 超现实 / VFX
+## 🌀 Surreal / VFX (16)
 
 <a id="surreal-vfx-case-1"></a>
 <!-- Case 1: Zero-Gravity Katana Combat (by @MiraMusic_AI) -->
@@ -3868,7 +3935,6 @@ She pauses, watches the police pass… then slowly turns toward camera and winks
 Ambient city sound returns. No hard cut.
 ```
 
-
 <a id="surreal-vfx-case-15"></a>
 <!-- Case 15: Forest Guardian Calligraphy Transformation (by @LudovicCreator) -->
 ### 案例 15: [森林守护者书法变身](https://x.com/LudovicCreator/status/2078346662699798878) (作者 [@LudovicCreator](https://x.com/LudovicCreator))
@@ -3883,8 +3949,22 @@ Ambient city sound returns. No hard cut.
 Full magical transformation sequence: a forest guardian floating in an aged moss-green parchment void as deep emerald ink spreads through the air like liquid leaves blooming in water ,calligraphy strokes whip around the body, staining the hair into soft jade green, sketching layered nature armor, glowing vine markings across the face, and a long spear silhouette in sweeping green brushwork. A circular ancient seal script sigil blooms underfoot with splashes of pearl-white light, the camera pushing in through drifting ink veils like torn leaves in a storm, each brush impact synced to a rising drumbeat, ending in a spear-planted signature pose locked inside an emerald-and-pearl calligraphy burst. Stock-footage grandeur, played sincere.
 ```
 
+<a id="surreal-vfx-case-16"></a>
+<!-- Case 16: Haunted Tea Ceremony Apparition (by @LudovicCreator) -->
+### 案例 16: [鬼魅茶会显形](https://x.com/LudovicCreator/status/2078902823656226891) (作者 [@LudovicCreator](https://x.com/LudovicCreator))
+
+| 输出 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-16"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078902823656226891.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**提示词:**
+
+```
+Stylized anime haunted tea ceremony beat: an elderly woman pours tea inside an abandoned tatami room, steam rising from the cup and slowly forming the shape of a long-lost guest. Dust floats in golden afternoon light, paper doors rattling gently though no wind enters the house. Slow push-in across the floor, tea reflections rippling with impossible memories, the woman’s calm face mirrored in the porcelain cup. The ghostly figure leans closer and the silence holds one beat past comfort.
+```
+
 <a id="templates-structured"></a>
-## 📐 模板与结构化格式
+## 📐 Templates & Structured Formats (21)
 
 <a id="templates-structured-case-1"></a>
 <!-- Case 1: Supercarrier Catastrophic Sinking (by @johnAGI168) -->
@@ -4382,7 +4462,6 @@ Camera: fixed wide-angle shot, no zoom, no camera shake, no angle change.
 Negative prompt: no people, no extra rooms, no duplicated furniture, no distorted furniture, no warped walls, no text changes, no logo distortion, no sudden cuts, no messy construction debris, no cartoon animation.
 ```
 
-
 <a id="templates-structured-case-19"></a>
 <!-- Case 19: Facial Expression Detail Test (by @ou_zhen599) -->
 ### 案例 19: [面部表情细节测试](https://x.com/ou_zhen599/status/2078137477425172769) (作者 [@ou_zhen599](https://x.com/ou_zhen599))
@@ -4410,7 +4489,6 @@ Negative prompt: no people, no extra rooms, no duplicated furniture, no distorte
 12-15秒：目视前方/画面右侧，眼神柔和微润，唇瓣轻动似欲语还休，最终保持安静凝视状态，定格在温柔清冷、略带忧郁的情绪中，结尾无黑屏、无转场。
 ```
 
-
 <a id="templates-structured-case-20"></a>
 <!-- Case 20: Flooded Ballroom Escape Storyboard (by @ChangningL29508) -->
 ### 案例 20: [水淹舞厅逃生分镜](https://x.com/ChangningL29508/status/2078684698394636544) (作者 [@ChangningL29508](https://x.com/ChangningL29508))
@@ -4424,10 +4502,39 @@ Negative prompt: no people, no extra rooms, no duplicated furniture, no distorte
 ```
 @Image1 storyboard is a temporal beat map only. Create one continuous full-screen 16:9 cinematic 15-second live-action sequence, never show a panel grid, black gutters, collage, captions, or text. Same young adult bride with wet black hair, ivory satin wedding dress and red rubber boots; same soaked groom in a black tuxedo; same red-dress bridesmaid; same waiter in black vest. In a flooded Art Deco ballroom at night, follow the storyboard left to right, top to bottom: the bride pulls the groom through knee-deep water toward the warm exit; the bridesmaid follows with her shoes; the waiter opens and holds the door; guests plausibly clear the path and evacuate; the couple and bridesmaid reach the doorway. Cold blue-green storm light and warm chandelier reflections, believable water physics, cinematic 35mm camera, one natural continuous progression. Stable faces and identities, anatomically correct hands, no duplicate people, no warped anatomy, no elderly bride, no police, no weapons, no random actions, no watermark, no logo, no subtitles.
 ```
-<a id="general-cinematic"></a>
+
+<a id="templates-structured-case-21"></a>
+<!-- Case 21: Station Platform Duel Beatmap (by @SYDxStudio) -->
+### 案例 21: [站台决斗节拍图](https://x.com/SYDxStudio/status/2079286923424575628) (作者 [@SYDxStudio](https://x.com/SYDxStudio))
+
+| 输出 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-21"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2079286923424575628.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**提示词:**
+
+```
+Use @image1 only as P01-P06 movement waypoints for one uninterrupted action, never as shots, holds, a displayed image or style source. Flow through P02-P05 without stopping; P01/P06 are boundaries. Set STEP 06 as first frame and STEP 06T as last; they alone lock boundary staging. @image2 solely controls KAI: 185 cm, face always uncovered, headphones, black tank, twin cyan blades. @image3 solely controls KIRA: 165 cm, mask always worn, RIGHT dagger reverse/LEFT forward, two rear-belt capsules. @image4 is a mixed sheet: use ONLY Zone F Old Ward platform; ignore other panels/artifacts.
+
+Exactly 10.0 seconds, 24 fps. ZONE F ONLY: same stationary train, west platform, tiled column, bench, departure board, brake chain and closed carriage door; never reveal/enter Car 5. Start exact STEP 06, finish exact STEP 06T. During action KAI's tank right seam is sliced; floor, column, bench and board become damaged and remain so. Chain and door stay intact. No dialogue/music; only breath, shoes, cloth, blades, tile, bolts, timber, metal, debris.
+
+LOOK: hand-drawn 2D shonen-wuxia sakuga matching boundaries; variable black ink, flat cel blocks, one hard shadow, stepped drawings, foreshortening, dry-brush smears, simplified background only in velocity bursts; never photoreal, glossy, 3D or game-cinematic.
+
+CAMERA MODE: one continuous 20 mm master, no cuts. Launch low with KAI, dive under KIRA, inherit his eastward slide, whip around the same column, rise beside the rotating board, recoil with Sonic Strike, settle into STEP 06T. Tiles/debris prove parallax; no stable sideline or location crossing.
+
+PHRASE 1, actions 1-5: frame one, KIRA pushes from lintel; dives down-left; KAI springs up-right; twin blades catch crossed daggers off-axis for two frames; both twist out instantly, KIRA already moving east before landing.
+
+PHRASE 2, actions 6-10: KIRA scissor-cuts backward while retreating; KAI triangular-steps then long-slides east; her LEFT dagger slices only his tank's right seam; he rotates under her returning RIGHT; his RIGHT blade drives that dagger into the tiled column as she qinggong-steps on that same column and rebounds east.
+
+PHRASE 3, actions 11-16: KIRA touches the bench once; runs two steps along its back; springs to the board bracket; severs both bolts in one crossing cut; KAI rolls under the falling board while the bench breaks; he rises into one compact Sonic Strike folding the board around the stripped column as KIRA lands beside the intact chain in exact STEP 06T. No generic sparring, repeated clash, guard reset or panel pause.
+
+VISUAL EFFECTS: KAI uses only blade-edge-attached narrow cyan waveform crescents and segmented cyan body streaks. At the column, a compact cyan contact star forms exactly where his RIGHT blade meets KIRA's dagger; force passes through her dagger tip into grout, tiles cone east, bodies overshoot, cyan fragments decay, camera jolts once and recovers. At Sonic Strike, waveforms compress along KAI's forearms/blades into a black-cyan ink wedge at board contact; one cyan shock ring travels through metal, folds it and throws bolts, tile and dust into a radial debris silhouette; KAI recoils, ring fragments, camera snaps back. KIRA uses only needle-thin dagger-attached violet crescents and two path-bound violet-black afterimages, never clones. Her bolt cut creates a localized violet impact star; stress crosses both bolts, fragments lag, violet decays. Cyan never belongs to KIRA; violet-black never to KAI; no detached beam, aura cloud or constant glow.
+
+Never show storyboard/panels/labels/borders. No cut, blackout, flash transition, smoke cover, dissolve, morph, teleport, slow motion, freeze, replay, extra body/limb/weapon, identity swap, KAI mask, unmasked KIRA, vanished damage, moving train, cut chain, breached door, Car 5, premature P06 or overshoot.
+```
 
 <a id="general-cinematic"></a>
-## 🎬 一般电影风格
+## 🎬 General Cinematic (39)
 
 <a id="general-cinematic-case-1"></a>
 <!-- Case 1: High-Heel Beat Sync Fashion Close-Up (by @TingFengAIAI) -->
@@ -5202,7 +5309,6 @@ The result must feel like authentic, raw footage of ordinary people in Pompeii e
 An astronaut in a full white suit walks alone through an abandoned amusement park at twilight. Rusted rides stand motionless, faded carnival lights flicker sporadically, and fog drifts low across cracked pavement. The helmet visor reflects broken roller coasters, carousel horses, and shredded flags fluttering in the wind. The camera follows from behind in a slow tracking shot, then cuts to low angles and haunting wide frames that emphasize the surreal contrast between the futuristic astronaut and the decaying park. As the astronaut passes the giant Ferris wheel, it suddenly creaks into motion on its own. Old speakers crackle with distant carnival music. The sequence feels eerie, dreamlike, and cinematic, like a science-fiction mystery with emotional loneliness at its core.
 ```
 
-
 <a id="general-cinematic-case-38"></a>
 <!-- Case 38: Pirate Duck Bathtub Voyage (by @CharaspowerAI) -->
 ### 案例 38: [海盗鸭浴缸航海](https://x.com/CharaspowerAI/status/2078072313686184334) (作者 [@CharaspowerAI](https://x.com/CharaspowerAI))
@@ -5218,6 +5324,23 @@ A clay pirate captain duck with a tiny hat, wooden sword, eye patch and dramatic
 Sails across a bathtub ocean, battling giant soap waves and riding a sponge ship toward a rubber duck treasure island
 Bathroom fantasy world with bubbles, towels as cliffs and warm light reflecting on water
 3D clay, Pixar-style playful adventure, soft clay textures, rounded props, dynamic camera glide over water, bright cheerful atmosphere, ending with the duck discovering a golden bath plug treasure.
+```
+
+<a id="general-cinematic-case-39"></a>
+<!-- Case 39: Dark Earth Orbital Station VHS (by @LudovicCreator) -->
+### 案例 39: [漆黑地球轨道站 VHS](https://x.com/LudovicCreator/status/2079265271080984756) (作者 [@LudovicCreator](https://x.com/LudovicCreator))
+
+| 输出 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-39"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2079265271080984756.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**提示词:**
+
+```
+Old VHS-style footage from inside an abandoned orbital station in the 1980s. The image is grainy, warped, with tracking lines, washed-out colors, and timestamp burn-in. The camera floats slowly through empty corridors, cables drifting in zero gravity, warning lights blinking silently.
+At the 2-second mark, the tape glitches and the corridor appears longer than before. A sealed airlock door opens by itself at the far end. The camera drifts closer, passing floating tools, old photographs, and frozen droplets of water.
+Final moment: the camera enters the airlock and reveals Earth outside the window ,but Earth is completely dark.
+Analog sci-fi horror, VHS noise, zero-gravity atmosphere, retro space realism, eerie silence, cinematic degraded footage.
 ```
 
 <a id="related-repositories"></a>

@@ -40,6 +40,7 @@ action-fantasy-case-39	白虎古庙雷暴
 action-fantasy-case-40	补给驳船大战巨齿鲨
 action-fantasy-case-41	竞技场巨人女爆冷翻盘
 action-fantasy-case-42	仓库保镖击倒群敌
+action-fantasy-case-43	极地基地巨虫袭击
 cinematic-realism-case-1	现代日本纪录片序列
 cinematic-realism-case-2	追逐影子的长板下坡
 cinematic-realism-case-3	流星觉醒的战争女英雄
@@ -49,6 +50,7 @@ cinematic-realism-case-6	VHS 泳池炮弹跳裁判
 cinematic-realism-case-7	复古黑车暴雨疾驰
 cinematic-realism-case-8	风暴海岸灯塔长镜头
 cinematic-realism-case-9	沙暴越野车逃生
+cinematic-realism-case-10	阿根廷西班牙转播乱斗
 pov-fpv-case-1	胸前相机迷彩追逐序列
 pov-fpv-case-2	上海赛博朋克城市炫剪
 pov-fpv-case-3	受诅咒武士一致性动作提示词
@@ -134,6 +136,7 @@ surreal-vfx-case-12	火焰女皇变身序列
 surreal-vfx-case-13	沙漠沙巨人变身
 surreal-vfx-case-14	逃逸车变身垃圾车
 surreal-vfx-case-15	森林守护者书法变身
+surreal-vfx-case-16	鬼魅茶会显形
 templates-structured-case-1	超级航母灾难性沉没
 templates-structured-case-2	记忆碎片重构
 templates-structured-case-3	从蓝图到现实——单层住宅变形
@@ -154,6 +157,7 @@ templates-structured-case-17	女战士——结构化主体提示词
 templates-structured-case-18	盒中展开的阁楼室内亮相
 templates-structured-case-19	面部表情细节测试
 templates-structured-case-20	水淹舞厅逃生分镜
+templates-structured-case-21	站台决斗节拍图
 general-cinematic-case-1	高跟鞋节拍同步时尚特写
 general-cinematic-case-2	儿童卧室里的迷你滑板逃脱
 general-cinematic-case-3	洛克公园奶奶对决
@@ -192,3 +196,4 @@ general-cinematic-case-35	红色沙漠摩托车追踪镜头
 general-cinematic-case-36	庞贝灾难 DV 纪实画面
 general-cinematic-case-37	废弃嘉年华中的宇航员漫步
 general-cinematic-case-38	海盗鸭浴缸航海
+general-cinematic-case-39	漆黑地球轨道站 VHS

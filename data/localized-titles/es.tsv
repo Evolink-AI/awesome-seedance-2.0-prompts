@@ -40,6 +40,7 @@ action-fantasy-case-39	Tormenta en el templo del tigre blanco
 action-fantasy-case-40	Tiburón gigante contra barcaza de raciones
 action-fantasy-case-41	La giganta da la sorpresa en la arena
 action-fantasy-case-42	Guardaespaldas reduce atacantes en un almacén
+action-fantasy-case-43	Ataque del gusano en la estación ártica
 cinematic-realism-case-1	Secuencia documental del Japón moderno
 cinematic-realism-case-2	Descenso en longboard siguiendo una sombra
 cinematic-realism-case-3	Heroína de guerra despertada por un meteorito
@@ -49,6 +50,7 @@ cinematic-realism-case-6	Juez del cannonball en piscina VHS
 cinematic-realism-case-7	Carrera bajo la tormenta en coche negro vintage
 cinematic-realism-case-8	Secuencia del faro en la costa tormentosa
 cinematic-realism-case-9	Escape en buggy en plena tormenta de arena
+cinematic-realism-case-10	Pelea televisada Argentina-España
 pov-fpv-case-1	Secuencia de persecución camuflada con cámara en el pecho
 pov-fpv-case-2	Vídeo promocional de una Shanghái ciberpunk
 pov-fpv-case-3	Prompt de acción consistente de un samurái maldito
@@ -134,6 +136,7 @@ surreal-vfx-case-12	Secuencia de transformación de la emperatriz de fuego
 surreal-vfx-case-13	Transformación del titán de arena en el desierto
 surreal-vfx-case-14	Coche fugitivo que muta a camión de basura
 surreal-vfx-case-15	Transformación caligráfica de la guardiana del bosque
+surreal-vfx-case-16	Aparición en la ceremonia del té encantada
 templates-structured-case-1	Hundimiento catastrófico de un superportaaviones
 templates-structured-case-2	Reconstrucción de fragmentos de memoria
 templates-structured-case-3	Del plano a la realidad: transformación de una casa de una planta
@@ -154,6 +157,7 @@ templates-structured-case-17	Guerrera: prompt de sujeto estructurado
 templates-structured-case-18	Revelación del interior de un loft desde una caja
 templates-structured-case-19	Prueba de detalle de expresiones faciales
 templates-structured-case-20	Guion gráfico de escape en un salón de baile inundado
+templates-structured-case-21	Guía de duelo en andén
 general-cinematic-case-1	Primer plano de moda con tacones sincronizados al ritmo
 general-cinematic-case-2	Huida en monopatín miniatura dentro de un dormitorio infantil
 general-cinematic-case-3	Duelo de abuelas en Rucker Park
@@ -192,3 +196,4 @@ general-cinematic-case-35	Plano de seguimiento en moto por el desierto rojo
 general-cinematic-case-36	Imágenes DV del desastre de Pompeya
 general-cinematic-case-37	Paseo de un astronauta por un parque de atracciones abandonado
 general-cinematic-case-38	Viaje en bañera del pato pirata
+general-cinematic-case-39	VHS orbital con la Tierra oscura

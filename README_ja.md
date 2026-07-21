@@ -4,7 +4,7 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![ブラウザで Seedance 2.0 を試す](https://img.shields.io/badge/Try_in-Browser-black)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts&utm_content=model_try)
-[![プロンプト-194件](https://img.shields.io/badge/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88-194%E4%BB%B6-111111)](README.md)
+[![プロンプト-199件](https://img.shields.io/badge/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88-199%E4%BB%B6-111111)](README.md)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -25,7 +25,7 @@
 
 Awesome Seedance 2.0 Prompts リポジトリへようこそ！🤗
 
-**このリポジトリには、出典を明記した Seedance 2.0 のユニークな動画生成プロンプト 194 件を収録しています。**
+**このリポジトリには、出典を明記した Seedance 2.0 のユニークな動画生成プロンプト 199 件を収録しています。**
 
 公開されたクリエイター投稿からプロンプトを厳選し、再利用可能な資料として保存しています。
 
@@ -73,7 +73,7 @@ curl --request GET \
 <a id="statistics"></a>
 ## 📊 統計
 
-8 カテゴリ・189 件のユニークなケースを 11 個の README で同期しています。
+199 件のユニークなケースを 8 カテゴリに整理し、11 個の README で同期しています。
 
 <a id="how-to-use"></a>
 ## 🧭 このリポジトリの使い方
@@ -83,215 +83,221 @@ curl --request GET \
 <a id="menu"></a>
 ## 📑 メニュー
 
-- [はじめに](#introduction)
-- [クイックスタート](#quick-start)
-- [統計](#statistics)
-- [このリポジトリの使い方](#how-to-use)
-- [メニュー](#menu)
-- [⚔️ アクション / ファンタジー](#action-fantasy) (40)
-  - [ケース 1: ストリートラップ MV パフォーマンス (投稿者 @songguoxiansen)](#action-fantasy-case-1)
-  - [ケース 2: 黒猫の砂漠武術対決 (投稿者 @nopinduoduo)](#action-fantasy-case-2)
-  - [ケース 3: 実写版・呼吸法対決 (投稿者 @johnAGI168)](#action-fantasy-case-3)
-  - [ケース 4: 20 カットの高速アニメシーケンス (投稿者 @tebasaki3D)](#action-fantasy-case-4)
-  - [ケース 5: 油まみれの整備士が修理する様子 (投稿者 @sebatheepan)](#action-fantasy-case-5)
-  - [ケース 6: 侍の復讐短編映画 (投稿者 @sailorv321)](#action-fantasy-case-6)
-  - [ケース 7: スタイライズされた 3D バトルアニメーション (投稿者 @johnAGI168)](#action-fantasy-case-7)
-  - [ケース 8: テンポの速いコメディパロディ短編 (投稿者 @drjoetw)](#action-fantasy-case-8)
-  - [ケース 9: 巨大忍者の特撮バトル (投稿者 @EarthGigantea)](#action-fantasy-case-9)
-  - [ケース 10: 日本アニメの会話シーケンス (投稿者 @_3912657840)](#action-fantasy-case-10)
-  - [ケース 11: 15 秒のオリジナル元素バトル短編 (投稿者 @ZikinArt)](#action-fantasy-case-11)
-  - [ケース 12: ファベルジェ風ファンタジーエッグのアニメーション (投稿者 @ShamiWeb3)](#action-fantasy-case-12)
-  - [ケース 13: オリジナル元素バトル短編 (投稿者 @David_eficaz)](#action-fantasy-case-13)
-  - [ケース 14: 映画的な SF ファンタジー対決 (投稿者 @CharaspowerAI)](#action-fantasy-case-14)
-  - [ケース 15: 15 秒連続ワンカット・アクション (投稿者 @Artedeingenio)](#action-fantasy-case-15)
-  - [ケース 16: 崖上で対峙する孤高の侍 (投稿者 @Alin_Reaper05)](#action-fantasy-case-16)
-  - [ケース 17: ならず者ドラゴンの空中急降下 (投稿者 @sebatheepan)](#action-fantasy-case-17)
-  - [ケース 18: 無重力下のメカ争奪戦 (投稿者 @Dheepanratnam)](#action-fantasy-case-18)
-  - [ケース 19: ドラゴンに乗る少女の超高速飛行アクション (投稿者 @naoyuki_okada)](#action-fantasy-case-19)
-  - [ケース 20: 15 秒のオリジナル砂漠武術短編 (投稿者 @NimEshed)](#action-fantasy-case-20)
-  - [ケース 21: 峡谷への空爆シーケンス (投稿者 @Mr_TuanDoan)](#action-fantasy-case-21)
-  - [ケース 22: 15 秒の超写実的な戦争大作 (投稿者 @john87445528)](#action-fantasy-case-22)
-  - [ケース 23: オフィスのコーヒーブレイクが大惨事に (投稿者 @Dheepanratnam)](#action-fantasy-case-23)
-  - [ケース 24: 15 秒連続ワンカット・アクション (投稿者 @Artedeingenio)](#action-fantasy-case-24)
-  - [ケース 25: ブラックスワン対ボクサー (投稿者 @KanaWorks_AI)](#action-fantasy-case-25)
-  - [ケース 26: 地面を割って飛び立つスーパーマン (投稿者 @techprophett)](#action-fantasy-case-26)
-  - [ケース 27: 雲洞の剣影 (投稿者 @Adam38363368936)](#action-fantasy-case-27)
-  - [ケース 28: 神々の都 — 東洋幻想のワンカット飛行 (投稿者 @john87445528)](#action-fantasy-case-28)
-  - [ケース 29: 壮大なファンタジーバトル — 映画的な 10 秒シーケンス (投稿者 @a_shimanski)](#action-fantasy-case-29)
-  - [ケース 30: ダークファンタジー変身 — 東洋風 (投稿者 @johnAGI168)](#action-fantasy-case-30)
-  - [ケース 31: ワニを燃料ラインへ誘導する川の罠 (投稿者 @rahulnanda86)](#action-fantasy-case-31)
-  - [ケース 32: 電撃が走る地下闘技場の決闘 (投稿者 @CharaspowerAI)](#action-fantasy-case-32)
-  - [ケース 33: 滑走路で飛行機に引きずられるワニ (投稿者 @rahulnanda86)](#action-fantasy-case-33)
-  - [ケース 34: 稲妻ストライカーのアニメゴール (投稿者 @CharaspowerAI)](#action-fantasy-case-34)
-  - [ケース 35: 野花咲く谷を飛ぶグリフィン (投稿者 @Mayz1169)](#action-fantasy-case-35)
-  - [ケース 36: モンゴル騎兵のパルティアンショット (投稿者 @Ankit_patel211)](#action-fantasy-case-36)
-  - [ケース 37: 巨大カエルの飛脚疾走 (投稿者 @0xbisc)](#action-fantasy-case-37)
-  - [ケース 38: 雷の戦士ゾンビ包囲戦 (投稿者 @MO_IAI)](#action-fantasy-case-38)
-  - [ケース 39: 白虎の古寺雷雨 (投稿者 @LudovicCreator)](#action-fantasy-case-39)
-  - [ケース 40: 補給船と巨大ザメ (投稿者 @rahulnanda86)](#action-fantasy-case-40)
+- [Introduction](#introduction)
+- [Quick Start](#quick-start)
+- [Statistics](#statistics)
+- [How to Use This Repository](#how-to-use)
+- [Menu](#menu)
+- [⚔️ Action / Fantasy](#action-fantasy) (43)
+  - [ケース 1: ストリートラップ MV パフォーマンス (by @songguoxiansen)](#action-fantasy-case-1)
+  - [ケース 2: 黒猫の砂漠武術対決 (by @nopinduoduo)](#action-fantasy-case-2)
+  - [ケース 3: 実写版・呼吸法対決 (by @johnAGI168)](#action-fantasy-case-3)
+  - [ケース 4: 20 カットの高速アニメシーケンス (by @tebasaki3D)](#action-fantasy-case-4)
+  - [ケース 5: 油まみれの整備士が修理する様子 (by @sebatheepan)](#action-fantasy-case-5)
+  - [ケース 6: 侍の復讐短編映画 (by @sailorv321)](#action-fantasy-case-6)
+  - [ケース 7: スタイライズされた 3D バトルアニメーション (by @johnAGI168)](#action-fantasy-case-7)
+  - [ケース 8: テンポの速いコメディパロディ短編 (by @drjoetw)](#action-fantasy-case-8)
+  - [ケース 9: 巨大忍者の特撮バトル (by @EarthGigantea)](#action-fantasy-case-9)
+  - [ケース 10: 日本アニメの会話シーケンス (by @_3912657840)](#action-fantasy-case-10)
+  - [ケース 11: 15 秒のオリジナル元素バトル短編 (by @ZikinArt)](#action-fantasy-case-11)
+  - [ケース 12: ファベルジェ風ファンタジーエッグのアニメーション (by @ShamiWeb3)](#action-fantasy-case-12)
+  - [ケース 13: オリジナル元素バトル短編 (by @David_eficaz)](#action-fantasy-case-13)
+  - [ケース 14: 映画的な SF ファンタジー対決 (by @CharaspowerAI)](#action-fantasy-case-14)
+  - [ケース 15: 15 秒連続ワンカット・アクション (by @Artedeingenio)](#action-fantasy-case-15)
+  - [ケース 16: 崖上で対峙する孤高の侍 (by @Alin_Reaper05)](#action-fantasy-case-16)
+  - [ケース 17: ならず者ドラゴンの空中急降下 (by @sebatheepan)](#action-fantasy-case-17)
+  - [ケース 18: 無重力下のメカ争奪戦 (by @Dheepanratnam)](#action-fantasy-case-18)
+  - [ケース 19: ドラゴンに乗る少女の超高速飛行アクション (by @naoyuki_okada)](#action-fantasy-case-19)
+  - [ケース 20: 15 秒のオリジナル砂漠武術短編 (by @NimEshed)](#action-fantasy-case-20)
+  - [ケース 21: 峡谷への空爆シーケンス (by @Mr_TuanDoan)](#action-fantasy-case-21)
+  - [ケース 22: 15 秒の超写実的な戦争大作 (by @john87445528)](#action-fantasy-case-22)
+  - [ケース 23: オフィスのコーヒーブレイクが大惨事に (by @Dheepanratnam)](#action-fantasy-case-23)
+  - [ケース 24: 15 秒連続ワンカット・アクション (by @Artedeingenio)](#action-fantasy-case-24)
+  - [ケース 25: ブラックスワン対ボクサー (by @KanaWorks_AI)](#action-fantasy-case-25)
+  - [ケース 26: 地面を割って飛び立つスーパーマン (by @techprophett)](#action-fantasy-case-26)
+  - [ケース 27: 雲洞の剣影 (by @Adam38363368936)](#action-fantasy-case-27)
+  - [ケース 28: 神々の都 — 東洋幻想のワンカット飛行 (by @john87445528)](#action-fantasy-case-28)
+  - [ケース 29: 壮大なファンタジーバトル — 映画的な 10 秒シーケンス (by @a_shimanski)](#action-fantasy-case-29)
+  - [ケース 30: ダークファンタジー変身 — 東洋風 (by @johnAGI168)](#action-fantasy-case-30)
+  - [ケース 31: ワニを燃料ラインへ誘導する川の罠 (by @rahulnanda86)](#action-fantasy-case-31)
+  - [ケース 32: 電撃が走る地下闘技場の決闘 (by @CharaspowerAI)](#action-fantasy-case-32)
+  - [ケース 33: 滑走路で飛行機に引きずられるワニ (by @rahulnanda86)](#action-fantasy-case-33)
+  - [ケース 34: 稲妻ストライカーのアニメゴール (by @CharaspowerAI)](#action-fantasy-case-34)
+  - [ケース 35: 野花咲く谷を飛ぶグリフィン (by @Mayz1169)](#action-fantasy-case-35)
+  - [ケース 36: モンゴル騎兵のパルティアンショット (by @Ankit_patel211)](#action-fantasy-case-36)
+  - [ケース 37: 巨大カエルの飛脚疾走 (by @0xbisc)](#action-fantasy-case-37)
+  - [ケース 38: 雷の戦士ゾンビ包囲戦 (by @MO_IAI)](#action-fantasy-case-38)
+  - [ケース 39: 白虎の古寺雷雨 (by @LudovicCreator)](#action-fantasy-case-39)
+  - [ケース 40: 補給船と巨大ザメ (by @rahulnanda86)](#action-fantasy-case-40)
   - [ケース 41: 闘技場の女巨人による大逆転 (by @rahulnanda86)](#action-fantasy-case-41)
   - [ケース 42: 倉庫でのボディガード制圧劇 (by @Rosey_watson)](#action-fantasy-case-42)
-- [🎞️ シネマティック・リアリズム](#cinematic-realism) (8)
-  - [ケース 1: 現代日本のドキュメンタリーシーケンス (投稿者 @kuranoayashi)](#cinematic-realism-case-1)
-  - [ケース 2: 影を追うロングボードのダウンヒル (投稿者 @Dheepanratnam)](#cinematic-realism-case-2)
-  - [ケース 3: 隕石で覚醒する戦乙女 (投稿者 @ChrisTheNerv)](#cinematic-realism-case-3)
-  - [ケース 4: 霧のカプセル島ドラマ (投稿者 @umesh_ai)](#cinematic-realism-case-4)
-  - [ケース 5: 嵐の断崖に現れる侍 (投稿者 @umesh_ai)](#cinematic-realism-case-5)
-  - [ケース 6: VHSプール大飛び込み審査員 (投稿者 @Ankit_patel211)](#cinematic-realism-case-6)
-  - [ケース 7: 黒のヴィンテージカー嵐の疾走 (投稿者 @LudovicCreator)](#cinematic-realism-case-7)
-  - [ケース 8: 嵐の海岸灯台シーケンス (投稿者 @LudovicCreator)](#cinematic-realism-case-8)
+  - [ケース 43: 北極基地ワーム襲撃 (by @StevieMac03)](#action-fantasy-case-43)
+- [🎞️ Cinematic Realism](#cinematic-realism) (10)
+  - [ケース 1: 現代日本のドキュメンタリーシーケンス (by @kuranoayashi)](#cinematic-realism-case-1)
+  - [ケース 2: 影を追うロングボードのダウンヒル (by @Dheepanratnam)](#cinematic-realism-case-2)
+  - [ケース 3: 隕石で覚醒する戦乙女 (by @ChrisTheNerv)](#cinematic-realism-case-3)
+  - [ケース 4: 霧のカプセル島ドラマ (by @umesh_ai)](#cinematic-realism-case-4)
+  - [ケース 5: 嵐の断崖に現れる侍 (by @umesh_ai)](#cinematic-realism-case-5)
+  - [ケース 6: VHSプール大飛び込み審査員 (by @Ankit_patel211)](#cinematic-realism-case-6)
+  - [ケース 7: 黒のヴィンテージカー嵐の疾走 (by @LudovicCreator)](#cinematic-realism-case-7)
+  - [ケース 8: 嵐の海岸灯台シーケンス (by @LudovicCreator)](#cinematic-realism-case-8)
   - [ケース 9: 砂嵐を突っ切るバギー脱出 (by @umesh_ai)](#cinematic-realism-case-9)
+  - [ケース 10: アルゼンチン対スペイン乱闘中継 (by @Ankit_patel211)](#cinematic-realism-case-10)
 - [🥽 POV / FPV](#pov-fpv) (21)
-  - [ケース 1: 胸部カメラによる迷彩チェイス (投稿者 @genel_ai)](#pov-fpv-case-1)
-  - [ケース 2: 上海サイバーパンク都市のショーリール (投稿者 @Adam38363368936)](#pov-fpv-case-2)
-  - [ケース 3: 呪われた侍の一貫性アクションプロンプト (投稿者 @Just_sharon7)](#pov-fpv-case-3)
-  - [ケース 4: Y2K プールパーティーのビデオカメラ・モンタージュ (投稿者 @johnAGI168)](#pov-fpv-case-4)
-  - [ケース 5: テスラカード視点の都市バースト (投稿者 @xingsthatmatter)](#pov-fpv-case-5)
-  - [ケース 6: アニメ MV の極端なクローズアップ (投稿者 @drjoetw)](#pov-fpv-case-6)
-  - [ケース 7: 高速でシームレスな 16 ショット (投稿者 @aisavvy1)](#pov-fpv-case-7)
-  - [ケース 8: 中世ファンタジー都市への降下 (投稿者 @LudovicCreator)](#pov-fpv-case-8)
-  - [ケース 9: ソーダのグラスに落ちる氷を一人称で見る (投稿者 @LudovicCreator)](#pov-fpv-case-9)
-  - [ケース 10: 自然な粒子感を持つ荒々しい手持ち 35 mm フィルム (投稿者 @AngelNwoha)](#pov-fpv-case-10)
-  - [ケース 11: 10 秒のフォトリアルな映画的 POV 映像 (投稿者 @umitsuru_fire)](#pov-fpv-case-11)
-  - [ケース 12: 終末後の超未来メガシティが嵐の中で目覚める (投稿者 @johnAGI168)](#pov-fpv-case-12)
-  - [ケース 13: スタイル：超写実的な工業タイムラプス (投稿者 @craftian_keskin)](#pov-fpv-case-13)
-  - [ケース 14: 怪物襲撃で変身する女子高生 (投稿者 @Yuupapa_free)](#pov-fpv-case-14)
-  - [ケース 15: 東京 POV ジェットコースター (投稿者 @TechTalkNAVI)](#pov-fpv-case-15)
-  - [ケース 16: 映画的な北京文化広告 — 8K 一人称視点 (投稿者 @crayon1267)](#pov-fpv-case-16)
-  - [ケース 17: 極限マクロ FPV — 妖精の翼を追うショット (投稿者 @EHuanglu)](#pov-fpv-case-17)
-  - [ケース 18: 火山洞窟への重力ダイブ (投稿者 @LudovicCreator)](#pov-fpv-case-18)
-  - [ケース 19: 超音速で駆け抜ける砂漠峡谷 POV (投稿者 @LudovicCreator)](#pov-fpv-case-19)
-  - [ケース 20: フランス花火 FPV フライオーバー (投稿者 @LudovicCreator)](#pov-fpv-case-20)
+  - [ケース 1: 胸部カメラによる迷彩チェイス (by @genel_ai)](#pov-fpv-case-1)
+  - [ケース 2: 上海サイバーパンク都市のショーリール (by @Adam38363368936)](#pov-fpv-case-2)
+  - [ケース 3: 呪われた侍の一貫性アクションプロンプト (by @Just_sharon7)](#pov-fpv-case-3)
+  - [ケース 4: Y2K プールパーティーのビデオカメラ・モンタージュ (by @johnAGI168)](#pov-fpv-case-4)
+  - [ケース 5: テスラカード視点の都市バースト (by @xingsthatmatter)](#pov-fpv-case-5)
+  - [ケース 6: アニメ MV の極端なクローズアップ (by @drjoetw)](#pov-fpv-case-6)
+  - [ケース 7: 高速でシームレスな 16 ショット (by @aisavvy1)](#pov-fpv-case-7)
+  - [ケース 8: 中世ファンタジー都市への降下 (by @LudovicCreator)](#pov-fpv-case-8)
+  - [ケース 9: ソーダのグラスに落ちる氷を一人称で見る (by @LudovicCreator)](#pov-fpv-case-9)
+  - [ケース 10: 自然な粒子感を持つ荒々しい手持ち 35 mm フィルム (by @AngelNwoha)](#pov-fpv-case-10)
+  - [ケース 11: 10 秒のフォトリアルな映画的 POV 映像 (by @umitsuru_fire)](#pov-fpv-case-11)
+  - [ケース 12: 終末後の超未来メガシティが嵐の中で目覚める (by @johnAGI168)](#pov-fpv-case-12)
+  - [ケース 13: スタイル：超写実的な工業タイムラプス (by @craftian_keskin)](#pov-fpv-case-13)
+  - [ケース 14: 怪物襲撃で変身する女子高生 (by @Yuupapa_free)](#pov-fpv-case-14)
+  - [ケース 15: 東京 POV ジェットコースター (by @TechTalkNAVI)](#pov-fpv-case-15)
+  - [ケース 16: 映画的な北京文化広告 — 8K 一人称視点 (by @crayon1267)](#pov-fpv-case-16)
+  - [ケース 17: 極限マクロ FPV — 妖精の翼を追うショット (by @EHuanglu)](#pov-fpv-case-17)
+  - [ケース 18: 火山洞窟への重力ダイブ (by @LudovicCreator)](#pov-fpv-case-18)
+  - [ケース 19: 超音速で駆け抜ける砂漠峡谷 POV (by @LudovicCreator)](#pov-fpv-case-19)
+  - [ケース 20: フランス花火 FPV フライオーバー (by @LudovicCreator)](#pov-fpv-case-20)
   - [ケース 21: サイバネティック戦場 FPV ダイブ (by @LudovicCreator)](#pov-fpv-case-21)
-- [🏷️ コマーシャル / 商品](#commercial-product) (27)
-  - [ケース 1: 香水 CM 風アニメ三人組ダンスステージ (投稿者 @ShadeLurk)](#commercial-product-case-1)
-  - [ケース 2: ダークファンタジー教会の決闘 (投稿者 @ZaraIrahh)](#commercial-product-case-2)
-  - [ケース 3: ダークファンタジー神殿ホールの決闘 (投稿者 @MiraMusic_AI)](#commercial-product-case-3)
-  - [ケース 4: 日本のお菓子 CM のオチ (投稿者 @aigeboku)](#commercial-product-case-4)
-  - [ケース 5: Seedance 2 向け映画的武術シーケンス (投稿者 @CharaspowerAI)](#commercial-product-case-5)
-  - [ケース 6: 日本の教室でささやく恋 (投稿者 @JiahaoYang_art)](#commercial-product-case-6)
-  - [ケース 7: LaFerrari CM ストーリーボード (投稿者 @Adam38363368936)](#commercial-product-case-7)
-  - [ケース 8: 熱血アニメの最終決闘 (投稿者 @gkxspace)](#commercial-product-case-8)
-  - [ケース 9: 磁器クチュールの天空鏡面ランウェイ (投稿者 @johnAGI168)](#commercial-product-case-9)
-  - [ケース 10: 現代の農村クリエイターによる収穫広告 (投稿者 @johnAGI168)](#commercial-product-case-10)
-  - [ケース 11: ネオン街のストリートレース (投稿者 @CharaspowerAI)](#commercial-product-case-11)
-  - [ケース 12: スーパーモデルと高級スポーツカー (投稿者 @johnAGI168)](#commercial-product-case-12)
-  - [ケース 13: 研究所を破壊したアンドロイド少女の逃走 (投稿者 @aiehon_aya)](#commercial-product-case-13)
-  - [ケース 14: ネオン廃墟都市のゲームトレーラー (投稿者 @adrianaia_)](#commercial-product-case-14)
-  - [ケース 15: オリジナル・ダークファンタジーアクション短編 (投稿者 @Rufus87078959)](#commercial-product-case-15)
-  - [ケース 16: 00:00–00:04 ショット 1：追跡撮影 (投稿者 @IamEmily2050)](#commercial-product-case-16)
-  - [ケース 17: 列車屋根上の戦術格闘 (投稿者 @ImperfectEngel)](#commercial-product-case-17)
-  - [ケース 18: マンハッタン取引フロアの狂騒 (投稿者 @johnAGI168)](#commercial-product-case-18)
-  - [ケース 19: ポリツィオッテスコ風の水曜日 (投稿者 @ChrisGwinnLA)](#commercial-product-case-19)
-  - [ケース 20: 折りたたみスマートフォンのファッション広告 (投稿者 @Adam38363368936)](#commercial-product-case-20)
-  - [ケース 21: 旅の相棒になるスーツケースのモンタージュ (投稿者 @ChaseAIx)](#commercial-product-case-21)
-  - [ケース 22: 真上からのファッションルックブック — 衣装替え (投稿者 @johnAGI168)](#commercial-product-case-22)
-  - [ケース 23: 高級ライフスタイル CM — Vlog 自撮り風 (投稿者 @johnAGI168)](#commercial-product-case-23)
-  - [ケース 24: ビート同期の防水スニーカー映像 (投稿者 @madpencil_)](#commercial-product-case-24)
-  - [ケース 25: マンゴスチン美容液のプロダクトリビール (投稿者 @ritesh_ai)](#commercial-product-case-25)
-  - [ケース 26: ムンバイのスーツケースタクシーお披露目 (投稿者 @rahulnanda86)](#commercial-product-case-26)
-  - [ケース 27: インフルエンサーの崖上ヴィラルームツアー (投稿者 @Ankit_patel211)](#commercial-product-case-27)
-- [🖼️ 参照画像ベース](#reference-driven) (22)
-  - [ケース 1: 骸骨ピアニストのミニチュアジオラマ演奏 (投稿者 @tea_story_hoshi)](#reference-driven-case-1)
-  - [ケース 2: 嵐の船上の王女対クラーケン (投稿者 @applete77191758)](#reference-driven-case-2)
-  - [ケース 3: メイド剣舞：メイ対ココ (投稿者 @MiraMusic_AI)](#reference-driven-case-3)
-  - [ケース 4: 終末の屋上でピアノに別れを告げる (投稿者 @liyue_ai)](#reference-driven-case-4)
-  - [ケース 5: 映画的 8 mm 魚眼、FPV レースドローン、超流動モーション (投稿者 @itsPixieVerse)](#reference-driven-case-5)
-  - [ケース 6: 参照画像駆動のカンフースタント (投稿者 @YaReYaRu30Life)](#reference-driven-case-6)
-  - [ケース 7: レイトレーシング、Unreal Engine レンダリング、豪雨の町 (投稿者 @Gwsubsa)](#reference-driven-case-7)
-  - [ケース 8: 月面コンビニの夜勤 (投稿者 @zasuko_michiksa)](#reference-driven-case-8)
-  - [ケース 9: 屋上で覚醒し F-14 へ変形 (投稿者 @john87445528)](#reference-driven-case-9)
-  - [ケース 10: 装甲組み立てからの街頭反撃 (投稿者 @egeberkina)](#reference-driven-case-10)
-  - [ケース 11: 画像 1 のキャラクターを実写人物化 (投稿者 @Adam38363368936)](#reference-driven-case-11)
-  - [ケース 12: ホッキョクグマのマッチカット剣闘テンプレート (投稿者 @aimikoda)](#reference-driven-case-12)
-  - [ケース 13: 7 枚の画像によるシームレス変形 (投稿者 @YaReYaRu30Life)](#reference-driven-case-13)
-  - [ケース 14: Stridex スニーカー CM (投稿者 @ShamsAmin56)](#reference-driven-case-14)
-  - [ケース 15: 歌う猫を使った画像駆動プロンプト (投稿者 @pan_soramame_da)](#reference-driven-case-15)
-  - [ケース 16: キャラクター参照アニメプロンプト (投稿者 @Reiria123)](#reference-driven-case-16)
-  - [ケース 17: アニメ動物を実写化 (投稿者 @MustafyOf)](#reference-driven-case-17)
-  - [ケース 18: 固定ストーリーボードの参照階層 (投稿者 @startracker)](#reference-driven-case-18)
-  - [ケース 19: VOLTIA 吸電モンタージュ (投稿者 @itsPixieVerse)](#reference-driven-case-19)
-  - [ケース 20: クレオパトラの宮殿告白 (投稿者 @kinovi_ai)](#reference-driven-case-20)
-  - [ケース 21: 街灯の下の雨の再会 (投稿者 @umesh_ai)](#reference-driven-case-21)
-  - [ケース 22: 昆劇楽屋の一発撮り変身 (投稿者 @ou_zhen599)](#reference-driven-case-22)
-- [🌀 シュール / VFX](#surreal-vfx) (15)
-  - [ケース 1: 無重力の刀剣戦 (投稿者 @MiraMusic_AI)](#surreal-vfx-case-1)
-  - [ケース 2: 雲を泳ぐクジラのシュールな叙事詩 (投稿者 @chaosdotjpg)](#surreal-vfx-case-2)
-  - [ケース 3: 深海ダイバーが海洋生物へ変貌 (投稿者 @AIARTGALLARY)](#surreal-vfx-case-3)
-  - [ケース 4: 異次元メガシティの裂け目崩壊 (投稿者 @LudovicCreator)](#surreal-vfx-case-4)
-  - [ケース 5: 雨の地下路地での融合 (投稿者 @Dheepanratnam)](#surreal-vfx-case-5)
-  - [ケース 6: 量子現実の破砕による街路の裂け目 (投稿者 @Dheepanratnam)](#surreal-vfx-case-6)
-  - [ケース 7: 目が突然開く (投稿者 @roco_kn_roco)](#surreal-vfx-case-7)
-  - [ケース 8: 浮遊する溶岩川の上空で激突 (投稿者 @LudovicCreator)](#surreal-vfx-case-8)
-  - [ケース 9: クリエイティブディレクターの次元歩行 (投稿者 @lukasersil)](#surreal-vfx-case-9)
-  - [ケース 10: 深淵の存在を刻む祭壇碑文 — ダークファンタジー (投稿者 @Adam38363368936)](#surreal-vfx-case-10)
-  - [ケース 11: 浮遊 UI カラーホイールによる場面変換 (投稿者 @johnAGI168)](#surreal-vfx-case-11)
-  - [ケース 12: 炎の女帝の変身シーケンス (投稿者 @LudovicCreator)](#surreal-vfx-case-12)
-  - [ケース 13: 砂の巨人への砂漠変身 (投稿者 @LudovicCreator)](#surreal-vfx-case-13)
-  - [ケース 14: 逃走車のごみ収集車変形 (投稿者 @LavrionX)](#surreal-vfx-case-14)
-  - [ケース 15: 森の守護者の書道変身 (投稿者 @LudovicCreator)](#surreal-vfx-case-15)
-- [📐 テンプレートと構造化形式](#templates-structured) (19)
-  - [ケース 1: 超大型空母の壊滅的沈没 (投稿者 @johnAGI168)](#templates-structured-case-1)
-  - [ケース 2: 記憶の断片を再構築 (投稿者 @TechTalkNAVI)](#templates-structured-case-2)
-  - [ケース 3: 設計図から現実へ — 平屋住宅の変形 (投稿者 @craftian_keskin)](#templates-structured-case-3)
-  - [ケース 4: 武術オートクチュールの仕立て屋 (投稿者 @Adam38363368936)](#templates-structured-case-4)
-  - [ケース 5: ビート同期の衣装切り替えテンプレート (投稿者 @aimikoda)](#templates-structured-case-5)
-  - [ケース 6: 踊る超高層ビル街テンプレート (投稿者 @TechTalkNAVI)](#templates-structured-case-6)
-  - [ケース 7: 星明かりの影／星くずのシルエット (投稿者 @TechTalkNAVI)](#templates-structured-case-7)
-  - [ケース 8: 絵画風パルクール POV テンプレート (投稿者 @0xbisc)](#templates-structured-case-8)
-  - [ケース 9: 360 度 POV 下り階段ラン・テンプレート (投稿者 @aimikoda)](#templates-structured-case-9)
-  - [ケース 10: 食べ物とキャラクターの動きテンプレート (投稿者 @Just_sharon7)](#templates-structured-case-10)
-  - [ケース 11: 不可能カメラのキッチンダッシュ (投稿者 @Dheepanratnam)](#templates-structured-case-11)
-  - [ケース 12: 時間停止 POV バースト (投稿者 @CharaspowerAI)](#templates-structured-case-12)
-  - [ケース 13: 宇宙飛行士の初船外活動テンプレート (投稿者 @BrennanErbz)](#templates-structured-case-13)
-  - [ケース 14: ゴールデンレトリバーの日常テンプレート (投稿者 @0xbisc)](#templates-structured-case-14)
-  - [ケース 15: スタイライズ 3D 理髪店変身シーケンス (投稿者 @ShamiWeb3)](#templates-structured-case-15)
-  - [ケース 16: 印象派のボートをこぐ手テンプレート (投稿者 @0xbisc)](#templates-structured-case-16)
-  - [ケース 17: 女戦士 — 構造化された被写体プロンプト (投稿者 @noman23761)](#templates-structured-case-17)
-  - [ケース 18: 箱から現れるロフト空間 (投稿者 @samaote)](#templates-structured-case-18)
-  - [ケース 19: 表情ディテール検証 (投稿者 @ou_zhen599)](#templates-structured-case-19)
+- [🏷️ Commercial / Product](#commercial-product) (27)
+  - [ケース 1: 香水 CM 風アニメ三人組ダンスステージ (by @ShadeLurk)](#commercial-product-case-1)
+  - [ケース 2: ダークファンタジー教会の決闘 (by @ZaraIrahh)](#commercial-product-case-2)
+  - [ケース 3: ダークファンタジー神殿ホールの決闘 (by @MiraMusic_AI)](#commercial-product-case-3)
+  - [ケース 4: 日本のお菓子 CM のオチ (by @aigeboku)](#commercial-product-case-4)
+  - [ケース 5: Seedance 2 向け映画的武術シーケンス (by @CharaspowerAI)](#commercial-product-case-5)
+  - [ケース 6: 日本の教室でささやく恋 (by @JiahaoYang_art)](#commercial-product-case-6)
+  - [ケース 7: LaFerrari CM ストーリーボード (by @Adam38363368936)](#commercial-product-case-7)
+  - [ケース 8: 熱血アニメの最終決闘 (by @gkxspace)](#commercial-product-case-8)
+  - [ケース 9: 磁器クチュールの天空鏡面ランウェイ (by @johnAGI168)](#commercial-product-case-9)
+  - [ケース 10: 現代の農村クリエイターによる収穫広告 (by @johnAGI168)](#commercial-product-case-10)
+  - [ケース 11: ネオン街のストリートレース (by @CharaspowerAI)](#commercial-product-case-11)
+  - [ケース 12: スーパーモデルと高級スポーツカー (by @johnAGI168)](#commercial-product-case-12)
+  - [ケース 13: 研究所を破壊したアンドロイド少女の逃走 (by @aiehon_aya)](#commercial-product-case-13)
+  - [ケース 14: ネオン廃墟都市のゲームトレーラー (by @adrianaia_)](#commercial-product-case-14)
+  - [ケース 15: オリジナル・ダークファンタジーアクション短編 (by @Rufus87078959)](#commercial-product-case-15)
+  - [ケース 16: 00:00–00:04 ショット 1：追跡撮影 (by @IamEmily2050)](#commercial-product-case-16)
+  - [ケース 17: 列車屋根上の戦術格闘 (by @ImperfectEngel)](#commercial-product-case-17)
+  - [ケース 18: マンハッタン取引フロアの狂騒 (by @johnAGI168)](#commercial-product-case-18)
+  - [ケース 19: ポリツィオッテスコ風の水曜日 (by @ChrisGwinnLA)](#commercial-product-case-19)
+  - [ケース 20: 折りたたみスマートフォンのファッション広告 (by @Adam38363368936)](#commercial-product-case-20)
+  - [ケース 21: 旅の相棒になるスーツケースのモンタージュ (by @ChaseAIx)](#commercial-product-case-21)
+  - [ケース 22: 真上からのファッションルックブック — 衣装替え (by @johnAGI168)](#commercial-product-case-22)
+  - [ケース 23: 高級ライフスタイル CM — Vlog 自撮り風 (by @johnAGI168)](#commercial-product-case-23)
+  - [ケース 24: ビート同期の防水スニーカー映像 (by @madpencil_)](#commercial-product-case-24)
+  - [ケース 25: マンゴスチン美容液のプロダクトリビール (by @ritesh_ai)](#commercial-product-case-25)
+  - [ケース 26: ムンバイのスーツケースタクシーお披露目 (by @rahulnanda86)](#commercial-product-case-26)
+  - [ケース 27: インフルエンサーの崖上ヴィラルームツアー (by @Ankit_patel211)](#commercial-product-case-27)
+- [🖼️ Reference-Driven](#reference-driven) (22)
+  - [ケース 1: 骸骨ピアニストのミニチュアジオラマ演奏 (by @tea_story_hoshi)](#reference-driven-case-1)
+  - [ケース 2: 嵐の船上の王女対クラーケン (by @applete77191758)](#reference-driven-case-2)
+  - [ケース 3: メイド剣舞：メイ対ココ (by @MiraMusic_AI)](#reference-driven-case-3)
+  - [ケース 4: 終末の屋上でピアノに別れを告げる (by @liyue_ai)](#reference-driven-case-4)
+  - [ケース 5: 映画的 8 mm 魚眼、FPV レースドローン、超流動モーション (by @itsPixieVerse)](#reference-driven-case-5)
+  - [ケース 6: 参照画像駆動のカンフースタント (by @YaReYaRu30Life)](#reference-driven-case-6)
+  - [ケース 7: レイトレーシング、Unreal Engine レンダリング、豪雨の町 (by @Gwsubsa)](#reference-driven-case-7)
+  - [ケース 8: 月面コンビニの夜勤 (by @zasuko_michiksa)](#reference-driven-case-8)
+  - [ケース 9: 屋上で覚醒し F-14 へ変形 (by @john87445528)](#reference-driven-case-9)
+  - [ケース 10: 装甲組み立てからの街頭反撃 (by @egeberkina)](#reference-driven-case-10)
+  - [ケース 11: 画像 1 のキャラクターを実写人物化 (by @Adam38363368936)](#reference-driven-case-11)
+  - [ケース 12: ホッキョクグマのマッチカット剣闘テンプレート (by @aimikoda)](#reference-driven-case-12)
+  - [ケース 13: 7 枚の画像によるシームレス変形 (by @YaReYaRu30Life)](#reference-driven-case-13)
+  - [ケース 14: Stridex スニーカー CM (by @ShamsAmin56)](#reference-driven-case-14)
+  - [ケース 15: 歌う猫を使った画像駆動プロンプト (by @pan_soramame_da)](#reference-driven-case-15)
+  - [ケース 16: キャラクター参照アニメプロンプト (by @Reiria123)](#reference-driven-case-16)
+  - [ケース 17: アニメ動物を実写化 (by @MustafyOf)](#reference-driven-case-17)
+  - [ケース 18: 固定ストーリーボードの参照階層 (by @startracker)](#reference-driven-case-18)
+  - [ケース 19: VOLTIA 吸電モンタージュ (by @itsPixieVerse)](#reference-driven-case-19)
+  - [ケース 20: クレオパトラの宮殿告白 (by @kinovi_ai)](#reference-driven-case-20)
+  - [ケース 21: 街灯の下の雨の再会 (by @umesh_ai)](#reference-driven-case-21)
+  - [ケース 22: 昆劇楽屋の一発撮り変身 (by @ou_zhen599)](#reference-driven-case-22)
+- [🌀 Surreal / VFX](#surreal-vfx) (16)
+  - [ケース 1: 無重力の刀剣戦 (by @MiraMusic_AI)](#surreal-vfx-case-1)
+  - [ケース 2: 雲を泳ぐクジラのシュールな叙事詩 (by @chaosdotjpg)](#surreal-vfx-case-2)
+  - [ケース 3: 深海ダイバーが海洋生物へ変貌 (by @AIARTGALLARY)](#surreal-vfx-case-3)
+  - [ケース 4: 異次元メガシティの裂け目崩壊 (by @LudovicCreator)](#surreal-vfx-case-4)
+  - [ケース 5: 雨の地下路地での融合 (by @Dheepanratnam)](#surreal-vfx-case-5)
+  - [ケース 6: 量子現実の破砕による街路の裂け目 (by @Dheepanratnam)](#surreal-vfx-case-6)
+  - [ケース 7: 目が突然開く (by @roco_kn_roco)](#surreal-vfx-case-7)
+  - [ケース 8: 浮遊する溶岩川の上空で激突 (by @LudovicCreator)](#surreal-vfx-case-8)
+  - [ケース 9: クリエイティブディレクターの次元歩行 (by @lukasersil)](#surreal-vfx-case-9)
+  - [ケース 10: 深淵の存在を刻む祭壇碑文 — ダークファンタジー (by @Adam38363368936)](#surreal-vfx-case-10)
+  - [ケース 11: 浮遊 UI カラーホイールによる場面変換 (by @johnAGI168)](#surreal-vfx-case-11)
+  - [ケース 12: 炎の女帝の変身シーケンス (by @LudovicCreator)](#surreal-vfx-case-12)
+  - [ケース 13: 砂の巨人への砂漠変身 (by @LudovicCreator)](#surreal-vfx-case-13)
+  - [ケース 14: 逃走車のごみ収集車変形 (by @LavrionX)](#surreal-vfx-case-14)
+  - [ケース 15: 森の守護者の書道変身 (by @LudovicCreator)](#surreal-vfx-case-15)
+  - [ケース 16: 呪われた茶会の亡霊 (by @LudovicCreator)](#surreal-vfx-case-16)
+- [📐 Templates & Structured Formats](#templates-structured) (21)
+  - [ケース 1: 超大型空母の壊滅的沈没 (by @johnAGI168)](#templates-structured-case-1)
+  - [ケース 2: 記憶の断片を再構築 (by @TechTalkNAVI)](#templates-structured-case-2)
+  - [ケース 3: 設計図から現実へ — 平屋住宅の変形 (by @craftian_keskin)](#templates-structured-case-3)
+  - [ケース 4: 武術オートクチュールの仕立て屋 (by @Adam38363368936)](#templates-structured-case-4)
+  - [ケース 5: ビート同期の衣装切り替えテンプレート (by @aimikoda)](#templates-structured-case-5)
+  - [ケース 6: 踊る超高層ビル街テンプレート (by @TechTalkNAVI)](#templates-structured-case-6)
+  - [ケース 7: 星明かりの影／星くずのシルエット (by @TechTalkNAVI)](#templates-structured-case-7)
+  - [ケース 8: 絵画風パルクール POV テンプレート (by @0xbisc)](#templates-structured-case-8)
+  - [ケース 9: 360 度 POV 下り階段ラン・テンプレート (by @aimikoda)](#templates-structured-case-9)
+  - [ケース 10: 食べ物とキャラクターの動きテンプレート (by @Just_sharon7)](#templates-structured-case-10)
+  - [ケース 11: 不可能カメラのキッチンダッシュ (by @Dheepanratnam)](#templates-structured-case-11)
+  - [ケース 12: 時間停止 POV バースト (by @CharaspowerAI)](#templates-structured-case-12)
+  - [ケース 13: 宇宙飛行士の初船外活動テンプレート (by @BrennanErbz)](#templates-structured-case-13)
+  - [ケース 14: ゴールデンレトリバーの日常テンプレート (by @0xbisc)](#templates-structured-case-14)
+  - [ケース 15: スタイライズ 3D 理髪店変身シーケンス (by @ShamiWeb3)](#templates-structured-case-15)
+  - [ケース 16: 印象派のボートをこぐ手テンプレート (by @0xbisc)](#templates-structured-case-16)
+  - [ケース 17: 女戦士 — 構造化された被写体プロンプト (by @noman23761)](#templates-structured-case-17)
+  - [ケース 18: 箱から現れるロフト空間 (by @samaote)](#templates-structured-case-18)
+  - [ケース 19: 表情ディテール検証 (by @ou_zhen599)](#templates-structured-case-19)
   - [ケース 20: 浸水した舞踏会場の脱出ストーリーボード (by @ChangningL29508)](#templates-structured-case-20)
-- [🎬 一般シネマティック](#general-cinematic) (38)
-  - [ケース 1: ハイヒールとビートが同期するファッション接写 (投稿者 @TingFengAIAI)](#general-cinematic-case-1)
-  - [ケース 2: 子ども部屋でミニスケートボード脱出 (投稿者 @anson7956)](#general-cinematic-case-2)
-  - [ケース 3: ラッカー・パークのおばあちゃん対決 (投稿者 @techhalla)](#general-cinematic-case-3)
-  - [ケース 4: 消防士による赤ちゃん救出 (投稿者 @AITalesNBH)](#general-cinematic-case-4)
-  - [ケース 5: 古代衣装への変身ショー (投稿者 @johnAGI168)](#general-cinematic-case-5)
-  - [ケース 6: 夜の銀座、未来のサイバーパンク (投稿者 @ChiakiAkagi)](#general-cinematic-case-6)
-  - [ケース 7: 跳ねる者の物語 (投稿者 @starks_arq)](#general-cinematic-case-7)
-  - [ケース 8: 渋谷スクランブル交差点の中央に立つ怪しい男 (投稿者 @roco_kn_roco)](#general-cinematic-case-8)
-  - [ケース 9: 漁船の群衆を捉えるスマホ映像 (投稿者 @maxescu)](#general-cinematic-case-9)
-  - [ケース 10: デジタルトンネルを高速落下する少女 (投稿者 @_3912657840)](#general-cinematic-case-10)
-  - [ケース 11: スカイツリー・レールガン発射 (投稿者 @TechTalkNAVI)](#general-cinematic-case-11)
-  - [ケース 12: ハリウッド映画の予告編 (投稿者 @SSSS_CRYPTOMAN)](#general-cinematic-case-12)
-  - [ケース 13: 映画的な縦型 9:16 シーケンス (投稿者 @Mayz1169)](#general-cinematic-case-13)
-  - [ケース 14: 沿岸都市のそばで巨大氷河壁がフィヨルドへ崩落 (投稿者 @LudovicCreator)](#general-cinematic-case-14)
-  - [ケース 15: 月明かりのピアノ追跡劇とネズミ (投稿者 @Dheepanratnam)](#general-cinematic-case-15)
-  - [ケース 16: 15 秒連続ワンカットのカートゥーン (投稿者 @Artedeingenio)](#general-cinematic-case-16)
-  - [ケース 17: 夕暮れのスチームパンク飛行船戦 (投稿者 @Alin_Reaper05)](#general-cinematic-case-17)
-  - [ケース 18: ビーチサンダルのジェット翼を追うショット (投稿者 @maxescu)](#general-cinematic-case-18)
-  - [ケース 19: 深山にある古寺の外観 (投稿者 @cdexsta)](#general-cinematic-case-19)
-  - [ケース 20: 自由の女神と日の出のストーリーボード (投稿者 @MrDasOnX)](#general-cinematic-case-20)
-  - [ケース 21: 劇的照明で描く歴史場面 (投稿者 @AskVenice)](#general-cinematic-case-21)
-  - [ケース 22: ロケットサーフィンの連続追跡撮影 (投稿者 @maxescu)](#general-cinematic-case-22)
-  - [ケース 23: スタンドアップコメディ独白テンプレート (投稿者 @Adam38363368936)](#general-cinematic-case-23)
-  - [ケース 24: 誕生日の裏切りを描くレストランドラマ (投稿者 @Lighterkissan33)](#general-cinematic-case-24)
-  - [ケース 25: 古代パルクールの衣装替え (投稿者 @Adam38363368936)](#general-cinematic-case-25)
-  - [ケース 26: エンジン内部 — ピストンの機械ディテール (投稿者 @YaReYaRu30Life)](#general-cinematic-case-26)
-  - [ケース 27: 90 年代日本恋愛シミュレーション — セル画風 (投稿者 @kinopioai_ai)](#general-cinematic-case-27)
-  - [ケース 28: 映画演出技法 — マルチショット・プロンプト (投稿者 @noman23761)](#general-cinematic-case-28)
-  - [ケース 29: 東アジア女性のポートレート — 自然な笑顔 (投稿者 @noman23761)](#general-cinematic-case-29)
-  - [ケース 30: 終末後のサバイバル — 映画的セットアップ (投稿者 @noman23761)](#general-cinematic-case-30)
-  - [ケース 31: ピクサー風の森の空き地 — 3D アニメーション (投稿者 @SPEEDAI07)](#general-cinematic-case-31)
-  - [ケース 32: 布団の中でおやつを盗む子猫 (投稿者 @lynneatyoumind)](#general-cinematic-case-32)
-  - [ケース 33: Seedance 2.0 T2V 自然発話テスト (投稿者 @tanabe_fragm)](#general-cinematic-case-33)
-  - [ケース 34: 紙人形ホラーアニメーション (投稿者 @TomaAIbijo)](#general-cinematic-case-34)
-  - [ケース 35: 赤い砂漠を走るバイクの追跡ショット (投稿者 @LudovicCreator)](#general-cinematic-case-35)
-  - [ケース 36: ポンペイ災害の DV 映像 (投稿者 @venturetwins)](#general-cinematic-case-36)
-  - [ケース 37: 廃遊園地を歩く宇宙飛行士 (投稿者 @LudovicCreator)](#general-cinematic-case-37)
-  - [ケース 38: 海賊アヒルのバスタブ航海 (投稿者 @CharaspowerAI)](#general-cinematic-case-38)
+  - [ケース 21: 駅ホーム決闘ビートマップ (by @SYDxStudio)](#templates-structured-case-21)
+- [🎬 General Cinematic](#general-cinematic) (39)
+  - [ケース 1: ハイヒールとビートが同期するファッション接写 (by @TingFengAIAI)](#general-cinematic-case-1)
+  - [ケース 2: 子ども部屋でミニスケートボード脱出 (by @anson7956)](#general-cinematic-case-2)
+  - [ケース 3: ラッカー・パークのおばあちゃん対決 (by @techhalla)](#general-cinematic-case-3)
+  - [ケース 4: 消防士による赤ちゃん救出 (by @AITalesNBH)](#general-cinematic-case-4)
+  - [ケース 5: 古代衣装への変身ショー (by @johnAGI168)](#general-cinematic-case-5)
+  - [ケース 6: 夜の銀座、未来のサイバーパンク (by @ChiakiAkagi)](#general-cinematic-case-6)
+  - [ケース 7: 跳ねる者の物語 (by @starks_arq)](#general-cinematic-case-7)
+  - [ケース 8: 渋谷スクランブル交差点の中央に立つ怪しい男 (by @roco_kn_roco)](#general-cinematic-case-8)
+  - [ケース 9: 漁船の群衆を捉えるスマホ映像 (by @maxescu)](#general-cinematic-case-9)
+  - [ケース 10: デジタルトンネルを高速落下する少女 (by @_3912657840)](#general-cinematic-case-10)
+  - [ケース 11: スカイツリー・レールガン発射 (by @TechTalkNAVI)](#general-cinematic-case-11)
+  - [ケース 12: ハリウッド映画の予告編 (by @SSSS_CRYPTOMAN)](#general-cinematic-case-12)
+  - [ケース 13: 映画的な縦型 9:16 シーケンス (by @Mayz1169)](#general-cinematic-case-13)
+  - [ケース 14: 沿岸都市のそばで巨大氷河壁がフィヨルドへ崩落 (by @LudovicCreator)](#general-cinematic-case-14)
+  - [ケース 15: 月明かりのピアノ追跡劇とネズミ (by @Dheepanratnam)](#general-cinematic-case-15)
+  - [ケース 16: 15 秒連続ワンカットのカートゥーン (by @Artedeingenio)](#general-cinematic-case-16)
+  - [ケース 17: 夕暮れのスチームパンク飛行船戦 (by @Alin_Reaper05)](#general-cinematic-case-17)
+  - [ケース 18: ビーチサンダルのジェット翼を追うショット (by @maxescu)](#general-cinematic-case-18)
+  - [ケース 19: 深山にある古寺の外観 (by @cdexsta)](#general-cinematic-case-19)
+  - [ケース 20: 自由の女神と日の出のストーリーボード (by @MrDasOnX)](#general-cinematic-case-20)
+  - [ケース 21: 劇的照明で描く歴史場面 (by @AskVenice)](#general-cinematic-case-21)
+  - [ケース 22: ロケットサーフィンの連続追跡撮影 (by @maxescu)](#general-cinematic-case-22)
+  - [ケース 23: スタンドアップコメディ独白テンプレート (by @Adam38363368936)](#general-cinematic-case-23)
+  - [ケース 24: 誕生日の裏切りを描くレストランドラマ (by @Lighterkissan33)](#general-cinematic-case-24)
+  - [ケース 25: 古代パルクールの衣装替え (by @Adam38363368936)](#general-cinematic-case-25)
+  - [ケース 26: エンジン内部 — ピストンの機械ディテール (by @YaReYaRu30Life)](#general-cinematic-case-26)
+  - [ケース 27: 90 年代日本恋愛シミュレーション — セル画風 (by @kinopioai_ai)](#general-cinematic-case-27)
+  - [ケース 28: 映画演出技法 — マルチショット・プロンプト (by @noman23761)](#general-cinematic-case-28)
+  - [ケース 29: 東アジア女性のポートレート — 自然な笑顔 (by @noman23761)](#general-cinematic-case-29)
+  - [ケース 30: 終末後のサバイバル — 映画的セットアップ (by @noman23761)](#general-cinematic-case-30)
+  - [ケース 31: ピクサー風の森の空き地 — 3D アニメーション (by @SPEEDAI07)](#general-cinematic-case-31)
+  - [ケース 32: 布団の中でおやつを盗む子猫 (by @lynneatyoumind)](#general-cinematic-case-32)
+  - [ケース 33: Seedance 2.0 T2V 自然発話テスト (by @tanabe_fragm)](#general-cinematic-case-33)
+  - [ケース 34: 紙人形ホラーアニメーション (by @TomaAIbijo)](#general-cinematic-case-34)
+  - [ケース 35: 赤い砂漠を走るバイクの追跡ショット (by @LudovicCreator)](#general-cinematic-case-35)
+  - [ケース 36: ポンペイ災害の DV 映像 (by @venturetwins)](#general-cinematic-case-36)
+  - [ケース 37: 廃遊園地を歩く宇宙飛行士 (by @LudovicCreator)](#general-cinematic-case-37)
+  - [ケース 38: 海賊アヒルのバスタブ航海 (by @CharaspowerAI)](#general-cinematic-case-38)
+  - [ケース 39: 闇の地球を映す軌道基地VHS (by @LudovicCreator)](#general-cinematic-case-39)
+
 <a id="action-fantasy"></a>
-## ⚔️ アクション / ファンタジー
+## ⚔️ Action / Fantasy (43)
 
 <a id="action-fantasy-case-1"></a>
 <!-- Case 1: Street Rap MV Performance (by @songguoxiansen) -->
@@ -1043,7 +1049,6 @@ SHOT 6: Full shot to medium shot, 35mm, forward follow and side move. Station ap
 SHOT 7: Medium close-up to close-up, 50mm, camera moves behind messenger, approaches forward. Frog stops and stands firm, messenger turns to open back mailbox, takes out envelope, turns and hands to extended hand. Sound: latch opening, lid sound, envelope pulled out, handover, wind fades.
 ```
 
-
 <a id="action-fantasy-case-38"></a>
 <!-- Case 38: Thunder Warrior Zombie Siege (by @MO_IAI) -->
 ### ケース 38: [雷の戦士ゾンビ包囲戦](https://x.com/MO_IAI/status/2078252502755983855) (投稿者 [@MO_IAI](https://x.com/MO_IAI))
@@ -1098,7 +1103,6 @@ Shot 4 (9–13s) — BIG SLOW-MOTION MOMENT: The shark circles alone in the open
 
 Shot 5 (13–15s): Time snaps back. A huge blast erupts in the water beside the drifting barge, fire and spray shooting high into the sky. The rescue boat reaches the dock safely as the crew watches the water settle.
 ```
-
 
 <a id="action-fantasy-case-41"></a>
 <!-- Case 41: Arena Giantess Upset (by @rahulnanda86) -->
@@ -1183,10 +1187,49 @@ The entire coliseum explodes into deafening celebration as thousands of spectato
 ```
 A cinematic 15-second action sequence set inside a dark, gritty industrial warehouse at night, featuring moody teal-green lighting, chain-link fences, metal scaffolding, peeling green walls, and floating dust particles. A powerful, elegant East Asian Boss Lady wears a sleek black pantsuit with long flowing black hair and a calm, commanding expression. Standing beside her is a handsome, athletic male bodyguard in an all-black tailored suit with a heroic presence. As multiple attackers rush in, the bodyguard instantly steps in front of the Boss Lady, protecting her with lightning-fast punches, powerful kicks, evasive movements, and cinematic takedowns. The Boss Lady remains composed and confident, watching as her protector defeats every attacker. The sequence ends with the bodyguard standing protectively beside the Boss Lady as they walk forward together in slow motion, dust swirling around them. Handheld and tracking camera shots, dramatic low angles, realistic fabric movement, cinematic motion blur, ultra-detailed choreography, film-quality lighting, emotional heroism, 4K ultra-realistic cinematic masterpiece.
 ```
-<a id="cinematic-realism"></a>
+
+<a id="action-fantasy-case-43"></a>
+<!-- Case 43: Arctic Station Worm Attack (by @StevieMac03) -->
+### ケース 43: [北極基地ワーム襲撃](https://x.com/StevieMac03/status/2079168831646216508) (投稿者 [@StevieMac03](https://x.com/StevieMac03))
+
+| 出力 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-43"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2079168831646216508.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**プロンプト:**
+
+```
+{
+  "META": "Live-action standalone creature attack short | Length 15 seconds | Arctic research station exterior | Modern day grounded realism | Giant worm horror | Cinematic realism",
+  "SHOT": {
+    "CAM": "Low shoulder height tracking shot that slowly drifts into a side profile run, sudden violent handheld shake on emergence, snap pan to impact, final locked wide on aftermath, filmed on ARRI Alexa LF with 35mm lens",
+    "SET": "Windswept arctic ice field outside a remote research station, prefab modular buildings with steel walkways half buried in snowdrifts, satellite dish crusted with rime ice, snowmobiles parked beside stacked fuel drums, orange marker flags whipping in the wind, endless white plain dissolving into low gray sky",
+    "SUBJECT": "Two scientists caught in open ground, Dr. Aaron Voss early 40s tall dark beard in a red expedition parka with fur trimmed hood thrown back, Dr. Lena Okafor mid 30s braided hair under a wool beanie wearing an insulated yellow field suit streaked with grease and snow",
+    "ACTION": "They run across the packed snow as the ice behind them begins to crack in sharp straight lines. The ground suddenly erupts as a massive ringed segment punches up through the frozen crust. A towering giant worm bursts free in a spray of ice shards and snow, its pale segmented body uncoiling with violent force. Its circular maw peels open in layered rings of hooked teeth with a wet grinding shriek as it lunges forward. Aaron shoves Lena aside just as the worm slams down between them. Its maw clamps around Aaron's torso and lifts him screaming into the air. He claws at its rubbery hide as viscous gray fluid sprays from a torn segment. The worm violently jerks him inward and swallows him with a sickening crunch. Lena stumbles backward in shock. The worm pivots with terrifying speed and lunges again, dragging her screaming beneath the ice as its body churns the snow into a white blizzard of debris. Only drifting powder remains.",
+    "STYLE": "Practical monster horror realism, immense worm mass and physics emphasized, no stylized motion, raw violent impact, tactile ice debris and snow strikes on lens",
+    "LIGHTING": "Flat overcast polar daylight with cold diffuse shadows, pale highlights sliding along the worm's wet segmented hide as it moves, breath vapor catching the light",
+    "AMBIENCE_COLOR": "Blue white ice tones, sickly pale gray worm flesh, safety orange and red gear accents, steel gray sky"
+  },
+  "AUDIO": {
+    "dialogue": [
+      { "speaker": "Dr. Aaron Voss", "line": "Lena get down" },
+      { "speaker": "Dr. Lena Okafor", "line": "Aaron" }
+    ],
+    "ambience": [
+      "deep ice cracking sharply",
+      "explosive frozen ground eruption impact",
+      "wet grinding shriek layered with gnashing ringed teeth",
+      "bone crushing crunch",
+      "howling arctic wind",
+      "snow settling into dead silence"
+    ]
+  },
+  "NEG": "no subtitles, no drones, no on screen text, no glowing eyes, no neon colors, no period vehicles, no vintage clothing, no stylized CGI surfaces, no slow motion"
+}
+```
 
 <a id="cinematic-realism"></a>
-## 🎞️ シネマティック・リアリズム
+## 🎞️ Cinematic Realism (10)
 
 <a id="cinematic-realism-case-1"></a>
 <!-- Case 1: Modern Japan Documentary Sequence (by @kuranoayashi) -->
@@ -1320,7 +1363,6 @@ Natural sound only. Crowd chanting, loud applause, laughter, splashing water, ec
 The result must feel like authentic raw 1990s home video footage capturing a completely ordinary pool jump that somehow turned into an Olympic-level celebration.
 ```
 
-
 <a id="cinematic-realism-case-7"></a>
 <!-- Case 7: Vintage Black Car Storm Run (by @LudovicCreator) -->
 ### ケース 7: [黒のヴィンテージカー嵐の疾走](https://x.com/LudovicCreator/status/2078057220512629018) (投稿者 [@LudovicCreator](https://x.com/LudovicCreator))
@@ -1349,7 +1391,6 @@ A vintage black car speeds along a winding mountain road in heavy rain at dusk, 
 A solitary lighthouse stands on a jagged black cliff as a monstrous storm crashes against the coast at night. Waves explode against the rocks far below, sending white spray into the air like smoke, while the lighthouse beam cuts through sheets of rain and drifting sea mist. Inside, an old keeper climbs the narrow spiral staircase with a lantern in hand, his coat soaked, the light flickering with every thunderclap. The camera moves between wide shots of the lighthouse dwarfed by the fury of the ocean and intimate interior close-ups of wet stone walls, rattling glass, trembling hands, and the golden lantern glow in the darkness. As the storm intensifies, lightning reveals a ghostly ship in the distance, barely visible between walls of rain. The sequence feels haunting, dramatic, and timeless, with crashing waves, thunder, and a powerful sense of isolation.
 ```
 
-
 <a id="cinematic-realism-case-9"></a>
 <!-- Case 9: Sandstorm Buggy Escape (by @umesh_ai) -->
 ### ケース 9: [砂嵐を突っ切るバギー脱出](https://x.com/umesh_ai/status/2078781951377555966) (投稿者 [@umesh_ai](https://x.com/umesh_ai))
@@ -1363,8 +1404,39 @@ A solitary lighthouse stands on a jagged black cliff as a monstrous storm crashe
 ```
 Towering sandstone cliffs crack under the pressure of a violent sandstorm. From a sweeping aerial over a vast desert basin, the camera dives aggressively toward a high-speed off-road buggy tearing through collapsing dunes. It slingshots past the front grill, whips around the roll cage, then drops tight to the spinning tires as sand blasts outward in golden waves. Chunks of rock tumble from above, dust spirals across the route, and the driver threads through narrow canyon gaps as entire ridgelines slump into avalanches of sand. The buggy surges through a curtain of blowing grit, bursts free, and races onto a surreal salt flat glowing in sunset orange. The camera rockets upward into a giant reveal as the storm fades behind. The engine cuts. Silence swallows the desert.
 ```
+
+<a id="cinematic-realism-case-10"></a>
+<!-- Case 10: Argentina Spain Broadcast Brawl (by @Ankit_patel211) -->
+### ケース 10: [アルゼンチン対スペイン乱闘中継](https://x.com/Ankit_patel211/status/2079286938373419028) (投稿者 [@Ankit_patel211](https://x.com/Ankit_patel211))
+
+| 出力 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-realism-case-10"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2079286938373419028.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**プロンプト:**
+
+```
+Live sports television broadcast, authentic real-time football match retransmission. Natural stadium daylight, slight haze, packed crowd, official scoreboard ARG 0-0 ESP. Pure professional sports TV camera language with authentic broadcast zooms, natural handheld lens shake, genuine live-feed texture, realistic TV graphics, no cinematic polish.
+
+A modern football stadium during an Argentina vs Spain international match. Argentina players wear sky-blue and white striped kits, Spain players wear red kits. The atmosphere feels exactly like a live FIFA television broadcast with thousands of cheering fans, realistic commentators, stadium ambience, and professional sports camera work.
+
+0-4s: [High Wide Broadcast Shot]
+Normal gameplay suddenly stops when one Argentina player humorously pulls on oversized blue boxing gloves. Nearby Spain players stare in total disbelief before everyone begins a playful, exaggerated football brawl filled with harmless pushing, dodging, jersey grabbing, dramatic reactions, and cartoonishly over-the-top movements. The crowd erupts with laughter.
+
+4-8s: [Pitch-Level Tracking Shot]
+The broadcast camera tracks beside the action. The Argentina player throws exaggerated air punches while Spain players comically dodge and stumble. Players from both teams harmlessly wrestle, trip over each other, and dramatically roll across the grass. Coaches leap from the benches and sprint onto the pitch trying to separate everyone while assistant coaches wave their arms frantically.
+
+8-12s: [Classic Live TV Close-Up]
+The referee repeatedly blows the whistle as assistant referees, security staff, coaches, substitutes, and medical staff rush into the middle of the hilarious chaos. Everyone tries to pull players apart. The boxing-glove player is dragged backward by teammates while Spain players continue pointing, arguing, and making exaggerated facial expressions. The crowd chants and laughs loudly.
+
+12-15s: [Wide Stadium Broadcast]
+Camera pulls back to reveal the entire pitch. Coaches, referees, substitutes, and security form a large human barrier between both teams. Players gradually calm down but continue dramatically arguing and pointing. The referee theatrically flashes yellow cards in every direction while looking completely overwhelmed. The Argentina player raises his oversized boxing gloves to the cheering crowd as the stadium bursts into laughter, creating the feeling of an unforgettable viral football broadcast.
+
+Ultra-realistic live sports broadcast quality, authentic TV camera movement, realistic sports-lens motion blur, genuine crowd reactions, coherent body physics, stable character consistency, natural stadium audio, live television retransmission texture, unscripted sports broadcast energy, no cinematic color grading, no artificial enhancement, looks exactly like authentic live football coverage with lighthearted slapstick comedy.
+```
+
 <a id="pov-fpv"></a>
-## 🥽 POV / FPV
+## 🥽 POV / FPV (21)
 
 <a id="pov-fpv-case-1"></a>
 <!-- Case 1: Chest-Mounted Camouflage Chase Sequence (by @genel_ai) -->
@@ -1858,7 +1930,6 @@ Pure first-person camera perspective, no visible drone, no cockpit, no aircraft 
 Immersive first-person flying camera perspective, no visible drone or flying device. The entire sequence takes place at night beneath a deep blue sky. The camera races above the illuminated lavender fields of Provence while fireworks burst continuously in blue, white, and red across the horizon. It weaves through glowing medieval villages, vineyards, French châteaux, the cliffs of Normandy, and Mont-Saint-Michel reflected in the dark tide, with fireworks erupting above every location. The camera then follows the Seine into Paris at extreme speed, skimming beneath historic bridges, banking around the Arc de Triomphe, and climbing beside the fully illuminated Eiffel Tower as enormous synchronized fireworks fill the sky and reflect across the river. At the finale, the camera pulls back above Paris while the fireworks create a vast tricolor glow. A gigantic French flag unfurls naturally from the top of the Eiffel Tower, waving majestically above the city as the final fireworks burst behind it. No text, no words, no letters. Continuous POV shot, no cuts, aggressive banking, cinematic motion blur, realistic night lighting, volumetric smoke, detailed fireworks, ultra-realistic travel cinematography, spectacular blockbuster VFX, IMAX quality.
 ```
 
-
 <a id="pov-fpv-case-21"></a>
 <!-- Case 21: Cybernetic Battlefield FPV Dive (by @LudovicCreator) -->
 ### ケース 21: [サイバネティック戦場 FPV ダイブ](https://x.com/LudovicCreator/status/2078842368661315786) (投稿者 [@LudovicCreator](https://x.com/LudovicCreator))
@@ -1872,8 +1943,9 @@ Immersive first-person flying camera perspective, no visible drone or flying dev
 ```
 Immersive first-person flying camera perspective, no visible drone or flying device. The camera launches at insane speed across a colossal dystopian cyborg battlefield at night, flying only centimeters above shattered metal, burning wreckage, and rivers of glowing energy. It violently snap-rolls between the legs of towering combat mechs, knife-edges through collapsing steel structures, dives beneath gigantic walking war machines, then instantly climbs through exploding industrial ruins. Swarms of autonomous combat drones streak overhead while colossal cybernetic titans exchange devastating energy blasts that illuminate the battlefield. The camera constantly changes direction with brutal FPV precision,rapid S-turns, vertical dives, barrel rolls, power loops around gigantic reactor towers, split-S reversals, wall-hugging passes through ruined megafactories, and razor-close proximity flights beneath collapsing bridges. Neon holograms flicker through dense smoke as thousands of laser tracers, plasma arcs, sparks, and electrical storms fill the sky. Gigantic cybernetic creatures emerge from the darkness while endless ranks of futuristic soldiers and armored exosuits advance across the battlefield beneath towering ruined skyscrapers. The camera threads through impossibly tight gaps as collapsing buildings, burning aircraft, and massive mechanical debris crash around it, then rockets into a colossal mechanical canyon formed by fallen war machines. At the climax, the battlefield opens into an unimaginably vast cybernetic wasteland where a planet-sized artificial intelligence core rises above the horizon, surrounded by colossal rotating rings, lightning storms, and endless mechanical cities stretching to infinity. Continuous POV shot, no cuts, relentless acceleration, extreme high-speed FPV racing, aggressive banking, rapid altitude changes, barrel rolls, corkscrews, split-S maneuvers, power loops, knife-edge turns, realistic inertia, cinematic motion blur, volumetric smoke, dynamic lighting, neon reflections, hyper-detailed dystopian environments, surreal cyberpunk architecture, blockbuster sci-fi VFX, IMAX quality.
 ```
+
 <a id="commercial-product"></a>
-## 🏷️ コマーシャル / 商品
+## 🏷️ Commercial / Product (27)
 
 <a id="commercial-product-case-1"></a>
 <!-- Case 1: Perfume-Style Anime Trio Dance Stage (by @ShadeLurk) -->
@@ -2505,11 +2577,8 @@ Ref image is wearing a stylish casual-luxury outfit with subtle yellow and green
 Real iPhone 16 Pro footage look, natural bright daylight, authentic mobile camera movement and slight shake, natural vibrant colors, coherent physics, stable character, real phone video quality, no film look, no artifacts, looks like genuine Instagram Reel footage shot on location.
 ```
 
-
 <a id="reference-driven"></a>
-
-<a id="reference-driven"></a>
-## 🖼️ 参照画像ベース
+## 🖼️ Reference-Driven (22)
 
 <a id="reference-driven-case-1"></a>
 <!-- Case 1: Skeleton Pianist Miniature Diorama Performance (by @tea_story_hoshi) -->
@@ -3469,8 +3538,6 @@ Scene 5: Slow orbit around them sitting together, watching the mist drift throug
 Scene 6: Distant pullback across a reflective puddle, framing them beneath the enormous tree as they quietly share tea and savour the rain.
 ```
 
-
-
 <a id="reference-driven-case-22"></a>
 <!-- Case 22: Kunqu Backstage One-Take Transformation (by @ou_zhen599) -->
 ### ケース 22: [昆劇楽屋の一発撮り変身](https://x.com/ou_zhen599/status/2078394020741673439) (投稿者 [@ou_zhen599](https://x.com/ou_zhen599))
@@ -3486,7 +3553,7 @@ Scene 6: Distant pullback across a reflective puddle, framing them beneath the e
 ```
 
 <a id="surreal-vfx"></a>
-## 🌀 シュール / VFX
+## 🌀 Surreal / VFX (16)
 
 <a id="surreal-vfx-case-1"></a>
 <!-- Case 1: Zero-Gravity Katana Combat (by @MiraMusic_AI) -->
@@ -3868,7 +3935,6 @@ She pauses, watches the police pass… then slowly turns toward camera and winks
 Ambient city sound returns. No hard cut.
 ```
 
-
 <a id="surreal-vfx-case-15"></a>
 <!-- Case 15: Forest Guardian Calligraphy Transformation (by @LudovicCreator) -->
 ### ケース 15: [森の守護者の書道変身](https://x.com/LudovicCreator/status/2078346662699798878) (投稿者 [@LudovicCreator](https://x.com/LudovicCreator))
@@ -3883,8 +3949,22 @@ Ambient city sound returns. No hard cut.
 Full magical transformation sequence: a forest guardian floating in an aged moss-green parchment void as deep emerald ink spreads through the air like liquid leaves blooming in water ,calligraphy strokes whip around the body, staining the hair into soft jade green, sketching layered nature armor, glowing vine markings across the face, and a long spear silhouette in sweeping green brushwork. A circular ancient seal script sigil blooms underfoot with splashes of pearl-white light, the camera pushing in through drifting ink veils like torn leaves in a storm, each brush impact synced to a rising drumbeat, ending in a spear-planted signature pose locked inside an emerald-and-pearl calligraphy burst. Stock-footage grandeur, played sincere.
 ```
 
+<a id="surreal-vfx-case-16"></a>
+<!-- Case 16: Haunted Tea Ceremony Apparition (by @LudovicCreator) -->
+### ケース 16: [呪われた茶会の亡霊](https://x.com/LudovicCreator/status/2078902823656226891) (投稿者 [@LudovicCreator](https://x.com/LudovicCreator))
+
+| 出力 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=surreal-vfx-case-16"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2078902823656226891.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**プロンプト:**
+
+```
+Stylized anime haunted tea ceremony beat: an elderly woman pours tea inside an abandoned tatami room, steam rising from the cup and slowly forming the shape of a long-lost guest. Dust floats in golden afternoon light, paper doors rattling gently though no wind enters the house. Slow push-in across the floor, tea reflections rippling with impossible memories, the woman’s calm face mirrored in the porcelain cup. The ghostly figure leans closer and the silence holds one beat past comfort.
+```
+
 <a id="templates-structured"></a>
-## 📐 テンプレートと構造化形式
+## 📐 Templates & Structured Formats (21)
 
 <a id="templates-structured-case-1"></a>
 <!-- Case 1: Supercarrier Catastrophic Sinking (by @johnAGI168) -->
@@ -4382,7 +4462,6 @@ Camera: fixed wide-angle shot, no zoom, no camera shake, no angle change.
 Negative prompt: no people, no extra rooms, no duplicated furniture, no distorted furniture, no warped walls, no text changes, no logo distortion, no sudden cuts, no messy construction debris, no cartoon animation.
 ```
 
-
 <a id="templates-structured-case-19"></a>
 <!-- Case 19: Facial Expression Detail Test (by @ou_zhen599) -->
 ### ケース 19: [表情ディテール検証](https://x.com/ou_zhen599/status/2078137477425172769) (投稿者 [@ou_zhen599](https://x.com/ou_zhen599))
@@ -4410,7 +4489,6 @@ Negative prompt: no people, no extra rooms, no duplicated furniture, no distorte
 12-15秒：目视前方/画面右侧，眼神柔和微润，唇瓣轻动似欲语还休，最终保持安静凝视状态，定格在温柔清冷、略带忧郁的情绪中，结尾无黑屏、无转场。
 ```
 
-
 <a id="templates-structured-case-20"></a>
 <!-- Case 20: Flooded Ballroom Escape Storyboard (by @ChangningL29508) -->
 ### ケース 20: [浸水した舞踏会場の脱出ストーリーボード](https://x.com/ChangningL29508/status/2078684698394636544) (投稿者 [@ChangningL29508](https://x.com/ChangningL29508))
@@ -4424,10 +4502,39 @@ Negative prompt: no people, no extra rooms, no duplicated furniture, no distorte
 ```
 @Image1 storyboard is a temporal beat map only. Create one continuous full-screen 16:9 cinematic 15-second live-action sequence, never show a panel grid, black gutters, collage, captions, or text. Same young adult bride with wet black hair, ivory satin wedding dress and red rubber boots; same soaked groom in a black tuxedo; same red-dress bridesmaid; same waiter in black vest. In a flooded Art Deco ballroom at night, follow the storyboard left to right, top to bottom: the bride pulls the groom through knee-deep water toward the warm exit; the bridesmaid follows with her shoes; the waiter opens and holds the door; guests plausibly clear the path and evacuate; the couple and bridesmaid reach the doorway. Cold blue-green storm light and warm chandelier reflections, believable water physics, cinematic 35mm camera, one natural continuous progression. Stable faces and identities, anatomically correct hands, no duplicate people, no warped anatomy, no elderly bride, no police, no weapons, no random actions, no watermark, no logo, no subtitles.
 ```
-<a id="general-cinematic"></a>
+
+<a id="templates-structured-case-21"></a>
+<!-- Case 21: Station Platform Duel Beatmap (by @SYDxStudio) -->
+### ケース 21: [駅ホーム決闘ビートマップ](https://x.com/SYDxStudio/status/2079286923424575628) (投稿者 [@SYDxStudio](https://x.com/SYDxStudio))
+
+| 出力 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-21"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2079286923424575628.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**プロンプト:**
+
+```
+Use @image1 only as P01-P06 movement waypoints for one uninterrupted action, never as shots, holds, a displayed image or style source. Flow through P02-P05 without stopping; P01/P06 are boundaries. Set STEP 06 as first frame and STEP 06T as last; they alone lock boundary staging. @image2 solely controls KAI: 185 cm, face always uncovered, headphones, black tank, twin cyan blades. @image3 solely controls KIRA: 165 cm, mask always worn, RIGHT dagger reverse/LEFT forward, two rear-belt capsules. @image4 is a mixed sheet: use ONLY Zone F Old Ward platform; ignore other panels/artifacts.
+
+Exactly 10.0 seconds, 24 fps. ZONE F ONLY: same stationary train, west platform, tiled column, bench, departure board, brake chain and closed carriage door; never reveal/enter Car 5. Start exact STEP 06, finish exact STEP 06T. During action KAI's tank right seam is sliced; floor, column, bench and board become damaged and remain so. Chain and door stay intact. No dialogue/music; only breath, shoes, cloth, blades, tile, bolts, timber, metal, debris.
+
+LOOK: hand-drawn 2D shonen-wuxia sakuga matching boundaries; variable black ink, flat cel blocks, one hard shadow, stepped drawings, foreshortening, dry-brush smears, simplified background only in velocity bursts; never photoreal, glossy, 3D or game-cinematic.
+
+CAMERA MODE: one continuous 20 mm master, no cuts. Launch low with KAI, dive under KIRA, inherit his eastward slide, whip around the same column, rise beside the rotating board, recoil with Sonic Strike, settle into STEP 06T. Tiles/debris prove parallax; no stable sideline or location crossing.
+
+PHRASE 1, actions 1-5: frame one, KIRA pushes from lintel; dives down-left; KAI springs up-right; twin blades catch crossed daggers off-axis for two frames; both twist out instantly, KIRA already moving east before landing.
+
+PHRASE 2, actions 6-10: KIRA scissor-cuts backward while retreating; KAI triangular-steps then long-slides east; her LEFT dagger slices only his tank's right seam; he rotates under her returning RIGHT; his RIGHT blade drives that dagger into the tiled column as she qinggong-steps on that same column and rebounds east.
+
+PHRASE 3, actions 11-16: KIRA touches the bench once; runs two steps along its back; springs to the board bracket; severs both bolts in one crossing cut; KAI rolls under the falling board while the bench breaks; he rises into one compact Sonic Strike folding the board around the stripped column as KIRA lands beside the intact chain in exact STEP 06T. No generic sparring, repeated clash, guard reset or panel pause.
+
+VISUAL EFFECTS: KAI uses only blade-edge-attached narrow cyan waveform crescents and segmented cyan body streaks. At the column, a compact cyan contact star forms exactly where his RIGHT blade meets KIRA's dagger; force passes through her dagger tip into grout, tiles cone east, bodies overshoot, cyan fragments decay, camera jolts once and recovers. At Sonic Strike, waveforms compress along KAI's forearms/blades into a black-cyan ink wedge at board contact; one cyan shock ring travels through metal, folds it and throws bolts, tile and dust into a radial debris silhouette; KAI recoils, ring fragments, camera snaps back. KIRA uses only needle-thin dagger-attached violet crescents and two path-bound violet-black afterimages, never clones. Her bolt cut creates a localized violet impact star; stress crosses both bolts, fragments lag, violet decays. Cyan never belongs to KIRA; violet-black never to KAI; no detached beam, aura cloud or constant glow.
+
+Never show storyboard/panels/labels/borders. No cut, blackout, flash transition, smoke cover, dissolve, morph, teleport, slow motion, freeze, replay, extra body/limb/weapon, identity swap, KAI mask, unmasked KIRA, vanished damage, moving train, cut chain, breached door, Car 5, premature P06 or overshoot.
+```
 
 <a id="general-cinematic"></a>
-## 🎬 一般シネマティック
+## 🎬 General Cinematic (39)
 
 <a id="general-cinematic-case-1"></a>
 <!-- Case 1: High-Heel Beat Sync Fashion Close-Up (by @TingFengAIAI) -->
@@ -5202,7 +5309,6 @@ The result must feel like authentic, raw footage of ordinary people in Pompeii e
 An astronaut in a full white suit walks alone through an abandoned amusement park at twilight. Rusted rides stand motionless, faded carnival lights flicker sporadically, and fog drifts low across cracked pavement. The helmet visor reflects broken roller coasters, carousel horses, and shredded flags fluttering in the wind. The camera follows from behind in a slow tracking shot, then cuts to low angles and haunting wide frames that emphasize the surreal contrast between the futuristic astronaut and the decaying park. As the astronaut passes the giant Ferris wheel, it suddenly creaks into motion on its own. Old speakers crackle with distant carnival music. The sequence feels eerie, dreamlike, and cinematic, like a science-fiction mystery with emotional loneliness at its core.
 ```
 
-
 <a id="general-cinematic-case-38"></a>
 <!-- Case 38: Pirate Duck Bathtub Voyage (by @CharaspowerAI) -->
 ### ケース 38: [海賊アヒルのバスタブ航海](https://x.com/CharaspowerAI/status/2078072313686184334) (投稿者 [@CharaspowerAI](https://x.com/CharaspowerAI))
@@ -5218,6 +5324,23 @@ A clay pirate captain duck with a tiny hat, wooden sword, eye patch and dramatic
 Sails across a bathtub ocean, battling giant soap waves and riding a sponge ship toward a rubber duck treasure island
 Bathroom fantasy world with bubbles, towels as cliffs and warm light reflecting on water
 3D clay, Pixar-style playful adventure, soft clay textures, rounded props, dynamic camera glide over water, bright cheerful atmosphere, ending with the duck discovering a golden bath plug treasure.
+```
+
+<a id="general-cinematic-case-39"></a>
+<!-- Case 39: Dark Earth Orbital Station VHS (by @LudovicCreator) -->
+### ケース 39: [闇の地球を映す軌道基地VHS](https://x.com/LudovicCreator/status/2079265271080984756) (投稿者 [@LudovicCreator](https://x.com/LudovicCreator))
+
+| 出力 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-39"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2079265271080984756.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**プロンプト:**
+
+```
+Old VHS-style footage from inside an abandoned orbital station in the 1980s. The image is grainy, warped, with tracking lines, washed-out colors, and timestamp burn-in. The camera floats slowly through empty corridors, cables drifting in zero gravity, warning lights blinking silently.
+At the 2-second mark, the tape glitches and the corridor appears longer than before. A sealed airlock door opens by itself at the far end. The camera drifts closer, passing floating tools, old photographs, and frozen droplets of water.
+Final moment: the camera enters the airlock and reveals Earth outside the window ,but Earth is completely dark.
+Analog sci-fi horror, VHS noise, zero-gravity atmosphere, retro space realism, eerie silence, cinematic degraded footage.
 ```
 
 <a id="related-repositories"></a>

@@ -40,6 +40,7 @@ action-fantasy-case-39	Tempête au temple du tigre blanc
 action-fantasy-case-40	Mégalodon contre péniche de ravitaillement
 action-fantasy-case-41	Renversement surprise de la géante dans l’arène
 action-fantasy-case-42	Neutralisation des assaillants dans un entrepôt par un garde du corps
+action-fantasy-case-43	Attaque du ver à la station arctique
 cinematic-realism-case-1	Séquence documentaire sur le Japon moderne
 cinematic-realism-case-2	Descente en longboard à la poursuite d’une ombre
 cinematic-realism-case-3	Héroïne de guerre réveillée par un météore
@@ -49,6 +50,7 @@ cinematic-realism-case-6	Juge de cannonball à la piscine VHS
 cinematic-realism-case-7	Course sous l’orage en voiture noire vintage
 cinematic-realism-case-8	Séquence du phare sur la côte en tempête
 cinematic-realism-case-9	Évasion en buggy dans une tempête de sable
+cinematic-realism-case-10	Bagarre télévisée Argentine-Espagne
 pov-fpv-case-1	Séquence de poursuite camouflée avec caméra pectorale
 pov-fpv-case-2	Bande-annonce d’une Shanghai cyberpunk
 pov-fpv-case-3	Prompt d’action cohérent d’un samouraï maudit
@@ -134,6 +136,7 @@ surreal-vfx-case-12	Séquence de transformation de l’impératrice du feu
 surreal-vfx-case-13	Transformation du titan de sable dans le désert
 surreal-vfx-case-14	Voiture en fuite transformée en camion-benne
 surreal-vfx-case-15	Transformation calligraphique de la gardienne de la forêt
+surreal-vfx-case-16	Apparition dans la cérémonie du thé hantée
 templates-structured-case-1	Naufrage catastrophique d’un superporte-avions
 templates-structured-case-2	Reconstruction de fragments de mémoire
 templates-structured-case-3	Du plan à la réalité — transformation d’une maison de plain-pied
@@ -154,6 +157,7 @@ templates-structured-case-17	Guerrière — prompt de sujet structuré
 templates-structured-case-18	Révélation d’un loft sorti d’une boîte
 templates-structured-case-19	Test de détail des expressions faciales
 templates-structured-case-20	Storyboard d’évasion d’une salle de bal inondée
+templates-structured-case-21	Beatmap du duel sur quai
 general-cinematic-case-1	Gros plan de mode sur des talons synchronisés au rythme
 general-cinematic-case-2	Évasion en mini-skateboard dans une chambre d’enfant
 general-cinematic-case-3	Duel de grands-mères à Rucker Park
@@ -192,3 +196,4 @@ general-cinematic-case-35	Travelling à moto dans le désert rouge
 general-cinematic-case-36	Images DV de la catastrophe de Pompéi
 general-cinematic-case-37	Promenade d’astronaute dans un parc d’attractions abandonné
 general-cinematic-case-38	Voyage en baignoire du canard pirate
+general-cinematic-case-39	VHS orbital avec Terre obscure

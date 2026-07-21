@@ -40,6 +40,7 @@ action-fantasy-case-39	Beyaz kaplan tapınağında fırtına
 action-fantasy-case-40	Erzak mavnasına dev köpekbalığı saldırısı
 action-fantasy-case-41	Arenada dev kadının sürpriz zaferi
 action-fantasy-case-42	Depoda korumanın saldırganları indirmesi
+action-fantasy-case-43	Arktik istasyonda kurt saldırısı
 cinematic-realism-case-1	Modern Japonya belgesel sekansı
 cinematic-realism-case-2	Gölgeyi takip eden longboard inişi
 cinematic-realism-case-3	Meteorla uyanan savaş kahramanı
@@ -49,6 +50,7 @@ cinematic-realism-case-6	VHS havuz cannonball hakemi
 cinematic-realism-case-7	Klasik siyah otomobille fırtına sürüşü
 cinematic-realism-case-8	Fırtınalı kıyı feneri sekansı
 cinematic-realism-case-9	Kum fırtınasında buggy kaçışı
+cinematic-realism-case-10	Arjantin İspanya yayın kavgası
 pov-fpv-case-1	Göğüs kameralı kamuflaj kovalamacası
 pov-fpv-case-2	Şanghay siberpunk şehir tanıtım videosu
 pov-fpv-case-3	Lanetli samuray için tutarlı aksiyon istemi
@@ -134,6 +136,7 @@ surreal-vfx-case-12	Ateş imparatoriçesinin dönüşüm sekansı
 surreal-vfx-case-13	Çölde kum titanına dönüşüm
 surreal-vfx-case-14	Kaçış arabasının çöp kamyonuna dönüşümü
 surreal-vfx-case-15	Orman muhafızının hat sanatı dönüşümü
+surreal-vfx-case-16	Lanetli çay seremonisi hayaleti
 templates-structured-case-1	Süper uçak gemisinin felaketle batışı
 templates-structured-case-2	Bellek parçalarının yeniden inşası
 templates-structured-case-3	Plana göre gerçeğe — tek katlı ev dönüşümü
@@ -154,6 +157,7 @@ templates-structured-case-17	Kadın savaşçı — yapılandırılmış özne is
 templates-structured-case-18	Kutudan çıkan loft iç mekânı
 templates-structured-case-19	Yüz ifadesi ayrıntı testi
 templates-structured-case-20	Su basmış balo salonundan kaçış hikâye panosu
+templates-structured-case-21	Peron düello beatmap'i
 general-cinematic-case-1	Topuklu ayakkabı ritim eşlemeli moda yakın planı
 general-cinematic-case-2	Çocuk odasında mini kaykayla kaçış
 general-cinematic-case-3	Rucker Park’ta büyükanne kapışması
@@ -192,3 +196,4 @@ general-cinematic-case-35	Kızıl çölde motosiklet takip çekimi
 general-cinematic-case-36	Pompeii felaketinin DV görüntüleri
 general-cinematic-case-37	Terk edilmiş lunaparkta astronot yürüyüşü
 general-cinematic-case-38	Korsan ördeğin küvet yolculuğu
+general-cinematic-case-39	Karanlık Dünya yörünge VHS'i
