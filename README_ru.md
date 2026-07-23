@@ -4,7 +4,7 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Попробовать Seedance 2.0 в браузере](https://img.shields.io/badge/Try_in-Browser-black)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts&utm_content=model_try)
-[![Промпты-199 уникальных примеров](https://img.shields.io/badge/%D0%9F%D1%80%D0%BE%D0%BC%D0%BF%D1%82%D1%8B-199%20%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%BE%D0%B2-111111)](README.md)
+[![Промпты-203 уникальных примеров](https://img.shields.io/badge/%D0%9F%D1%80%D0%BE%D0%BC%D0%BF%D1%82%D1%8B-203%20%D1%83%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%BE%D0%B2-111111)](README.md)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -25,7 +25,7 @@
 
 Добро пожаловать в Awesome Seedance 2.0 Prompts! 🤗
 
-**Репозиторий содержит 199 уникальных промпта Seedance 2.0 с указанием источников для кинематографической генерации видео.**
+**Репозиторий содержит 203 уникальных промпта Seedance 2.0 с указанием источников для кинематографической генерации видео.**
 
 Промпты отобраны из публичных публикаций авторов и сохранены как повторно используемые материалы.
 
@@ -73,7 +73,7 @@ curl --request GET \
 <a id="statistics"></a>
 ## 📊 Статистика
 
-199 уникальных примеров в 8 категориях, синхронизированных в 11 README-файлах.
+203 уникальных примеров в 8 категориях, синхронизированных в 11 README-файлах.
 
 <a id="how-to-use"></a>
 ## 🧭 Как пользоваться репозиторием
@@ -132,7 +132,7 @@ curl --request GET \
   - [Пример 41: Сенсационная победа великанши на арене (by @rahulnanda86)](#action-fantasy-case-41)
   - [Пример 42: Разгром нападающих телохранителем на складе (by @Rosey_watson)](#action-fantasy-case-42)
   - [Пример 43: Атака червя на арктическую станцию (by @StevieMac03)](#action-fantasy-case-43)
-- [🎞️ Cinematic Realism](#cinematic-realism) (10)
+- [🎞️ Cinematic Realism](#cinematic-realism) (11)
   - [Пример 1: Документальная сцена о современной Японии (by @kuranoayashi)](#cinematic-realism-case-1)
   - [Пример 2: Спуск на лонгборде по следу тени (by @Dheepanratnam)](#cinematic-realism-case-2)
   - [Пример 3: Воительница, пробуждённая метеором (by @ChrisTheNerv)](#cinematic-realism-case-3)
@@ -143,6 +143,7 @@ curl --request GET \
   - [Пример 8: Сцена маяка на штормовом побережье (by @LudovicCreator)](#cinematic-realism-case-8)
   - [Пример 9: Побег на багги сквозь песчаную бурю (by @umesh_ai)](#cinematic-realism-case-9)
   - [Пример 10: Теледрака Аргентина против Испании (by @Ankit_patel211)](#cinematic-realism-case-10)
+  - [Пример 11: Ралли-дрифт по грязному лесу (by @LudovicCreator)](#cinematic-realism-case-11)
 - [🥽 POV / FPV](#pov-fpv) (21)
   - [Пример 1: Погоня в камуфляже с нагрудной камерой (by @genel_ai)](#pov-fpv-case-1)
   - [Пример 2: Динамичный ролик о киберпанковском Шанхае (by @Adam38363368936)](#pov-fpv-case-2)
@@ -193,7 +194,7 @@ curl --request GET \
   - [Пример 25: Презентация сыворотки с мангостином (by @ritesh_ai)](#commercial-product-case-25)
   - [Пример 26: Показ чемодана-такси в Мумбаи (by @rahulnanda86)](#commercial-product-case-26)
   - [Пример 27: Инфлюенсер-тур по вилле на утёсе (by @Ankit_patel211)](#commercial-product-case-27)
-- [🖼️ Reference-Driven](#reference-driven) (22)
+- [🖼️ Reference-Driven](#reference-driven) (23)
   - [Пример 1: Выступление пианиста-скелета в миниатюрной диораме (by @tea_story_hoshi)](#reference-driven-case-1)
   - [Пример 2: Принцесса на корабле в шторме против кракена (by @applete77191758)](#reference-driven-case-2)
   - [Пример 3: Танец клинков служанок: Мэй против Коко (by @MiraMusic_AI)](#reference-driven-case-3)
@@ -216,6 +217,7 @@ curl --request GET \
   - [Пример 20: Дворцовое признание Клеопатры (by @kinovi_ai)](#reference-driven-case-20)
   - [Пример 21: Дождливое воссоединение под фонарём (by @umesh_ai)](#reference-driven-case-21)
   - [Пример 22: Однокадровое превращение за кулисами куньцюй (by @ou_zhen599)](#reference-driven-case-22)
+  - [Пример 23: Взлёт дракона на горной вершине (by @minuitIA)](#reference-driven-case-23)
 - [🌀 Surreal / VFX](#surreal-vfx) (16)
   - [Пример 1: Бой на катанах в невесомости (by @MiraMusic_AI)](#surreal-vfx-case-1)
   - [Пример 2: Кит в облаках — сюрреалистическая эпопея (by @chaosdotjpg)](#surreal-vfx-case-2)
@@ -233,7 +235,7 @@ curl --request GET \
   - [Пример 14: Машина для побега, ставшая мусоровозом (by @LavrionX)](#surreal-vfx-case-14)
   - [Пример 15: Каллиграфическое превращение хранительницы леса (by @LudovicCreator)](#surreal-vfx-case-15)
   - [Пример 16: Призрак чайной церемонии (by @LudovicCreator)](#surreal-vfx-case-16)
-- [📐 Templates & Structured Formats](#templates-structured) (21)
+- [📐 Templates & Structured Formats](#templates-structured) (22)
   - [Пример 1: Катастрофическое затопление суперавианосца (by @johnAGI168)](#templates-structured-case-1)
   - [Пример 2: Восстановление осколков памяти (by @TechTalkNAVI)](#templates-structured-case-2)
   - [Пример 3: От чертежа к реальности — превращение одноэтажного дома (by @craftian_keskin)](#templates-structured-case-3)
@@ -255,7 +257,8 @@ curl --request GET \
   - [Пример 19: Тест детализации мимики (by @ou_zhen599)](#templates-structured-case-19)
   - [Пример 20: Раскадровка побега из затопленного бального зала (by @ChangningL29508)](#templates-structured-case-20)
   - [Пример 21: Битмап дуэли на платформе (by @SYDxStudio)](#templates-structured-case-21)
-- [🎬 General Cinematic](#general-cinematic) (39)
+  - [Пример 22: Chibi и штормовой взрыв окна (by @kinovi_ai)](#templates-structured-case-22)
+- [🎬 General Cinematic](#general-cinematic) (40)
   - [Пример 1: Модный крупный план каблуков в такт музыке (by @TingFengAIAI)](#general-cinematic-case-1)
   - [Пример 2: Побег на мини-скейтборде в детской спальне (by @anson7956)](#general-cinematic-case-2)
   - [Пример 3: Противостояние бабушек в Ракер-парке (by @techhalla)](#general-cinematic-case-3)
@@ -295,6 +298,7 @@ curl --request GET \
   - [Пример 37: Прогулка астронавта по заброшенному парку аттракционов (by @LudovicCreator)](#general-cinematic-case-37)
   - [Пример 38: Плавание пиратской утки по ванне (by @CharaspowerAI)](#general-cinematic-case-38)
   - [Пример 39: Орбитальный VHS с тёмной Землёй (by @LudovicCreator)](#general-cinematic-case-39)
+  - [Пример 40: MiniDV-казус у тыквенной лавки (by @ou_zhen599)](#general-cinematic-case-40)
 
 <a id="action-fantasy"></a>
 ## ⚔️ Action / Fantasy (43)
@@ -1229,7 +1233,7 @@ A cinematic 15-second action sequence set inside a dark, gritty industrial wareh
 ```
 
 <a id="cinematic-realism"></a>
-## 🎞️ Cinematic Realism (10)
+## 🎞️ Cinematic Realism (11)
 
 <a id="cinematic-realism-case-1"></a>
 <!-- Case 1: Modern Japan Documentary Sequence (by @kuranoayashi) -->
@@ -1433,6 +1437,27 @@ The referee repeatedly blows the whistle as assistant referees, security staff, 
 Camera pulls back to reveal the entire pitch. Coaches, referees, substitutes, and security form a large human barrier between both teams. Players gradually calm down but continue dramatically arguing and pointing. The referee theatrically flashes yellow cards in every direction while looking completely overwhelmed. The Argentina player raises his oversized boxing gloves to the cheering crowd as the stadium bursts into laughter, creating the feeling of an unforgettable viral football broadcast.
 
 Ultra-realistic live sports broadcast quality, authentic TV camera movement, realistic sports-lens motion blur, genuine crowd reactions, coherent body physics, stable character consistency, natural stadium audio, live television retransmission texture, unscripted sports broadcast energy, no cinematic color grading, no artificial enhancement, looks exactly like authentic live football coverage with lighthearted slapstick comedy.
+```
+
+<a id="cinematic-realism-case-11"></a>
+<!-- Case 11: Muddy Forest Rally Drift (by @LudovicCreator) -->
+### Пример 11: [Ралли-дрифт по грязному лесу](https://x.com/LudovicCreator/status/2080005053461487791) (автор [@LudovicCreator](https://x.com/LudovicCreator))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=cinematic-realism-case-11"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2080005053461487791.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Промпт:**
+
+```
+A rally car races through a muddy forest road during overcast daylight. The camera is positioned low near the track, lens splashed with mud, trees close to the road, engine echoing between trunks.
+At the 2-second mark, the car enters a tight corner too fast, slides sideways, wheels spinning, mud spraying violently behind. The suspension compresses over ruts, the driver corrects, and the car powers out of the bend without losing control. The movement stays grounded, fast, dirty, and believable.
+Final moment: the car disappears into the forest, leaving mud and exhaust hanging in the air.
+Hyper-real motorsport realism, practical mud physics, natural camera shake, 4K.
+
+Made in @dreamina_ai
+
+#DreaminaCPP #DreaminaAI
 ```
 
 <a id="pov-fpv"></a>
@@ -2578,7 +2603,7 @@ Real iPhone 16 Pro footage look, natural bright daylight, authentic mobile camer
 ```
 
 <a id="reference-driven"></a>
-## 🖼️ Reference-Driven (22)
+## 🖼️ Reference-Driven (23)
 
 <a id="reference-driven-case-1"></a>
 <!-- Case 1: Skeleton Pianist Miniature Diorama Performance (by @tea_story_hoshi) -->
@@ -3552,6 +3577,148 @@ Scene 6: Distant pullback across a reflective puddle, framing them beneath the e
 - 15秒电影短片《粉墨》，一镜到底，Steadicam跟拍，微距起幅，焦点丝滑转换；参考图1统一人物，年轻昆剧女演员，粉色刺绣戏服，白粉色长水袖，蓝银点翠头面，古典戏曲妆容；场景是简陋戏曲后台化妆间，旧木妆台、胭脂盒、红木梳、珠钗散落，远处红幕低垂，背景隐约人影走动和后台低语，暖黄偏红低照度光，复古东方电影质感，浅景深。0-4秒微距缓推妆台，停在她搭在桌沿的手上，无名指极轻收拢，手腕缓慢转动，水袖泛起波纹；4-8秒镜头顺手向上弧线抬起到半身，她微偏头，低垂眼睑，右手轻轻摩挲下巴，左肩微塌，整个人被心事压住；第5秒开始滑入极空灵悠长的昆曲竹笛，后台杂音逐渐退远；8-11秒动作增强，指腹忽然停住，右手沿下颌和锁骨缓慢滑落到心口，五指轻压胸前衣料，呼吸一滞，头一点点抬正，肩线收起，脊背被缓缓提直，颈线拉长；11-13秒镜头微环绕，她按心口的手顺势带着水袖划出一道柔而有力的弧线，整个人慢慢起身，不猛，极稳，腰肩颈背一寸寸立住；13-15秒她半转身朝向上场门或强光方向，水袖落下，珠串轻晃，目光先看向远处再一点点凝回，眼神里有旧伤、认命、不甘、成全和决绝，不哭不喊，只是彻底立住，完成从人到戏中人的转化，定格半秒后极轻淡出；不要古风写真感，不要夸张甩袖，不要舞台化过重，不要镜头乱晃。
 ```
 
+<a id="reference-driven-case-23"></a>
+<!-- Case 23: Mountain Summit Dragon Takeoff (by @minuitIA) -->
+### Пример 23: [Взлёт дракона на горной вершине](https://x.com/minuitIA/status/2080029449169584395) (автор [@minuitIA](https://x.com/minuitIA))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=reference-driven-case-23"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2080029449169584395.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Промпт:**
+
+```
+Create a 15-second hyper-realistic live-action multi-shot cinematic video in 16:9. Fast-paced, spectacular, emotionally warm, visually original, with strong viral short-form impact.
+
+REFERENCE ASSIGNMENT:
+
+Use @Image1 only as the main visual reference for the relationship, relative scale and physical proximity between the young man and the dragon.
+
+Use @Image2 only to preserve the young man’s exact identity, youthful face, age, haircut, body proportions, red-brown tunic, trousers, boots, leather straps, bracers, satchel, sword and accessories. Do not reproduce the design-sheet layout, labels, panels or studio background.
+
+Use @Image3 only to preserve the dragon’s exact identity, pink-red coloration, reptilian head, amber eyes, horn placement, neck spines, scale patterns, claws, body proportions, tail, wing anatomy and translucent wing membranes. Do not reproduce the design-sheet layout, labels, panels or studio presentation.
+
+Use @Image4 as the exclusive environment reference for every shot. Preserve the same exposed rocky mountain summit, jagged gray metamorphic rocks, layered stone formations, loose gravel, rocky soil, isolated tufts of dry golden alpine grass, treeless terrain, distant brown mountain ranges, deep blue sky, thin cirrus clouds and low white cumulus clouds along the horizon. Use the late-morning daylight study from @Image4: crisp natural sunlight, cool blue sky, warm dry grass, detailed gray rocks and clear atmospheric visibility.
+
+Do not reproduce the environment design-sheet layout, text, labels, color swatches, scale diagram or separate panels. Reconstruct the location as one continuous real mountain summit.
+
+ENVIRONMENT CONTINUITY:
+All shots take place within the same compact area of the summit. Preserve the exact geographic relationship between the prominent central rock formation, the narrow ridge, the cliff edge, the gravel clearing and the distant mountain horizon.
+The dragon and the young man must remain correctly positioned within this continuous geography. Camera changes must reveal new sides of the same location rather than generating unrelated mountain landscapes.
+No forests, no trees, no green meadow, no snow, no buildings, no ruins, no castles, no artificial paths and no additional scenery absent from @Image4.
+
+WIND DIRECTION AND PHYSICAL BEHAVIOR:
+The wind is a major visual force and acts as a third character throughout the sequence.
+A powerful alpine crosswind travels consistently in one fixed world-space direction along the ridge. Its apparent screen direction must change naturally according to each camera angle, while remaining geographically coherent.
+The wind continuously affects:
+the young man’s hair, tunic, trouser fabric, leather straps, loose cords and satchel;
+the dragon’s thin wing membranes, neck spines, loose skin, nostrils and breathing;
+the dry alpine grass, suspended dust, small gravel, clouds and airborne debris.
+Wind intensity evolves dramatically:
+strong irregular gusts during the opening;
+violent turbulence caused by the dragon’s approach;
+a brief protected calm when their foreheads touch;
+a sudden playful gust during the dragon’s snort;
+an explosive radial pressure wave during takeoff.
+Every gust must have believable physical consequences. Dust and gravel follow the terrain. Grass bends from its base. Clothing reacts with weight and delayed secondary motion. Wing membranes ripple under aerodynamic tension without deforming unnaturally.
+
+DRAGON REALISM:
+Treat the dragon as a genuine previously undiscovered biological animal filmed in the real world. It has irregular reptilian scales, subtle scars, dust embedded between scales, moist reflective eyes, moving nostrils, visible breathing, heavy muscles shifting beneath the skin and realistic weight.
+Its feet compress soil and displace gravel. Its claws grip rock surfaces. Its wing membranes react to sunlight and wind like real thin organic tissue. Never present it as a visual effect or rendered creature.
+
+SHOT 1 — 0.0 TO 1.6 SECONDS
+GROUND-LEVEL WIND TUNNEL HOOK
+Extreme ground-level camera hidden between dry grass and sharp foreground stones, 14mm ultra-wide lens.
+The frame begins almost completely obstructed by violently bending grass. Wind drives dust and tiny gravel directly over the lens. Through the moving grass, the young man is visible standing alone on the exposed ridge.
+A gigantic dragon shadow races across the terrain. One pink wing suddenly crosses the entire sky above him, causing an abrupt exposure drop and a violent pressure gust.
+The camera remains dangerously close to the ground, creating enormous scale, aggressive foreground movement and an immediate scroll-stopping opening.
+
+SHOT 2 — 1.6 TO 3.5 SECONDS
+DRAGON-SCALE POV BETWEEN THE HORNS
+Hard cut to a fast forward-moving perspective framed organically between the dragon’s horns and facial spines.
+The camera travels low and rapidly toward the young man as if physically attached near the dragon’s head. The summit rocks rush past on both sides with strong parallax.
+The young man turns calmly toward the approaching animal. His hair and tunic whip sideways in the crosswind. The dragon’s breathing causes subtle vertical camera movement.
+Avoid a perfectly centered composition. Keep the young man slightly off-axis while the rocks create diagonal leading lines toward him.
+
+SHOT 3 — 3.5 TO 5.7 SECONDS
+HIGH-SPEED LATERAL ROCK SLALOM
+Cut to a lateral tracking camera moving rapidly parallel to the ridge, 28mm lens.
+The camera passes extremely close behind several foreground boulders, repeatedly revealing and hiding the action. The dragon runs beside the young man with massive but controlled momentum.
+Its claws strike loose gravel. Real stones bounce toward the lens. Dry grass is flattened sequentially by the wind pressure following the dragon’s body.
+The dragon suddenly brakes and rotates its body beside the young man. Its claws carve visible tracks into the rocky soil. A thick horizontal sheet of dust sweeps across the composition.
+Use a foreground boulder as a natural wipe into the next shot.
+
+SHOT 4 — 5.7 TO 8.1 SECONDS
+INTIMATE REVERSE ORBIT INSIDE THE WIND SHADOW
+Emerge from behind the rock into a close reverse-direction circular orbit around the two subjects, 40mm lens.
+The dragon lowers its head until its eye is level with the young man. The young man steps forward and places one hand against the dragon’s snout.
+As their foreheads gently touch, the dragon’s enormous body and partially folded wing create a temporary wind shadow. For one brief emotional moment, the young man’s clothing settles and nearby dust floats softly instead of racing sideways.
+The camera moves from behind the translucent edge of the wing, passes close to the hand touching the scales, then racks focus from the young man’s fingers to the dragon’s amber eye and finally to the young man’s subtle smile.
+Natural intimacy, physical weight and restrained emotion. No posing.
+
+SHOT 5 — 8.1 TO 10.5 SECONDS
+SNOUT-MOUNTED PLAYFUL REACTION SHOT
+Cut to an unusual camera position extremely close beside the dragon’s muzzle, looking diagonally toward the young man with slight wide-angle distortion.
+The dragon gives a short playful snort. The concentrated gust instantly blows the young man’s hair, tunic, straps and satchel backward. Dust bursts from the rocks behind him.
+He closes his eyes, laughs naturally, loses one step of balance, then pushes the dragon’s muzzle away affectionately with both hands.
+The dragon gently resists, tilts its head and nudges him again. The camera receives a subtle physical bump from the interaction, creating a spontaneous documentary feeling.
+
+SHOT 6 — 10.5 TO 12.6 SECONDS
+VERTICAL TOP-DOWN PRESSURE RING
+Smash cut to a perfectly vertical top-down camera directly above the gravel clearing.
+The jagged rocks and golden grass from @Image4 create a natural radial composition around the young man.
+The dragon unfolds both wings around him. The wings nearly fill the frame without changing anatomy or scale.
+One extremely powerful downward wingbeat produces a visible expanding pressure ring across the terrain. Dust, grass, fabric and small gravel move outward from the dragon in physically correct concentric motion.
+The young man crouches and shields his face while still laughing. The dragon takes two heavy running steps toward the cliff edge.
+
+SHOT 7 — 12.6 TO 15.0 SECONDS
+CLIFF-DIVE CAMERA AND UNDER-WING FLY-BY
+Cut to a camera positioned just beyond the cliff edge, looking slightly upward toward the summit.
+The dragon launches directly over the camera. Its claws leave the ground, loose stones fall past the lens, and one translucent wing passes extremely close overhead. Sunlight reveals veins, scars and tension inside the membrane.
+The camera rapidly rolls beneath the dragon, dives backward along the cliff face, then stabilizes into a sweeping wide reveal of the same mountain summit and distant ranges from @Image4.
+The dragon immediately banks around the prominent rock formation and performs one fast low fly-by above the young man. The residual wake violently bends the grass and clothing a final time.
+A wing crosses the lens as a natural wipe, revealing the final wide composition: the young man standing on the exposed ridge while the dragon glides over the vast real mountain valley.
+End with the young man small in frame, the dragon crossing the open sky and wind-driven dust catching the sunlight.
+
+CAMERA LANGUAGE:
+Every shot must have a clearly different viewpoint and movement:
+extreme ground-level hidden camera;
+creature-scale horn-framed point of view;
+high-speed lateral rock slalom;
+close reverse circular orbit;
+snout-level reaction camera;
+perfect vertical top-down shot;
+cliff-edge under-wing aerial reveal.
+Use bold perspective changes while preserving clear spatial continuity.
+Use practical-feeling camera inertia, natural handheld micro-movement, realistic acceleration, controlled motion blur, organic lens breathing and brief exposure changes when the wings block the sun.
+Transitions must be motivated by physical objects:
+moving grass;
+dragon shadow;
+foreground boulder;
+dust sheet;
+wing membrane;
+falling gravel.
+
+VISUAL REALISM:
+Absolute live-action photographic realism, indistinguishable from footage captured on a remote mountain location with real cinema cameras.
+Natural late-morning sunlight, physically accurate shadows, realistic atmospheric perspective, authentic rock textures, restrained film grain, subtle optical imperfections, realistic skin tones, natural highlight roll-off and detailed motion in bright daylight.
+Maintain detail in the dragon’s dark scales and the bright sky without artificial HDR.
+Keep the essential interaction within the central 60 percent of the 16:9 frame while using rocks, wings, grass and dust to create strong motion near the edges.
+
+CONSISTENCY:
+Preserve exactly the same young man, face, haircut, costume, accessories and body proportions in every shot.
+Preserve exactly the same dragon, scale, coloration, horn placement, wing structure, claws, tail and anatomy in every shot.
+The dragon remains vastly larger than the young man.
+Maintain consistent sunlight direction, cloud arrangement, wind direction, terrain geography, cliff position, rock formations and distant mountain horizon across the full sequence.
+
+NEGATIVE CONSTRAINTS:
+No fantasy aesthetic, no magical atmosphere, no fire breathing, no glowing eyes, no supernatural particles, no spells, no castles, no ruins, no enchanted landscape, no artificial fog, no heroic posing.
+No 3D-render appearance, no CGI aesthetic, no VFX look, no animation, no video-game graphics, no synthetic skin, no plastic scales, no weightless creature movement, no impossible hovering.
+No anatomy changes, no extra limbs, no duplicated subjects, no changing horns, no changing wings, no deformed membrane, no inconsistent scale, no morphing, no teleportation and no disconnected geography.
+No random changes to weather, daylight, terrain, rocks, vegetation or mountain background.
+No text, no title, no caption, no logo, no interface and no watermark, no music, no subtitle
+```
+
 <a id="surreal-vfx"></a>
 ## 🌀 Surreal / VFX (16)
 
@@ -3964,7 +4131,7 @@ Stylized anime haunted tea ceremony beat: an elderly woman pours tea inside an a
 ```
 
 <a id="templates-structured"></a>
-## 📐 Templates & Structured Formats (21)
+## 📐 Templates & Structured Formats (22)
 
 <a id="templates-structured-case-1"></a>
 <!-- Case 1: Supercarrier Catastrophic Sinking (by @johnAGI168) -->
@@ -4533,8 +4700,56 @@ VISUAL EFFECTS: KAI uses only blade-edge-attached narrow cyan waveform crescents
 Never show storyboard/panels/labels/borders. No cut, blackout, flash transition, smoke cover, dissolve, morph, teleport, slow motion, freeze, replay, extra body/limb/weapon, identity swap, KAI mask, unmasked KIRA, vanished damage, moving train, cut chain, breached door, Car 5, premature P06 or overshoot.
 ```
 
+<a id="templates-structured-case-22"></a>
+<!-- Case 22: Chibi Storm Window Blowout (by @kinovi_ai) -->
+### Пример 22: [Chibi и штормовой взрыв окна](https://x.com/kinovi_ai/status/2079997296000033072) (автор [@kinovi_ai](https://x.com/kinovi_ai))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-22"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2079997296000033072.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Промпт:**
+
+```
+VISUALS:
+
+Scene 1: Hybrid live-action photorealistic and 2.5D animation style. A dimly lit, photorealistic cozy bedroom with a large, realistic glass window. Outside, a violent, photorealistic thunderstorm is raging, with heavy sheets of water pelting the glass. Standing on her tiptoes with her face pressed near the pane is the 2.5D anime chibi character @PhoebeChibi . Her large purple eyes are sparkling with the starry-eyed, joyful expression from her reference sheet as she watches the puddles form outside.
+
+Scene 2: Medium shot. @PhoebeChibi steps back from the glass. She performs a highly exaggerated, sneaky cartoon animation cycle, turning her head left and right, peering toward the photorealistic bedroom door to make sure her parents are nowhere in sight. Seeing the coast is clear, a mischievous, determined smile crosses her cel-shaded face.
+
+Scene 3: Close-up on the window latch. @PhoebeChibi’s stubby 2.5D hands reach up and eagerly flip the heavy, photorealistic metal lock. She firmly pushes against the glass to crack the window open just a tiny bit.
+
+Scene 4: Extreme visual chaos. The absolute instant the seal breaks, the pressure gives way. The photorealistic window violently blasts wide open with explosive force. A massive, torrential geyser of highly realistic rain and hurricane-force wind erupts directly into the bedroom.
+
+Scene 5: Tight close-up on @PhoebeChibi. Her confident smile is instantly wiped away, replaced by the blank, pale, wide-eyed shocked expression from her reference sheet. Her white hat immediately blows off her head, flying away into the room. Her blonde hair whips violently in the 2.5D wind.
+
+Scene 6: Wide shot of the bedroom. The sheer force of the storm lifts @PhoebeChibi entirely off her feet. She is violently launched backward across the length of the photorealistic room in a stiff, comical 2D pose, her arms and legs flailing. She tumbles through the air amidst a chaotic, swirling vortex of realistic rainwater, loose homework papers, and flying leaves, ultimately crashing off-screen into a pile of laundry. The camera holds on the violently flapping window curtains.
+
+AUDIO & DIALOGUE:
+
+The continuous, muffled baseline of heavy, rolling thunder and rain aggressively pounding against thick glass.
+
+Scene 1 SFX: Soft, cartoonish squeak-squeak sounds as she bounces on her tiptoes.
+
+@PhoebeChibi (voice bright, incredibly cute, and speaking English): "Wow... look at all those giant puddles! I just want to go splash in them so, so bad!"
+
+Scene 2 SFX: A classic, sneaky tip-toe xylophone sound effect as she looks around the room.
+
+Scene 3 SFX: A heavy, realistic kachunk of the metal window lock disengaging.
+
+@PhoebeChibi (whispering mischievously): "Just a little bit..."
+
+Scene 4 SFX: A deafening, concussive BOOM as the window bursts open, instantly followed by the deafening, jet-engine roar of a howling hurricane wind and the aggressive splashing of water flooding the room.
+
+Scene 5 SFX: A sudden, hilarious record scratch cutting through the storm noise.
+
+@PhoebeChibi (letting out a rapidly fading, high-pitched, Doppler-effect cartoon scream as she is launched across the room): "WAAAAAAHHHHHH!"
+
+Scene 6 SFX: A loud, chaotic CRASH-BAM-THUD of her landing off-screen, knocking over several objects. The deafening roar of the wind and rain continues to howl into the open bedroom as the scene ends.
+```
+
 <a id="general-cinematic"></a>
-## 🎬 General Cinematic (39)
+## 🎬 General Cinematic (40)
 
 <a id="general-cinematic-case-1"></a>
 <!-- Case 1: High-Heel Beat Sync Fashion Close-Up (by @TingFengAIAI) -->
@@ -5343,6 +5558,36 @@ Final moment: the camera enters the airlock and reveals Earth outside the window
 Analog sci-fi horror, VHS noise, zero-gravity atmosphere, retro space realism, eerie silence, cinematic degraded footage.
 ```
 
+<a id="general-cinematic-case-40"></a>
+<!-- Case 40: Pumpkin Stall MiniDV Mishap (by @ou_zhen599) -->
+### Пример 40: [MiniDV-казус у тыквенной лавки](https://x.com/ou_zhen599/status/2079994995504025794) (автор [@ou_zhen599](https://x.com/ou_zhen599))
+
+| Результат |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=general-cinematic-case-40"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2079994995504025794.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**Промпт:**
+
+```
+Main Character: An adult East Asian woman with medium-length black hair tied in a low ponytail, with natural bangs framing her forehead and a small, dark green hair clip on the left side. She wears a warm orange-red cotton-linen short-sleeved square-neck shirt with naturally curled cuffs, the hem fully tucked into off-white high-waisted straight-leg pants; dark brown low-top canvas sneakers, light beige short socks, small gold stud earrings, and a thin gold bracelet. No necklace, no hat, no jacket, no bag, no cell phone. Maintains the same identity, hairstyle, clothing, and accessories throughout.
+
+Setting: A typical open-air market fruit stall on a sunny day. In the foreground is a stationary wicker pumpkin basket containing only one large, round, deep-green pumpkin; to the right of the basket is a small pile of neatly arranged oranges, topped by an off-white awning. The girl walks down the market aisle toward the pumpkin basket, while her friend walks behind her on her right, casually filming as they go. The background consists only of blurred stalls and passing crowds; no clear shots of the vendor or a second person’s face appear.
+
+Filmed with a home-use MiniDV camera in the early 2000s; the friend unintentionally captured a genuine, minor embarrassing moment. The footage features strong yet natural handheld shaking, compositional shifts, subjects occasionally approaching the edge of the frame, turning around, and a slight delay in refocusing on the subject; autofocus jumps between her shoes, the pumpkins, the oranges in the foreground, and her face; exposure fluctuates slightly due to the interplay of sunlight and the shade from the awning; low contrast, slight color fading, soft details, digital compression noise, and natural motion blur. Stabilizers, cinematic color grading, precise dolly shots, and polished vlog compositions are strictly prohibited. The photographer, their hands, and the camcorder must not appear in focus; if they are partially obscured by the frame’s edges, they must be intentionally out of focus.
+
+00:00–00:03: The girl, with her hands empty, walks down the aisle toward the fruit stand and stops in front of a wicker basket, looking down at the pumpkin. Her friend follows her from the right rear; the camera first pans slightly off-center to her shoes and the ground, then lifts up a half-frame late to find her.
+
+00:03–00:06: She squats down, cupping the left and right sides of this single large pumpkin with both hands, and slowly lifts it out of the wicker basket; as she stands up, the pumpkin remains close to her abdomen, her arms steady, without the pumpkin rotating or rolling.
+
+00:06–00:09: She originally intended to turn around to gauge its weight but discovers the pumpkin is much heavier than expected. Her arms dropped naturally, her shoulders hunched, and she immediately bent her knees, pulling the pumpkin close to her body. She took a half-step back with her right foot to steady herself, keeping her left foot in place; her expression shifted from confidence to a momentary look of surprise. Her friend, hearing her sharp intake of breath, hurriedly stepped back, and the camera, which had briefly framed the shot too low, refocused to capture her full figure. She didn’t fall, didn’t bump into anything, and didn’t let the pumpkin hit the ground.
+
+00:09–00:12: She stopped moving, bent her knees along the same path, and placed the pumpkin back in the center of the same wicker basket. Only after confirming it was stable did she release her hands. The pumpkin remained intact, undamaged, and did not roll out of the basket. After standing up, she gently shook her right wrist, and her furrowed brow relaxed.
+
+00:12–00:15: Feigning composure, she turns her head to look at the oranges beside her. Upon hearing her friend’s muffled laughter, she turns back and glares at the camera, pursing her lips but still unable to suppress a smile. Only then does her friend briefly zoom in manually—a bit too late and slightly too far—causing the focus to first land incorrectly on the oranges in the foreground before returning to her face; The camera then pans down toward her shoes, the wicker basket, and the pumpkin, and as it moves, the screen suddenly goes black as if by accident.
+
+Sound: Authentic market ambient sounds—faint, distant conversations, footsteps, the gentle rustling of awnings, the rustling of plastic bags, the dull thud of a pumpkin being placed back into the wicker basket, her sharp intake of breath, and her friend’s hushed laughter; Faint background music from a radio at a distant stall, with lyrics too faint to make out. No narration, no subtitles, no post-production soundtrack, and no exaggerated sound effects.
+```
+
 <a id="related-repositories"></a>
 ## 🔗 Связанные репозитории
 
@@ -5372,7 +5617,7 @@ Analog sci-fi horror, VHS noise, zero-gravity atmosphere, retro space realism, e
 
 Спасибо авторам, публично поделившимся экспериментами Seedance 2.0.
 
-[@liyue_ai](https://x.com/liyue_ai), [@TingFengAIAI](https://x.com/TingFengAIAI), [@anson7956](https://x.com/anson7956), [@genel_ai](https://x.com/genel_ai), [@Adam38363368936](https://x.com/Adam38363368936), [@Just_sharon7](https://x.com/Just_sharon7), [@BarlowHakusyaku](https://x.com/BarlowHakusyaku), [@ShadeLurk](https://x.com/ShadeLurk), [@ZaraIrahh](https://x.com/ZaraIrahh), [@drjoetw](https://x.com/drjoetw), [@johnAGI168](https://x.com/johnAGI168), [@tea_story_hoshi](https://x.com/tea_story_hoshi), [@MiraMusic_AI](https://x.com/MiraMusic_AI), [@aigeboku](https://x.com/aigeboku), [@applete77191758](https://x.com/applete77191758), [@mikeymansta](https://x.com/mikeymansta), [@CharaspowerAI](https://x.com/CharaspowerAI), [@TechTalkNAVI](https://x.com/TechTalkNAVI), [@Viafin23](https://x.com/Viafin23), [@songguoxiansen](https://x.com/songguoxiansen), [@JiahaoYang_art](https://x.com/JiahaoYang_art), [@techhalla](https://x.com/techhalla), [@craftian_keskin](https://x.com/craftian_keskin), [@AITalesNBH](https://x.com/AITalesNBH), [@nopinduoduo](https://x.com/nopinduoduo), [@gkxspace](https://x.com/gkxspace), [@ChiakiAkagi](https://x.com/ChiakiAkagi), [@xingsthatmatter](https://x.com/xingsthatmatter), [@tebasaki3D](https://x.com/tebasaki3D), [@starks_arq](https://x.com/starks_arq), [@simple__dev](https://x.com/simple__dev), [@sebatheepan](https://x.com/sebatheepan), [@sailorv321](https://x.com/sailorv321), [@roco_kn_roco](https://x.com/roco_kn_roco), [@maxescu](https://x.com/maxescu), [@kuranoayashi](https://x.com/kuranoayashi), [@itsPixieVerse](https://x.com/itsPixieVerse), [@chaosdotjpg](https://x.com/chaosdotjpg), [@aisavvy1](https://x.com/aisavvy1), [@aimikoda](https://x.com/aimikoda), [@aiehon_aya](https://x.com/aiehon_aya), [@adrianaia_](https://x.com/adrianaia_), [@_3912657840](https://x.com/_3912657840), [@ZikinArt](https://x.com/ZikinArt), [@YaReYaRu30Life](https://x.com/YaReYaRu30Life), [@ShamiWeb3](https://x.com/ShamiWeb3), [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN), [@Rufus87078959](https://x.com/Rufus87078959), [@Mayz1169](https://x.com/Mayz1169), [@LudovicCreator](https://x.com/LudovicCreator), [@IamEmily2050](https://x.com/IamEmily2050), [@Gwsubsa](https://x.com/Gwsubsa), [@Dheepanratnam](https://x.com/Dheepanratnam), [@David_eficaz](https://x.com/David_eficaz), [@ChrisTheNerv](https://x.com/ChrisTheNerv), [@Artedeingenio](https://x.com/Artedeingenio), [@Alin_Reaper05](https://x.com/Alin_Reaper05), [@AIARTGALLARY](https://x.com/AIARTGALLARY), [@0xbisc](https://x.com/0xbisc), [@zasuko_michiksa](https://x.com/zasuko_michiksa), [@naoyuki_okada](https://x.com/naoyuki_okada), [@john87445528](https://x.com/john87445528), [@cdexsta](https://x.com/cdexsta), [@NimEshed](https://x.com/NimEshed), [@ImperfectEngel](https://web.archive.org/web/*/https://x.com/ImperfectEngel), [@BrennanErbz](https://x.com/BrennanErbz), [@AskVenice](https://x.com/AskVenice), [@AngelNwoha](https://x.com/AngelNwoha), [@umitsuru_fire](https://x.com/umitsuru_fire), [@Yuupapa_free](https://x.com/Yuupapa_free), [@ChrisGwinnLA](https://x.com/ChrisGwinnLA), [@vladimircherner](https://x.com/vladimircherner), [@patchworkfilmuk](https://x.com/patchworkfilmuk), [@sravs_AI_labs](https://x.com/sravs_AI_labs), [@iX00AI](https://x.com/iX00AI), [@ivanka_humeniuk](https://x.com/ivanka_humeniuk), [@crayon1267](https://x.com/crayon1267), [@pan_soramame_da](https://x.com/pan_soramame_da), [@kinopioai_ai](https://x.com/kinopioai_ai), [@a_shimanski](https://x.com/a_shimanski), [@noman23761](https://x.com/noman23761), [@SPEEDAI07](https://x.com/SPEEDAI07), [@lynneatyoumind](https://x.com/lynneatyoumind), [@EHuanglu](https://x.com/EHuanglu), [@tanabe_fragm](https://x.com/tanabe_fragm), [@Reiria123](https://x.com/Reiria123), [@TomaAIbijo](https://x.com/TomaAIbijo), [@LavrionX](https://x.com/LavrionX), [@kinovi_ai](https://x.com/kinovi_ai), [@umesh_ai](https://x.com/umesh_ai), [@Ankit_patel211](https://x.com/Ankit_patel211), [@samaote](https://x.com/samaote)
+[@liyue_ai](https://x.com/liyue_ai), [@TingFengAIAI](https://x.com/TingFengAIAI), [@anson7956](https://x.com/anson7956), [@genel_ai](https://x.com/genel_ai), [@Adam38363368936](https://x.com/Adam38363368936), [@Just_sharon7](https://x.com/Just_sharon7), [@BarlowHakusyaku](https://x.com/BarlowHakusyaku), [@ShadeLurk](https://x.com/ShadeLurk), [@ZaraIrahh](https://x.com/ZaraIrahh), [@drjoetw](https://x.com/drjoetw), [@johnAGI168](https://x.com/johnAGI168), [@tea_story_hoshi](https://x.com/tea_story_hoshi), [@MiraMusic_AI](https://x.com/MiraMusic_AI), [@aigeboku](https://x.com/aigeboku), [@applete77191758](https://x.com/applete77191758), [@mikeymansta](https://x.com/mikeymansta), [@CharaspowerAI](https://x.com/CharaspowerAI), [@TechTalkNAVI](https://x.com/TechTalkNAVI), [@Viafin23](https://x.com/Viafin23), [@songguoxiansen](https://x.com/songguoxiansen), [@JiahaoYang_art](https://x.com/JiahaoYang_art), [@techhalla](https://x.com/techhalla), [@craftian_keskin](https://x.com/craftian_keskin), [@AITalesNBH](https://x.com/AITalesNBH), [@nopinduoduo](https://x.com/nopinduoduo), [@gkxspace](https://x.com/gkxspace), [@ChiakiAkagi](https://x.com/ChiakiAkagi), [@xingsthatmatter](https://x.com/xingsthatmatter), [@tebasaki3D](https://x.com/tebasaki3D), [@starks_arq](https://x.com/starks_arq), [@simple__dev](https://x.com/simple__dev), [@sebatheepan](https://x.com/sebatheepan), [@sailorv321](https://x.com/sailorv321), [@roco_kn_roco](https://x.com/roco_kn_roco), [@maxescu](https://x.com/maxescu), [@kuranoayashi](https://x.com/kuranoayashi), [@itsPixieVerse](https://x.com/itsPixieVerse), [@chaosdotjpg](https://x.com/chaosdotjpg), [@aisavvy1](https://x.com/aisavvy1), [@aimikoda](https://x.com/aimikoda), [@aiehon_aya](https://x.com/aiehon_aya), [@adrianaia_](https://x.com/adrianaia_), [@_3912657840](https://x.com/_3912657840), [@ZikinArt](https://x.com/ZikinArt), [@YaReYaRu30Life](https://x.com/YaReYaRu30Life), [@ShamiWeb3](https://x.com/ShamiWeb3), [@SSSS_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN), [@Rufus87078959](https://x.com/Rufus87078959), [@Mayz1169](https://x.com/Mayz1169), [@LudovicCreator](https://x.com/LudovicCreator), [@IamEmily2050](https://x.com/IamEmily2050), [@Gwsubsa](https://x.com/Gwsubsa), [@Dheepanratnam](https://x.com/Dheepanratnam), [@David_eficaz](https://x.com/David_eficaz), [@ChrisTheNerv](https://x.com/ChrisTheNerv), [@Artedeingenio](https://x.com/Artedeingenio), [@Alin_Reaper05](https://x.com/Alin_Reaper05), [@AIARTGALLARY](https://x.com/AIARTGALLARY), [@0xbisc](https://x.com/0xbisc), [@zasuko_michiksa](https://x.com/zasuko_michiksa), [@naoyuki_okada](https://x.com/naoyuki_okada), [@john87445528](https://x.com/john87445528), [@cdexsta](https://x.com/cdexsta), [@NimEshed](https://x.com/NimEshed), [@ImperfectEngel](https://web.archive.org/web/*/https://x.com/ImperfectEngel), [@BrennanErbz](https://x.com/BrennanErbz), [@AskVenice](https://x.com/AskVenice), [@AngelNwoha](https://x.com/AngelNwoha), [@umitsuru_fire](https://x.com/umitsuru_fire), [@Yuupapa_free](https://x.com/Yuupapa_free), [@ChrisGwinnLA](https://x.com/ChrisGwinnLA), [@vladimircherner](https://x.com/vladimircherner), [@patchworkfilmuk](https://x.com/patchworkfilmuk), [@sravs_AI_labs](https://x.com/sravs_AI_labs), [@iX00AI](https://x.com/iX00AI), [@ivanka_humeniuk](https://x.com/ivanka_humeniuk), [@crayon1267](https://x.com/crayon1267), [@pan_soramame_da](https://x.com/pan_soramame_da), [@kinopioai_ai](https://x.com/kinopioai_ai), [@a_shimanski](https://x.com/a_shimanski), [@noman23761](https://x.com/noman23761), [@SPEEDAI07](https://x.com/SPEEDAI07), [@lynneatyoumind](https://x.com/lynneatyoumind), [@EHuanglu](https://x.com/EHuanglu), [@tanabe_fragm](https://x.com/tanabe_fragm), [@Reiria123](https://x.com/Reiria123), [@TomaAIbijo](https://x.com/TomaAIbijo), [@LavrionX](https://x.com/LavrionX), [@kinovi_ai](https://x.com/kinovi_ai), [@minuitIA](https://x.com/minuitIA), [@ou_zhen599](https://x.com/ou_zhen599), [@umesh_ai](https://x.com/umesh_ai), [@Ankit_patel211](https://x.com/Ankit_patel211), [@samaote](https://x.com/samaote)
 
 *Для исправления атрибуции, лицензии или удаления откройте issue со ссылкой на источник.*
 

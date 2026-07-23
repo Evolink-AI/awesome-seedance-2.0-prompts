@@ -51,6 +51,7 @@ cinematic-realism-case-7	Corrida do carro preto vintage na tempestade
 cinematic-realism-case-8	Sequência do farol na costa tempestuosa
 cinematic-realism-case-9	Fuga de buggy na tempestade de areia
 cinematic-realism-case-10	Briga transmitida Argentina-Espanha
+cinematic-realism-case-11	Derrapagem de rali na floresta lamacenta
 pov-fpv-case-1	Sequência de perseguição camuflada com câmera no peito
 pov-fpv-case-2	Vídeo promocional de uma Xangai cyberpunk
 pov-fpv-case-3	Prompt de ação consistente de um samurai amaldiçoado
@@ -121,6 +122,7 @@ reference-driven-case-19	Montagem de drenagem de energia VOLTIA
 reference-driven-case-20	Confissão palaciana de Cleópatra
 reference-driven-case-21	Reencontro chuvoso sob a lanterna
 reference-driven-case-22	Transformação em plano-sequência nos bastidores do kunqu
+reference-driven-case-23	Decolagem do dragão no cume da montanha
 surreal-vfx-case-1	Combate com katana em gravidade zero
 surreal-vfx-case-2	Baleia nas nuvens: épico surrealista
 surreal-vfx-case-3	Metamorfose de mergulhador abissal em criatura marinha
@@ -158,6 +160,7 @@ templates-structured-case-18	Revelação do interior de um loft saindo de uma ca
 templates-structured-case-19	Teste de detalhe de expressões faciais
 templates-structured-case-20	Storyboard de fuga do salão de baile inundado
 templates-structured-case-21	Guia de duelo na plataforma
+templates-structured-case-22	Janela chibi arrebentada pela tempestade
 general-cinematic-case-1	Close de moda com salto alto sincronizado à batida
 general-cinematic-case-2	Fuga em mini-skate dentro de um quarto infantil
 general-cinematic-case-3	Confronto de avós no Rucker Park
@@ -197,3 +200,4 @@ general-cinematic-case-36	Filmagem DV do desastre de Pompeia
 general-cinematic-case-37	Caminhada do astronauta por um parque de diversões abandonado
 general-cinematic-case-38	Viagem de banheira do pato pirata
 general-cinematic-case-39	VHS orbital com a Terra escura
+general-cinematic-case-40	Percalço MiniDV na barraca de abóboras

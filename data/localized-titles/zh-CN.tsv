@@ -51,6 +51,7 @@ cinematic-realism-case-7	复古黑车暴雨疾驰
 cinematic-realism-case-8	风暴海岸灯塔长镜头
 cinematic-realism-case-9	沙暴越野车逃生
 cinematic-realism-case-10	阿根廷西班牙转播乱斗
+cinematic-realism-case-11	泥泞森林拉力甩尾
 pov-fpv-case-1	胸前相机迷彩追逐序列
 pov-fpv-case-2	上海赛博朋克城市炫剪
 pov-fpv-case-3	受诅咒武士一致性动作提示词
@@ -121,6 +122,7 @@ reference-driven-case-19	VOLTIA 吸能蒙太奇
 reference-driven-case-20	克利奥帕特拉宫廷告白
 reference-driven-case-21	灯下雨中重逢
 reference-driven-case-22	昆剧后台粉墨一镜到底
+reference-driven-case-23	山巅巨龙起飞
 surreal-vfx-case-1	零重力武士刀战斗
 surreal-vfx-case-2	云中鲸鱼超现实史诗
 surreal-vfx-case-3	深渊潜水员变形为海洋生物
@@ -158,6 +160,7 @@ templates-structured-case-18	盒中展开的阁楼室内亮相
 templates-structured-case-19	面部表情细节测试
 templates-structured-case-20	水淹舞厅逃生分镜
 templates-structured-case-21	站台决斗节拍图
+templates-structured-case-22	Q 版暴风雨窗户失控
 general-cinematic-case-1	高跟鞋节拍同步时尚特写
 general-cinematic-case-2	儿童卧室里的迷你滑板逃脱
 general-cinematic-case-3	洛克公园奶奶对决
@@ -197,3 +200,4 @@ general-cinematic-case-36	庞贝灾难 DV 纪实画面
 general-cinematic-case-37	废弃嘉年华中的宇航员漫步
 general-cinematic-case-38	海盗鸭浴缸航海
 general-cinematic-case-39	漆黑地球轨道站 VHS
+general-cinematic-case-40	南瓜摊 MiniDV 小失误

@@ -51,6 +51,7 @@ cinematic-realism-case-7	Sturmfahrt im schwarzen Oldtimer
 cinematic-realism-case-8	Leuchtturmsequenz an der Sturmküste
 cinematic-realism-case-9	Sandsturm-Buggy-Flucht
 cinematic-realism-case-10	TV-Randale Argentinien gegen Spanien
+cinematic-realism-case-11	Schlammdrift auf der Wald-Rallyestrecke
 pov-fpv-case-1	Tarnverfolgung mit Brustkamera
 pov-fpv-case-2	Cyberpunk-Stadttrailer aus Shanghai
 pov-fpv-case-3	Konsistenter Action-Prompt eines verfluchten Samurai
@@ -121,6 +122,7 @@ reference-driven-case-19	VOLTIA Energieentzug-Montage
 reference-driven-case-20	Kleopatras Palastgeständnis
 reference-driven-case-21	Regentreffen unter der Laterne
 reference-driven-case-22	Ein-Take-Verwandlung im Kunqu-Backstage
+reference-driven-case-23	Drachenstart auf dem Berggipfel
 surreal-vfx-case-1	Katana-Kampf in Schwerelosigkeit
 surreal-vfx-case-2	Wal in den Wolken – surreales Epos
 surreal-vfx-case-3	Verwandlung eines Tiefseetauchers in ein Meereswesen
@@ -158,6 +160,7 @@ templates-structured-case-18	Loft-Interieur aus dem Karton
 templates-structured-case-19	Test feiner Gesichtsausdrücke
 templates-structured-case-20	Storyboard einer Flucht aus dem überfluteten Ballsaal
 templates-structured-case-21	Bahnsteig-Duell-Beatmap
+templates-structured-case-22	Chibi-Sturmböe am Fenster
 general-cinematic-case-1	Beat-synchrone Mode-Nahaufnahme mit hohen Absätzen
 general-cinematic-case-2	Mini-Skateboard-Flucht in einem Kinderzimmer
 general-cinematic-case-3	Großmutter-Duell im Rucker Park
@@ -197,3 +200,4 @@ general-cinematic-case-36	DV-Katastrophenaufnahmen aus Pompeji
 general-cinematic-case-37	Astronaut im verlassenen Vergnügungspark
 general-cinematic-case-38	Badewannenreise der Piratenente
 general-cinematic-case-39	Orbitale VHS mit dunkler Erde
+general-cinematic-case-40	MiniDV-Panne am Kürbisstand

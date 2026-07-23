@@ -51,6 +51,7 @@ cinematic-realism-case-7	黒のヴィンテージカー嵐の疾走
 cinematic-realism-case-8	嵐の海岸灯台シーケンス
 cinematic-realism-case-9	砂嵐を突っ切るバギー脱出
 cinematic-realism-case-10	アルゼンチン対スペイン乱闘中継
+cinematic-realism-case-11	泥濘の森ラリー・ドリフト
 pov-fpv-case-1	胸部カメラによる迷彩チェイス
 pov-fpv-case-2	上海サイバーパンク都市のショーリール
 pov-fpv-case-3	呪われた侍の一貫性アクションプロンプト
@@ -121,6 +122,7 @@ reference-driven-case-19	VOLTIA 吸電モンタージュ
 reference-driven-case-20	クレオパトラの宮殿告白
 reference-driven-case-21	街灯の下の雨の再会
 reference-driven-case-22	昆劇楽屋の一発撮り変身
+reference-driven-case-23	山頂のドラゴン離陸
 surreal-vfx-case-1	無重力の刀剣戦
 surreal-vfx-case-2	雲を泳ぐクジラのシュールな叙事詩
 surreal-vfx-case-3	深海ダイバーが海洋生物へ変貌
@@ -158,6 +160,7 @@ templates-structured-case-18	箱から現れるロフト空間
 templates-structured-case-19	表情ディテール検証
 templates-structured-case-20	浸水した舞踏会場の脱出ストーリーボード
 templates-structured-case-21	駅ホーム決闘ビートマップ
+templates-structured-case-22	ちびキャラの嵐の窓吹き飛び
 general-cinematic-case-1	ハイヒールとビートが同期するファッション接写
 general-cinematic-case-2	子ども部屋でミニスケートボード脱出
 general-cinematic-case-3	ラッカー・パークのおばあちゃん対決
@@ -197,3 +200,4 @@ general-cinematic-case-36	ポンペイ災害の DV 映像
 general-cinematic-case-37	廃遊園地を歩く宇宙飛行士
 general-cinematic-case-38	海賊アヒルのバスタブ航海
 general-cinematic-case-39	闇の地球を映す軌道基地VHS
+general-cinematic-case-40	かぼちゃ屋台の MiniDV ハプニング
