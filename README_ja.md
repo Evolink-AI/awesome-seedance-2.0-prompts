@@ -4,7 +4,7 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![ブラウザで Seedance 2.0 を試す](https://img.shields.io/badge/Try_in-Browser-black)](https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-seedance-2.0-prompts&utm_content=model_try)
-[![プロンプト-203件](https://img.shields.io/badge/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88-203%E4%BB%B6-111111)](README.md)
+[![プロンプト-207件](https://img.shields.io/badge/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88-207%E4%BB%B6-111111)](README.md)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
 [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md)
@@ -25,7 +25,7 @@
 
 Awesome Seedance 2.0 Prompts リポジトリへようこそ！🤗
 
-**このリポジトリには、出典を明記した Seedance 2.0 のユニークな動画生成プロンプト 203 件を収録しています。**
+**このリポジトリには、出典を明記した Seedance 2.0 のユニークな動画生成プロンプト 207 件を収録しています。**
 
 公開されたクリエイター投稿からプロンプトを厳選し、再利用可能な資料として保存しています。
 
@@ -88,7 +88,7 @@ curl --request GET \
 - [Statistics](#statistics)
 - [How to Use This Repository](#how-to-use)
 - [Menu](#menu)
-- [⚔️ Action / Fantasy](#action-fantasy) (43)
+- [⚔️ Action / Fantasy](#action-fantasy) (44)
   - [ケース 1: ストリートラップ MV パフォーマンス (by @songguoxiansen)](#action-fantasy-case-1)
   - [ケース 2: 黒猫の砂漠武術対決 (by @nopinduoduo)](#action-fantasy-case-2)
   - [ケース 3: 実写版・呼吸法対決 (by @johnAGI168)](#action-fantasy-case-3)
@@ -132,6 +132,7 @@ curl --request GET \
   - [ケース 41: 闘技場の女巨人による大逆転 (by @rahulnanda86)](#action-fantasy-case-41)
   - [ケース 42: 倉庫でのボディガード制圧劇 (by @Rosey_watson)](#action-fantasy-case-42)
   - [ケース 43: 北極基地ワーム襲撃 (by @StevieMac03)](#action-fantasy-case-43)
+  - [ケース 44: 終末荒野を駆ける放浪者モンタージュ (by @DjajaYerry75)](#action-fantasy-case-44)
 - [🎞️ Cinematic Realism](#cinematic-realism) (11)
   - [ケース 1: 現代日本のドキュメンタリーシーケンス (by @kuranoayashi)](#cinematic-realism-case-1)
   - [ケース 2: 影を追うロングボードのダウンヒル (by @Dheepanratnam)](#cinematic-realism-case-2)
@@ -166,7 +167,7 @@ curl --request GET \
   - [ケース 19: 超音速で駆け抜ける砂漠峡谷 POV (by @LudovicCreator)](#pov-fpv-case-19)
   - [ケース 20: フランス花火 FPV フライオーバー (by @LudovicCreator)](#pov-fpv-case-20)
   - [ケース 21: サイバネティック戦場 FPV ダイブ (by @LudovicCreator)](#pov-fpv-case-21)
-- [🏷️ Commercial / Product](#commercial-product) (27)
+- [🏷️ Commercial / Product](#commercial-product) (29)
   - [ケース 1: 香水 CM 風アニメ三人組ダンスステージ (by @ShadeLurk)](#commercial-product-case-1)
   - [ケース 2: ダークファンタジー教会の決闘 (by @ZaraIrahh)](#commercial-product-case-2)
   - [ケース 3: ダークファンタジー神殿ホールの決闘 (by @MiraMusic_AI)](#commercial-product-case-3)
@@ -194,6 +195,8 @@ curl --request GET \
   - [ケース 25: マンゴスチン美容液のプロダクトリビール (by @ritesh_ai)](#commercial-product-case-25)
   - [ケース 26: ムンバイのスーツケースタクシーお披露目 (by @rahulnanda86)](#commercial-product-case-26)
   - [ケース 27: インフルエンサーの崖上ヴィラルームツアー (by @Ankit_patel211)](#commercial-product-case-27)
+  - [ケース 28: 高級リゾートのヨガマット広告 (by @ou_zhen599)](#commercial-product-case-28)
+  - [ケース 29: ヨガテラスのボトル・ヒーロー広告 (by @ou_zhen599)](#commercial-product-case-29)
 - [🖼️ Reference-Driven](#reference-driven) (23)
   - [ケース 1: 骸骨ピアニストのミニチュアジオラマ演奏 (by @tea_story_hoshi)](#reference-driven-case-1)
   - [ケース 2: 嵐の船上の王女対クラーケン (by @applete77191758)](#reference-driven-case-2)
@@ -235,7 +238,7 @@ curl --request GET \
   - [ケース 14: 逃走車のごみ収集車変形 (by @LavrionX)](#surreal-vfx-case-14)
   - [ケース 15: 森の守護者の書道変身 (by @LudovicCreator)](#surreal-vfx-case-15)
   - [ケース 16: 呪われた茶会の亡霊 (by @LudovicCreator)](#surreal-vfx-case-16)
-- [📐 Templates & Structured Formats](#templates-structured) (22)
+- [📐 Templates & Structured Formats](#templates-structured) (23)
   - [ケース 1: 超大型空母の壊滅的沈没 (by @johnAGI168)](#templates-structured-case-1)
   - [ケース 2: 記憶の断片を再構築 (by @TechTalkNAVI)](#templates-structured-case-2)
   - [ケース 3: 設計図から現実へ — 平屋住宅の変形 (by @craftian_keskin)](#templates-structured-case-3)
@@ -258,6 +261,7 @@ curl --request GET \
   - [ケース 20: 浸水した舞踏会場の脱出ストーリーボード (by @ChangningL29508)](#templates-structured-case-20)
   - [ケース 21: 駅ホーム決闘ビートマップ (by @SYDxStudio)](#templates-structured-case-21)
   - [ケース 22: ちびキャラの嵐の窓吹き飛び (by @kinovi_ai)](#templates-structured-case-22)
+  - [ケース 23: ワークアウト後のジムVlog (by @doctorwasif)](#templates-structured-case-23)
 - [🎬 General Cinematic](#general-cinematic) (40)
   - [ケース 1: ハイヒールとビートが同期するファッション接写 (by @TingFengAIAI)](#general-cinematic-case-1)
   - [ケース 2: 子ども部屋でミニスケートボード脱出 (by @anson7956)](#general-cinematic-case-2)
@@ -301,7 +305,7 @@ curl --request GET \
   - [ケース 40: かぼちゃ屋台の MiniDV ハプニング (by @ou_zhen599)](#general-cinematic-case-40)
 
 <a id="action-fantasy"></a>
-## ⚔️ Action / Fantasy (43)
+## ⚔️ Action / Fantasy (44)
 
 <a id="action-fantasy-case-1"></a>
 <!-- Case 1: Street Rap MV Performance (by @songguoxiansen) -->
@@ -1232,6 +1236,20 @@ A cinematic 15-second action sequence set inside a dark, gritty industrial wareh
 }
 ```
 
+<a id="action-fantasy-case-44"></a>
+<!-- Case 44: Post-Apocalyptic Wanderer Montage (by @DjajaYerry75) -->
+### ケース 44: [終末荒野を駆ける放浪者モンタージュ](https://x.com/DjajaYerry75/status/2079966353914769554) (投稿者 [@DjajaYerry75](https://x.com/DjajaYerry75))
+
+| 出力 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=action-fantasy-case-44"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2079966353914769554.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**プロンプト:**
+
+```
+Fast-paced action montage of a lone wanderer sprinting through a post-apocalyptic wasteland inspired by Fallout. Rapid whip-pan cuts showing intense combat in various desolate locations: sprinting through crumbling retro-futuristic city ruins while dodging gunfire from raiders, battling mutant creatures in an ash-covered mountain pass, firing heavy plasma weapons inside a flickering ruined diner, and making a final heroic stand against giant monstrosities on an irradiated coastline shipwreck site. Aggressive dynamic tracking camera, fast motion, intense action cuts, photorealistic gritty combat effects, dusty amber lighting, high-energy cinematic blockbuster style.
+```
+
 <a id="cinematic-realism"></a>
 ## 🎞️ Cinematic Realism (11)
 
@@ -1970,7 +1988,7 @@ Immersive first-person flying camera perspective, no visible drone or flying dev
 ```
 
 <a id="commercial-product"></a>
-## 🏷️ Commercial / Product (27)
+## 🏷️ Commercial / Product (29)
 
 <a id="commercial-product-case-1"></a>
 <!-- Case 1: Perfume-Style Anime Trio Dance Stage (by @ShadeLurk) -->
@@ -2600,6 +2618,74 @@ Ref image is wearing a stylish casual-luxury outfit with subtle yellow and green
 [STYLE & QUALITY BOOSTERS]
 
 Real iPhone 16 Pro footage look, natural bright daylight, authentic mobile camera movement and slight shake, natural vibrant colors, coherent physics, stable character, real phone video quality, no film look, no artifacts, looks like genuine Instagram Reel footage shot on location.
+```
+
+<a id="commercial-product-case-28"></a>
+<!-- Case 28: Resort Yoga Mat Commercial (by @ou_zhen599) -->
+### ケース 28: [高級リゾートのヨガマット広告](https://x.com/ou_zhen599/status/2080343369637839009) (投稿者 [@ou_zhen599](https://x.com/ou_zhen599))
+
+| 出力 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-28"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2080343369637839009.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**プロンプト:**
+
+```
+15-second professional product commercial for Seedance 2, a high-end yoga mat brand. Female lead (see Image 1): A Western woman with a healthy, toned physique and naturally defined curves; long, wavy blonde hair; an authentic, sophisticated look—not a “social media influencer” face. She wears a light blue, form-fitting long-sleeve yoga top and pink high-waisted yoga pants, presenting a clean, crisp overall look with a natural, confident aura. Product Reference Image 2: A caramel-brown yoga mat with neat edges when rolled up; when unfolded, the surface features a fine, authentic texture. The material is supple and flexible, with a premium feel. The overall style should resemble an international light-luxury sports brand advertisement, featuring cinematic-quality lighting and shadows, restrained composition, negative space, and sharp details—resulting in a sophisticated, clean, elegant, and authentic visual.
+
+The scene is set in the outdoor yoga courtyard of a high-end resort hotel or private club. Soft, natural morning light fills the air, which is crisp and clear. The scene features a meticulously manicured, high-end lawn and a white or light beige natural stone floor. Minimalist modern architecture and the edge of the pool are blurred in the distance, accented by a few exquisite green plants. The environment must be authentic, tidy, luxurious, and quiet—free of passersby, cluttered facilities, a cheap park-like feel, or the atmosphere of an ordinary gym. The space should exude a high-end resort vibe and an elite lifestyle ambiance.
+
+0–3 seconds: Establish the setting and introduce the action. A low-angle shot glides close to the edge of the lawn and stone flooring; morning light falls on the surface, and the air is crisp and clear. The camera naturally pans to the already unfolded caramel-brown yoga mat. The female lead stands on the mat and begins an elegant, stretching opening pose, raising her arms as her body stretches out. The camera gently rises from the mat’s surface and her feet to her waistline and arms, showcasing both the upscale setting and clearly highlighting the relationship between the product and the subject. She softly and naturally delivers an English line: “Let’s begin.”
+
+3–7 seconds: The yoga sequence begins. The camera follows her in a low-angle, semi-circular tracking shot as she transitions naturally from a standing pose to Downward Dog or a lunge sequence. Her palms press firmly against the mat, and her soles and toes grip the mat realistically; the details of her knees touching the mat are clearly visible. The camera must not stray from the yoga mat; the mat must remain in the core visual area at all times to emphasize a sense of support, stability, comfort, and authentic use. The texture of the material, the lines along the edges, and the subtle changes in the mat’s surface under pressure should be rendered realistically and with fine detail. Soft light gently washes over the skin, clothing, and mat surface, creating a look that is both luxurious and natural.
+
+7–10 seconds: Conclusion of the sequence and emotional build-up. She finishes a set of poses and slowly sits or kneels on the yoga mat, her breathing slowing as her fingers gently trace the edge of the mat, as if interacting with a familiar training partner. The camera starts with a close-up of her hand on the mat, then gently follows the movement of her fingers to her profile and the line of her shoulders and neck, capturing a relaxed, focused, and authentic expression. She naturally murmurs her second line of English: “Perfect balance.” Her tone is like a quiet affirmation of her physical state at the end of a practice—avoid a sales-pitch tone.
+
+10–12 seconds: She begins to roll up the mat, and the product takes center stage. She leans forward and rolls the mat up from one end with fluid motion—clean, skilled, and crisp. The camera glides close to the rolling path, following the curve of the caramel-brown yoga mat as it transitions from flat to rolled, emphasizing the neat edges, moderate thickness, supple material, and high-end surface texture. The rolling process is smooth and seamless, showcasing the product’s aesthetic appeal. This sequence should be filmed as an elegant ritual, rather than a mundane tidying-up action.
+
+At 12–15 seconds, the final “hero shot” is highlighted, making the conclusion even more impactful and luxurious. She picks up the rolled-up yoga mat and walks toward the foreground of the frame, while the camera pulls back slightly to follow her movement. She gently places the rolled-up caramel-brown yoga mat on the edge of a light beige natural travertine or high-end white stone pedestal closest to the camera. The product is positioned steadily at a two-thirds side angle, with the layers of the roll, the contours of the cut edges, the material texture, and the highlights in the morning light all clearly visible, presenting a luxurious, understated, and minimalist hero shot of the product. The focus transitions naturally from the subject to the product in the foreground, which is sharp and clear, while the background is slightly blurred. After setting down the yoga mat, she stands up and walks away, her silhouette moving quietly toward the depths of the courtyard bathed in morning light. She does not look back; her movements are composed, and the spatial negative space is opened up. The camera does not follow her but remains steadily focused on the product in the foreground, allowing the caramel-brown yoga mat to harmonize with the high-end stonework, the morning light, and the elegant courtyard to create a sophisticated and premium brand conclusion. Finally, a very brief English voiceover is added: “Made to move.”
+
+Overall Requirements: Authentic human performance, authentic yoga poses, and authentic storage logic; the interaction between the product and the subject must feel natural. The visuals must be detailed, beautiful, clean, and luxurious, emphasizing the aura of an international high-end sports brand. Avoid exaggerated expressions, cheap-looking staged shots, excessive saturation, a plastic-like texture, multiple people or cluttered backgrounds, a low-quality park atmosphere, fixed camera angles and abrupt cuts, and a generic e-commerce feel.
+```
+
+<a id="commercial-product-case-29"></a>
+<!-- Case 29: Yoga Terrace Bottle Hero Ad (by @ou_zhen599) -->
+### ケース 29: [ヨガテラスのボトル・ヒーロー広告](https://x.com/ou_zhen599/status/2079905616571818004) (投稿者 [@ou_zhen599](https://x.com/ou_zhen599))
+
+| 出力 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=commercial-product-case-29"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2079905616571818004.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**プロンプト:**
+
+```
+15 seconds, 9:16 vertical format, realistic high-end lifestyle product ad, shot in a single take with no hard cuts.
+
+【Reference Guidelines】
+@Image 1 is used solely to establish the female subject: Maintain the same authentic face, long wavy blonde hair, light blue long-sleeved sports top, pink yoga pants, and white sneakers; body proportions and clothing color schemes must remain consistent; Do not replicate the white studio background or collage-style layout.
+@Image 2: To be used solely for the yoga water bottle: Maintain the white matte, rounded-corner bottle body, silver metal lid, and curved metal handle; the bottle proportions and lid structure must be identical; the bottle must always appear intact, rigid, and undistorted, with no text, logos, or labels; no color changes; and no straws or other accessories added.
+
+【Setting and Style】
+An upscale outdoor yoga terrace at dawn, featuring light-colored natural stone flooring, a neat solid-wood yoga mat, a few elegant potted plants, and serene mountain scenery and sky in the distance. The space is clean and open, with no other people or clutter. Realistic commercial advertisement aesthetic, with authentic skin and fabric textures. Warm white morning light streams diagonally from the lower left rear of the frame, casting a soft contour light on the subject; a clean, understated highlight appears on the silver lid of the water bottle, with stable, flicker-free lighting. A gentle morning breeze rustles the hair, sleeves, and distant plants, while the water bottle maintains a sense of stability consistent with its weight.
+
+【Continuous Shot and Movement】
+The camera begins from a low, three-quarter side angle close to the kettle and follows the action with a steady, forward-side tracking shot throughout the sequence; the shot composition changes naturally only when the subject walks past the light-colored pillar, using the foreground to create a natural transition—no quick cuts or shaky camera work are used.
+0–3 seconds: The woman has just finished her rest and is sitting at the edge of her yoga mat, her right hand naturally gripping the water bottle’s handle. As she stands up, she lifts the water bottle smoothly off the ground; the camera follows the rising water bottle to frame her and the terrace setting.
+3–6 seconds: She walks briskly toward the terrace railing with the water bottle, which sways slightly and naturally with her steps; as she walks, she switches the bottle from her right hand to her left, while her right hand gently tucks her hair back as it is blown by the morning breeze.
+6–9 seconds: She stops at the railing, holding the bottle steadily in her left hand while unscrewing the silver lid with her right; the camera smoothly pans to a medium-close-up from her side and front as she takes a small sip of water, her movements calm and authentic.
+9–12 seconds: She screws the lid back on, her fingertips gliding naturally over the handle; she pauses briefly facing the camera and mouths the words in English with a relaxed, natural expression: “Ready for what’s next.”
+12–15 seconds: Carrying the water bottle, she continues walking deeper into the terrace, passing a light-colored column; the camera smoothly emerges from behind the column and slows down, finally settling on a clear three-quarter front “hero shot” of the water bottle, with the subject continuing to walk against a softly focused background.
+
+[Audio]
+English throughout. 0–3 seconds: Female voiceover in English: “The practice may pause.”
+3–6 seconds: Female voiceover in English: “The feeling stays with me.”
+6–9 seconds: Retain the sound of a gentle breeze, light footsteps, the sound of a metal cup lid unscrewing, and the natural sound of drinking; the music’s tempo rises slightly.
+9–12 seconds: Only the character’s synchronized line: “Ready for what’s next.”—do not overlay with voiceover.
+12–15 seconds: Female voiceover in English: “Move freely. Hydrate simply.”
+The music should feature a light, modern, and understated rhythm reflecting a premium active lifestyle.
+
+[Restrictions]
+The subject, water bottle, and environment must remain consistent throughout; the number of fingers shown must be normal, and both hands must remain natural at all times; the drinking motion must be realistic, with no spills; no yoga poses, exaggerated poses, slow motion, shaky camera work, generated subtitles, brand text, or watermarks are allowed.
 ```
 
 <a id="reference-driven"></a>
@@ -4131,7 +4217,7 @@ Stylized anime haunted tea ceremony beat: an elderly woman pours tea inside an a
 ```
 
 <a id="templates-structured"></a>
-## 📐 Templates & Structured Formats (22)
+## 📐 Templates & Structured Formats (23)
 
 <a id="templates-structured-case-1"></a>
 <!-- Case 1: Supercarrier Catastrophic Sinking (by @johnAGI168) -->
@@ -4746,6 +4832,43 @@ Scene 5 SFX: A sudden, hilarious record scratch cutting through the storm noise.
 @PhoebeChibi (letting out a rapidly fading, high-pitched, Doppler-effect cartoon scream as she is launched across the room): "WAAAAAAHHHHHH!"
 
 Scene 6 SFX: A loud, chaotic CRASH-BAM-THUD of her landing off-screen, knocking over several objects. The deafening roar of the wind and rain continues to howl into the open bedroom as the scene ends.
+```
+
+<a id="templates-structured-case-23"></a>
+<!-- Case 23: Post-Workout Gym Vlog (by @doctorwasif) -->
+### ケース 23: [ワークアウト後のジムVlog](https://x.com/doctorwasif/status/2080278207518126084) (投稿者 [@doctorwasif](https://x.com/doctorwasif))
+
+| 出力 |
+| :----: |
+| <a href="https://evolink.ai/seedance-2-0-prompts?utm_source=github&utm_medium=case_preview&utm_campaign=awesome-seedance-2.0-prompts&utm_content=templates-structured-case-23"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedance-2.0-prompts/public/seedance_2_prompt_images/2080278207518126084.jpg" width="300" alt="Seedance 2.0 prompt preview frame"></a> |
+
+**プロンプト:**
+
+```
+**CAMERA:**
+DV 16mm handheld camcorder POV. CHASE holds the camera or props it on the floor/bag. Natural hand shake, soft focus, imperfect framing, occasional clumsy zooms. Camcorder never visible.
+
+**LOOK:**
+Soft vintage tape quality, slight blur, tape noise, bloomed gym lights, flickering auto-exposure, muted contrast.
+
+**STYLE:**
+Calm post-workout gym vlog. Relaxed, slightly tired, natural pacing, genuine smiles and quiet reflections.
+
+**CHARACTER:**
+CHASE — Korean woman in her 20s. Long black hair loosely tied, light post-workout sweat, slim athletic build. Modest long-sleeve athletic top, loose joggers/leggings, socks, towel around neck.
+
+**SETTING:**
+Quiet evening gym corner with stretching mat, mirror, gym bag, protein shake, soft lighting.
+
+**SCENES:**
+1. Sits on mat, exhales. "Okay, cool-down time."
+2. Hamstring stretch, laughs. "That was a lot today."
+3. Shoulder stretch. "Legs are gonna be sore tomorrow."
+4. Close-up grabbing protein shake.
+5. Drinks. "That's actually really good."
+6. Arms overhead. "I'd give today an eight out of ten."
+7. Resting on knee. "Feels good to be done."
+8. Waves with bag and shake. "Alright, I'm heading out—see you guys."
 ```
 
 <a id="general-cinematic"></a>
